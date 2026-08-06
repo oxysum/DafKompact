@@ -1,0 +1,1951 @@
+{
+  "id": "a1-l05",
+  "level": "A1",
+  "number": 5,
+  "titleDe": "Endlich ein Zimmer!",
+  "titleEn": "Finally a room!",
+  "status": "complete",
+  "goals": [
+    {
+      "de": "Informationen über ein Zimmer/eine Wohnung verstehen und weitergeben",
+      "en": "Understand and pass on information about a room/apartment"
+    },
+    {
+      "de": "Über sein Wochenende sprechen",
+      "en": "Talk about your weekend"
+    },
+    {
+      "de": "Möbelanzeigen verstehen",
+      "en": "Understand furniture ads"
+    },
+    {
+      "de": "Telefonisch einen Möbelkauf verabreden",
+      "en": "Arrange a furniture purchase by phone"
+    },
+    {
+      "de": "Sein Zimmer beschreiben",
+      "en": "Describe your room"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Adresse",
+      "en": "address",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v2",
+      "de": "Altstadt",
+      "en": "Old town",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v3",
+      "de": "anderen",
+      "en": "others",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v4",
+      "de": "Angebot",
+      "en": "offer",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v5",
+      "de": "Anlass",
+      "en": "occasion",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v6",
+      "de": "Anzeige",
+      "en": "advertisement",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v7",
+      "de": "Apartment",
+      "en": "apartment",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v8",
+      "de": "Artikel",
+      "en": "article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v9",
+      "de": "Ausstellung",
+      "en": "exhibition",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v10",
+      "de": "Bad",
+      "en": "bathroom / bath",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v11",
+      "de": "Badewanne",
+      "en": "bathtub",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v12",
+      "de": "Balkon",
+      "en": "balcony",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v13",
+      "de": "Bett",
+      "en": "bed",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v14",
+      "de": "Bewohner",
+      "en": "residents",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v15",
+      "de": "Bewohnerin",
+      "en": "resident",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v16",
+      "de": "Blick",
+      "en": "view",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v17",
+      "de": "Briefkasten",
+      "en": "mailbox",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v18",
+      "de": "Buch",
+      "en": "book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v19",
+      "de": "Cafe",
+      "en": "cafe",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v20",
+      "de": "Copyshop",
+      "en": "Copy shop",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v21",
+      "de": "Dank",
+      "en": "Thanks to",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v22",
+      "de": "Dusche",
+      "en": "shower",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v23",
+      "de": "Ei",
+      "en": "egg",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v24",
+      "de": "Eingang",
+      "en": "entrance",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v25",
+      "de": "Eltern",
+      "en": "parents",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v26",
+      "de": "Endung",
+      "en": "ending",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v27",
+      "de": "Erkältung",
+      "en": "A cold",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v28",
+      "de": "Espresso",
+      "en": "espresso",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v29",
+      "de": "Essen",
+      "en": "to eat",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v30",
+      "de": "Etage",
+      "en": "floor / storey",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v31",
+      "de": "Fahrrad",
+      "en": "bicycle",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v32",
+      "de": "Fahrt",
+      "en": "drive",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v33",
+      "de": "Fenster",
+      "en": "window",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v34",
+      "de": "Fernsehen",
+      "en": "to watch TV",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v35",
+      "de": "Flur",
+      "en": "hallway",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v36",
+      "de": "Gemeinschaft",
+      "en": "community",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v37",
+      "de": "Gespräch",
+      "en": "conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v38",
+      "de": "Glas",
+      "en": "glass",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v39",
+      "de": "GmbH",
+      "en": "gmbH",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v40",
+      "de": "Gott",
+      "en": "god",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v41",
+      "de": "Grammatik",
+      "en": "grammar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v42",
+      "de": "Größe",
+      "en": "size",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v43",
+      "de": "Haus",
+      "en": "house",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v44",
+      "de": "Haushalt",
+      "en": "household",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v45",
+      "de": "Hausmeister",
+      "en": "Building supervisor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v46",
+      "de": "Heimat",
+      "en": "home country / hometown",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v47",
+      "de": "Holz",
+      "en": "wood",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v48",
+      "de": "Infinitiv",
+      "en": "infinitive",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v49",
+      "de": "Information",
+      "en": "information",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v50",
+      "de": "Inhaberin",
+      "en": "owner",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v51",
+      "de": "Interesse",
+      "en": "interest",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v52",
+      "de": "Interessent",
+      "en": "interested party",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v53",
+      "de": "Interessentin",
+      "en": "interested party",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v54",
+      "de": "Internet",
+      "en": "Internet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v55",
+      "de": "Internetcafe",
+      "en": "Internet cafe",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v56",
+      "de": "Job",
+      "en": "job",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v57",
+      "de": "Kino",
+      "en": "cinema",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v58",
+      "de": "Kleiderschrank",
+      "en": "wardrobe",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v59",
+      "de": "Kochen",
+      "en": "to cook",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v60",
+      "de": "Kollegin",
+      "en": "colleague",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v61",
+      "de": "Kommode",
+      "en": "dresser",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v62",
+      "de": "Kontakt",
+      "en": "contact",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v63",
+      "de": "Konzert",
+      "en": "concert",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v64",
+      "de": "Kunststoff",
+      "en": "plastic",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v65",
+      "de": "Kurs",
+      "en": "course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v66",
+      "de": "Kursbuch",
+      "en": "Course book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v67",
+      "de": "Küche",
+      "en": "kitchen",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v68",
+      "de": "Küchentisch",
+      "en": "kitchen table",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v69",
+      "de": "Lampe",
+      "en": "lamp",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v70",
+      "de": "Leute",
+      "en": "people",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v71",
+      "de": "Lösung",
+      "en": "solution",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v72",
+      "de": "Makler",
+      "en": "broker",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v73",
+      "de": "Maklerin",
+      "en": "realtor",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v74",
+      "de": "Matratze",
+      "en": "mattress",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v75",
+      "de": "Metall",
+      "en": "metal",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v76",
+      "de": "Miete",
+      "en": "rent",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v77",
+      "de": "Mieter",
+      "en": "tenant",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v78",
+      "de": "Mieterin",
+      "en": "tenant",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v79",
+      "de": "Mietvertrag",
+      "en": "rental contract",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v80",
+      "de": "Mitbewohner",
+      "en": "flatmate",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v81",
+      "de": "Moment",
+      "en": "moment",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v82",
+      "de": "Montag",
+      "en": "monday",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v83",
+      "de": "Morgen",
+      "en": "morning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v84",
+      "de": "Möbel",
+      "en": "furniture",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v85",
+      "de": "Nachricht",
+      "en": "message",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v86",
+      "de": "Nomen",
+      "en": "noun",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v87",
+      "de": "November",
+      "en": "november",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v88",
+      "de": "Partner",
+      "en": "partner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v89",
+      "de": "Platz",
+      "en": "square / place",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v90",
+      "de": "Position",
+      "en": "position",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v91",
+      "de": "Praktikant",
+      "en": "intern",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v92",
+      "de": "Problem",
+      "en": "problem",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v93",
+      "de": "quadratmeter",
+      "en": "square metre (qm)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v94",
+      "de": "Redemittel",
+      "en": "means of speech",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v95",
+      "de": "Regal",
+      "en": "shelf",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v96",
+      "de": "Regel",
+      "en": "rule",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v97",
+      "de": "Rolle",
+      "en": "role",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v98",
+      "de": "Satzende",
+      "en": "End of sentence",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v99",
+      "de": "Schrank",
+      "en": "wardrobe / cupboard",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v100",
+      "de": "Schreiben",
+      "en": "to write",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v101",
+      "de": "Schreibtisch",
+      "en": "desk",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v102",
+      "de": "Sessel",
+      "en": "armchair",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v103",
+      "de": "Situationsbeschreibung",
+      "en": "Description of the situation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v104",
+      "de": "Stau",
+      "en": "traffic jam",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v105",
+      "de": "Stock",
+      "en": "floor (storey)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v106",
+      "de": "Stuhl",
+      "en": "chair",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v107",
+      "de": "Stück",
+      "en": "piece",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v108",
+      "de": "Tabelle",
+      "en": "table",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v109",
+      "de": "Tee",
+      "en": "tea",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v110",
+      "de": "Telefongespräch",
+      "en": "Telephone conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v111",
+      "de": "Thema",
+      "en": "theme",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v112",
+      "de": "Tisch",
+      "en": "table",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v113",
+      "de": "Toilette",
+      "en": "toilet",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v114",
+      "de": "Treffen",
+      "en": "to meet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v115",
+      "de": "Trockner",
+      "en": "dryer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v116",
+      "de": "Tür",
+      "en": "door",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v117",
+      "de": "Verb",
+      "en": "verb",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v118",
+      "de": "Vermieter",
+      "en": "landlord",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v119",
+      "de": "Vermieterin",
+      "en": "landlady",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v120",
+      "de": "Vokalwechsel",
+      "en": "Vowel change",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v121",
+      "de": "Wald",
+      "en": "forest",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v122",
+      "de": "Waschen",
+      "en": "to wash",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v123",
+      "de": "Waschmaschine",
+      "en": "washing machine",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v124",
+      "de": "Waschsalon",
+      "en": "laundromat",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v125",
+      "de": "Weg",
+      "en": "way / path",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v126",
+      "de": "Wegbeschreibung",
+      "en": "directions",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v127",
+      "de": "Wert",
+      "en": "value",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v128",
+      "de": "Wiederholung",
+      "en": "repetition",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v129",
+      "de": "Woche",
+      "en": "week",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v130",
+      "de": "Wochenende",
+      "en": "weekend",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v131",
+      "de": "Wohnheim",
+      "en": "dorm",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v132",
+      "de": "Wohnung",
+      "en": "apartment",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v133",
+      "de": "Wäsche",
+      "en": "wash",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v134",
+      "de": "Zeit",
+      "en": "time",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v135",
+      "de": "Zimmer",
+      "en": "room",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v136",
+      "de": "Überraschung",
+      "en": "surprise",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v137",
+      "de": "abholen",
+      "en": "to pick up",
+      "pos": "verb"
+    },
+    {
+      "id": "v138",
+      "de": "anrufen",
+      "en": "to call (phone)",
+      "pos": "verb"
+    },
+    {
+      "id": "v139",
+      "de": "anschauen",
+      "en": "look at",
+      "pos": "verb"
+    },
+    {
+      "id": "v140",
+      "de": "anzeigen",
+      "en": "show",
+      "pos": "verb"
+    },
+    {
+      "id": "v141",
+      "de": "aufmachen",
+      "en": "to open",
+      "pos": "verb"
+    },
+    {
+      "id": "v142",
+      "de": "aufräumen",
+      "en": "to tidy up",
+      "pos": "verb"
+    },
+    {
+      "id": "v143",
+      "de": "aufstehen",
+      "en": "to get up",
+      "pos": "verb"
+    },
+    {
+      "id": "v144",
+      "de": "ausgehen",
+      "en": "to go out",
+      "pos": "verb"
+    },
+    {
+      "id": "v145",
+      "de": "ausschneiden",
+      "en": "to cut out",
+      "pos": "verb"
+    },
+    {
+      "id": "v146",
+      "de": "aussehen",
+      "en": "to look",
+      "pos": "verb"
+    },
+    {
+      "id": "v147",
+      "de": "ausziehen",
+      "en": "to move out",
+      "pos": "verb"
+    },
+    {
+      "id": "v148",
+      "de": "beantworten",
+      "en": "answer",
+      "pos": "verb"
+    },
+    {
+      "id": "v149",
+      "de": "benutzen",
+      "en": "to use",
+      "pos": "verb"
+    },
+    {
+      "id": "v150",
+      "de": "beschreiben",
+      "en": "to describe",
+      "pos": "verb"
+    },
+    {
+      "id": "v151",
+      "de": "betreuen",
+      "en": "look after",
+      "pos": "verb"
+    },
+    {
+      "id": "v152",
+      "de": "bilden",
+      "en": "form",
+      "pos": "verb"
+    },
+    {
+      "id": "v153",
+      "de": "bitten",
+      "en": "ask",
+      "pos": "verb"
+    },
+    {
+      "id": "v154",
+      "de": "bleiben",
+      "en": "to stay",
+      "pos": "verb"
+    },
+    {
+      "id": "v155",
+      "de": "einkaufen",
+      "en": "to shop",
+      "pos": "verb"
+    },
+    {
+      "id": "v156",
+      "de": "einrichten",
+      "en": "to furnish / set up",
+      "pos": "verb"
+    },
+    {
+      "id": "v157",
+      "de": "einzeln",
+      "en": "individually",
+      "pos": "verb"
+    },
+    {
+      "id": "v158",
+      "de": "einziehen",
+      "en": "to move in",
+      "pos": "verb"
+    },
+    {
+      "id": "v159",
+      "de": "ergänzen",
+      "en": "add to",
+      "pos": "verb"
+    },
+    {
+      "id": "v160",
+      "de": "erreichen",
+      "en": "to reach",
+      "pos": "verb"
+    },
+    {
+      "id": "v161",
+      "de": "finden",
+      "en": "to find",
+      "pos": "verb"
+    },
+    {
+      "id": "v162",
+      "de": "grüßen",
+      "en": "to greet",
+      "pos": "verb"
+    },
+    {
+      "id": "v163",
+      "de": "haben",
+      "en": "to have",
+      "pos": "verb"
+    },
+    {
+      "id": "v164",
+      "de": "holen",
+      "en": "to fetch",
+      "pos": "verb"
+    },
+    {
+      "id": "v165",
+      "de": "hören",
+      "en": "to hear",
+      "pos": "verb"
+    },
+    {
+      "id": "v166",
+      "de": "informieren",
+      "en": "inform",
+      "pos": "verb"
+    },
+    {
+      "id": "v167",
+      "de": "joggen",
+      "en": "to jog",
+      "pos": "verb"
+    },
+    {
+      "id": "v168",
+      "de": "kaufen",
+      "en": "to buy",
+      "pos": "verb"
+    },
+    {
+      "id": "v169",
+      "de": "Kopieren",
+      "en": "to copy",
+      "pos": "verb"
+    },
+    {
+      "id": "v170",
+      "de": "mailen",
+      "en": "to email",
+      "pos": "verb"
+    },
+    {
+      "id": "v171",
+      "de": "mieten",
+      "en": "rent",
+      "pos": "verb"
+    },
+    {
+      "id": "v172",
+      "de": "mitbringen",
+      "en": "to bring along",
+      "pos": "verb"
+    },
+    {
+      "id": "v173",
+      "de": "nachfragen",
+      "en": "to inquire",
+      "pos": "verb"
+    },
+    {
+      "id": "v174",
+      "de": "nachschauen",
+      "en": "to check",
+      "pos": "verb"
+    },
+    {
+      "id": "v175",
+      "de": "oben",
+      "en": "above",
+      "pos": "verb"
+    },
+    {
+      "id": "v176",
+      "de": "passen",
+      "en": "to fit",
+      "pos": "verb"
+    },
+    {
+      "id": "v177",
+      "de": "reden",
+      "en": "to talk",
+      "pos": "verb"
+    },
+    {
+      "id": "v178",
+      "de": "regeln",
+      "en": "regulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v179",
+      "de": "regnen",
+      "en": "to rain",
+      "pos": "verb"
+    },
+    {
+      "id": "v180",
+      "de": "sagen",
+      "en": "to say",
+      "pos": "verb"
+    },
+    {
+      "id": "v181",
+      "de": "sammeln",
+      "en": "to collect",
+      "pos": "verb"
+    },
+    {
+      "id": "v182",
+      "de": "schauen",
+      "en": "to look",
+      "pos": "verb"
+    },
+    {
+      "id": "v183",
+      "de": "schicken",
+      "en": "send",
+      "pos": "verb"
+    },
+    {
+      "id": "v184",
+      "de": "sein",
+      "en": "to be",
+      "pos": "verb"
+    },
+    {
+      "id": "v185",
+      "de": "sitzen",
+      "en": "to sit",
+      "pos": "verb"
+    },
+    {
+      "id": "v186",
+      "de": "stehen",
+      "en": "to stand",
+      "pos": "verb"
+    },
+    {
+      "id": "v187",
+      "de": "suchen",
+      "en": "to look for",
+      "pos": "verb"
+    },
+    {
+      "id": "v188",
+      "de": "surfen",
+      "en": "to surf",
+      "pos": "verb"
+    },
+    {
+      "id": "v189",
+      "de": "tauschen",
+      "en": "to exchange",
+      "pos": "verb"
+    },
+    {
+      "id": "v190",
+      "de": "trocknen",
+      "en": "to dry",
+      "pos": "verb"
+    },
+    {
+      "id": "v191",
+      "de": "verbringen",
+      "en": "to spend (time)",
+      "pos": "verb"
+    },
+    {
+      "id": "v192",
+      "de": "vergessen",
+      "en": "to forget",
+      "pos": "verb"
+    },
+    {
+      "id": "v193",
+      "de": "verstehen",
+      "en": "understand",
+      "pos": "verb"
+    },
+    {
+      "id": "v194",
+      "de": "verwenden",
+      "en": "to use",
+      "pos": "verb"
+    },
+    {
+      "id": "v195",
+      "de": "wechseln",
+      "en": "to change (money, etc.)",
+      "pos": "verb"
+    },
+    {
+      "id": "v196",
+      "de": "wegfahren",
+      "en": "to drive away",
+      "pos": "verb"
+    },
+    {
+      "id": "v197",
+      "de": "weiterfahren",
+      "en": "to continue traveling",
+      "pos": "verb"
+    },
+    {
+      "id": "v198",
+      "de": "wiederholen",
+      "en": "repeat",
+      "pos": "verb"
+    },
+    {
+      "id": "v199",
+      "de": "wohnen",
+      "en": "to live (reside)",
+      "pos": "verb"
+    },
+    {
+      "id": "v200",
+      "de": "zahlen",
+      "en": "to pay",
+      "pos": "verb"
+    },
+    {
+      "id": "v201",
+      "de": "bald",
+      "en": "soon",
+      "pos": "other"
+    },
+    {
+      "id": "v202",
+      "de": "da",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v203",
+      "de": "dann",
+      "en": "then",
+      "pos": "other"
+    },
+    {
+      "id": "v204",
+      "de": "dazu",
+      "en": "in addition",
+      "pos": "other"
+    },
+    {
+      "id": "v205",
+      "de": "denn",
+      "en": "because / for",
+      "pos": "other"
+    },
+    {
+      "id": "v206",
+      "de": "dort",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v207",
+      "de": "eingerichtet",
+      "en": "furnished",
+      "pos": "other"
+    },
+    {
+      "id": "v208",
+      "de": "ernst",
+      "en": "serious",
+      "pos": "other"
+    },
+    {
+      "id": "v209",
+      "de": "frei",
+      "en": "free",
+      "pos": "other"
+    },
+    {
+      "id": "v210",
+      "de": "freundlich",
+      "en": "friendly",
+      "pos": "other"
+    },
+    {
+      "id": "v211",
+      "de": "früh",
+      "en": "early",
+      "pos": "other"
+    },
+    {
+      "id": "v212",
+      "de": "ganz",
+      "en": "quite",
+      "pos": "other"
+    },
+    {
+      "id": "v213",
+      "de": "ganz schnell",
+      "en": "real quick",
+      "pos": "phrase"
+    },
+    {
+      "id": "v214",
+      "de": "gar",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v215",
+      "de": "genug",
+      "en": "enough",
+      "pos": "other"
+    },
+    {
+      "id": "v216",
+      "de": "gesund",
+      "en": "healthy",
+      "pos": "other"
+    },
+    {
+      "id": "v217",
+      "de": "gibt es",
+      "en": "there is",
+      "pos": "phrase"
+    },
+    {
+      "id": "v218",
+      "de": "gleich",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v219",
+      "de": "glücklich",
+      "en": "happy",
+      "pos": "other"
+    },
+    {
+      "id": "v220",
+      "de": "groß",
+      "en": "big",
+      "pos": "adjective"
+    },
+    {
+      "id": "v221",
+      "de": "Heizung",
+      "en": "heating",
+      "pos": "other"
+    },
+    {
+      "id": "v222",
+      "de": "hoch",
+      "en": "high",
+      "pos": "other"
+    },
+    {
+      "id": "v223",
+      "de": "immer",
+      "en": "always",
+      "pos": "other"
+    },
+    {
+      "id": "v224",
+      "de": "kalt",
+      "en": "cold",
+      "pos": "other"
+    },
+    {
+      "id": "v225",
+      "de": "klein",
+      "en": "small",
+      "pos": "adjective"
+    },
+    {
+      "id": "v226",
+      "de": "leer",
+      "en": "empty",
+      "pos": "other"
+    },
+    {
+      "id": "v227",
+      "de": "manchmal",
+      "en": "sometimes",
+      "pos": "other"
+    },
+    {
+      "id": "v228",
+      "de": "möbliert",
+      "en": "furnished",
+      "pos": "adjective"
+    },
+    {
+      "id": "v229",
+      "de": "neu",
+      "en": "new",
+      "pos": "other"
+    },
+    {
+      "id": "v230",
+      "de": "nur",
+      "en": "only",
+      "pos": "other"
+    },
+    {
+      "id": "v231",
+      "de": "Perfekt",
+      "en": "present perfect tense",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v232",
+      "de": "preiswert",
+      "en": "inexpensive",
+      "pos": "adjective"
+    },
+    {
+      "id": "v233",
+      "de": "professionell",
+      "en": "professional",
+      "pos": "other"
+    },
+    {
+      "id": "v234",
+      "de": "rechts",
+      "en": "right",
+      "pos": "other"
+    },
+    {
+      "id": "v235",
+      "de": "ruhig",
+      "en": "quiet",
+      "pos": "adjective"
+    },
+    {
+      "id": "v236",
+      "de": "schlimm",
+      "en": "terrible",
+      "pos": "other"
+    },
+    {
+      "id": "v237",
+      "de": "schmal",
+      "en": "narrow",
+      "pos": "other"
+    },
+    {
+      "id": "v238",
+      "de": "schriftlich",
+      "en": "in written form",
+      "pos": "other"
+    },
+    {
+      "id": "v239",
+      "de": "separat",
+      "en": "separately",
+      "pos": "other"
+    },
+    {
+      "id": "v240",
+      "de": "sicher",
+      "en": "secure",
+      "pos": "other"
+    },
+    {
+      "id": "v241",
+      "de": "sofort",
+      "en": "immediately",
+      "pos": "other"
+    },
+    {
+      "id": "v242",
+      "de": "teuer",
+      "en": "expensive",
+      "pos": "adjective"
+    },
+    {
+      "id": "v243",
+      "de": "unmöbliert",
+      "en": "unfurnished",
+      "pos": "adjective"
+    },
+    {
+      "id": "v244",
+      "de": "verzweifelt",
+      "en": "desperate",
+      "pos": "other"
+    },
+    {
+      "id": "v245",
+      "de": "vielleicht",
+      "en": "perhaps",
+      "pos": "other"
+    },
+    {
+      "id": "v246",
+      "de": "weiter",
+      "en": "further",
+      "pos": "other"
+    },
+    {
+      "id": "v247",
+      "de": "wieder",
+      "en": "again",
+      "pos": "other"
+    },
+    {
+      "id": "v248",
+      "de": "zentral",
+      "en": "central",
+      "pos": "adjective"
+    },
+    {
+      "id": "v249",
+      "de": "ziemlich",
+      "en": "quite",
+      "pos": "other"
+    },
+    {
+      "id": "v250",
+      "de": "über",
+      "en": "about / over",
+      "pos": "other"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Trennbare Verben im Präsens und Perfekt",
+      "titleEn": "Separable verbs in present and perfect",
+      "explanationEn": "Prefix goes to the end in present: Ich räume das Zimmer auf. In perfect: Ich habe das Zimmer aufgeräumt. With modals: Ich will aufräumen (prefix stays with infinitive).",
+      "patterns": [
+        "Ich stehe um sieben auf.",
+        "Ich habe aufgeräumt.",
+        "Ich möchte einkaufen."
+      ],
+      "examples": [
+        {
+          "de": "Wann ziehst du ein?",
+          "en": "When do you move in?"
+        },
+        {
+          "de": "Ich habe ein Bett mitgebracht.",
+          "en": "I brought a bed along."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "titleDe": "Regelmäßige Verben im Perfekt",
+      "titleEn": "Regular verbs in the perfect",
+      "explanationEn": "Most verbs use haben + ge-…-t: ich habe gesucht, gekauft, gemacht. Movement/change often use sein: ich bin eingezogen.",
+      "patterns": [
+        "haben + Partizip II",
+        "sein + Partizip II (Bewegung)"
+      ],
+      "examples": [
+        {
+          "de": "Ich habe ein Zimmer gefunden.",
+          "en": "I have found a room."
+        },
+        {
+          "de": "Sie ist gestern eingezogen.",
+          "en": "She moved in yesterday."
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "cloze",
+      "promptDe": "Ergänze das trennbare Verb.",
+      "promptEn": "Fill in the separable verb (two parts).",
+      "content": "Ich ___ um acht ___. (aufstehen) — write: stehe auf",
+      "answer": "stehe auf",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "Perfekt",
+      "promptEn": "Perfect",
+      "content": "Wir haben einen Schrank ___. (kaufen)",
+      "answer": "gekauft",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d3",
+      "type": "cloze",
+      "promptDe": "sein-Perfekt",
+      "promptEn": "sein perfect",
+      "content": "Er ___ letzte Woche eingezogen. (sein)",
+      "answer": "ist",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d4",
+      "type": "reorder",
+      "promptDe": "Satz",
+      "promptEn": "Sentence",
+      "content": "räume | Ich | auf | das | Zimmer | .",
+      "answer": "Ich räume das Zimmer auf.",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d5",
+      "type": "multiple-choice",
+      "promptDe": "Partizip",
+      "promptEn": "Participle",
+      "content": "Sie hat die Wohnung ___.",
+      "options": [
+        "gesucht",
+        "suchen",
+        "gesuchtet",
+        "gesuchte"
+      ],
+      "answer": "gesucht",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "cloze",
+      "promptDe": "Modal + trennbar",
+      "promptEn": "Modal + separable",
+      "content": "Ich will heute ___. (einkaufen)",
+      "answer": "einkaufen",
+      "grammarId": "g1"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "vocab-de-en",
+      "prompt": "„die Miete“ means…",
+      "options": [
+        "rent",
+        "room",
+        "furniture",
+        "landlord"
+      ],
+      "answer": "rent",
+      "vocabId": "v3"
+    },
+    {
+      "id": "q2",
+      "type": "grammar-mc",
+      "prompt": "Ich ___ das Regal ___. (aufräumen – present)",
+      "options": [
+        "räume / auf",
+        "aufräume / —",
+        "auf / räume"
+      ],
+      "answer": "räume / auf",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "vocab-en-de",
+      "prompt": "“wardrobe”:",
+      "options": [
+        "der Schrank",
+        "das Bett",
+        "der Stuhl",
+        "die Lampe"
+      ],
+      "answer": "der Schrank",
+      "vocabId": "v10"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Ich habe Möbel ___. (kaufen)",
+      "answer": "gekauft",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "vocab-de-en",
+      "prompt": "„möbliert“ means…",
+      "options": [
+        "furnished",
+        "expensive",
+        "quiet",
+        "central"
+      ],
+      "answer": "furnished",
+      "vocabId": "v22"
+    },
+    {
+      "id": "q6",
+      "type": "grammar-mc",
+      "prompt": "Sie ___ schon eingezogen.",
+      "options": [
+        "ist",
+        "hat",
+        "sind",
+        "habt"
+      ],
+      "answer": "ist",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-en-de",
+      "prompt": "“apartment”:",
+      "options": [
+        "die Wohnung",
+        "das Zimmer",
+        "die Miete",
+        "das Bad"
+      ],
+      "answer": "die Wohnung",
+      "vocabId": "v2"
+    },
+    {
+      "id": "q8",
+      "type": "cloze",
+      "prompt": "Complete: Wann ___ du ein? (einziehen)",
+      "answer": "ziehst",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q9",
+      "type": "grammar-mc",
+      "prompt": "Perfect of regular “machen”:",
+      "options": [
+        "gemacht",
+        "gemachen",
+        "gemachtet",
+        "machen"
+      ],
+      "answer": "gemacht",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-de-en",
+      "prompt": "„preiswert“ means…",
+      "options": [
+        "inexpensive",
+        "expensive",
+        "big",
+        "small"
+      ],
+      "answer": "inexpensive",
+      "vocabId": "v18"
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd1-t26",
+      "cd": 1,
+      "track": 26,
+      "audioUrl": "/audio/cd1/track-26.mp3",
+      "preview": "Sprecher: Wie geht’s dir?"
+    },
+    {
+      "id": "cd1-t27",
+      "cd": 1,
+      "track": 27,
+      "audioUrl": "/audio/cd1/track-27.mp3",
+      "preview": "Sprecherin: Gespräch 1"
+    },
+    {
+      "id": "cd1-t28",
+      "cd": 1,
+      "track": 28,
+      "audioUrl": "/audio/cd1/track-28.mp3",
+      "preview": "Sprecherin: Gespräch 2"
+    },
+    {
+      "id": "cd1-t29",
+      "cd": 1,
+      "track": 29,
+      "audioUrl": "/audio/cd1/track-29.mp3",
+      "preview": "Sprecherin: Gespräch 3"
+    },
+    {
+      "id": "cd1-t30",
+      "cd": 1,
+      "track": 30,
+      "audioUrl": "/audio/cd1/track-30.mp3",
+      "preview": "Leon: Oliver, ich habe eine Bitte. Ich möchte nach"
+    },
+    {
+      "id": "cd1-t31",
+      "cd": 1,
+      "track": 31,
+      "audioUrl": "/audio/cd1/track-31.mp3",
+      "preview": "Sprecherin: Gespräch 1"
+    },
+    {
+      "id": "cd1-t32",
+      "cd": 1,
+      "track": 32,
+      "audioUrl": "/audio/cd1/track-32.mp3",
+      "preview": "Sprecherin: Gespräch 2"
+    },
+    {
+      "id": "cd1-t33",
+      "cd": 1,
+      "track": 33,
+      "audioUrl": "/audio/cd1/track-33.mp3",
+      "preview": "Fr. Schmidt: Hier, Schmidt. Guten Tag."
+    }
+  ]
+}

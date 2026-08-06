@@ -1,0 +1,2232 @@
+{
+  "id": "a2-l11",
+  "level": "A2",
+  "number": 11,
+  "titleDe": "Neu in Köln",
+  "titleEn": "New in Cologne",
+  "status": "complete",
+  "goals": [
+    {
+      "de": "Über Studium im Ausland und Wohnungssuche sprechen",
+      "en": "Talk about studying abroad and flat hunting"
+    },
+    {
+      "de": "E-Mail über die erste Zeit in Köln verstehen",
+      "en": "Understand an email about first days in Cologne"
+    },
+    {
+      "de": "WG-Regeln verstehen und Nachrichten schreiben",
+      "en": "Understand shared-flat rules and write messages"
+    },
+    {
+      "de": "Über Fremdheitserfahrungen sprechen",
+      "en": "Talk about feeling new/foreign"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Abitur",
+      "en": "high school diploma",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v2",
+      "de": "Abschlusstest",
+      "en": "Final test",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v3",
+      "de": "Akademie",
+      "en": "academy",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v4",
+      "de": "Alltag",
+      "en": "everyday life",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v5",
+      "de": "Altpapier",
+      "en": "Waste paper",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v6",
+      "de": "Anfang",
+      "en": "beginning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v7",
+      "de": "Anfangszeitpunkt",
+      "en": "Start time",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v8",
+      "de": "Angst",
+      "en": "fear",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v9",
+      "de": "Antwort",
+      "en": "answer",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v10",
+      "de": "Artikel",
+      "en": "article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v11",
+      "de": "Arzt",
+      "en": "doctor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v12",
+      "de": "Aschermittwoch",
+      "en": "Ash Wednesday",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v13",
+      "de": "Auge",
+      "en": "eye",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v14",
+      "de": "Ausland",
+      "en": "abroad",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v15",
+      "de": "Auslandserfahrung",
+      "en": "Foreign experience",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v16",
+      "de": "Bad",
+      "en": "bathroom / bath",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v17",
+      "de": "Bankschalter",
+      "en": "bank counter",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v18",
+      "de": "Bargeld",
+      "en": "cash",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v19",
+      "de": "Beratung",
+      "en": "advice",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v20",
+      "de": "Besuch",
+      "en": "visit",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v21",
+      "de": "Besucher",
+      "en": "visitor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v22",
+      "de": "Bibliothek",
+      "en": "library",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v23",
+      "de": "Bild",
+      "en": "picture / painting",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v24",
+      "de": "Bitte",
+      "en": "request / please (as noun: request)",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v25",
+      "de": "Blick",
+      "en": "view",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v26",
+      "de": "Buch",
+      "en": "book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v27",
+      "de": "Bürger",
+      "en": "citizens",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v28",
+      "de": "Bürgerin",
+      "en": "citizen",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v29",
+      "de": "Büro",
+      "en": "office",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v30",
+      "de": "Dialekt",
+      "en": "dialect",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v31",
+      "de": "Dom",
+      "en": "cathedral",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v32",
+      "de": "Ei",
+      "en": "egg",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v33",
+      "de": "Ende",
+      "en": "ending",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v34",
+      "de": "Endung",
+      "en": "ending",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v35",
+      "de": "Endzeitpunkt",
+      "en": "end time",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v36",
+      "de": "Erfahrung",
+      "en": "experience",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v37",
+      "de": "Essen",
+      "en": "to eat",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v38",
+      "de": "Export",
+      "en": "export",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v39",
+      "de": "Fach",
+      "en": "Academic subject",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v40",
+      "de": "Firma",
+      "en": "company",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v41",
+      "de": "Fremdsprache",
+      "en": "Foreign language",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v42",
+      "de": "Freundschaft",
+      "en": "friendship",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v43",
+      "de": "Färbung",
+      "en": "coloring",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v44",
+      "de": "Geburtstag",
+      "en": "birthday",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v45",
+      "de": "Gebühr",
+      "en": "fee",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v46",
+      "de": "Geschenk",
+      "en": "gift / present",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v47",
+      "de": "Geschirrspüler",
+      "en": "dishwasher",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v48",
+      "de": "Gespräch",
+      "en": "conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v49",
+      "de": "Girokonto",
+      "en": "checking account",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v50",
+      "de": "GmbH",
+      "en": "gmbH",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v51",
+      "de": "Grammatik",
+      "en": "grammar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v52",
+      "de": "Grund",
+      "en": "reason",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v53",
+      "de": "Gruppe",
+      "en": "group",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v54",
+      "de": "Gruß",
+      "en": "greeting",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v55",
+      "de": "Haustür",
+      "en": "Front door",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v56",
+      "de": "Heimat",
+      "en": "home country / hometown",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v57",
+      "de": "Heizkosten",
+      "en": "Heating costs",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v58",
+      "de": "Hochdeutsch",
+      "en": "High German",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v59",
+      "de": "Hochschule",
+      "en": "college",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v60",
+      "de": "Hotel",
+      "en": "hotel",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v61",
+      "de": "Häufigkeit",
+      "en": "frequency",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v62",
+      "de": "Höhepunkt",
+      "en": "climax",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v63",
+      "de": "Interview",
+      "en": "interview",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v64",
+      "de": "Jahresputz",
+      "en": "Annual cleaning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v65",
+      "de": "Jahreszeit",
+      "en": "season",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v66",
+      "de": "Juni",
+      "en": "june",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v67",
+      "de": "Karneval",
+      "en": "carnival",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v68",
+      "de": "Karte",
+      "en": "card",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v69",
+      "de": "Klub",
+      "en": "club",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v70",
+      "de": "Kneipe",
+      "en": "bar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v71",
+      "de": "Kollegin",
+      "en": "colleague",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v72",
+      "de": "Komma",
+      "en": "comma",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v73",
+      "de": "Kommunikation",
+      "en": "communication",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v74",
+      "de": "Kommunikationsmittel",
+      "en": "means of communication",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v75",
+      "de": "Konto",
+      "en": "account",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v76",
+      "de": "Kunde",
+      "en": "customer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v77",
+      "de": "Kurs",
+      "en": "course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v78",
+      "de": "Kursbuch",
+      "en": "Course book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v79",
+      "de": "Küche",
+      "en": "kitchen",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v80",
+      "de": "Laut",
+      "en": "loud",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v81",
+      "de": "Leben",
+      "en": "to live (be alive)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v82",
+      "de": "Leute",
+      "en": "people",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v83",
+      "de": "Liste",
+      "en": "list",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v84",
+      "de": "Literatur",
+      "en": "literature",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v85",
+      "de": "Mal",
+      "en": "modal particle (just / once)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v86",
+      "de": "Meinung",
+      "en": "opinion",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v87",
+      "de": "Mitbewohner",
+      "en": "flatmate",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v88",
+      "de": "Mitbewohnerin",
+      "en": "flatmate (f)",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v89",
+      "de": "Moment",
+      "en": "moment",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v90",
+      "de": "Monat",
+      "en": "month",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v91",
+      "de": "Morgen",
+      "en": "morning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v92",
+      "de": "Müll",
+      "en": "garbage",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v93",
+      "de": "Nachricht",
+      "en": "message",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v94",
+      "de": "Nomen",
+      "en": "noun",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v95",
+      "de": "November",
+      "en": "november",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v96",
+      "de": "Numerus Clausus",
+      "en": "Numerus Clausus",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v97",
+      "de": "Nähe",
+      "en": "vicinity",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v98",
+      "de": "Paar",
+      "en": "couple",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v99",
+      "de": "Partner",
+      "en": "partner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v100",
+      "de": "Pause",
+      "en": "break",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v101",
+      "de": "Person",
+      "en": "person",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v102",
+      "de": "Platz",
+      "en": "square / place",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v103",
+      "de": "Problem",
+      "en": "problem",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v104",
+      "de": "Putzmittel",
+      "en": "Cleaning supplies",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v105",
+      "de": "Radiointerview",
+      "en": "radio interview",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v106",
+      "de": "Redemittel",
+      "en": "means of speech",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v107",
+      "de": "Regel",
+      "en": "rule",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v108",
+      "de": "Reihenfolge",
+      "en": "series",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v109",
+      "de": "Reise",
+      "en": "trip",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v110",
+      "de": "Rosenmontagszug",
+      "en": "Rose Monday procession",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v111",
+      "de": "Ruf",
+      "en": "call",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v112",
+      "de": "Ruhe",
+      "en": "quiet",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v113",
+      "de": "Sammlung",
+      "en": "collection",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v114",
+      "de": "Satz",
+      "en": "sentence",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v115",
+      "de": "Schreiben",
+      "en": "to write",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v116",
+      "de": "Schwester",
+      "en": "sister",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v117",
+      "de": "Sehenswürdigkeit",
+      "en": "sight / attraction",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v118",
+      "de": "Semester",
+      "en": "semester",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v119",
+      "de": "Sommer",
+      "en": "summer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v120",
+      "de": "Sprache",
+      "en": "language",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v121",
+      "de": "Spülmittel",
+      "en": "Dishwashing liquid",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v122",
+      "de": "Stadt",
+      "en": "city",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v123",
+      "de": "Stadtsparkasse",
+      "en": "City Savings Bank",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v124",
+      "de": "Student",
+      "en": "student (male)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v125",
+      "de": "Studiengebühr",
+      "en": "Tuition fee",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v126",
+      "de": "Studierende",
+      "en": "students",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v127",
+      "de": "Studium",
+      "en": "studies",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v128",
+      "de": "Subjekt",
+      "en": "subject",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v129",
+      "de": "Suche",
+      "en": "search",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v130",
+      "de": "Tabelle",
+      "en": "table",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v131",
+      "de": "Tageszeit",
+      "en": "Time of day",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v132",
+      "de": "Teil",
+      "en": "part",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v133",
+      "de": "Termin",
+      "en": "appointment",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v134",
+      "de": "Text",
+      "en": "text",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v135",
+      "de": "Thema",
+      "en": "theme",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v136",
+      "de": "Tourist",
+      "en": "tourist",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v137",
+      "de": "Touristin",
+      "en": "tourist",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v138",
+      "de": "Tradition",
+      "en": "tradition",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v139",
+      "de": "Typ",
+      "en": "type",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v140",
+      "de": "Uhrzeit",
+      "en": "time of day (clock time)",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v141",
+      "de": "Umgangssprache",
+      "en": "Colloquial language",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v142",
+      "de": "Umzug",
+      "en": "relocation",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v143",
+      "de": "Universität",
+      "en": "university",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v144",
+      "de": "Unterschied",
+      "en": "difference",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v145",
+      "de": "Verb",
+      "en": "verb",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v146",
+      "de": "Vergleich",
+      "en": "comparison",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v147",
+      "de": "Verzeihung",
+      "en": "forgiveness",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v148",
+      "de": "Vorlesung",
+      "en": "lecture",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v149",
+      "de": "Vormittag",
+      "en": "morning (before noon)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v150",
+      "de": "Weg",
+      "en": "way / path",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v151",
+      "de": "Werbung",
+      "en": "advertising",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v152",
+      "de": "WG",
+      "en": "shared flat",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v153",
+      "de": "Winter",
+      "en": "winter",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v154",
+      "de": "Wintersemester",
+      "en": "Winter semester",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v155",
+      "de": "Witz",
+      "en": "joke",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v156",
+      "de": "Woche",
+      "en": "week",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v157",
+      "de": "Wohnheim",
+      "en": "dorm",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v158",
+      "de": "Wohnzimmer",
+      "en": "Living room",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v159",
+      "de": "Wort",
+      "en": "word",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v160",
+      "de": "Zeit",
+      "en": "time",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v161",
+      "de": "Zeitpunkt",
+      "en": "time",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v162",
+      "de": "Zug",
+      "en": "train",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v163",
+      "de": "Zugezogene",
+      "en": "newcomers",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v164",
+      "de": "abheben",
+      "en": "to withdraw",
+      "pos": "verb"
+    },
+    {
+      "id": "v165",
+      "de": "abschließen",
+      "en": "complete",
+      "pos": "verb"
+    },
+    {
+      "id": "v166",
+      "de": "absolvieren",
+      "en": "complete",
+      "pos": "verb"
+    },
+    {
+      "id": "v167",
+      "de": "abwaschen",
+      "en": "wash off",
+      "pos": "verb"
+    },
+    {
+      "id": "v168",
+      "de": "anbieten",
+      "en": "offer",
+      "pos": "verb"
+    },
+    {
+      "id": "v169",
+      "de": "anlegen",
+      "en": "invest",
+      "pos": "verb"
+    },
+    {
+      "id": "v170",
+      "de": "anmachen",
+      "en": "to turn on",
+      "pos": "verb"
+    },
+    {
+      "id": "v171",
+      "de": "aufräumen",
+      "en": "to tidy up",
+      "pos": "verb"
+    },
+    {
+      "id": "v172",
+      "de": "aufschließen",
+      "en": "unlock",
+      "pos": "verb"
+    },
+    {
+      "id": "v173",
+      "de": "ausmachen",
+      "en": "to turn off",
+      "pos": "verb"
+    },
+    {
+      "id": "v174",
+      "de": "beantworten",
+      "en": "answer",
+      "pos": "verb"
+    },
+    {
+      "id": "v175",
+      "de": "beraten",
+      "en": "advise",
+      "pos": "verb"
+    },
+    {
+      "id": "v176",
+      "de": "bezahlen",
+      "en": "to pay for",
+      "pos": "verb"
+    },
+    {
+      "id": "v177",
+      "de": "einräumen",
+      "en": "to load",
+      "pos": "verb"
+    },
+    {
+      "id": "v178",
+      "de": "entsorgen",
+      "en": "dispose",
+      "pos": "verb"
+    },
+    {
+      "id": "v179",
+      "de": "ergänzen",
+      "en": "add to",
+      "pos": "verb"
+    },
+    {
+      "id": "v180",
+      "de": "erkennen",
+      "en": "recognize",
+      "pos": "verb"
+    },
+    {
+      "id": "v181",
+      "de": "erklären",
+      "en": "to explain",
+      "pos": "verb"
+    },
+    {
+      "id": "v182",
+      "de": "erzählen",
+      "en": "to tell",
+      "pos": "verb"
+    },
+    {
+      "id": "v183",
+      "de": "eröffnen",
+      "en": "to open",
+      "pos": "verb"
+    },
+    {
+      "id": "v184",
+      "de": "helfen",
+      "en": "to help",
+      "pos": "verb"
+    },
+    {
+      "id": "v185",
+      "de": "husten",
+      "en": "cough",
+      "pos": "verb"
+    },
+    {
+      "id": "v186",
+      "de": "hören",
+      "en": "to hear",
+      "pos": "verb"
+    },
+    {
+      "id": "v187",
+      "de": "inzwischen",
+      "en": "in the meantime",
+      "pos": "verb"
+    },
+    {
+      "id": "v188",
+      "de": "klagen",
+      "en": "complain",
+      "pos": "verb"
+    },
+    {
+      "id": "v189",
+      "de": "kosten",
+      "en": "to cost",
+      "pos": "verb"
+    },
+    {
+      "id": "v190",
+      "de": "meinen",
+      "en": "mean",
+      "pos": "verb"
+    },
+    {
+      "id": "v191",
+      "de": "mitlachen",
+      "en": "laugh along",
+      "pos": "verb"
+    },
+    {
+      "id": "v192",
+      "de": "nachfragen",
+      "en": "to inquire",
+      "pos": "verb"
+    },
+    {
+      "id": "v193",
+      "de": "nehmen",
+      "en": "to take",
+      "pos": "verb"
+    },
+    {
+      "id": "v194",
+      "de": "nennen",
+      "en": "to name",
+      "pos": "verb"
+    },
+    {
+      "id": "v195",
+      "de": "oben",
+      "en": "above",
+      "pos": "verb"
+    },
+    {
+      "id": "v196",
+      "de": "putzen",
+      "en": "to clean",
+      "pos": "verb"
+    },
+    {
+      "id": "v197",
+      "de": "rausbringen",
+      "en": "bring out",
+      "pos": "verb"
+    },
+    {
+      "id": "v198",
+      "de": "regeln",
+      "en": "regulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v199",
+      "de": "sagen",
+      "en": "to say",
+      "pos": "verb"
+    },
+    {
+      "id": "v200",
+      "de": "sammeln",
+      "en": "to collect",
+      "pos": "verb"
+    },
+    {
+      "id": "v201",
+      "de": "schließen",
+      "en": "to close",
+      "pos": "verb"
+    },
+    {
+      "id": "v202",
+      "de": "sich erinnern",
+      "en": "to remember",
+      "pos": "verb"
+    },
+    {
+      "id": "v203",
+      "de": "sich freuen",
+      "en": "to look forward / be glad",
+      "pos": "verb"
+    },
+    {
+      "id": "v204",
+      "de": "sich fühlen",
+      "en": "to feel",
+      "pos": "verb"
+    },
+    {
+      "id": "v205",
+      "de": "sich gewöhnen an",
+      "en": "to get used to",
+      "pos": "verb"
+    },
+    {
+      "id": "v206",
+      "de": "sitzen",
+      "en": "to sit",
+      "pos": "verb"
+    },
+    {
+      "id": "v207",
+      "de": "sondern",
+      "en": "rather",
+      "pos": "verb"
+    },
+    {
+      "id": "v208",
+      "de": "spülen",
+      "en": "to do dishes",
+      "pos": "verb"
+    },
+    {
+      "id": "v209",
+      "de": "stehen",
+      "en": "to stand",
+      "pos": "verb"
+    },
+    {
+      "id": "v210",
+      "de": "studieren",
+      "en": "to study",
+      "pos": "verb"
+    },
+    {
+      "id": "v211",
+      "de": "verbessern",
+      "en": "improve",
+      "pos": "verb"
+    },
+    {
+      "id": "v212",
+      "de": "vereinbaren",
+      "en": "agree",
+      "pos": "verb"
+    },
+    {
+      "id": "v213",
+      "de": "Vergleichen",
+      "en": "to compare",
+      "pos": "verb"
+    },
+    {
+      "id": "v214",
+      "de": "vermissen",
+      "en": "to miss",
+      "pos": "verb"
+    },
+    {
+      "id": "v215",
+      "de": "verstehen",
+      "en": "understand",
+      "pos": "verb"
+    },
+    {
+      "id": "v216",
+      "de": "verwenden",
+      "en": "to use",
+      "pos": "verb"
+    },
+    {
+      "id": "v217",
+      "de": "Wissen",
+      "en": "to know (a fact)",
+      "pos": "verb"
+    },
+    {
+      "id": "v218",
+      "de": "wohnen",
+      "en": "to live (reside)",
+      "pos": "verb"
+    },
+    {
+      "id": "v219",
+      "de": "zusammen",
+      "en": "together",
+      "pos": "verb"
+    },
+    {
+      "id": "v220",
+      "de": "abwechselnd",
+      "en": "alternately",
+      "pos": "other"
+    },
+    {
+      "id": "v221",
+      "de": "aktuell",
+      "en": "current",
+      "pos": "other"
+    },
+    {
+      "id": "v222",
+      "de": "am Ende",
+      "en": "at the end",
+      "pos": "phrase"
+    },
+    {
+      "id": "v223",
+      "de": "an der Uni",
+      "en": "at the university",
+      "pos": "phrase"
+    },
+    {
+      "id": "v224",
+      "de": "ausländisch",
+      "en": "foreign",
+      "pos": "other"
+    },
+    {
+      "id": "v225",
+      "de": "außerdem",
+      "en": "aside from that",
+      "pos": "other"
+    },
+    {
+      "id": "v226",
+      "de": "bald",
+      "en": "soon",
+      "pos": "other"
+    },
+    {
+      "id": "v227",
+      "de": "bedeutend",
+      "en": "significant",
+      "pos": "other"
+    },
+    {
+      "id": "v228",
+      "de": "beliebt",
+      "en": "popular",
+      "pos": "other"
+    },
+    {
+      "id": "v229",
+      "de": "besonders",
+      "en": "particularly",
+      "pos": "other"
+    },
+    {
+      "id": "v230",
+      "de": "da",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v231",
+      "de": "dann",
+      "en": "then",
+      "pos": "other"
+    },
+    {
+      "id": "v232",
+      "de": "Das stimmt",
+      "en": "That's correct",
+      "pos": "other"
+    },
+    {
+      "id": "v233",
+      "de": "dass",
+      "en": "that",
+      "pos": "other"
+    },
+    {
+      "id": "v234",
+      "de": "davon",
+      "en": "of that",
+      "pos": "other"
+    },
+    {
+      "id": "v235",
+      "de": "denn",
+      "en": "because / for",
+      "pos": "other"
+    },
+    {
+      "id": "v236",
+      "de": "deshalb",
+      "en": "therefore",
+      "pos": "adverb"
+    },
+    {
+      "id": "v237",
+      "de": "deutlich",
+      "en": "clearly",
+      "pos": "other"
+    },
+    {
+      "id": "v238",
+      "de": "direkt",
+      "en": "direct",
+      "pos": "other"
+    },
+    {
+      "id": "v239",
+      "de": "doch",
+      "en": "modal particle (do / after all)",
+      "pos": "other"
+    },
+    {
+      "id": "v240",
+      "de": "dort",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v241",
+      "de": "dran sein",
+      "en": "be on it",
+      "pos": "phrase"
+    },
+    {
+      "id": "v242",
+      "de": "eigene",
+      "en": "own",
+      "pos": "other"
+    },
+    {
+      "id": "v243",
+      "de": "ein lebendiger Dialekt",
+      "en": "a living dialect",
+      "pos": "phrase"
+    },
+    {
+      "id": "v244",
+      "de": "eine eigene Literatur",
+      "en": "a literature of its own",
+      "pos": "phrase"
+    },
+    {
+      "id": "v245",
+      "de": "eingerichtet",
+      "en": "furnished",
+      "pos": "other"
+    },
+    {
+      "id": "v246",
+      "de": "einsam",
+      "en": "lonely",
+      "pos": "other"
+    },
+    {
+      "id": "v247",
+      "de": "ernst",
+      "en": "serious",
+      "pos": "other"
+    },
+    {
+      "id": "v248",
+      "de": "etwa",
+      "en": "approximately",
+      "pos": "other"
+    },
+    {
+      "id": "v249",
+      "de": "extra",
+      "en": "extra",
+      "pos": "other"
+    },
+    {
+      "id": "v250",
+      "de": "fremd",
+      "en": "foreign/strange",
+      "pos": "adjective"
+    },
+    {
+      "id": "v251",
+      "de": "fremd fühlen",
+      "en": "feel foreign",
+      "pos": "phrase"
+    },
+    {
+      "id": "v252",
+      "de": "freundlich",
+      "en": "friendly",
+      "pos": "other"
+    },
+    {
+      "id": "v253",
+      "de": "frustrierend",
+      "en": "frustrating",
+      "pos": "other"
+    },
+    {
+      "id": "v254",
+      "de": "ganz",
+      "en": "quite",
+      "pos": "other"
+    },
+    {
+      "id": "v255",
+      "de": "ganz anders",
+      "en": "completely different",
+      "pos": "phrase"
+    },
+    {
+      "id": "v256",
+      "de": "ganz schön anstrengend",
+      "en": "pretty tiring",
+      "pos": "phrase"
+    },
+    {
+      "id": "v257",
+      "de": "genauer",
+      "en": "more precise",
+      "pos": "other"
+    },
+    {
+      "id": "v258",
+      "de": "genug",
+      "en": "enough",
+      "pos": "other"
+    },
+    {
+      "id": "v259",
+      "de": "gibt es",
+      "en": "there is",
+      "pos": "phrase"
+    },
+    {
+      "id": "v260",
+      "de": "günstig",
+      "en": "cheap",
+      "pos": "other"
+    },
+    {
+      "id": "v261",
+      "de": "herzlich",
+      "en": "heartfelt",
+      "pos": "other"
+    },
+    {
+      "id": "v262",
+      "de": "hoch",
+      "en": "high",
+      "pos": "other"
+    },
+    {
+      "id": "v263",
+      "de": "Ich bin neu hier.",
+      "en": "I am new here.",
+      "pos": "phrase"
+    },
+    {
+      "id": "v264",
+      "de": "immer",
+      "en": "always",
+      "pos": "other"
+    },
+    {
+      "id": "v265",
+      "de": "in der Nähe",
+      "en": "close by",
+      "pos": "phrase"
+    },
+    {
+      "id": "v266",
+      "de": "kennen lernen",
+      "en": "get to know",
+      "pos": "phrase"
+    },
+    {
+      "id": "v267",
+      "de": "knapp",
+      "en": "meager",
+      "pos": "other"
+    },
+    {
+      "id": "v268",
+      "de": "kostenfrei",
+      "en": "free of charge",
+      "pos": "other"
+    },
+    {
+      "id": "v269",
+      "de": "kostenlos",
+      "en": "for free",
+      "pos": "other"
+    },
+    {
+      "id": "v270",
+      "de": "kurzfristig",
+      "en": "short term",
+      "pos": "other"
+    },
+    {
+      "id": "v271",
+      "de": "Köln",
+      "en": "Cologne",
+      "pos": "other"
+    },
+    {
+      "id": "v272",
+      "de": "Kölsch",
+      "en": "Kölsch (Cologne dialect/beer)",
+      "pos": "other"
+    },
+    {
+      "id": "v273",
+      "de": "manchmal",
+      "en": "sometimes",
+      "pos": "other"
+    },
+    {
+      "id": "v274",
+      "de": "mit Leib und Seele",
+      "en": "with body and soul",
+      "pos": "phrase"
+    },
+    {
+      "id": "v275",
+      "de": "nach",
+      "en": "after / to",
+      "pos": "other"
+    },
+    {
+      "id": "v276",
+      "de": "nah",
+      "en": "near",
+      "pos": "other"
+    },
+    {
+      "id": "v277",
+      "de": "neu",
+      "en": "new",
+      "pos": "other"
+    },
+    {
+      "id": "v278",
+      "de": "nur",
+      "en": "only",
+      "pos": "other"
+    },
+    {
+      "id": "v279",
+      "de": "pro Monat",
+      "en": "per month",
+      "pos": "phrase"
+    },
+    {
+      "id": "v280",
+      "de": "rau",
+      "en": "rough",
+      "pos": "other"
+    },
+    {
+      "id": "v281",
+      "de": "seit",
+      "en": "since / for",
+      "pos": "other"
+    },
+    {
+      "id": "v282",
+      "de": "sich an die Regeln halten",
+      "en": "stick to the rules",
+      "pos": "phrase"
+    },
+    {
+      "id": "v283",
+      "de": "sich merken",
+      "en": "to remember",
+      "pos": "phrase"
+    },
+    {
+      "id": "v284",
+      "de": "Tatsache",
+      "en": "fact",
+      "pos": "other"
+    },
+    {
+      "id": "v285",
+      "de": "total",
+      "en": "total",
+      "pos": "other"
+    },
+    {
+      "id": "v286",
+      "de": "typische Lieder",
+      "en": "typical songs",
+      "pos": "phrase"
+    },
+    {
+      "id": "v287",
+      "de": "täglich",
+      "en": "daily",
+      "pos": "other"
+    },
+    {
+      "id": "v288",
+      "de": "unbedingt",
+      "en": "absolutely",
+      "pos": "other"
+    },
+    {
+      "id": "v289",
+      "de": "vor",
+      "en": "before / in front of",
+      "pos": "other"
+    },
+    {
+      "id": "v290",
+      "de": "vor allem",
+      "en": "above all",
+      "pos": "phrase"
+    },
+    {
+      "id": "v291",
+      "de": "vorbei sein",
+      "en": "be over",
+      "pos": "phrase"
+    },
+    {
+      "id": "v292",
+      "de": "vorne",
+      "en": "in front",
+      "pos": "other"
+    },
+    {
+      "id": "v293",
+      "de": "weil",
+      "en": "because",
+      "pos": "other"
+    },
+    {
+      "id": "v294",
+      "de": "weltweit",
+      "en": "worldwide",
+      "pos": "other"
+    },
+    {
+      "id": "v295",
+      "de": "wenig",
+      "en": "few",
+      "pos": "other"
+    },
+    {
+      "id": "v296",
+      "de": "wieder",
+      "en": "again",
+      "pos": "other"
+    },
+    {
+      "id": "v297",
+      "de": "zum Vergleich",
+      "en": "for comparison",
+      "pos": "phrase"
+    },
+    {
+      "id": "v298",
+      "de": "ähnlich",
+      "en": "similar",
+      "pos": "other"
+    },
+    {
+      "id": "v299",
+      "de": "über",
+      "en": "about / over",
+      "pos": "other"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Nebensätze mit weil und dass",
+      "titleEn": "weil / dass clauses",
+      "explanationEn": "Verb goes to the end: Ich bleibe, weil ich studiere. Ich weiß, dass Köln schön ist.",
+      "patterns": [
+        "…, weil … Verb.",
+        "…, dass … Verb."
+      ],
+      "examples": [
+        {
+          "de": "Ich lerne Deutsch, weil ich in Köln studiere.",
+          "en": "I learn German because I study in Cologne."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "titleDe": "Reflexivpronomen; Zeitpräpositionen",
+      "titleEn": "Reflexives; time preps",
+      "explanationEn": "sich freuen/fühlen: ich freue mich. seit + Dat., vor + Dat., nach + Dat.",
+      "patterns": [
+        "ich freue mich",
+        "seit einem Monat",
+        "vor zwei Wochen"
+      ],
+      "examples": [
+        {
+          "de": "Seit September wohne ich in einer WG.",
+          "en": "I have lived in a WG since September."
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "weil",
+      "promptEn": "weil",
+      "content": "Ich bleibe, weil ich Deutsch ___ .",
+      "options": [
+        "lerne",
+        "lerne ich",
+        "ich lerne"
+      ],
+      "answer": "lerne",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "dass",
+      "promptEn": "dass",
+      "content": "Ich glaube, dass die Stadt schön ___ .",
+      "answer": "ist",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Reflexiv",
+      "promptEn": "Reflexive",
+      "content": "Wir ___ uns auf das Semester.",
+      "options": [
+        "freuen",
+        "freut",
+        "freust"
+      ],
+      "answer": "freuen",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "seit",
+      "promptEn": "since",
+      "content": "Ich wohne ___ März in Köln.",
+      "answer": "seit",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Satz",
+      "promptEn": "Order",
+      "content": "Ich | lerne | Deutsch | , | weil | ich | hier | studieren | möchte | .",
+      "answer": "Ich lerne Deutsch, weil ich hier studieren möchte.",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "vor",
+      "promptEn": "ago",
+      "content": "___ zwei Wochen bin ich angekommen.",
+      "options": [
+        "Vor",
+        "Seit",
+        "Nach"
+      ],
+      "answer": "Vor",
+      "grammarId": "g2"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "vocab-de-en",
+      "prompt": "„die WG“ means…",
+      "answer": "shared flat",
+      "options": [
+        "shared flat",
+        "university",
+        "lecture"
+      ],
+      "vocabId": "v4"
+    },
+    {
+      "id": "q2",
+      "type": "grammar-mc",
+      "prompt": "Correct:",
+      "answer": "Ich weiß, dass er kommt.",
+      "options": [
+        "Ich weiß, dass er kommt.",
+        "Ich weiß, dass kommt er."
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "vocab-en-de",
+      "prompt": "“because”:",
+      "answer": "weil",
+      "options": [
+        "weil",
+        "dass",
+        "seit"
+      ],
+      "vocabId": "v10"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Ich ___ mich fremd. (fühlen)",
+      "answer": "fühle",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "___ einem Monat lerne ich Deutsch.",
+      "answer": "Seit",
+      "options": [
+        "Seit",
+        "Vor",
+        "Nach"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "vocab-de-en",
+      "prompt": "„vermissen“ means…",
+      "answer": "to miss",
+      "options": [
+        "to miss",
+        "to tidy",
+        "to study"
+      ],
+      "vocabId": "v26"
+    },
+    {
+      "id": "q7",
+      "type": "cloze",
+      "prompt": "Complete: Er bleibt, weil er keine Zeit ___ .",
+      "answer": "hat",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“flatmate”:",
+      "answer": "der Mitbewohner",
+      "options": [
+        "der Mitbewohner",
+        "der Nachbar",
+        "der Gast"
+      ],
+      "vocabId": "v6"
+    },
+    {
+      "id": "q9",
+      "type": "grammar-mc",
+      "prompt": "Du freust ___ auf die Party.",
+      "answer": "dich",
+      "options": [
+        "dich",
+        "dir",
+        "sich"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-de-en",
+      "prompt": "„der Dom“ means…",
+      "answer": "cathedral",
+      "options": [
+        "cathedral",
+        "dialect",
+        "semester"
+      ],
+      "vocabId": "v16"
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd2-t01",
+      "cd": 2,
+      "track": 1,
+      "audioUrl": "/audio/cd2/track-01.mp3",
+      "preview": "Eva: Eva Rupp, hallo."
+    },
+    {
+      "id": "cd2-t02",
+      "cd": 2,
+      "track": 2,
+      "audioUrl": "/audio/cd2/track-02.mp3",
+      "preview": "Eva: Und was möchtest du studieren?"
+    },
+    {
+      "id": "cd2-t03",
+      "cd": 2,
+      "track": 3,
+      "audioUrl": "/audio/cd2/track-03.mp3",
+      "preview": "Fred: Hallo!"
+    },
+    {
+      "id": "cd2-t04",
+      "cd": 2,
+      "track": 4,
+      "audioUrl": "/audio/cd2/track-04.mp3",
+      "preview": "Radiomoderatorin: Hallo Bernhard, wir können doch"
+    }
+  ]
+}

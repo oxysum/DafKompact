@@ -1,0 +1,591 @@
+{
+  "id": "b1-l19",
+  "level": "B1",
+  "number": 19,
+  "titleDe": "Trainee in Liechtenstein",
+  "titleEn": "Trainee in Liechtenstein",
+  "status": "complete",
+  "goals": [
+    {
+      "de": "Vorschläge und Ratschläge verstehen und äußern",
+      "en": "Understand and give suggestions and advice"
+    },
+    {
+      "de": "Notizen zu Texten über Liechtenstein machen",
+      "en": "Take notes on texts about Liechtenstein"
+    },
+    {
+      "de": "Gespräch im Reisebüro führen; Reise bestätigen",
+      "en": "Role-play a travel agency; confirm a trip"
+    },
+    {
+      "de": "Reklamation bei Reisegepäck formulieren",
+      "en": "Complain about travel luggage"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Liechtenstein",
+      "en": "Liechtenstein",
+      "pos": "other"
+    },
+    {
+      "id": "v2",
+      "de": "Fürstentum",
+      "en": "principality",
+      "article": "das",
+      "pos": "noun"
+    },
+    {
+      "id": "v3",
+      "de": "Trainee",
+      "en": "trainee",
+      "article": "der",
+      "pos": "noun"
+    },
+    {
+      "id": "v4",
+      "de": "Reisebüro",
+      "en": "travel agency",
+      "article": "das",
+      "pos": "noun"
+    },
+    {
+      "id": "v5",
+      "de": "Anreise",
+      "en": "arrival journey",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v6",
+      "de": "Abflug",
+      "en": "departure (flight)",
+      "article": "der",
+      "pos": "noun"
+    },
+    {
+      "id": "v7",
+      "de": "Flugzeug",
+      "en": "airplane",
+      "article": "das",
+      "pos": "noun"
+    },
+    {
+      "id": "v8",
+      "de": "Zugverbindung",
+      "en": "train connection",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v9",
+      "de": "Gepäck",
+      "en": "luggage",
+      "article": "das",
+      "pos": "noun"
+    },
+    {
+      "id": "v10",
+      "de": "Koffer",
+      "en": "suitcase",
+      "article": "der",
+      "pos": "noun"
+    },
+    {
+      "id": "v11",
+      "de": "Lost and Found",
+      "en": "lost and found",
+      "pos": "other"
+    },
+    {
+      "id": "v12",
+      "de": "Reklamation",
+      "en": "complaint",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v13",
+      "de": "bestätigen",
+      "en": "to confirm",
+      "pos": "verb"
+    },
+    {
+      "id": "v14",
+      "de": "buchen",
+      "en": "to book",
+      "pos": "verb"
+    },
+    {
+      "id": "v15",
+      "de": "vorschlagen",
+      "en": "to suggest",
+      "pos": "verb"
+    },
+    {
+      "id": "v16",
+      "de": "raten",
+      "en": "to advise",
+      "pos": "verb"
+    },
+    {
+      "id": "v17",
+      "de": "wäre",
+      "en": "would be",
+      "pos": "other"
+    },
+    {
+      "id": "v18",
+      "de": "hätte",
+      "en": "would have",
+      "pos": "other"
+    },
+    {
+      "id": "v19",
+      "de": "könnte",
+      "en": "could",
+      "pos": "other"
+    },
+    {
+      "id": "v20",
+      "de": "sollte",
+      "en": "should",
+      "pos": "other"
+    },
+    {
+      "id": "v21",
+      "de": "größerer",
+      "en": "larger (attr.)",
+      "pos": "adjective"
+    },
+    {
+      "id": "v22",
+      "de": "schnellere",
+      "en": "faster (attr.)",
+      "pos": "adjective"
+    },
+    {
+      "id": "v23",
+      "de": "beste",
+      "en": "best (attr.)",
+      "pos": "adjective"
+    },
+    {
+      "id": "v24",
+      "de": "Relativsatz mit wo",
+      "en": "relative clause with wo",
+      "pos": "phrase"
+    },
+    {
+      "id": "v25",
+      "de": "wo",
+      "en": "where (relative)",
+      "pos": "other"
+    },
+    {
+      "id": "v26",
+      "de": "Hauptstadt",
+      "en": "capital",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v27",
+      "de": "Vaduz",
+      "en": "Vaduz",
+      "pos": "other"
+    },
+    {
+      "id": "v28",
+      "de": "Schweiz",
+      "en": "Switzerland",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v29",
+      "de": "Österreich",
+      "en": "Austria",
+      "pos": "other"
+    },
+    {
+      "id": "v30",
+      "de": "Grenze",
+      "en": "border",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v31",
+      "de": "Pass",
+      "en": "passport",
+      "article": "der",
+      "pos": "noun"
+    },
+    {
+      "id": "v32",
+      "de": "Fahrplan",
+      "en": "timetable",
+      "article": "der",
+      "pos": "noun"
+    },
+    {
+      "id": "v33",
+      "de": "Verspätung",
+      "en": "delay",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v34",
+      "de": "Durchsage",
+      "en": "announcement",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v35",
+      "de": "Fluggesellschaft",
+      "en": "airline",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v36",
+      "de": "Entschuldigung",
+      "en": "apology",
+      "article": "die",
+      "pos": "noun"
+    },
+    {
+      "id": "v37",
+      "de": "Ich wäre froh, wenn…",
+      "en": "I would be glad if…",
+      "pos": "phrase"
+    },
+    {
+      "id": "v38",
+      "de": "An Ihrer Stelle…",
+      "en": "In your place…",
+      "pos": "phrase"
+    },
+    {
+      "id": "v39",
+      "de": "erste Tage",
+      "en": "first days",
+      "pos": "phrase"
+    },
+    {
+      "id": "v40",
+      "de": "ankommen",
+      "en": "to arrive",
+      "pos": "verb"
+    },
+    {
+      "id": "v41",
+      "de": "ausfüllen",
+      "en": "to fill in",
+      "pos": "verb"
+    },
+    {
+      "id": "v42",
+      "de": "Formular",
+      "en": "form",
+      "article": "das",
+      "pos": "noun"
+    },
+    {
+      "id": "v43",
+      "de": "Verkehrsmittel",
+      "en": "means of transport",
+      "article": "das",
+      "pos": "noun"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Höflicher Konjunktiv II von sein; Ratschläge",
+      "titleEn": "Polite wäre; advice",
+      "explanationEn": "wäre, hätte, könnte for soft advice: Das wäre gut. An Ihrer Stelle würde ich den Zug nehmen. Es wäre besser, früh anzukommen.",
+      "patterns": [
+        "Das wäre schön.",
+        "Könnten Sie…?",
+        "Sie sollten…"
+      ],
+      "examples": [
+        {
+          "de": "Es wäre besser, das Gepäck zu versichern.",
+          "en": "It would be better to insure the luggage."
+        },
+        {
+          "de": "Wären Sie so freundlich, mir zu helfen?",
+          "en": "Would you be so kind as to help me?"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "titleDe": "Attributiver Komparativ/Superlativ; Relativsatz mit wo",
+      "titleEn": "Attributive comparison; wo-clauses",
+      "explanationEn": "ein schnellerer Zug, die beste Verbindung. Places: die Stadt, wo ich wohne; das Land, in dem… / wo…",
+      "patterns": [
+        "ein größerer Koffer",
+        "die Stadt, wo…"
+      ],
+      "examples": [
+        {
+          "de": "Vaduz ist die Stadt, wo ich arbeite.",
+          "en": "Vaduz is the city where I work."
+        },
+        {
+          "de": "Wir brauchen eine schnellere Verbindung.",
+          "en": "We need a faster connection."
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "wäre",
+      "promptEn": "wäre",
+      "content": "Das ___ eine gute Idee.",
+      "options": [
+        "wäre",
+        "ist",
+        "war"
+      ],
+      "answer": "wäre",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "Rat",
+      "promptEn": "advice",
+      "content": "An Ihrer Stelle ___ ich früher fahren. (würde)",
+      "answer": "würde",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Attr. Komp.",
+      "promptEn": "Attr. comp.",
+      "content": "Wir brauchen einen ___ Zug.",
+      "options": [
+        "schnelleren",
+        "schneller",
+        "am schnellsten"
+      ],
+      "answer": "schnelleren",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "wo",
+      "promptEn": "where",
+      "content": "Liechtenstein ist das Land, ___ ich Trainee bin.",
+      "answer": "wo",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Satz",
+      "promptEn": "Order",
+      "content": "Es | wäre | besser | , | früh | anzukommen | .",
+      "answer": "Es wäre besser, früh anzukommen.",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Superlativ attr.",
+      "promptEn": "Attr. super.",
+      "content": "Das ist die ___ Verbindung.",
+      "options": [
+        "beste",
+        "besser",
+        "guteste"
+      ],
+      "answer": "beste",
+      "grammarId": "g2"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "vocab-de-en",
+      "prompt": "„das Fürstentum“ means…",
+      "answer": "principality",
+      "options": [
+        "principality",
+        "airline",
+        "suitcase"
+      ],
+      "vocabId": "v2"
+    },
+    {
+      "id": "q2",
+      "type": "grammar-mc",
+      "prompt": "___ Sie so freundlich, mir den Fahrplan zu zeigen?",
+      "answer": "Wären",
+      "options": [
+        "Wären",
+        "Sind",
+        "Waren"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "vocab-en-de",
+      "prompt": "“complaint”:",
+      "answer": "die Reklamation",
+      "options": [
+        "die Reklamation",
+        "die Anreise",
+        "die Grenze"
+      ],
+      "vocabId": "v12"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Das Hotel, ___ wir übernachten, ist klein. (wo)",
+      "answer": "wo",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Ich hätte gern einen ___ Koffer.",
+      "answer": "größeren",
+      "options": [
+        "größeren",
+        "größer",
+        "am größten"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "vocab-de-en",
+      "prompt": "„die Verspätung“ means…",
+      "answer": "delay",
+      "options": [
+        "delay",
+        "timetable",
+        "border"
+      ],
+      "vocabId": "v31"
+    },
+    {
+      "id": "q7",
+      "type": "cloze",
+      "prompt": "Complete: Sie ___ früher buchen. (sollte)",
+      "answer": "sollte",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“travel agency”:",
+      "answer": "das Reisebüro",
+      "options": [
+        "das Reisebüro",
+        "das Flugzeug",
+        "der Pass"
+      ],
+      "vocabId": "v4"
+    },
+    {
+      "id": "q9",
+      "type": "grammar-mc",
+      "prompt": "Vaduz ist die Hauptstadt, ___ im Fürstentum liegt.",
+      "answer": "die",
+      "options": [
+        "die",
+        "wo die",
+        "was"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-de-en",
+      "prompt": "„bestätigen“ means…",
+      "answer": "to confirm",
+      "options": [
+        "to confirm",
+        "to complain",
+        "to advise"
+      ],
+      "vocabId": "v13"
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd2-t52",
+      "cd": 2,
+      "track": 52,
+      "audioUrl": "/audio/cd2/track-52.mp3",
+      "preview": "Silke: Hallo Nicole, schön, dass du anrufst."
+    },
+    {
+      "id": "cd2-t53",
+      "cd": 2,
+      "track": 53,
+      "audioUrl": "/audio/cd2/track-53.mp3",
+      "preview": "Silke: Sei doch froh, dass du mit dem Studium fertig"
+    },
+    {
+      "id": "cd2-t54",
+      "cd": 2,
+      "track": 54,
+      "audioUrl": "/audio/cd2/track-54.mp3",
+      "preview": "Fr. Kirchner: Hallo, guten Tag Nicole."
+    },
+    {
+      "id": "cd2-t55",
+      "cd": 2,
+      "track": 55,
+      "audioUrl": "/audio/cd2/track-55.mp3",
+      "preview": "Sprecherin: Fluggäste gebucht auf Swiss LX 1051 nach"
+    },
+    {
+      "id": "cd2-t56",
+      "cd": 2,
+      "track": 56,
+      "audioUrl": "/audio/cd2/track-56.mp3",
+      "preview": "Flugkapitän: Guten Tag meine Damen und Herren. Hier"
+    },
+    {
+      "id": "cd2-t57",
+      "cd": 2,
+      "track": 57,
+      "audioUrl": "/audio/cd2/track-57.mp3",
+      "preview": "Flugkapitän: Meine Damen und Herren, hier spricht"
+    },
+    {
+      "id": "cd2-t58",
+      "cd": 2,
+      "track": 58,
+      "audioUrl": "/audio/cd2/track-58.mp3",
+      "preview": "Flugkapitän: Verehrte Fluggäste. In Kürze verlassen wir"
+    },
+    {
+      "id": "cd2-t59",
+      "cd": 2,
+      "track": 59,
+      "audioUrl": "/audio/cd2/track-59.mp3",
+      "preview": "Nicole: Mist, jetzt ist auch noch mein Koffer kaputt!"
+    }
+  ]
+}

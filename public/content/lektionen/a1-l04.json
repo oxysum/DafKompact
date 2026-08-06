@@ -1,0 +1,1667 @@
+{
+  "id": "a1-l04",
+  "level": "A1",
+  "number": 4,
+  "titleDe": "Spiel und Spaß",
+  "titleEn": "Play and fun",
+  "status": "complete",
+  "goals": [
+    {
+      "de": "Freizeitanzeigen verstehen",
+      "en": "Understand leisure ads"
+    },
+    {
+      "de": "Über Freizeit, Hobbys und Sportarten sprechen",
+      "en": "Talk about free time, hobbies and sports"
+    },
+    {
+      "de": "Anzeigen für Freizeitpartner schreiben bzw. darauf antworten",
+      "en": "Write or reply to ads for leisure partners"
+    },
+    {
+      "de": "Vorlieben und Abneigungen ausdrücken",
+      "en": "Express likes and dislikes"
+    },
+    {
+      "de": "Über das Befinden sprechen",
+      "en": "Talk about how you feel"
+    },
+    {
+      "de": "Flyer über Sportangebote verstehen",
+      "en": "Understand flyers about sports offers"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Abkürzung",
+      "en": "abbreviation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v2",
+      "de": "Anfang",
+      "en": "beginning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v3",
+      "de": "Anlass",
+      "en": "occasion",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v4",
+      "de": "Anmeldung",
+      "en": "registration",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v5",
+      "de": "Antwort",
+      "en": "answer",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v6",
+      "de": "Anzeige",
+      "en": "advertisement",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v7",
+      "de": "Applaus",
+      "en": "applause",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v8",
+      "de": "Artikel",
+      "en": "article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v9",
+      "de": "Bedeutung",
+      "en": "meaning",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v10",
+      "de": "Beitrag",
+      "en": "contribution",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v11",
+      "de": "Blick",
+      "en": "view",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v12",
+      "de": "Buch",
+      "en": "book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v13",
+      "de": "Endung",
+      "en": "ending",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v14",
+      "de": "Ermäßigung",
+      "en": "discount",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v15",
+      "de": "Erwachsene",
+      "en": "adult",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v16",
+      "de": "Fahrt",
+      "en": "drive",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v17",
+      "de": "Fan",
+      "en": "fan",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v18",
+      "de": "Fernsehen",
+      "en": "to watch TV",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v19",
+      "de": "Flyer",
+      "en": "flyers",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v20",
+      "de": "Foto",
+      "en": "photo",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v21",
+      "de": "Fotografie",
+      "en": "photography",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v22",
+      "de": "Freizeit",
+      "en": "free time / leisure",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v23",
+      "de": "Fußball",
+      "en": "football / soccer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v24",
+      "de": "Gefühl",
+      "en": "feeling",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v25",
+      "de": "Gespräch",
+      "en": "conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v26",
+      "de": "Gitarre",
+      "en": "guitar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v27",
+      "de": "GmbH",
+      "en": "gmbH",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v28",
+      "de": "Grammatik",
+      "en": "grammar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v29",
+      "de": "Grund",
+      "en": "reason",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v30",
+      "de": "Gruppe",
+      "en": "group",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v31",
+      "de": "Gymnastik",
+      "en": "gymnastics",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v32",
+      "de": "Halbmarathon",
+      "en": "half marathon",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v33",
+      "de": "Halle",
+      "en": "hall",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v34",
+      "de": "Heimat",
+      "en": "home country / hometown",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v35",
+      "de": "Herr",
+      "en": "mr",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v36",
+      "de": "Hobby",
+      "en": "hobby",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v37",
+      "de": "Interesse",
+      "en": "interest",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v38",
+      "de": "Internet",
+      "en": "Internet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v39",
+      "de": "Jahresbeitrag",
+      "en": "Annual contribution",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v40",
+      "de": "Jogging",
+      "en": "jogging",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v41",
+      "de": "Jugendliche",
+      "en": "teenagers",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v42",
+      "de": "Juni",
+      "en": "june",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v43",
+      "de": "Karte",
+      "en": "card",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v44",
+      "de": "Kilometer",
+      "en": "kilometers",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v45",
+      "de": "Kino",
+      "en": "cinema",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v46",
+      "de": "Kontakt",
+      "en": "contact",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v47",
+      "de": "Kurs",
+      "en": "course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v48",
+      "de": "Kursbuch",
+      "en": "Course book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v49",
+      "de": "Kursleiter",
+      "en": "instructor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v50",
+      "de": "Kursraum",
+      "en": "Course room",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v51",
+      "de": "Makler",
+      "en": "broker",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v52",
+      "de": "Mal",
+      "en": "modal particle (just / once)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v53",
+      "de": "Mannschaft",
+      "en": "team",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v54",
+      "de": "Marathon",
+      "en": "marathon",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v55",
+      "de": "Minute",
+      "en": "minute",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v56",
+      "de": "Mitgliedsbeitrag",
+      "en": "Membership fee",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v57",
+      "de": "Moment",
+      "en": "moment",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v58",
+      "de": "Monat",
+      "en": "month",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v59",
+      "de": "Montag",
+      "en": "monday",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v60",
+      "de": "Morgen",
+      "en": "morning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v61",
+      "de": "Mountainbike",
+      "en": "Mountain bike",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v62",
+      "de": "Muskelkater",
+      "en": "Sore muscles",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v63",
+      "de": "Münster",
+      "en": "muenster",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v64",
+      "de": "Nomen",
+      "en": "noun",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v65",
+      "de": "Oktober",
+      "en": "october",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v66",
+      "de": "Organisator",
+      "en": "organizer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v67",
+      "de": "Ort",
+      "en": "location",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v68",
+      "de": "Partner",
+      "en": "partner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v69",
+      "de": "Person",
+      "en": "person",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v70",
+      "de": "Platz",
+      "en": "square / place",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v71",
+      "de": "Position",
+      "en": "position",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v72",
+      "de": "Profi",
+      "en": "professional",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v73",
+      "de": "Punkt",
+      "en": "point",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v74",
+      "de": "Redemittel",
+      "en": "means of speech",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v75",
+      "de": "Regel",
+      "en": "rule",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v76",
+      "de": "Reisen",
+      "en": "travel",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v77",
+      "de": "Rekord",
+      "en": "record",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v78",
+      "de": "Rücken",
+      "en": "back",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v79",
+      "de": "Sache",
+      "en": "matter",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v80",
+      "de": "Satzende",
+      "en": "End of sentence",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v81",
+      "de": "Schreiben",
+      "en": "to write",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v82",
+      "de": "Schuh",
+      "en": "shoe",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v83",
+      "de": "Schüler",
+      "en": "pupils",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v84",
+      "de": "Schülerin",
+      "en": "student",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v85",
+      "de": "Sekunde",
+      "en": "second",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v86",
+      "de": "Sieg",
+      "en": "victory",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v87",
+      "de": "Sieger",
+      "en": "winner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v88",
+      "de": "Siegerin",
+      "en": "winner",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v89",
+      "de": "Sofa",
+      "en": "sofa",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v90",
+      "de": "Spaß",
+      "en": "fun",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v91",
+      "de": "Spiel",
+      "en": "game",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v92",
+      "de": "Spieler",
+      "en": "player",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v93",
+      "de": "Sport",
+      "en": "sport",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v94",
+      "de": "Sportler",
+      "en": "sportsman",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v95",
+      "de": "Sportschuh",
+      "en": "Sports shoe",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v96",
+      "de": "Start",
+      "en": "start",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v97",
+      "de": "Startgeld",
+      "en": "Entry fee",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v98",
+      "de": "Strecke",
+      "en": "route",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v99",
+      "de": "Student",
+      "en": "student (male)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v100",
+      "de": "Tabelle",
+      "en": "table",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v101",
+      "de": "Tafel",
+      "en": "blackboard",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v102",
+      "de": "Telefongespräch",
+      "en": "Telephone conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v103",
+      "de": "Tennis",
+      "en": "tennis",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v104",
+      "de": "Text",
+      "en": "text",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v105",
+      "de": "Tour",
+      "en": "tour",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v106",
+      "de": "Training",
+      "en": "training / practice",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v107",
+      "de": "Treffen",
+      "en": "to meet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v108",
+      "de": "Treiben",
+      "en": "to do (sport)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v109",
+      "de": "Triathlet",
+      "en": "triathlete",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v110",
+      "de": "Triathletin",
+      "en": "triathlete",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v111",
+      "de": "Triathlon",
+      "en": "triathlon",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v112",
+      "de": "Verb",
+      "en": "verb",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v113",
+      "de": "Verein",
+      "en": "club / association",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v114",
+      "de": "Vermieter",
+      "en": "landlord",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v115",
+      "de": "Vokalwechsel",
+      "en": "Vowel change",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v116",
+      "de": "Weg",
+      "en": "way / path",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v117",
+      "de": "Wetter",
+      "en": "weather",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v118",
+      "de": "Wochenende",
+      "en": "weekend",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v119",
+      "de": "Wohnung",
+      "en": "apartment",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v120",
+      "de": "Zeit",
+      "en": "time",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v121",
+      "de": "Zeitung",
+      "en": "newspaper",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v122",
+      "de": "Zeitungsartikel",
+      "en": "Newspaper article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v123",
+      "de": "Zimmer",
+      "en": "room",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v124",
+      "de": "Überschrift",
+      "en": "headline",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v125",
+      "de": "anmelden",
+      "en": "to register / sign up",
+      "pos": "verb"
+    },
+    {
+      "id": "v126",
+      "de": "anzeigen",
+      "en": "show",
+      "pos": "verb"
+    },
+    {
+      "id": "v127",
+      "de": "ausdrücken",
+      "en": "to express",
+      "pos": "verb"
+    },
+    {
+      "id": "v128",
+      "de": "beantworten",
+      "en": "answer",
+      "pos": "verb"
+    },
+    {
+      "id": "v129",
+      "de": "bezahlen",
+      "en": "to pay for",
+      "pos": "verb"
+    },
+    {
+      "id": "v130",
+      "de": "bilden",
+      "en": "form",
+      "pos": "verb"
+    },
+    {
+      "id": "v131",
+      "de": "dürfen",
+      "en": "may",
+      "pos": "verb"
+    },
+    {
+      "id": "v132",
+      "de": "ergänzen",
+      "en": "add to",
+      "pos": "verb"
+    },
+    {
+      "id": "v133",
+      "de": "erlauben",
+      "en": "to allow",
+      "pos": "verb"
+    },
+    {
+      "id": "v134",
+      "de": "erzählen",
+      "en": "to tell",
+      "pos": "verb"
+    },
+    {
+      "id": "v135",
+      "de": "feiern",
+      "en": "to celebrate",
+      "pos": "verb"
+    },
+    {
+      "id": "v136",
+      "de": "haben (Präteritum: hatte)",
+      "en": "to have (past: hatte)",
+      "pos": "verb"
+    },
+    {
+      "id": "v137",
+      "de": "hören",
+      "en": "to hear",
+      "pos": "verb"
+    },
+    {
+      "id": "v138",
+      "de": "joggen",
+      "en": "to jog",
+      "pos": "verb"
+    },
+    {
+      "id": "v139",
+      "de": "klappen",
+      "en": "to work out",
+      "pos": "verb"
+    },
+    {
+      "id": "v140",
+      "de": "laufen",
+      "en": "to run",
+      "pos": "verb"
+    },
+    {
+      "id": "v141",
+      "de": "lesen",
+      "en": "to read",
+      "pos": "verb"
+    },
+    {
+      "id": "v142",
+      "de": "lieben",
+      "en": "to love",
+      "pos": "verb"
+    },
+    {
+      "id": "v143",
+      "de": "mitspielen",
+      "en": "play along",
+      "pos": "verb"
+    },
+    {
+      "id": "v144",
+      "de": "mögen",
+      "en": "to like",
+      "pos": "verb"
+    },
+    {
+      "id": "v145",
+      "de": "oben",
+      "en": "above",
+      "pos": "verb"
+    },
+    {
+      "id": "v146",
+      "de": "offen",
+      "en": "open",
+      "pos": "verb"
+    },
+    {
+      "id": "v147",
+      "de": "passen",
+      "en": "to fit",
+      "pos": "verb"
+    },
+    {
+      "id": "v148",
+      "de": "putzen",
+      "en": "to clean",
+      "pos": "verb"
+    },
+    {
+      "id": "v149",
+      "de": "regeln",
+      "en": "regulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v150",
+      "de": "reiten",
+      "en": "to ride (a horse)",
+      "pos": "verb"
+    },
+    {
+      "id": "v151",
+      "de": "rudern",
+      "en": "to row",
+      "pos": "verb"
+    },
+    {
+      "id": "v152",
+      "de": "schaffen",
+      "en": "to manage",
+      "pos": "verb"
+    },
+    {
+      "id": "v153",
+      "de": "schauen",
+      "en": "to look",
+      "pos": "verb"
+    },
+    {
+      "id": "v154",
+      "de": "schwimmen",
+      "en": "to swim",
+      "pos": "verb"
+    },
+    {
+      "id": "v155",
+      "de": "sein (Präteritum: war)",
+      "en": "to be (past: war)",
+      "pos": "verb"
+    },
+    {
+      "id": "v156",
+      "de": "spielen",
+      "en": "to play",
+      "pos": "verb"
+    },
+    {
+      "id": "v157",
+      "de": "stehen",
+      "en": "to stand",
+      "pos": "verb"
+    },
+    {
+      "id": "v158",
+      "de": "stellen",
+      "en": "place",
+      "pos": "verb"
+    },
+    {
+      "id": "v159",
+      "de": "stürzen",
+      "en": "to fall",
+      "pos": "verb"
+    },
+    {
+      "id": "v160",
+      "de": "suchen",
+      "en": "to look for",
+      "pos": "verb"
+    },
+    {
+      "id": "v161",
+      "de": "tanzen",
+      "en": "to dance",
+      "pos": "verb"
+    },
+    {
+      "id": "v162",
+      "de": "tragen",
+      "en": "carry",
+      "pos": "verb"
+    },
+    {
+      "id": "v163",
+      "de": "turnen",
+      "en": "to do gymnastics",
+      "pos": "verb"
+    },
+    {
+      "id": "v164",
+      "de": "Vergleichen",
+      "en": "to compare",
+      "pos": "verb"
+    },
+    {
+      "id": "v165",
+      "de": "verstehen",
+      "en": "understand",
+      "pos": "verb"
+    },
+    {
+      "id": "v166",
+      "de": "verwenden",
+      "en": "to use",
+      "pos": "verb"
+    },
+    {
+      "id": "v167",
+      "de": "wandern",
+      "en": "to hike",
+      "pos": "verb"
+    },
+    {
+      "id": "v168",
+      "de": "Wissen",
+      "en": "to know (a fact)",
+      "pos": "verb"
+    },
+    {
+      "id": "v169",
+      "de": "wollen",
+      "en": "to want",
+      "pos": "verb"
+    },
+    {
+      "id": "v170",
+      "de": "wünschen",
+      "en": "to wish",
+      "pos": "verb"
+    },
+    {
+      "id": "v171",
+      "de": "zahlen",
+      "en": "to pay",
+      "pos": "verb"
+    },
+    {
+      "id": "v172",
+      "de": "zeichnen",
+      "en": "to draw",
+      "pos": "verb"
+    },
+    {
+      "id": "v173",
+      "de": "zufrieden",
+      "en": "satisfied",
+      "pos": "verb"
+    },
+    {
+      "id": "v174",
+      "de": "aber",
+      "en": "but",
+      "pos": "other"
+    },
+    {
+      "id": "v175",
+      "de": "begeistert",
+      "en": "enthusiastic",
+      "pos": "other"
+    },
+    {
+      "id": "v176",
+      "de": "denn",
+      "en": "because / for",
+      "pos": "other"
+    },
+    {
+      "id": "v177",
+      "de": "ernst",
+      "en": "serious",
+      "pos": "other"
+    },
+    {
+      "id": "v178",
+      "de": "Fahrrad fahren",
+      "en": "to ride a bike",
+      "pos": "phrase"
+    },
+    {
+      "id": "v179",
+      "de": "fit",
+      "en": "fit",
+      "pos": "adjective"
+    },
+    {
+      "id": "v180",
+      "de": "ganz",
+      "en": "quite",
+      "pos": "other"
+    },
+    {
+      "id": "v181",
+      "de": "gar",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v182",
+      "de": "gern",
+      "en": "gladly / like to",
+      "pos": "adverb"
+    },
+    {
+      "id": "v183",
+      "de": "gibt es",
+      "en": "there is",
+      "pos": "phrase"
+    },
+    {
+      "id": "v184",
+      "de": "gleich",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v185",
+      "de": "glücklich",
+      "en": "happy",
+      "pos": "other"
+    },
+    {
+      "id": "v186",
+      "de": "Ich fühle mich schlecht.",
+      "en": "I feel bad.",
+      "pos": "phrase"
+    },
+    {
+      "id": "v187",
+      "de": "immer",
+      "en": "always",
+      "pos": "other"
+    },
+    {
+      "id": "v188",
+      "de": "interessant",
+      "en": "interesting",
+      "pos": "adjective"
+    },
+    {
+      "id": "v189",
+      "de": "langweilig",
+      "en": "boring",
+      "pos": "adjective"
+    },
+    {
+      "id": "v190",
+      "de": "Mir geht es gut.",
+      "en": "I am fine.",
+      "pos": "phrase"
+    },
+    {
+      "id": "v191",
+      "de": "mobil",
+      "en": "mobile",
+      "pos": "other"
+    },
+    {
+      "id": "v192",
+      "de": "Musik hören",
+      "en": "to listen to music",
+      "pos": "phrase"
+    },
+    {
+      "id": "v193",
+      "de": "müde",
+      "en": "tired",
+      "pos": "adjective"
+    },
+    {
+      "id": "v194",
+      "de": "nicht gern",
+      "en": "not like to",
+      "pos": "phrase"
+    },
+    {
+      "id": "v195",
+      "de": "nur",
+      "en": "only",
+      "pos": "other"
+    },
+    {
+      "id": "v196",
+      "de": "oder",
+      "en": "or",
+      "pos": "other"
+    },
+    {
+      "id": "v197",
+      "de": "perfekt",
+      "en": "present perfect tense",
+      "pos": "other"
+    },
+    {
+      "id": "v198",
+      "de": "teuer",
+      "en": "expensive",
+      "pos": "other"
+    },
+    {
+      "id": "v199",
+      "de": "verzweifelt",
+      "en": "desperate",
+      "pos": "other"
+    },
+    {
+      "id": "v200",
+      "de": "vielleicht",
+      "en": "perhaps",
+      "pos": "other"
+    },
+    {
+      "id": "v201",
+      "de": "weiß",
+      "en": "white",
+      "pos": "other"
+    },
+    {
+      "id": "v202",
+      "de": "Wie geht es dir?",
+      "en": "How are you? (informal)",
+      "pos": "phrase"
+    },
+    {
+      "id": "v203",
+      "de": "wieder",
+      "en": "again",
+      "pos": "other"
+    },
+    {
+      "id": "v204",
+      "de": "wunderbar",
+      "en": "wonderful",
+      "pos": "other"
+    },
+    {
+      "id": "v205",
+      "de": "ziemlich",
+      "en": "quite",
+      "pos": "other"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Modalverben dürfen, wollen, mögen; Verben mit Vokalwechsel",
+      "titleEn": "Modals dürfen/wollen/mögen; stem-vowel change verbs",
+      "explanationEn": "dürfen = be allowed; wollen = want; mögen = like. Some verbs change vowel in du/er: ich lese, du liest, er liest; ich laufe, du läufst.",
+      "patterns": [
+        "ich darf / will / mag",
+        "du liest / läufst / sprichst"
+      ],
+      "examples": [
+        {
+          "de": "Darf ich mitspielen?",
+          "en": "May I join in?"
+        },
+        {
+          "de": "Ich will Tennis spielen.",
+          "en": "I want to play tennis."
+        },
+        {
+          "de": "Er liest gern.",
+          "en": "He likes to read."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "titleDe": "haben/sein im Präteritum; Konnektoren denn, oder, aber",
+      "titleEn": "haben/sein simple past; connectors denn/oder/aber",
+      "explanationEn": "ich war, du warst, er war; ich hatte, du hattest. denn/oder/aber join main clauses; verb stays in position 2 in each clause.",
+      "patterns": [
+        "Ich war müde.",
+        "Ich hatte keine Zeit.",
+        "…, denn … / …, aber …"
+      ],
+      "examples": [
+        {
+          "de": "Gestern war ich im Verein.",
+          "en": "Yesterday I was at the club."
+        },
+        {
+          "de": "Ich mag Fußball, aber nicht Tennis.",
+          "en": "I like football, but not tennis."
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "Modalverb",
+      "promptEn": "Modal",
+      "content": "___ ich hier trainieren? (dürfen)",
+      "options": [
+        "Darf",
+        "Darfst",
+        "Dürfen",
+        "Will"
+      ],
+      "answer": "Darf",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "Vokalwechsel",
+      "promptEn": "Vowel change",
+      "content": "Du ___ das Buch. (lesen)",
+      "answer": "liest",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Präteritum",
+      "promptEn": "Past",
+      "content": "Gestern ___ ich fit.",
+      "options": [
+        "war",
+        "warst",
+        "waren",
+        "hatte"
+      ],
+      "answer": "war",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d4",
+      "type": "reorder",
+      "promptDe": "Satz",
+      "promptEn": "Sentence",
+      "content": "will | Ich | schwimmen | .",
+      "answer": "Ich will schwimmen.",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d5",
+      "type": "cloze",
+      "promptDe": "Konnektor",
+      "promptEn": "Connector",
+      "content": "Ich bleibe zu Hause, ___ ich müde bin.",
+      "answer": "denn",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "mögen",
+      "promptEn": "like",
+      "content": "Wir ___ Sport.",
+      "options": [
+        "mögen",
+        "mag",
+        "mögt",
+        "will"
+      ],
+      "answer": "mögen",
+      "grammarId": "g1"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "vocab-de-en",
+      "prompt": "„der Verein“ means…",
+      "options": [
+        "club",
+        "hobby",
+        "sport",
+        "ad"
+      ],
+      "answer": "club",
+      "vocabId": "v4"
+    },
+    {
+      "id": "q2",
+      "type": "grammar-mc",
+      "prompt": "Er ___ jeden Tag. (laufen)",
+      "options": [
+        "läuft",
+        "laufe",
+        "lauft",
+        "laufen"
+      ],
+      "answer": "läuft",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "vocab-en-de",
+      "prompt": "“to register”:",
+      "options": [
+        "anmelden",
+        "schwimmen",
+        "spielen",
+        "wandern"
+      ],
+      "answer": "anmelden",
+      "vocabId": "v26"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Ich ___ gestern Zeit. (haben, past)",
+      "answer": "hatte",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "vocab-de-en",
+      "prompt": "„gern“ means…",
+      "options": [
+        "gladly / like to",
+        "boring",
+        "tired",
+        "fun"
+      ],
+      "answer": "gladly / like to",
+      "vocabId": "v15"
+    },
+    {
+      "id": "q6",
+      "type": "grammar-mc",
+      "prompt": "Ich mag Kino, ___ nicht Theater.",
+      "options": [
+        "aber",
+        "denn",
+        "oder",
+        "und"
+      ],
+      "answer": "aber",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-en-de",
+      "prompt": "“hobby”:",
+      "options": [
+        "das Hobby",
+        "der Sport",
+        "der Spaß",
+        "die Anzeige"
+      ],
+      "answer": "das Hobby",
+      "vocabId": "v2"
+    },
+    {
+      "id": "q8",
+      "type": "cloze",
+      "prompt": "Complete: Wir ___ Fußball spielen. (wollen)",
+      "answer": "wollen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q9",
+      "type": "grammar-mc",
+      "prompt": "Correct:",
+      "options": [
+        "Darf ich mitkommen?",
+        "Ich darf mitkommen?",
+        "Darfst ich mitkommen?"
+      ],
+      "answer": "Darf ich mitkommen?",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-de-en",
+      "prompt": "„müde“ means…",
+      "options": [
+        "tired",
+        "fit",
+        "interesting",
+        "boring"
+      ],
+      "answer": "tired",
+      "vocabId": "v30"
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd1-t21",
+      "cd": 1,
+      "track": 21,
+      "audioUrl": "/audio/cd1/track-21.mp3",
+      "preview": "Jürgen: Hallo Paul, was liest du denn da?"
+    },
+    {
+      "id": "cd1-t22",
+      "cd": 1,
+      "track": 22,
+      "audioUrl": "/audio/cd1/track-22.mp3",
+      "preview": "Jürgen: Na, wie war dein Wochenende, Paul?"
+    },
+    {
+      "id": "cd1-t23",
+      "cd": 1,
+      "track": 23,
+      "audioUrl": "/audio/cd1/track-23.mp3",
+      "preview": "Hr. Müller: Sportverein Münster 1910 e. V., Holger Müller"
+    },
+    {
+      "id": "cd1-t24",
+      "cd": 1,
+      "track": 24,
+      "audioUrl": "/audio/cd1/track-24.mp3",
+      "preview": "Jürgen: Guten Tag Herr Müller. Ich bin Jürgen Schneider."
+    },
+    {
+      "id": "cd1-t25",
+      "cd": 1,
+      "track": 25,
+      "audioUrl": "/audio/cd1/track-25.mp3",
+      "preview": "Jürgen: Ja, hallo."
+    }
+  ]
+}

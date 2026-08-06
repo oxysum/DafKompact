@@ -1,0 +1,88 @@
+{
+  "id": "b1-l24",
+  "level": "B1",
+  "number": 24,
+  "titleDe": "Mit der Natur arbeiten",
+  "titleEn": "Working with nature",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Mit der Natur arbeiten“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “Working with nature” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t35",
+      "cd": 3,
+      "track": 35,
+      "audioUrl": "/audio/cd3/track-35.mp3",
+      "preview": "Bernd: Hi Johann. Wie geht’s?"
+    },
+    {
+      "id": "cd3-t36",
+      "cd": 3,
+      "track": 36,
+      "audioUrl": "/audio/cd3/track-36.mp3",
+      "preview": "Johann: Also zuerst: Wo möchtest du denn arbeiten:"
+    },
+    {
+      "id": "cd3-t37",
+      "cd": 3,
+      "track": 37,
+      "audioUrl": "/audio/cd3/track-37.mp3",
+      "preview": "Bernd: Ja, hier Sager."
+    },
+    {
+      "id": "cd3-t38",
+      "cd": 3,
+      "track": 38,
+      "audioUrl": "/audio/cd3/track-38.mp3",
+      "preview": "Bernd: Hallo, guten Morgen alle zusammen. Ein herrli-"
+    },
+    {
+      "id": "cd3-t39",
+      "cd": 3,
+      "track": 39,
+      "audioUrl": "/audio/cd3/track-39.mp3",
+      "preview": "Bernd: Wie war das in der Praxis? Ich möchte hier nur"
+    },
+    {
+      "id": "cd3-t40",
+      "cd": 3,
+      "track": 40,
+      "audioUrl": "/audio/cd3/track-40.mp3",
+      "preview": "Bernd: Damit komme ich schon zu Punkt 3: Meine"
+    },
+    {
+      "id": "cd3-t41",
+      "cd": 3,
+      "track": 41,
+      "audioUrl": "/audio/cd3/track-41.mp3",
+      "preview": "Bernd: Ich komme nun zum Schluss von meinem klei-"
+    },
+    {
+      "id": "cd3-t42",
+      "cd": 3,
+      "track": 42,
+      "audioUrl": "/audio/cd3/track-42.mp3",
+      "preview": "Fr. Hoff: Hallo liebe Bio-Freunde, hier Isa Hoff vom Stadt-"
+    }
+  ]
+}

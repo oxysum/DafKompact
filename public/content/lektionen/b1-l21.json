@@ -1,0 +1,81 @@
+{
+  "id": "b1-l21",
+  "level": "B1",
+  "number": 21,
+  "titleDe": "Kreativ in Hamburg",
+  "titleEn": "Creative in Hamburg",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Kreativ in Hamburg“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “Creative in Hamburg” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t10",
+      "cd": 3,
+      "track": 10,
+      "audioUrl": "/audio/cd3/track-10.mp3",
+      "preview": "Antonia: Habt ihr am Wochenende schon was vor?"
+    },
+    {
+      "id": "cd3-t11",
+      "cd": 3,
+      "track": 11,
+      "audioUrl": "/audio/cd3/track-11.mp3",
+      "preview": "Irina: Mhm, schaut mal hier: Wie wäre es mit einem"
+    },
+    {
+      "id": "cd3-t12",
+      "cd": 3,
+      "track": 12,
+      "audioUrl": "/audio/cd3/track-12.mp3",
+      "preview": "Eleni: Wenn wir ins Theater gehen wollen, müssen wir"
+    },
+    {
+      "id": "cd3-t13",
+      "cd": 3,
+      "track": 13,
+      "audioUrl": "/audio/cd3/track-13.mp3",
+      "preview": "Sprecherin: Szene 1"
+    },
+    {
+      "id": "cd3-t14",
+      "cd": 3,
+      "track": 14,
+      "audioUrl": "/audio/cd3/track-14.mp3",
+      "preview": "Sprecherin: Szene 2"
+    },
+    {
+      "id": "cd3-t15",
+      "cd": 3,
+      "track": 15,
+      "audioUrl": "/audio/cd3/track-15.mp3",
+      "preview": "Sprecherin: Szene 3"
+    },
+    {
+      "id": "cd3-t16",
+      "cd": 3,
+      "track": 16,
+      "audioUrl": "/audio/cd3/track-16.mp3",
+      "preview": "Sprecherin: Szene 5"
+    }
+  ]
+}

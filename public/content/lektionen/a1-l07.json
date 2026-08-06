@@ -1,0 +1,1820 @@
+{
+  "id": "a1-l07",
+  "level": "A1",
+  "number": 7,
+  "titleDe": "Grüezi in der Schweiz",
+  "titleEn": "Hello in Switzerland",
+  "status": "complete",
+  "goals": [
+    {
+      "de": "Informationen über Sehenswürdigkeiten verstehen",
+      "en": "Understand information about sights"
+    },
+    {
+      "de": "Wegbeschreibungen verstehen und machen",
+      "en": "Understand and give directions"
+    },
+    {
+      "de": "Anweisungen am Fahrkartenautomaten verstehen",
+      "en": "Understand ticket machine instructions"
+    },
+    {
+      "de": "E-Mail über Erlebnisse schreiben/antworten",
+      "en": "Write or reply to an email about experiences"
+    },
+    {
+      "de": "Über kulturelle Besonderheiten bei Einladungen sprechen",
+      "en": "Talk about cultural differences when inviting"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Abschnitt",
+      "en": "section",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v2",
+      "de": "Anfang",
+      "en": "beginning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v3",
+      "de": "Anlass",
+      "en": "occasion",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v4",
+      "de": "Antwort",
+      "en": "answer",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v5",
+      "de": "Anweisung",
+      "en": "instruction",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v6",
+      "de": "Anzeige",
+      "en": "advertisement",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v7",
+      "de": "Appetit",
+      "en": "appetite",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v8",
+      "de": "Arbeit",
+      "en": "work / job",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v9",
+      "de": "Artikel",
+      "en": "article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v10",
+      "de": "Attraktion",
+      "en": "attraction",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v11",
+      "de": "Automat",
+      "en": "machine (ticket etc.)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v12",
+      "de": "Bahn",
+      "en": "train",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v13",
+      "de": "Bahnhof",
+      "en": "train station",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v14",
+      "de": "Bild",
+      "en": "picture / painting",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v15",
+      "de": "Biografie",
+      "en": "biography",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v16",
+      "de": "Bitte",
+      "en": "request / please (as noun: request)",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v17",
+      "de": "Blick",
+      "en": "view",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v18",
+      "de": "Blume",
+      "en": "flower",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v19",
+      "de": "Brot",
+      "en": "bread",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v20",
+      "de": "Bus",
+      "en": "bus",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v21",
+      "de": "Bär",
+      "en": "bear",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v22",
+      "de": "Dank",
+      "en": "Thanks to",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v23",
+      "de": "Daten",
+      "en": "data",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v24",
+      "de": "Dezember",
+      "en": "december",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v25",
+      "de": "Ecke",
+      "en": "corner",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v26",
+      "de": "Ehepaar",
+      "en": "couple",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v27",
+      "de": "Eingang",
+      "en": "entrance",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v28",
+      "de": "Einladung",
+      "en": "invitation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v29",
+      "de": "Einwohner",
+      "en": "resident",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v30",
+      "de": "Ende",
+      "en": "ending",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v31",
+      "de": "Entschuldigung",
+      "en": "excuse me / sorry",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v32",
+      "de": "Erlebnis",
+      "en": "experience",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v33",
+      "de": "Essen",
+      "en": "to eat",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v34",
+      "de": "Fahrkarte",
+      "en": "ticket",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v35",
+      "de": "Fahrkartenautomat",
+      "en": "Ticket machine",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v36",
+      "de": "Fahrrad",
+      "en": "bicycle",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v37",
+      "de": "Fehler",
+      "en": "mistake",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v38",
+      "de": "Flasche",
+      "en": "bottle",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v39",
+      "de": "Foto",
+      "en": "photo",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v40",
+      "de": "Franken",
+      "en": "franconia",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v41",
+      "de": "Fuß",
+      "en": "foot",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v42",
+      "de": "Führung",
+      "en": "guided tour",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v43",
+      "de": "Gasse",
+      "en": "alley",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v44",
+      "de": "Geburtstag",
+      "en": "birthday",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v45",
+      "de": "Gebäude",
+      "en": "building",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v46",
+      "de": "Geschenk",
+      "en": "gift / present",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v47",
+      "de": "Geschichte",
+      "en": "story",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v48",
+      "de": "Gespräch",
+      "en": "conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v49",
+      "de": "Glocke",
+      "en": "bell",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v50",
+      "de": "Glockenspiel",
+      "en": "chimes",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v51",
+      "de": "GmbH",
+      "en": "gmbH",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v52",
+      "de": "Grafik",
+      "en": "graphic",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v53",
+      "de": "Grammatik",
+      "en": "grammar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v54",
+      "de": "Grillen",
+      "en": "to grill",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v55",
+      "de": "Gruppe",
+      "en": "group",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v56",
+      "de": "Haus",
+      "en": "house",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v57",
+      "de": "Heimat",
+      "en": "home country / hometown",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v58",
+      "de": "Information",
+      "en": "information",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v59",
+      "de": "Juni",
+      "en": "june",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v60",
+      "de": "Kirche",
+      "en": "church",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v61",
+      "de": "Klasse",
+      "en": "class",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v62",
+      "de": "Kochen",
+      "en": "to cook",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v63",
+      "de": "kollege",
+      "en": "colleague",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v64",
+      "de": "Kreuzung",
+      "en": "intersection",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v65",
+      "de": "Kunst",
+      "en": "art",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v66",
+      "de": "Kunstakademie",
+      "en": "Art Academy",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v67",
+      "de": "Kunstschule",
+      "en": "Art school",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v68",
+      "de": "Kuppel",
+      "en": "dome",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v69",
+      "de": "Kurs",
+      "en": "course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v70",
+      "de": "Kursbuch",
+      "en": "Course book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v71",
+      "de": "Künstler",
+      "en": "artist",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v72",
+      "de": "Künstlerin",
+      "en": "artist",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v73",
+      "de": "Land",
+      "en": "country",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v74",
+      "de": "Leben",
+      "en": "to live (be alive)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v75",
+      "de": "Leute",
+      "en": "people",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v76",
+      "de": "Lokal",
+      "en": "local",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v77",
+      "de": "Lust",
+      "en": "desire",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v78",
+      "de": "Mal",
+      "en": "modal particle (just / once)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v79",
+      "de": "Maler",
+      "en": "painter",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v80",
+      "de": "Malerei",
+      "en": "painting",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v81",
+      "de": "Malerin",
+      "en": "painter",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v82",
+      "de": "Moment",
+      "en": "moment",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v83",
+      "de": "Morgen",
+      "en": "morning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v84",
+      "de": "Museum",
+      "en": "museum",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v85",
+      "de": "Münster",
+      "en": "muenster",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v86",
+      "de": "nichts",
+      "en": "nothing",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v87",
+      "de": "Nomen",
+      "en": "noun",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v88",
+      "de": "Obst",
+      "en": "fruit",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v89",
+      "de": "Ort",
+      "en": "location",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v90",
+      "de": "Paar",
+      "en": "couple",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v91",
+      "de": "Park",
+      "en": "park",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v92",
+      "de": "Parlament",
+      "en": "parliament",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v93",
+      "de": "Partner",
+      "en": "partner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v94",
+      "de": "Party",
+      "en": "party",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v95",
+      "de": "Person",
+      "en": "person",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v96",
+      "de": "Pizza",
+      "en": "pizza",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v97",
+      "de": "Platz",
+      "en": "square / place",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v98",
+      "de": "Po",
+      "en": "po",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v99",
+      "de": "Problem",
+      "en": "problem",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v100",
+      "de": "Redemittel",
+      "en": "means of speech",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v101",
+      "de": "Regel",
+      "en": "rule",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v102",
+      "de": "Regierung",
+      "en": "government",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v103",
+      "de": "Reihenfolge",
+      "en": "series",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v104",
+      "de": "Reise",
+      "en": "trip",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v105",
+      "de": "Reisen",
+      "en": "travel",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v106",
+      "de": "Reservieren",
+      "en": "to reserve",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v107",
+      "de": "Restaurant",
+      "en": "restaurant",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v108",
+      "de": "Sache",
+      "en": "matter",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v109",
+      "de": "Salat",
+      "en": "salad",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v110",
+      "de": "Schreiben",
+      "en": "to write",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v111",
+      "de": "Schule",
+      "en": "school",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v112",
+      "de": "Schweiz",
+      "en": "switzerland",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v113",
+      "de": "Sehenswürdigkeit",
+      "en": "sight / attraction",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v114",
+      "de": "Seite",
+      "en": "page",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v115",
+      "de": "September",
+      "en": "september",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v116",
+      "de": "Stadt",
+      "en": "city",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v117",
+      "de": "Stadtplan",
+      "en": "city map",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v118",
+      "de": "Standort",
+      "en": "location",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v119",
+      "de": "Steaks",
+      "en": "steaks",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v120",
+      "de": "Straße",
+      "en": "street",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v121",
+      "de": "Straßenbahn",
+      "en": "tram",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v122",
+      "de": "Tageskarte",
+      "en": "Day ticket",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v123",
+      "de": "Text",
+      "en": "text",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v124",
+      "de": "Tor",
+      "en": "goal",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v125",
+      "de": "Tourist",
+      "en": "tourist",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v126",
+      "de": "Touristeninformation",
+      "en": "Tourist information",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v127",
+      "de": "Treffen",
+      "en": "to meet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v128",
+      "de": "Turm",
+      "en": "tower",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v129",
+      "de": "Velo",
+      "en": "bike",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v130",
+      "de": "Verb",
+      "en": "verb",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v131",
+      "de": "Verkehrsmittel",
+      "en": "Means of transport",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v132",
+      "de": "Verwendung",
+      "en": "use",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v133",
+      "de": "Wasser",
+      "en": "water",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v134",
+      "de": "Weg",
+      "en": "way / path",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v135",
+      "de": "Wegbeschreibung",
+      "en": "directions",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v136",
+      "de": "Wein",
+      "en": "wine",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v137",
+      "de": "Wort",
+      "en": "word",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v138",
+      "de": "Wurst",
+      "en": "sausage",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v139",
+      "de": "Würstchen",
+      "en": "sausages",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v140",
+      "de": "Zeit",
+      "en": "time",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v141",
+      "de": "Zeitungsartikel",
+      "en": "Newspaper article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v142",
+      "de": "abbiegen",
+      "en": "to turn (off)",
+      "pos": "verb"
+    },
+    {
+      "id": "v143",
+      "de": "ausdrücken",
+      "en": "to express",
+      "pos": "verb"
+    },
+    {
+      "id": "v144",
+      "de": "aussteigen",
+      "en": "to get off",
+      "pos": "verb"
+    },
+    {
+      "id": "v145",
+      "de": "backen",
+      "en": "bake",
+      "pos": "verb"
+    },
+    {
+      "id": "v146",
+      "de": "beantworten",
+      "en": "answer",
+      "pos": "verb"
+    },
+    {
+      "id": "v147",
+      "de": "bedeuten",
+      "en": "to mean",
+      "pos": "verb"
+    },
+    {
+      "id": "v148",
+      "de": "beenden",
+      "en": "to end",
+      "pos": "verb"
+    },
+    {
+      "id": "v149",
+      "de": "begründen",
+      "en": "justify",
+      "pos": "verb"
+    },
+    {
+      "id": "v150",
+      "de": "besichtigen",
+      "en": "to visit",
+      "pos": "verb"
+    },
+    {
+      "id": "v151",
+      "de": "bezahlen",
+      "en": "to pay for",
+      "pos": "verb"
+    },
+    {
+      "id": "v152",
+      "de": "bringen",
+      "en": "to bring",
+      "pos": "verb"
+    },
+    {
+      "id": "v153",
+      "de": "einladen",
+      "en": "to invite",
+      "pos": "verb"
+    },
+    {
+      "id": "v154",
+      "de": "einzeichnen",
+      "en": "draw in",
+      "pos": "verb"
+    },
+    {
+      "id": "v155",
+      "de": "entlassen",
+      "en": "to dismiss",
+      "pos": "verb"
+    },
+    {
+      "id": "v156",
+      "de": "ergänzen",
+      "en": "add to",
+      "pos": "verb"
+    },
+    {
+      "id": "v157",
+      "de": "erhalten",
+      "en": "to receive",
+      "pos": "verb"
+    },
+    {
+      "id": "v158",
+      "de": "gefallen",
+      "en": "to please / like (es gefällt mir)",
+      "pos": "verb"
+    },
+    {
+      "id": "v159",
+      "de": "gehören",
+      "en": "to belong to",
+      "pos": "verb"
+    },
+    {
+      "id": "v160",
+      "de": "hören",
+      "en": "to hear",
+      "pos": "verb"
+    },
+    {
+      "id": "v161",
+      "de": "lachen",
+      "en": "laugh",
+      "pos": "verb"
+    },
+    {
+      "id": "v162",
+      "de": "mitbringen",
+      "en": "to bring along",
+      "pos": "verb"
+    },
+    {
+      "id": "v163",
+      "de": "oben",
+      "en": "above",
+      "pos": "verb"
+    },
+    {
+      "id": "v164",
+      "de": "probieren",
+      "en": "to try",
+      "pos": "verb"
+    },
+    {
+      "id": "v165",
+      "de": "Schmecken",
+      "en": "to taste (be tasty)",
+      "pos": "verb"
+    },
+    {
+      "id": "v166",
+      "de": "studieren",
+      "en": "to study",
+      "pos": "verb"
+    },
+    {
+      "id": "v167",
+      "de": "umsteigen",
+      "en": "to change (trains/buses)",
+      "pos": "verb"
+    },
+    {
+      "id": "v168",
+      "de": "Unterrichten",
+      "en": "to teach",
+      "pos": "verb"
+    },
+    {
+      "id": "v169",
+      "de": "verstehen",
+      "en": "understand",
+      "pos": "verb"
+    },
+    {
+      "id": "v170",
+      "de": "verwenden",
+      "en": "to use",
+      "pos": "verb"
+    },
+    {
+      "id": "v171",
+      "de": "wählen",
+      "en": "choose",
+      "pos": "verb"
+    },
+    {
+      "id": "v172",
+      "de": "zahlen",
+      "en": "to pay",
+      "pos": "verb"
+    },
+    {
+      "id": "v173",
+      "de": "zeichnen",
+      "en": "to draw",
+      "pos": "verb"
+    },
+    {
+      "id": "v174",
+      "de": "Zeit haben",
+      "en": "have time",
+      "pos": "verb"
+    },
+    {
+      "id": "v175",
+      "de": "überfliegen",
+      "en": "fly over",
+      "pos": "verb"
+    },
+    {
+      "id": "v176",
+      "de": "alle",
+      "en": "all / everyone",
+      "pos": "other"
+    },
+    {
+      "id": "v177",
+      "de": "allgemein",
+      "en": "generally",
+      "pos": "other"
+    },
+    {
+      "id": "v178",
+      "de": "an",
+      "en": "at / on (vertical)",
+      "pos": "other"
+    },
+    {
+      "id": "v179",
+      "de": "auf",
+      "en": "on (horizontal)",
+      "pos": "other"
+    },
+    {
+      "id": "v180",
+      "de": "Bern",
+      "en": "Bern",
+      "pos": "other"
+    },
+    {
+      "id": "v181",
+      "de": "bestimmt",
+      "en": "certainly",
+      "pos": "other"
+    },
+    {
+      "id": "v182",
+      "de": "bis zur Kreuzung",
+      "en": "to the intersection",
+      "pos": "phrase"
+    },
+    {
+      "id": "v183",
+      "de": "chinesisch",
+      "en": "chinese",
+      "pos": "other"
+    },
+    {
+      "id": "v184",
+      "de": "da",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v185",
+      "de": "Danke schön",
+      "en": "thank you very much",
+      "pos": "phrase"
+    },
+    {
+      "id": "v186",
+      "de": "dann",
+      "en": "then",
+      "pos": "other"
+    },
+    {
+      "id": "v187",
+      "de": "denn",
+      "en": "because / for",
+      "pos": "other"
+    },
+    {
+      "id": "v188",
+      "de": "direkt",
+      "en": "direct",
+      "pos": "other"
+    },
+    {
+      "id": "v189",
+      "de": "doch",
+      "en": "modal particle (do / after all)",
+      "pos": "other"
+    },
+    {
+      "id": "v190",
+      "de": "dort",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v191",
+      "de": "ernst",
+      "en": "serious",
+      "pos": "other"
+    },
+    {
+      "id": "v192",
+      "de": "etwas",
+      "en": "something",
+      "pos": "other"
+    },
+    {
+      "id": "v193",
+      "de": "falsch",
+      "en": "wrong",
+      "pos": "adjective"
+    },
+    {
+      "id": "v194",
+      "de": "fröhlich",
+      "en": "cheerful",
+      "pos": "other"
+    },
+    {
+      "id": "v195",
+      "de": "ganz",
+      "en": "quite",
+      "pos": "other"
+    },
+    {
+      "id": "v196",
+      "de": "geradeaus",
+      "en": "straight ahead",
+      "pos": "adverb"
+    },
+    {
+      "id": "v197",
+      "de": "gleich",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v198",
+      "de": "grau",
+      "en": "gray",
+      "pos": "other"
+    },
+    {
+      "id": "v199",
+      "de": "Grüezi",
+      "en": "Swiss German hello",
+      "pos": "phrase"
+    },
+    {
+      "id": "v200",
+      "de": "gültig",
+      "en": "valid",
+      "pos": "other"
+    },
+    {
+      "id": "v201",
+      "de": "immer",
+      "en": "always",
+      "pos": "other"
+    },
+    {
+      "id": "v202",
+      "de": "in",
+      "en": "in / into",
+      "pos": "other"
+    },
+    {
+      "id": "v203",
+      "de": "links",
+      "en": "left",
+      "pos": "adverb"
+    },
+    {
+      "id": "v204",
+      "de": "man",
+      "en": "one / you (general)",
+      "pos": "other"
+    },
+    {
+      "id": "v205",
+      "de": "nah",
+      "en": "near",
+      "pos": "adjective"
+    },
+    {
+      "id": "v206",
+      "de": "neben",
+      "en": "next to",
+      "pos": "other"
+    },
+    {
+      "id": "v207",
+      "de": "neu",
+      "en": "new",
+      "pos": "other"
+    },
+    {
+      "id": "v208",
+      "de": "nur",
+      "en": "only",
+      "pos": "other"
+    },
+    {
+      "id": "v209",
+      "de": "rechts",
+      "en": "right",
+      "pos": "adverb"
+    },
+    {
+      "id": "v210",
+      "de": "richtig",
+      "en": "right / correct",
+      "pos": "adjective"
+    },
+    {
+      "id": "v211",
+      "de": "schlimm",
+      "en": "terrible",
+      "pos": "other"
+    },
+    {
+      "id": "v212",
+      "de": "sicher",
+      "en": "secure",
+      "pos": "other"
+    },
+    {
+      "id": "v213",
+      "de": "total",
+      "en": "total",
+      "pos": "other"
+    },
+    {
+      "id": "v214",
+      "de": "vielleicht",
+      "en": "perhaps",
+      "pos": "other"
+    },
+    {
+      "id": "v215",
+      "de": "weit",
+      "en": "far",
+      "pos": "adjective"
+    },
+    {
+      "id": "v216",
+      "de": "weiter",
+      "en": "further",
+      "pos": "other"
+    },
+    {
+      "id": "v217",
+      "de": "weiß",
+      "en": "white",
+      "pos": "other"
+    },
+    {
+      "id": "v218",
+      "de": "Wie komme ich zu …?",
+      "en": "How do I get to …?",
+      "pos": "phrase"
+    },
+    {
+      "id": "v219",
+      "de": "Wo ist …?",
+      "en": "Where is …?",
+      "pos": "phrase"
+    },
+    {
+      "id": "v220",
+      "de": "zu Fuß",
+      "en": "on foot",
+      "pos": "phrase"
+    },
+    {
+      "id": "v221",
+      "de": "zu Fuß gehen",
+      "en": "to walk",
+      "pos": "phrase"
+    },
+    {
+      "id": "v222",
+      "de": "über",
+      "en": "about / over",
+      "pos": "other"
+    },
+    {
+      "id": "v223",
+      "de": "über die Kreuzung",
+      "en": "across the intersection",
+      "pos": "phrase"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Ortsangaben mit Akkusativ und Dativ",
+      "titleEn": "Place phrases with accusative and dative",
+      "explanationEn": "Two-way prepositions (in, an, auf, neben…): location (where?) → dative; direction (where to?) → accusative. Ich bin in der Stadt. Ich gehe in die Stadt.",
+      "patterns": [
+        "Wo? → Dativ",
+        "Wohin? → Akkusativ"
+      ],
+      "examples": [
+        {
+          "de": "Das Museum ist neben dem Bahnhof.",
+          "en": "The museum is next to the station."
+        },
+        {
+          "de": "Wir gehen auf den Platz.",
+          "en": "We go onto the square."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "titleDe": "Indefinitpronomen etwas/nichts/alle/man; Präsens für Zukunft",
+      "titleEn": "Indefinite pronouns; present for future",
+      "explanationEn": "man sagt… = people say. etwas/nichts. Present can mean future with a time word: Morgen fahren wir nach Bern.",
+      "patterns": [
+        "Man nimmt die Straßenbahn.",
+        "Morgen besuche ich das Museum."
+      ],
+      "examples": [
+        {
+          "de": "Hier findet man nichts Interessantes.",
+          "en": "You find nothing interesting here."
+        },
+        {
+          "de": "Nächste Woche fahren wir in die Schweiz.",
+          "en": "Next week we are going to Switzerland."
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "Wohin?",
+      "promptEn": "Where to?",
+      "content": "Ich gehe ___ Bahnhof. (zu dem → zum)",
+      "options": [
+        "zum",
+        "beim",
+        "im",
+        "am"
+      ],
+      "answer": "zum",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "Wo?",
+      "promptEn": "Where?",
+      "content": "Das Café ist in ___ Straße. (die → der)",
+      "answer": "der",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Wohin Akk.",
+      "promptEn": "Accusative direction",
+      "content": "Wir gehen in ___ Museum. (das)",
+      "options": [
+        "das",
+        "dem",
+        "des",
+        "der"
+      ],
+      "answer": "das",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "man",
+      "promptEn": "man",
+      "content": "___ kauft die Fahrkarte am Automaten.",
+      "answer": "Man",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Weg",
+      "promptEn": "Directions",
+      "content": "links | Gehen | Sie | an | der | Kreuzung | .",
+      "answer": "Gehen Sie an der Kreuzung links.",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Zukunft",
+      "promptEn": "Future meaning",
+      "content": "Morgen ___ wir nach Bern.",
+      "options": [
+        "fahren",
+        "gefahren",
+        "fuhren",
+        "seid"
+      ],
+      "answer": "fahren",
+      "grammarId": "g2"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "vocab-de-en",
+      "prompt": "„geradeaus“ means…",
+      "options": [
+        "straight ahead",
+        "left",
+        "right",
+        "far"
+      ],
+      "answer": "straight ahead",
+      "vocabId": "v8"
+    },
+    {
+      "id": "q2",
+      "type": "grammar-mc",
+      "prompt": "Ich bin ___ Stadt. (in + die)",
+      "options": [
+        "in der",
+        "in die",
+        "in dem",
+        "in das"
+      ],
+      "answer": "in der",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "vocab-en-de",
+      "prompt": "“ticket”:",
+      "options": [
+        "die Fahrkarte",
+        "der Automat",
+        "der Weg",
+        "der Platz"
+      ],
+      "answer": "die Fahrkarte",
+      "vocabId": "v13"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Wir gehen auf ___ Platz. (der)",
+      "answer": "den",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q5",
+      "type": "vocab-de-en",
+      "prompt": "„die Sehenswürdigkeit“ means…",
+      "options": [
+        "sight / attraction",
+        "invitation",
+        "map",
+        "station"
+      ],
+      "answer": "sight / attraction",
+      "vocabId": "v4"
+    },
+    {
+      "id": "q6",
+      "type": "grammar-mc",
+      "prompt": "___ spricht hier Schweizerdeutsch.",
+      "options": [
+        "Man",
+        "Etwas",
+        "Nichts",
+        "Alle ist"
+      ],
+      "answer": "Man",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-en-de",
+      "prompt": "“intersection”:",
+      "options": [
+        "die Kreuzung",
+        "die Straße",
+        "der Bahnhof",
+        "der Stadtplan"
+      ],
+      "answer": "die Kreuzung",
+      "vocabId": "v9"
+    },
+    {
+      "id": "q8",
+      "type": "cloze",
+      "prompt": "Complete: Das Museum ist neben ___ Bahnhof. (der)",
+      "answer": "dem",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q9",
+      "type": "cloze",
+      "prompt": "Complete with separable verb: Nächste Woche ___ ich dich ___. (einladen)",
+      "answer": "lade ein",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-de-en",
+      "prompt": "„gefallen“ (Es gefällt mir) means…",
+      "options": [
+        "to like / please",
+        "to invite",
+        "to find",
+        "to go"
+      ],
+      "answer": "to like / please",
+      "vocabId": "v20"
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd1-t42",
+      "cd": 1,
+      "track": 42,
+      "audioUrl": "/audio/cd1/track-42.mp3",
+      "preview": "Sprecherin: Herzlich willkommen und Grüezi in Bern, in"
+    },
+    {
+      "id": "cd1-t43",
+      "cd": 1,
+      "track": 43,
+      "audioUrl": "/audio/cd1/track-43.mp3",
+      "preview": "Sprecherin: Eine besondere Attraktion ist der Bären-"
+    },
+    {
+      "id": "cd1-t44",
+      "cd": 1,
+      "track": 44,
+      "audioUrl": "/audio/cd1/track-44.mp3",
+      "preview": "Sprecherin: Eine andere Sehenswürdigkeit ist der Zeit-"
+    },
+    {
+      "id": "cd1-t45",
+      "cd": 1,
+      "track": 45,
+      "audioUrl": "/audio/cd1/track-45.mp3",
+      "preview": "Sprecherin: Hier das große Gebäude mit der Kuppel ist"
+    },
+    {
+      "id": "cd1-t46",
+      "cd": 1,
+      "track": 46,
+      "audioUrl": "/audio/cd1/track-46.mp3",
+      "preview": "Melanie: Guten Tag!"
+    },
+    {
+      "id": "cd1-t47",
+      "cd": 1,
+      "track": 47,
+      "audioUrl": "/audio/cd1/track-47.mp3",
+      "preview": "Melanie: Entschuldigung, wie komme ich zum Bundes-"
+    },
+    {
+      "id": "cd1-t48",
+      "cd": 1,
+      "track": 48,
+      "audioUrl": "/audio/cd1/track-48.mp3",
+      "preview": "Melanie: Entschuldigung, wie komme ich zur Zyt-"
+    },
+    {
+      "id": "cd1-t49",
+      "cd": 1,
+      "track": 49,
+      "audioUrl": "/audio/cd1/track-49.mp3",
+      "preview": "Melanie: Entschuldigung, können Sie mir helfen?"
+    },
+    {
+      "id": "cd1-t50",
+      "cd": 1,
+      "track": 50,
+      "audioUrl": "/audio/cd1/track-50.mp3",
+      "preview": "Michael: Hoi Melanie! Herzlich willkommen! Komm"
+    },
+    {
+      "id": "cd1-t51",
+      "cd": 1,
+      "track": 51,
+      "audioUrl": "/audio/cd1/track-51.mp3",
+      "preview": "Melanie: Verflixt! Jetzt bin ich doch falsch hier. So ein"
+    },
+    {
+      "id": "cd1-t52",
+      "cd": 1,
+      "track": 52,
+      "audioUrl": "/audio/cd1/track-52.mp3",
+      "preview": "Sprecher: Dieses Ölbild gehört zu den „Quadratbildern“,"
+    }
+  ]
+}

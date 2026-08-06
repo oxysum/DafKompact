@@ -1,0 +1,46 @@
+{
+  "id": "b1-l25",
+  "level": "B1",
+  "number": 25,
+  "titleDe": "Die Kunst, (keine) Fehler zu machen",
+  "titleEn": "The art of (not) making mistakes",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Die Kunst, (keine) Fehler zu machen“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “The art of (not) making mistakes” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t43",
+      "cd": 3,
+      "track": 43,
+      "audioUrl": "/audio/cd3/track-43.mp3",
+      "preview": "Malika: Hallo?"
+    },
+    {
+      "id": "cd3-t44",
+      "cd": 3,
+      "track": 44,
+      "audioUrl": "/audio/cd3/track-44.mp3",
+      "preview": "Astrid: Hallo, hier Beck."
+    }
+  ]
+}

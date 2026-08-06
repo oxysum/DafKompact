@@ -1,0 +1,1588 @@
+{
+  "1": [
+    {
+      "id": "cd1-t01",
+      "cd": 1,
+      "track": 1,
+      "audioUrl": "/audio/cd1/track-01.mp3",
+      "preview": "Carlos: Guten Tag, ich bin der neue Praktikant."
+    },
+    {
+      "id": "cd1-t02",
+      "cd": 1,
+      "track": 2,
+      "audioUrl": "/audio/cd1/track-02.mp3",
+      "preview": "Sprecherin: Gespräch 1"
+    },
+    {
+      "id": "cd1-t03",
+      "cd": 1,
+      "track": 3,
+      "audioUrl": "/audio/cd1/track-03.mp3",
+      "preview": "Sprecherin: Gespräch 2"
+    },
+    {
+      "id": "cd1-t04",
+      "cd": 1,
+      "track": 4,
+      "audioUrl": "/audio/cd1/track-04.mp3",
+      "preview": "Anne: Georg kommt heute zum Essen. Kommst du auch?"
+    },
+    {
+      "id": "cd1-t05",
+      "cd": 1,
+      "track": 5,
+      "audioUrl": "/audio/cd1/track-05.mp3",
+      "preview": "Sprecher: elf, zwölf, dreizehn, vierzehn, fünfzehn, sech-"
+    },
+    {
+      "id": "cd1-t06",
+      "cd": 1,
+      "track": 6,
+      "audioUrl": "/audio/cd1/track-06.mp3",
+      "preview": "Carlos: Carlos Rodriguez, Techno Design, guten Tag."
+    },
+    {
+      "id": "cd1-t07",
+      "cd": 1,
+      "track": 7,
+      "audioUrl": "/audio/cd1/track-07.mp3",
+      "preview": "Sprecher: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S,"
+    }
+  ],
+  "2": [
+    {
+      "id": "cd1-t08",
+      "cd": 1,
+      "track": 8,
+      "audioUrl": "/audio/cd1/track-08.mp3",
+      "preview": "Silke Ostermann: Guten Morgen Frau Meier. Wie geht es"
+    },
+    {
+      "id": "cd1-t09",
+      "cd": 1,
+      "track": 9,
+      "audioUrl": "/audio/cd1/track-09.mp3",
+      "preview": "Silke Ostermann: Ah, heute um 11.00 Uhr ist das Treffen"
+    },
+    {
+      "id": "cd1-t10",
+      "cd": 1,
+      "track": 10,
+      "audioUrl": "/audio/cd1/track-10.mp3",
+      "preview": "Silke: Ja, hier Ostermann."
+    },
+    {
+      "id": "cd1-t11",
+      "cd": 1,
+      "track": 11,
+      "audioUrl": "/audio/cd1/track-11.mp3",
+      "preview": "Die Prinzen: Auszug aus dem Song “Abgehau’n“"
+    },
+    {
+      "id": "cd1-t12",
+      "cd": 1,
+      "track": 12,
+      "audioUrl": "/audio/cd1/track-12.mp3",
+      "preview": "Thomas: Du, Silke, wann machen wir im Sommer"
+    },
+    {
+      "id": "cd1-t13",
+      "cd": 1,
+      "track": 13,
+      "audioUrl": "/audio/cd1/track-13.mp3",
+      "preview": "Fr. Beyer: Hier Margret Beyer."
+    },
+    {
+      "id": "cd1-t14",
+      "cd": 1,
+      "track": 14,
+      "audioUrl": "/audio/cd1/track-14.mp3",
+      "preview": "Fr. Beyer: Ja, hier Beyer."
+    }
+  ],
+  "3": [
+    {
+      "id": "cd1-t15",
+      "cd": 1,
+      "track": 15,
+      "audioUrl": "/audio/cd1/track-15.mp3",
+      "preview": "Fr. May: Möchtest du auch etwas trinken, Sylvie?"
+    },
+    {
+      "id": "cd1-t16",
+      "cd": 1,
+      "track": 16,
+      "audioUrl": "/audio/cd1/track-16.mp3",
+      "preview": "Fr. May: Sylvie, kannst du kochen?"
+    },
+    {
+      "id": "cd1-t17",
+      "cd": 1,
+      "track": 17,
+      "audioUrl": "/audio/cd1/track-17.mp3",
+      "preview": "Sprecher: Liebe Kundinnen und Kunden, heute im Ange-"
+    },
+    {
+      "id": "cd1-t18",
+      "cd": 1,
+      "track": 18,
+      "audioUrl": "/audio/cd1/track-18.mp3",
+      "preview": "Fr. May: Sylvie, ich muss morgen schon morgens arbei-"
+    },
+    {
+      "id": "cd1-t19",
+      "cd": 1,
+      "track": 19,
+      "audioUrl": "/audio/cd1/track-19.mp3",
+      "preview": "Sylvie: Guten Tag."
+    },
+    {
+      "id": "cd1-t20",
+      "cd": 1,
+      "track": 20,
+      "audioUrl": "/audio/cd1/track-20.mp3",
+      "preview": "Sylvie: Jan, du hast aber viele Fotos hier! Ist das alles"
+    }
+  ],
+  "4": [
+    {
+      "id": "cd1-t21",
+      "cd": 1,
+      "track": 21,
+      "audioUrl": "/audio/cd1/track-21.mp3",
+      "preview": "Jürgen: Hallo Paul, was liest du denn da?"
+    },
+    {
+      "id": "cd1-t22",
+      "cd": 1,
+      "track": 22,
+      "audioUrl": "/audio/cd1/track-22.mp3",
+      "preview": "Jürgen: Na, wie war dein Wochenende, Paul?"
+    },
+    {
+      "id": "cd1-t23",
+      "cd": 1,
+      "track": 23,
+      "audioUrl": "/audio/cd1/track-23.mp3",
+      "preview": "Hr. Müller: Sportverein Münster 1910 e. V., Holger Müller"
+    },
+    {
+      "id": "cd1-t24",
+      "cd": 1,
+      "track": 24,
+      "audioUrl": "/audio/cd1/track-24.mp3",
+      "preview": "Jürgen: Guten Tag Herr Müller. Ich bin Jürgen Schneider."
+    },
+    {
+      "id": "cd1-t25",
+      "cd": 1,
+      "track": 25,
+      "audioUrl": "/audio/cd1/track-25.mp3",
+      "preview": "Jürgen: Ja, hallo."
+    }
+  ],
+  "5": [
+    {
+      "id": "cd1-t26",
+      "cd": 1,
+      "track": 26,
+      "audioUrl": "/audio/cd1/track-26.mp3",
+      "preview": "Sprecher: Wie geht’s dir?"
+    },
+    {
+      "id": "cd1-t27",
+      "cd": 1,
+      "track": 27,
+      "audioUrl": "/audio/cd1/track-27.mp3",
+      "preview": "Sprecherin: Gespräch 1"
+    },
+    {
+      "id": "cd1-t28",
+      "cd": 1,
+      "track": 28,
+      "audioUrl": "/audio/cd1/track-28.mp3",
+      "preview": "Sprecherin: Gespräch 2"
+    },
+    {
+      "id": "cd1-t29",
+      "cd": 1,
+      "track": 29,
+      "audioUrl": "/audio/cd1/track-29.mp3",
+      "preview": "Sprecherin: Gespräch 3"
+    },
+    {
+      "id": "cd1-t30",
+      "cd": 1,
+      "track": 30,
+      "audioUrl": "/audio/cd1/track-30.mp3",
+      "preview": "Leon: Oliver, ich habe eine Bitte. Ich möchte nach"
+    },
+    {
+      "id": "cd1-t31",
+      "cd": 1,
+      "track": 31,
+      "audioUrl": "/audio/cd1/track-31.mp3",
+      "preview": "Sprecherin: Gespräch 1"
+    },
+    {
+      "id": "cd1-t32",
+      "cd": 1,
+      "track": 32,
+      "audioUrl": "/audio/cd1/track-32.mp3",
+      "preview": "Sprecherin: Gespräch 2"
+    },
+    {
+      "id": "cd1-t33",
+      "cd": 1,
+      "track": 33,
+      "audioUrl": "/audio/cd1/track-33.mp3",
+      "preview": "Fr. Schmidt: Hier, Schmidt. Guten Tag."
+    }
+  ],
+  "6": [
+    {
+      "id": "cd1-t34",
+      "cd": 1,
+      "track": 34,
+      "audioUrl": "/audio/cd1/track-34.mp3",
+      "preview": "Fr. Wald: Hallo Herr Schneider, Mittagspause! Kommen"
+    },
+    {
+      "id": "cd1-t35",
+      "cd": 1,
+      "track": 35,
+      "audioUrl": "/audio/cd1/track-35.mp3",
+      "preview": "Max: Entschuldigen Sie bitte, können Sie mir helfen?"
+    },
+    {
+      "id": "cd1-t36",
+      "cd": 1,
+      "track": 36,
+      "audioUrl": "/audio/cd1/track-36.mp3",
+      "preview": "Max: So! Jetzt hab’ ich alles sortiert. Komm doch bitte"
+    },
+    {
+      "id": "cd1-t37",
+      "cd": 1,
+      "track": 37,
+      "audioUrl": "/audio/cd1/track-37.mp3",
+      "preview": "Sprecher: Lies die Anleitung, du Dummkopf! Nimm"
+    },
+    {
+      "id": "cd1-t38",
+      "cd": 1,
+      "track": 38,
+      "audioUrl": "/audio/cd1/track-38.mp3",
+      "preview": "Lena: Hallo Max. Du bist ja schon da."
+    },
+    {
+      "id": "cd1-t39",
+      "cd": 1,
+      "track": 39,
+      "audioUrl": "/audio/cd1/track-39.mp3",
+      "preview": "Max: Lena, schau mal hier! Oh Gott!"
+    },
+    {
+      "id": "cd1-t40",
+      "cd": 1,
+      "track": 40,
+      "audioUrl": "/audio/cd1/track-40.mp3",
+      "preview": "Max: Lena, schau mal, das weiße Hemd ist rosa! Und"
+    },
+    {
+      "id": "cd1-t41",
+      "cd": 1,
+      "track": 41,
+      "audioUrl": "/audio/cd1/track-41.mp3",
+      "preview": "Sprecher: Was die Waschmaschine sagt (vgl. Lektion 6,"
+    }
+  ],
+  "7": [
+    {
+      "id": "cd1-t42",
+      "cd": 1,
+      "track": 42,
+      "audioUrl": "/audio/cd1/track-42.mp3",
+      "preview": "Sprecherin: Herzlich willkommen und Grüezi in Bern, in"
+    },
+    {
+      "id": "cd1-t43",
+      "cd": 1,
+      "track": 43,
+      "audioUrl": "/audio/cd1/track-43.mp3",
+      "preview": "Sprecherin: Eine besondere Attraktion ist der Bären-"
+    },
+    {
+      "id": "cd1-t44",
+      "cd": 1,
+      "track": 44,
+      "audioUrl": "/audio/cd1/track-44.mp3",
+      "preview": "Sprecherin: Eine andere Sehenswürdigkeit ist der Zeit-"
+    },
+    {
+      "id": "cd1-t45",
+      "cd": 1,
+      "track": 45,
+      "audioUrl": "/audio/cd1/track-45.mp3",
+      "preview": "Sprecherin: Hier das große Gebäude mit der Kuppel ist"
+    },
+    {
+      "id": "cd1-t46",
+      "cd": 1,
+      "track": 46,
+      "audioUrl": "/audio/cd1/track-46.mp3",
+      "preview": "Melanie: Guten Tag!"
+    },
+    {
+      "id": "cd1-t47",
+      "cd": 1,
+      "track": 47,
+      "audioUrl": "/audio/cd1/track-47.mp3",
+      "preview": "Melanie: Entschuldigung, wie komme ich zum Bundes-"
+    },
+    {
+      "id": "cd1-t48",
+      "cd": 1,
+      "track": 48,
+      "audioUrl": "/audio/cd1/track-48.mp3",
+      "preview": "Melanie: Entschuldigung, wie komme ich zur Zyt-"
+    },
+    {
+      "id": "cd1-t49",
+      "cd": 1,
+      "track": 49,
+      "audioUrl": "/audio/cd1/track-49.mp3",
+      "preview": "Melanie: Entschuldigung, können Sie mir helfen?"
+    },
+    {
+      "id": "cd1-t50",
+      "cd": 1,
+      "track": 50,
+      "audioUrl": "/audio/cd1/track-50.mp3",
+      "preview": "Michael: Hoi Melanie! Herzlich willkommen! Komm"
+    },
+    {
+      "id": "cd1-t51",
+      "cd": 1,
+      "track": 51,
+      "audioUrl": "/audio/cd1/track-51.mp3",
+      "preview": "Melanie: Verflixt! Jetzt bin ich doch falsch hier. So ein"
+    },
+    {
+      "id": "cd1-t52",
+      "cd": 1,
+      "track": 52,
+      "audioUrl": "/audio/cd1/track-52.mp3",
+      "preview": "Sprecher: Dieses Ölbild gehört zu den „Quadratbildern“,"
+    }
+  ],
+  "8": [
+    {
+      "id": "cd1-t53",
+      "cd": 1,
+      "track": 53,
+      "audioUrl": "/audio/cd1/track-53.mp3",
+      "preview": "Radiomoderatorin: Und nun zu unseren Restaurant-"
+    },
+    {
+      "id": "cd1-t54",
+      "cd": 1,
+      "track": 54,
+      "audioUrl": "/audio/cd1/track-54.mp3",
+      "preview": "Kellner: Wiener Beisl, grüß Gott."
+    },
+    {
+      "id": "cd1-t55",
+      "cd": 1,
+      "track": 55,
+      "audioUrl": "/audio/cd1/track-55.mp3",
+      "preview": "Wibke: Hast du gesehen? Hier gibt es Schweinebraten!"
+    },
+    {
+      "id": "cd1-t56",
+      "cd": 1,
+      "track": 56,
+      "audioUrl": "/audio/cd1/track-56.mp3",
+      "preview": "Manfred: Mmh, ich liebe Schweinebraten. Möchtest du"
+    },
+    {
+      "id": "cd1-t57",
+      "cd": 1,
+      "track": 57,
+      "audioUrl": "/audio/cd1/track-57.mp3",
+      "preview": "Manfred: Ah, jetzt bin ich aber wirklich satt."
+    },
+    {
+      "id": "cd1-t58",
+      "cd": 1,
+      "track": 58,
+      "audioUrl": "/audio/cd1/track-58.mp3",
+      "preview": "Manfred: Hallo Wibke!"
+    },
+    {
+      "id": "cd1-t59",
+      "cd": 1,
+      "track": 59,
+      "audioUrl": "/audio/cd1/track-59.mp3",
+      "preview": "Frau 1: So eine Party mit Kollegen ist eine tolle Idee."
+    }
+  ],
+  "9": [
+    {
+      "id": "cd1-t60",
+      "cd": 1,
+      "track": 60,
+      "audioUrl": "/audio/cd1/track-60.mp3",
+      "preview": "Anita: Markus, leg doch bitte mal die Zeitung weg. Also,"
+    },
+    {
+      "id": "cd1-t61",
+      "cd": 1,
+      "track": 61,
+      "audioUrl": "/audio/cd1/track-61.mp3",
+      "preview": "Anita: Die erste Frage ist: Wie feiern wir denn dieses"
+    },
+    {
+      "id": "cd1-t62",
+      "cd": 1,
+      "track": 62,
+      "audioUrl": "/audio/cd1/track-62.mp3",
+      "preview": "Markus: Schon 10.00 Uhr. Sollen wir jetzt einkaufen"
+    },
+    {
+      "id": "cd1-t63",
+      "cd": 1,
+      "track": 63,
+      "audioUrl": "/audio/cd1/track-63.mp3",
+      "preview": "Anita: Jetzt fehlt noch Tante Hilda."
+    },
+    {
+      "id": "cd1-t64",
+      "cd": 1,
+      "track": 64,
+      "audioUrl": "/audio/cd1/track-64.mp3",
+      "preview": "Anita: Bitte, nehmen Sie doch noch etwas Nachtisch!"
+    },
+    {
+      "id": "cd1-t65",
+      "cd": 1,
+      "track": 65,
+      "audioUrl": "/audio/cd1/track-65.mp3",
+      "preview": "Anita: Entschuldige, Mama, Entschuldigung, Frau Li,"
+    }
+  ],
+  "10": [
+    {
+      "id": "cd1-t66",
+      "cd": 1,
+      "track": 66,
+      "audioUrl": "/audio/cd1/track-66.mp3",
+      "preview": "Andrea: Guten Morgen Herr Studer, haben Sie vielleicht"
+    },
+    {
+      "id": "cd1-t67",
+      "cd": 1,
+      "track": 67,
+      "audioUrl": "/audio/cd1/track-67.mp3",
+      "preview": "Andrea: Schauen wir mal die Anzeigen an. Guck mal die"
+    },
+    {
+      "id": "cd1-t68",
+      "cd": 1,
+      "track": 68,
+      "audioUrl": "/audio/cd1/track-68.mp3",
+      "preview": "Hr. Beck: Beck."
+    },
+    {
+      "id": "cd1-t69",
+      "cd": 1,
+      "track": 69,
+      "audioUrl": "/audio/cd1/track-69.mp3",
+      "preview": "Andrea: Können wir denn die Wohnung mal anschauen?"
+    },
+    {
+      "id": "cd1-t70",
+      "cd": 1,
+      "track": 70,
+      "audioUrl": "/audio/cd1/track-70.mp3",
+      "preview": "Andrea: Ähm, noch eine Frage: In der Anzeige steht"
+    },
+    {
+      "id": "cd1-t71",
+      "cd": 1,
+      "track": 71,
+      "audioUrl": "/audio/cd1/track-71.mp3",
+      "preview": "Fr. Wyss: Also, hier ist die Hausordnung. Sie ist ein Teil"
+    },
+    {
+      "id": "cd1-t72",
+      "cd": 1,
+      "track": 72,
+      "audioUrl": "/audio/cd1/track-72.mp3",
+      "preview": "Fr. Wyss: So, das haben wir. Dann viel Glück in Enge!"
+    },
+    {
+      "id": "cd1-t73",
+      "cd": 1,
+      "track": 73,
+      "audioUrl": "/audio/cd1/track-73.mp3",
+      "preview": "Andrea: Lara, das ist bestimmt dein Bruder."
+    },
+    {
+      "id": "cd1-t74",
+      "cd": 1,
+      "track": 74,
+      "audioUrl": "/audio/cd1/track-74.mp3",
+      "preview": "Sven: Oh Gott! Die Schrankwand ist ja schrecklich!"
+    },
+    {
+      "id": "cd1-t75",
+      "cd": 1,
+      "track": 75,
+      "audioUrl": "/audio/cd1/track-75.mp3",
+      "preview": "Andrea: Sollen wir nicht mal eine Pause machen?"
+    }
+  ],
+  "11": [
+    {
+      "id": "cd2-t01",
+      "cd": 2,
+      "track": 1,
+      "audioUrl": "/audio/cd2/track-01.mp3",
+      "preview": "Eva: Eva Rupp, hallo."
+    },
+    {
+      "id": "cd2-t02",
+      "cd": 2,
+      "track": 2,
+      "audioUrl": "/audio/cd2/track-02.mp3",
+      "preview": "Eva: Und was möchtest du studieren?"
+    },
+    {
+      "id": "cd2-t03",
+      "cd": 2,
+      "track": 3,
+      "audioUrl": "/audio/cd2/track-03.mp3",
+      "preview": "Fred: Hallo!"
+    },
+    {
+      "id": "cd2-t04",
+      "cd": 2,
+      "track": 4,
+      "audioUrl": "/audio/cd2/track-04.mp3",
+      "preview": "Radiomoderatorin: Hallo Bernhard, wir können doch"
+    }
+  ],
+  "12": [
+    {
+      "id": "cd2-t05",
+      "cd": 2,
+      "track": 5,
+      "audioUrl": "/audio/cd2/track-05.mp3",
+      "preview": "Bankangestellte: Guten Tag. Was kann ich für Sie tun?"
+    },
+    {
+      "id": "cd2-t06",
+      "cd": 2,
+      "track": 6,
+      "audioUrl": "/audio/cd2/track-06.mp3",
+      "preview": "Fr. Glimpf: Guten Tag Herr Andrade."
+    },
+    {
+      "id": "cd2-t07",
+      "cd": 2,
+      "track": 7,
+      "audioUrl": "/audio/cd2/track-07.mp3",
+      "preview": "Rui: Also. Ihre Bedingungen. Stimmt es, dass das Giro-"
+    },
+    {
+      "id": "cd2-t08",
+      "cd": 2,
+      "track": 8,
+      "audioUrl": "/audio/cd2/track-08.mp3",
+      "preview": "Rui: Entschuldigen Sie, können Sie mir helfen? Ich habe"
+    },
+    {
+      "id": "cd2-t09",
+      "cd": 2,
+      "track": 9,
+      "audioUrl": "/audio/cd2/track-09.mp3",
+      "preview": "Rui: Guten Tag!"
+    },
+    {
+      "id": "cd2-t10",
+      "cd": 2,
+      "track": 10,
+      "audioUrl": "/audio/cd2/track-10.mp3",
+      "preview": "Rui: Das war so: Meine Frau und ich wollten gestern"
+    },
+    {
+      "id": "cd2-t11",
+      "cd": 2,
+      "track": 11,
+      "audioUrl": "/audio/cd2/track-11.mp3",
+      "preview": "Rui: Guten Tag."
+    }
+  ],
+  "13": [
+    {
+      "id": "cd2-t12",
+      "cd": 2,
+      "track": 12,
+      "audioUrl": "/audio/cd2/track-12.mp3",
+      "preview": "Arzthelferin: Hier Praxis Dr. Hofer, Ulrike Meinhardt."
+    },
+    {
+      "id": "cd2-t13",
+      "cd": 2,
+      "track": 13,
+      "audioUrl": "/audio/cd2/track-13.mp3",
+      "preview": "Beate: Guten Morgen."
+    },
+    {
+      "id": "cd2-t14",
+      "cd": 2,
+      "track": 14,
+      "audioUrl": "/audio/cd2/track-14.mp3",
+      "preview": "Dr. Hofer: Frau Scheidt, bitte."
+    },
+    {
+      "id": "cd2-t15",
+      "cd": 2,
+      "track": 15,
+      "audioUrl": "/audio/cd2/track-15.mp3",
+      "preview": "Dr. Hofer: Also, Frau Scheidt, Sie sind nicht sehr krank,"
+    },
+    {
+      "id": "cd2-t16",
+      "cd": 2,
+      "track": 16,
+      "audioUrl": "/audio/cd2/track-16.mp3",
+      "preview": "Dr. Hofer: Sie bekommen noch ein Rezept. Ich verschrei-"
+    },
+    {
+      "id": "cd2-t17",
+      "cd": 2,
+      "track": 17,
+      "audioUrl": "/audio/cd2/track-17.mp3",
+      "preview": "Beate: Seht ihr? Da ist die gläserne Frau."
+    }
+  ],
+  "14": [
+    {
+      "id": "cd2-t18",
+      "cd": 2,
+      "track": 18,
+      "audioUrl": "/audio/cd2/track-18.mp3",
+      "preview": "Fritzi: Mmh! Draußen sitzen – ist das nicht herrlich?"
+    },
+    {
+      "id": "cd2-t19",
+      "cd": 2,
+      "track": 19,
+      "audioUrl": "/audio/cd2/track-19.mp3",
+      "preview": "Radiomoderator: Und hier nun die Wettervorhersage"
+    },
+    {
+      "id": "cd2-t20",
+      "cd": 2,
+      "track": 20,
+      "audioUrl": "/audio/cd2/track-20.mp3",
+      "preview": "Fritzi: Schau mal, Isabella, wir wollen shoppen gehen"
+    },
+    {
+      "id": "cd2-t21",
+      "cd": 2,
+      "track": 21,
+      "audioUrl": "/audio/cd2/track-21.mp3",
+      "preview": "Fritzi: Schau mal, wie findest du den Wollpullover?"
+    },
+    {
+      "id": "cd2-t22",
+      "cd": 2,
+      "track": 22,
+      "audioUrl": "/audio/cd2/track-22.mp3",
+      "preview": "Isabella: Schau mal: Wie gefällt dir denn die Strick-"
+    },
+    {
+      "id": "cd2-t23",
+      "cd": 2,
+      "track": 23,
+      "audioUrl": "/audio/cd2/track-23.mp3",
+      "preview": "Sprecherin: Der Sommer geht, der Herbst kommt."
+    },
+    {
+      "id": "cd2-t24",
+      "cd": 2,
+      "track": 24,
+      "audioUrl": "/audio/cd2/track-24.mp3",
+      "preview": "Sprecherin: Unsere neue Herbstkollektion wartet schon"
+    },
+    {
+      "id": "cd2-t25",
+      "cd": 2,
+      "track": 25,
+      "audioUrl": "/audio/cd2/track-25.mp3",
+      "preview": "Sprecherin: Heute großer Aktionstag in der Sportabtei-"
+    },
+    {
+      "id": "cd2-t26",
+      "cd": 2,
+      "track": 26,
+      "audioUrl": "/audio/cd2/track-26.mp3",
+      "preview": "Sprecherin: Liebe Kundinnen und Kunden, besuchen"
+    },
+    {
+      "id": "cd2-t27",
+      "cd": 2,
+      "track": 27,
+      "audioUrl": "/audio/cd2/track-27.mp3",
+      "preview": "Verkäuferin: Kann ich Ihnen helfen?"
+    }
+  ],
+  "15": [
+    {
+      "id": "cd2-t28",
+      "cd": 2,
+      "track": 28,
+      "audioUrl": "/audio/cd2/track-28.mp3",
+      "preview": "Jörg: Hallo Ruth, schön, dass du anrufst!"
+    },
+    {
+      "id": "cd2-t29",
+      "cd": 2,
+      "track": 29,
+      "audioUrl": "/audio/cd2/track-29.mp3",
+      "preview": "Jörg: Entschuldigung, vielleicht können Sie mir helfen?"
+    },
+    {
+      "id": "cd2-t30",
+      "cd": 2,
+      "track": 30,
+      "audioUrl": "/audio/cd2/track-30.mp3",
+      "preview": "Michael: Wollen wir übermorgen am Vormittag etwas"
+    },
+    {
+      "id": "cd2-t31",
+      "cd": 2,
+      "track": 31,
+      "audioUrl": "/audio/cd2/track-31.mp3",
+      "preview": "Jörg: Guten Tag."
+    },
+    {
+      "id": "cd2-t32",
+      "cd": 2,
+      "track": 32,
+      "audioUrl": "/audio/cd2/track-32.mp3",
+      "preview": "Michael: Hallo, hier Berger."
+    }
+  ],
+  "16": [
+    {
+      "id": "cd2-t33",
+      "cd": 2,
+      "track": 33,
+      "audioUrl": "/audio/cd2/track-33.mp3",
+      "preview": "Emma: Sag mal Tim, was willst du eigentlich nach dem"
+    },
+    {
+      "id": "cd2-t34",
+      "cd": 2,
+      "track": 34,
+      "audioUrl": "/audio/cd2/track-34.mp3",
+      "preview": "Emma: Hm, sag du mal was, Sofia. Was meinst du?"
+    },
+    {
+      "id": "cd2-t35",
+      "cd": 2,
+      "track": 35,
+      "audioUrl": "/audio/cd2/track-35.mp3",
+      "preview": "Fr. Scholz: Hier Scholz."
+    },
+    {
+      "id": "cd2-t36",
+      "cd": 2,
+      "track": 36,
+      "audioUrl": "/audio/cd2/track-36.mp3",
+      "preview": "Hr. Schmitz: Herein."
+    },
+    {
+      "id": "cd2-t37",
+      "cd": 2,
+      "track": 37,
+      "audioUrl": "/audio/cd2/track-37.mp3",
+      "preview": "Sofia: Hm, also, dann ist Physiotherapeutin vielleicht"
+    },
+    {
+      "id": "cd2-t38",
+      "cd": 2,
+      "track": 38,
+      "audioUrl": "/audio/cd2/track-38.mp3",
+      "preview": "Rainer: Hallo und guten Morgen! Fast 500 Ausbildungs-"
+    },
+    {
+      "id": "cd2-t39",
+      "cd": 2,
+      "track": 39,
+      "audioUrl": "/audio/cd2/track-39.mp3",
+      "preview": "Rainer: Zu Punkt 1 „Meine Vorbereitungen“: Ihr wisst,"
+    },
+    {
+      "id": "cd2-t40",
+      "cd": 2,
+      "track": 40,
+      "audioUrl": "/audio/cd2/track-40.mp3",
+      "preview": "Rainer: Das führt mich zu Punkt 2 „Mein Traumberuf“."
+    },
+    {
+      "id": "cd2-t41",
+      "cd": 2,
+      "track": 41,
+      "audioUrl": "/audio/cd2/track-41.mp3",
+      "preview": "Rainer: Damit komme ich schon zu meinem letzten"
+    }
+  ],
+  "17": [
+    {
+      "id": "cd2-t42",
+      "cd": 2,
+      "track": 42,
+      "audioUrl": "/audio/cd2/track-42.mp3",
+      "preview": "Hr. Bayer: So Frau Feld, nach unserer kleinen Vorstel-"
+    },
+    {
+      "id": "cd2-t43",
+      "cd": 2,
+      "track": 43,
+      "audioUrl": "/audio/cd2/track-43.mp3",
+      "preview": "Hr. Bayer: Warum wollen Sie eigentlich gerade bei uns"
+    },
+    {
+      "id": "cd2-t44",
+      "cd": 2,
+      "track": 44,
+      "audioUrl": "/audio/cd2/track-44.mp3",
+      "preview": "Hr. Bayer: Mhm, und darf ich noch etwas Persönliches"
+    },
+    {
+      "id": "cd2-t45",
+      "cd": 2,
+      "track": 45,
+      "audioUrl": "/audio/cd2/track-45.mp3",
+      "preview": "Sandra: Ich habe gerade gesehen, dass Sie 18 Abteilun-"
+    },
+    {
+      "id": "cd2-t46",
+      "cd": 2,
+      "track": 46,
+      "audioUrl": "/audio/cd2/track-46.mp3",
+      "preview": "Sandra: Ich hätte noch einige Fragen, geht das?"
+    }
+  ],
+  "18": [
+    {
+      "id": "cd2-t47",
+      "cd": 2,
+      "track": 47,
+      "audioUrl": "/audio/cd2/track-47.mp3",
+      "preview": "Katja: Hör mal, Jan. Hast du schon eine Idee, was wir"
+    },
+    {
+      "id": "cd2-t48",
+      "cd": 2,
+      "track": 48,
+      "audioUrl": "/audio/cd2/track-48.mp3",
+      "preview": "Werbesprecher: Das ideale Reiseziel für Urlauber, die"
+    },
+    {
+      "id": "cd2-t49",
+      "cd": 2,
+      "track": 49,
+      "audioUrl": "/audio/cd2/track-49.mp3",
+      "preview": "Katja: Guten Tag."
+    },
+    {
+      "id": "cd2-t50",
+      "cd": 2,
+      "track": 50,
+      "audioUrl": "/audio/cd2/track-50.mp3",
+      "preview": "Jan: Könnten Sie uns vielleicht auch noch einen Tipp für"
+    },
+    {
+      "id": "cd2-t51",
+      "cd": 2,
+      "track": 51,
+      "audioUrl": "/audio/cd2/track-51.mp3",
+      "preview": "Katja: Hier, Dahn."
+    }
+  ],
+  "19": [
+    {
+      "id": "cd2-t52",
+      "cd": 2,
+      "track": 52,
+      "audioUrl": "/audio/cd2/track-52.mp3",
+      "preview": "Silke: Hallo Nicole, schön, dass du anrufst."
+    },
+    {
+      "id": "cd2-t53",
+      "cd": 2,
+      "track": 53,
+      "audioUrl": "/audio/cd2/track-53.mp3",
+      "preview": "Silke: Sei doch froh, dass du mit dem Studium fertig"
+    },
+    {
+      "id": "cd2-t54",
+      "cd": 2,
+      "track": 54,
+      "audioUrl": "/audio/cd2/track-54.mp3",
+      "preview": "Fr. Kirchner: Hallo, guten Tag Nicole."
+    },
+    {
+      "id": "cd2-t55",
+      "cd": 2,
+      "track": 55,
+      "audioUrl": "/audio/cd2/track-55.mp3",
+      "preview": "Sprecherin: Fluggäste gebucht auf Swiss LX 1051 nach"
+    },
+    {
+      "id": "cd2-t56",
+      "cd": 2,
+      "track": 56,
+      "audioUrl": "/audio/cd2/track-56.mp3",
+      "preview": "Flugkapitän: Guten Tag meine Damen und Herren. Hier"
+    },
+    {
+      "id": "cd2-t57",
+      "cd": 2,
+      "track": 57,
+      "audioUrl": "/audio/cd2/track-57.mp3",
+      "preview": "Flugkapitän: Meine Damen und Herren, hier spricht"
+    },
+    {
+      "id": "cd2-t58",
+      "cd": 2,
+      "track": 58,
+      "audioUrl": "/audio/cd2/track-58.mp3",
+      "preview": "Flugkapitän: Verehrte Fluggäste. In Kürze verlassen wir"
+    },
+    {
+      "id": "cd2-t59",
+      "cd": 2,
+      "track": 59,
+      "audioUrl": "/audio/cd2/track-59.mp3",
+      "preview": "Nicole: Mist, jetzt ist auch noch mein Koffer kaputt!"
+    }
+  ],
+  "20": [
+    {
+      "id": "cd3-t01",
+      "cd": 3,
+      "track": 1,
+      "audioUrl": "/audio/cd3/track-01.mp3",
+      "preview": "Polizist: Herr Jünger, können Sie bitte den Unfall kurz"
+    },
+    {
+      "id": "cd3-t02",
+      "cd": 3,
+      "track": 2,
+      "audioUrl": "/audio/cd3/track-02.mp3",
+      "preview": "Polizist: Hm, Frau Schneider, Sie waren Zeugin des"
+    },
+    {
+      "id": "cd3-t03",
+      "cd": 3,
+      "track": 3,
+      "audioUrl": "/audio/cd3/track-03.mp3",
+      "preview": "Fr. Abing: Ach, Herr Jünger! Das ist ja eine Über-"
+    },
+    {
+      "id": "cd3-t04",
+      "cd": 3,
+      "track": 4,
+      "audioUrl": "/audio/cd3/track-04.mp3",
+      "preview": "Robert: Wie geht’s dir denn, Günter?"
+    },
+    {
+      "id": "cd3-t05",
+      "cd": 3,
+      "track": 5,
+      "audioUrl": "/audio/cd3/track-05.mp3",
+      "preview": "Wetteransage: Sonne, Regen oder Sturm. Hier bei"
+    },
+    {
+      "id": "cd3-t06",
+      "cd": 3,
+      "track": 6,
+      "audioUrl": "/audio/cd3/track-06.mp3",
+      "preview": "Angestellte: Guten Abend, mein Name ist Jana Berger,"
+    },
+    {
+      "id": "cd3-t07",
+      "cd": 3,
+      "track": 7,
+      "audioUrl": "/audio/cd3/track-07.mp3",
+      "preview": "Sprecherin: Herzlich willkommen bei Ihrer Medion"
+    },
+    {
+      "id": "cd3-t08",
+      "cd": 3,
+      "track": 8,
+      "audioUrl": "/audio/cd3/track-08.mp3",
+      "preview": "Sprecherin: Unsere Mitarbeiter befinden sich alle zur-"
+    },
+    {
+      "id": "cd3-t09",
+      "cd": 3,
+      "track": 9,
+      "audioUrl": "/audio/cd3/track-09.mp3",
+      "preview": "Angestellter: Hier Karl Wiemer, was kann ich für Sie tun?"
+    }
+  ],
+  "21": [
+    {
+      "id": "cd3-t10",
+      "cd": 3,
+      "track": 10,
+      "audioUrl": "/audio/cd3/track-10.mp3",
+      "preview": "Antonia: Habt ihr am Wochenende schon was vor?"
+    },
+    {
+      "id": "cd3-t11",
+      "cd": 3,
+      "track": 11,
+      "audioUrl": "/audio/cd3/track-11.mp3",
+      "preview": "Irina: Mhm, schaut mal hier: Wie wäre es mit einem"
+    },
+    {
+      "id": "cd3-t12",
+      "cd": 3,
+      "track": 12,
+      "audioUrl": "/audio/cd3/track-12.mp3",
+      "preview": "Eleni: Wenn wir ins Theater gehen wollen, müssen wir"
+    },
+    {
+      "id": "cd3-t13",
+      "cd": 3,
+      "track": 13,
+      "audioUrl": "/audio/cd3/track-13.mp3",
+      "preview": "Sprecherin: Szene 1"
+    },
+    {
+      "id": "cd3-t14",
+      "cd": 3,
+      "track": 14,
+      "audioUrl": "/audio/cd3/track-14.mp3",
+      "preview": "Sprecherin: Szene 2"
+    },
+    {
+      "id": "cd3-t15",
+      "cd": 3,
+      "track": 15,
+      "audioUrl": "/audio/cd3/track-15.mp3",
+      "preview": "Sprecherin: Szene 3"
+    },
+    {
+      "id": "cd3-t16",
+      "cd": 3,
+      "track": 16,
+      "audioUrl": "/audio/cd3/track-16.mp3",
+      "preview": "Sprecherin: Szene 5"
+    }
+  ],
+  "22": [
+    {
+      "id": "cd3-t17",
+      "cd": 3,
+      "track": 17,
+      "audioUrl": "/audio/cd3/track-17.mp3",
+      "preview": "Postangestellter: Guten Tag!"
+    },
+    {
+      "id": "cd3-t18",
+      "cd": 3,
+      "track": 18,
+      "audioUrl": "/audio/cd3/track-18.mp3",
+      "preview": "Susanne: Hallo Markus."
+    },
+    {
+      "id": "cd3-t19",
+      "cd": 3,
+      "track": 19,
+      "audioUrl": "/audio/cd3/track-19.mp3",
+      "preview": "Postangestellter: Ah, haben Sie das Formular aus gefüllt?"
+    },
+    {
+      "id": "cd3-t20",
+      "cd": 3,
+      "track": 20,
+      "audioUrl": "/audio/cd3/track-20.mp3",
+      "preview": "Postangestellte: Guten Tag, bitte?"
+    },
+    {
+      "id": "cd3-t21",
+      "cd": 3,
+      "track": 21,
+      "audioUrl": "/audio/cd3/track-21.mp3",
+      "preview": "Susanne: Hallo Markus."
+    },
+    {
+      "id": "cd3-t22",
+      "cd": 3,
+      "track": 22,
+      "audioUrl": "/audio/cd3/track-22.mp3",
+      "preview": "Postangestellter: Guten Tag, was kann ich für Sie tun?"
+    }
+  ],
+  "23": [
+    {
+      "id": "cd3-t23",
+      "cd": 3,
+      "track": 23,
+      "audioUrl": "/audio/cd3/track-23.mp3",
+      "preview": "Kursleiterin: So, nachdem wir nun gemeinsam den"
+    },
+    {
+      "id": "cd3-t24",
+      "cd": 3,
+      "track": 24,
+      "audioUrl": "/audio/cd3/track-24.mp3",
+      "preview": "Kursleiterin: Und Sie, Françoise?"
+    },
+    {
+      "id": "cd3-t25",
+      "cd": 3,
+      "track": 25,
+      "audioUrl": "/audio/cd3/track-25.mp3",
+      "preview": "Kursleiterin: Und was meinen Sie, Daniel?"
+    },
+    {
+      "id": "cd3-t26",
+      "cd": 3,
+      "track": 26,
+      "audioUrl": "/audio/cd3/track-26.mp3",
+      "preview": "Kursleiterin: Aha, interessant. Und Sie Kristin?"
+    },
+    {
+      "id": "cd3-t27",
+      "cd": 3,
+      "track": 27,
+      "audioUrl": "/audio/cd3/track-27.mp3",
+      "preview": "Kursleiterin: Hm, Interessant, dass mehrere von Ihnen"
+    },
+    {
+      "id": "cd3-t28",
+      "cd": 3,
+      "track": 28,
+      "audioUrl": "/audio/cd3/track-28.mp3",
+      "preview": "Kursleiterin: Gestern haben wir ja schon über das"
+    },
+    {
+      "id": "cd3-t29",
+      "cd": 3,
+      "track": 29,
+      "audioUrl": "/audio/cd3/track-29.mp3",
+      "preview": "Kursleiterin: Wer in Deutschland studieren möchte,"
+    },
+    {
+      "id": "cd3-t30",
+      "cd": 3,
+      "track": 30,
+      "audioUrl": "/audio/cd3/track-30.mp3",
+      "preview": "Kursleiterin: Und dann ist da noch die Fernuniversität"
+    },
+    {
+      "id": "cd3-t31",
+      "cd": 3,
+      "track": 31,
+      "audioUrl": "/audio/cd3/track-31.mp3",
+      "preview": "Kursleiterin: Über Fachhochschulen haben wir ja schon"
+    },
+    {
+      "id": "cd3-t32",
+      "cd": 3,
+      "track": 32,
+      "audioUrl": "/audio/cd3/track-32.mp3",
+      "preview": "Kursleiterin: Zum Schluss möchte ich Ihnen noch ein"
+    },
+    {
+      "id": "cd3-t33",
+      "cd": 3,
+      "track": 33,
+      "audioUrl": "/audio/cd3/track-33.mp3",
+      "preview": "Kursleiterin: Was sind nun die Vor- und Nachteile bei"
+    },
+    {
+      "id": "cd3-t34",
+      "cd": 3,
+      "track": 34,
+      "audioUrl": "/audio/cd3/track-34.mp3",
+      "preview": "Kursleiterin: Das heißt aber auch, dass es in einem du-"
+    }
+  ],
+  "24": [
+    {
+      "id": "cd3-t35",
+      "cd": 3,
+      "track": 35,
+      "audioUrl": "/audio/cd3/track-35.mp3",
+      "preview": "Bernd: Hi Johann. Wie geht’s?"
+    },
+    {
+      "id": "cd3-t36",
+      "cd": 3,
+      "track": 36,
+      "audioUrl": "/audio/cd3/track-36.mp3",
+      "preview": "Johann: Also zuerst: Wo möchtest du denn arbeiten:"
+    },
+    {
+      "id": "cd3-t37",
+      "cd": 3,
+      "track": 37,
+      "audioUrl": "/audio/cd3/track-37.mp3",
+      "preview": "Bernd: Ja, hier Sager."
+    },
+    {
+      "id": "cd3-t38",
+      "cd": 3,
+      "track": 38,
+      "audioUrl": "/audio/cd3/track-38.mp3",
+      "preview": "Bernd: Hallo, guten Morgen alle zusammen. Ein herrli-"
+    },
+    {
+      "id": "cd3-t39",
+      "cd": 3,
+      "track": 39,
+      "audioUrl": "/audio/cd3/track-39.mp3",
+      "preview": "Bernd: Wie war das in der Praxis? Ich möchte hier nur"
+    },
+    {
+      "id": "cd3-t40",
+      "cd": 3,
+      "track": 40,
+      "audioUrl": "/audio/cd3/track-40.mp3",
+      "preview": "Bernd: Damit komme ich schon zu Punkt 3: Meine"
+    },
+    {
+      "id": "cd3-t41",
+      "cd": 3,
+      "track": 41,
+      "audioUrl": "/audio/cd3/track-41.mp3",
+      "preview": "Bernd: Ich komme nun zum Schluss von meinem klei-"
+    },
+    {
+      "id": "cd3-t42",
+      "cd": 3,
+      "track": 42,
+      "audioUrl": "/audio/cd3/track-42.mp3",
+      "preview": "Fr. Hoff: Hallo liebe Bio-Freunde, hier Isa Hoff vom Stadt-"
+    }
+  ],
+  "25": [
+    {
+      "id": "cd3-t43",
+      "cd": 3,
+      "track": 43,
+      "audioUrl": "/audio/cd3/track-43.mp3",
+      "preview": "Malika: Hallo?"
+    },
+    {
+      "id": "cd3-t44",
+      "cd": 3,
+      "track": 44,
+      "audioUrl": "/audio/cd3/track-44.mp3",
+      "preview": "Astrid: Hallo, hier Beck."
+    }
+  ],
+  "26": [
+    {
+      "id": "cd3-t45",
+      "cd": 3,
+      "track": 45,
+      "audioUrl": "/audio/cd3/track-45.mp3",
+      "preview": "Dr. Baumann: Hallo Herr Lindner. Es freut mich sehr,"
+    },
+    {
+      "id": "cd3-t46",
+      "cd": 3,
+      "track": 46,
+      "audioUrl": "/audio/cd3/track-46.mp3",
+      "preview": "Gaby: Hallo Christian, schön, dass du die Konzertkarten"
+    },
+    {
+      "id": "cd3-t47",
+      "cd": 3,
+      "track": 47,
+      "audioUrl": "/audio/cd3/track-47.mp3",
+      "preview": "Reporter: Liebe Hörer und Hörerinnen, ich begrüße"
+    },
+    {
+      "id": "cd3-t48",
+      "cd": 3,
+      "track": 48,
+      "audioUrl": "/audio/cd3/track-48.mp3",
+      "preview": "Reporter: Und wie ist es mit Ihren Kollegen?"
+    }
+  ],
+  "27": [
+    {
+      "id": "cd3-t49",
+      "cd": 3,
+      "track": 49,
+      "audioUrl": "/audio/cd3/track-49.mp3",
+      "preview": "Karl: Hey, weißt du, was ich vorgestern noch gefunden"
+    }
+  ],
+  "28": [
+    {
+      "id": "cd3-t50",
+      "cd": 3,
+      "track": 50,
+      "audioUrl": "/audio/cd3/track-50.mp3",
+      "preview": "Bert: Hallo."
+    },
+    {
+      "id": "cd3-t51",
+      "cd": 3,
+      "track": 51,
+      "audioUrl": "/audio/cd3/track-51.mp3",
+      "preview": "Reporterin: Heute zu Gast in der Sendung „Leute“ be-"
+    },
+    {
+      "id": "cd3-t52",
+      "cd": 3,
+      "track": 52,
+      "audioUrl": "/audio/cd3/track-52.mp3",
+      "preview": "Reporterin: Und was haben Sie gemacht, um eine Stelle"
+    }
+  ],
+  "29": [
+    {
+      "id": "cd3-t53",
+      "cd": 3,
+      "track": 53,
+      "audioUrl": "/audio/cd3/track-53.mp3",
+      "preview": "Rolf: Na, Jack. Ich denke du hast Mittagspause. Was"
+    },
+    {
+      "id": "cd3-t54",
+      "cd": 3,
+      "track": 54,
+      "audioUrl": "/audio/cd3/track-54.mp3",
+      "preview": "Rolf: Hallo Jack. Na, du liest ja schon wieder in der"
+    },
+    {
+      "id": "cd3-t55",
+      "cd": 3,
+      "track": 55,
+      "audioUrl": "/audio/cd3/track-55.mp3",
+      "preview": "Reporter: Wir haben uns umgehört und haben verschie-"
+    },
+    {
+      "id": "cd3-t56",
+      "cd": 3,
+      "track": 56,
+      "audioUrl": "/audio/cd3/track-56.mp3",
+      "preview": "Passantin: Also ich würde bestimmt die Grünen wählen."
+    },
+    {
+      "id": "cd3-t57",
+      "cd": 3,
+      "track": 57,
+      "audioUrl": "/audio/cd3/track-57.mp3",
+      "preview": "Jack: Mhm, eine gute Frage. Ich habe mich in letz-"
+    },
+    {
+      "id": "cd3-t58",
+      "cd": 3,
+      "track": 58,
+      "audioUrl": "/audio/cd3/track-58.mp3",
+      "preview": "Passantin: Ich weiß im Moment nicht, wen ich wählen"
+    },
+    {
+      "id": "cd3-t59",
+      "cd": 3,
+      "track": 59,
+      "audioUrl": "/audio/cd3/track-59.mp3",
+      "preview": "Passant: Dazu kann ich nix sagen, sorry. Für mich ist"
+    }
+  ],
+  "30": [
+    {
+      "id": "cd3-t60",
+      "cd": 3,
+      "track": 60,
+      "audioUrl": "/audio/cd3/track-60.mp3",
+      "preview": "Sprecher: Am Abend ist leider was Unangenehmes"
+    },
+    {
+      "id": "cd3-t61",
+      "cd": 3,
+      "track": 61,
+      "audioUrl": "/audio/cd3/track-61.mp3",
+      "preview": "Sprecher: Am Abend passierte leider etwas Unange-"
+    },
+    {
+      "id": "cd3-t62",
+      "cd": 3,
+      "track": 62,
+      "audioUrl": "/audio/cd3/track-62.mp3",
+      "preview": "Sprecherin: Am Abend ist leider etwas Dummes"
+    },
+    {
+      "id": "cd3-t63",
+      "cd": 3,
+      "track": 63,
+      "audioUrl": "/audio/cd3/track-63.mp3",
+      "preview": "Sprecher: Ich stürzte die Treppe hinunter und wurde"
+    },
+    {
+      "id": "cd3-t64",
+      "cd": 3,
+      "track": 64,
+      "audioUrl": "/audio/cd3/track-64.mp3",
+      "preview": "Sprecherin: Ich bin die Treppe hinunter gefallen und"
+    },
+    {
+      "id": "cd3-t65",
+      "cd": 3,
+      "track": 65,
+      "audioUrl": "/audio/cd3/track-65.mp3",
+      "preview": "Sprecher: Ich bin die Stiege hinunter gefallen und eilig"
+    },
+    {
+      "id": "cd3-t66",
+      "cd": 3,
+      "track": 66,
+      "audioUrl": "/audio/cd3/track-66.mp3",
+      "preview": "Sprecher: Verabredungsversuch am Telefon. Hoch-"
+    },
+    {
+      "id": "cd3-t67",
+      "cd": 3,
+      "track": 67,
+      "audioUrl": "/audio/cd3/track-67.mp3",
+      "preview": "Sprecherin: München: Bairisch: Du, woll mer morgen"
+    },
+    {
+      "id": "cd3-t68",
+      "cd": 3,
+      "track": 68,
+      "audioUrl": "/audio/cd3/track-68.mp3",
+      "preview": "Sprecher: Berlin: Berlinerisch: Woll’n wa morjen ins Kino"
+    },
+    {
+      "id": "cd3-t69",
+      "cd": 3,
+      "track": 69,
+      "audioUrl": "/audio/cd3/track-69.mp3",
+      "preview": "Sprecher: Frankfurt am Main: Hessisch: Wolle mer mor-"
+    },
+    {
+      "id": "cd3-t70",
+      "cd": 3,
+      "track": 70,
+      "audioUrl": "/audio/cd3/track-70.mp3",
+      "preview": "Sprecher: Köln: Kölsch: Wolle mer ins Kino jonn? – Nä?"
+    },
+    {
+      "id": "cd3-t71",
+      "cd": 3,
+      "track": 71,
+      "audioUrl": "/audio/cd3/track-71.mp3",
+      "preview": "Sprecherin: Hamburg: Nordniedersächsisch: Wollen wir"
+    },
+    {
+      "id": "cd3-t72",
+      "cd": 3,
+      "track": 72,
+      "audioUrl": "/audio/cd3/track-72.mp3",
+      "preview": "Sprecherin: Dortmund: Ruhrdeutsch: Eh, soll ma morgen"
+    },
+    {
+      "id": "cd3-t73",
+      "cd": 3,
+      "track": 73,
+      "audioUrl": "/audio/cd3/track-73.mp3",
+      "preview": "Sprecherin: Leipzig: Sächsisch: Woll’mer morschen ins"
+    },
+    {
+      "id": "cd3-t74",
+      "cd": 3,
+      "track": 74,
+      "audioUrl": "/audio/cd3/track-74.mp3",
+      "preview": "Sprecherin: Stuttgart: Schwäbisch: Soll mr morga ins"
+    },
+    {
+      "id": "cd3-t75",
+      "cd": 3,
+      "track": 75,
+      "audioUrl": "/audio/cd3/track-75.mp3",
+      "preview": "Sprecherin: Wollen wir morgen ins Kino gehen? – Nein?"
+    },
+    {
+      "id": "cd3-t76",
+      "cd": 3,
+      "track": 76,
+      "audioUrl": "/audio/cd3/track-76.mp3",
+      "preview": "Sprecher: Wolle mer ins Kino jonn? – Nä? Woröm dann"
+    },
+    {
+      "id": "cd3-t77",
+      "cd": 3,
+      "track": 77,
+      "audioUrl": "/audio/cd3/track-77.mp3",
+      "preview": "Sprecherin: Soll mr morga ins Kino ganga? – Noi, war-"
+    },
+    {
+      "id": "cd3-t78",
+      "cd": 3,
+      "track": 78,
+      "audioUrl": "/audio/cd3/track-78.mp3",
+      "preview": "Sprecher: Woll’n wa morjen ins Kino jehn? – Nee? War-"
+    },
+    {
+      "id": "cd3-t79",
+      "cd": 3,
+      "track": 79,
+      "audioUrl": "/audio/cd3/track-79.mp3",
+      "preview": "Sprecherin: Du, woll mer morgen ins Kino gehen? – Na?"
+    },
+    {
+      "id": "cd3-t80",
+      "cd": 3,
+      "track": 80,
+      "audioUrl": "/audio/cd3/track-80.mp3",
+      "preview": "Sprecher: Wolle mer morje ins Kinou geie? – Naa? Ei,"
+    },
+    {
+      "id": "cd3-t81",
+      "cd": 3,
+      "track": 81,
+      "audioUrl": "/audio/cd3/track-81.mp3",
+      "preview": "Sprecherin: Woll’mer morschen ins Giinou gehn? – Nej?"
+    },
+    {
+      "id": "cd3-t82",
+      "cd": 3,
+      "track": 82,
+      "audioUrl": "/audio/cd3/track-82.mp3",
+      "preview": "Sprecherin: Eh, soll ma morgen ins Kino? – Warum,"
+    },
+    {
+      "id": "cd3-t83",
+      "cd": 3,
+      "track": 83,
+      "audioUrl": "/audio/cd3/track-83.mp3",
+      "preview": "Ralf: Also Julie, du sprichst echt super Deutsch!"
+    },
+    {
+      "id": "cd3-t84",
+      "cd": 3,
+      "track": 84,
+      "audioUrl": "/audio/cd3/track-84.mp3",
+      "preview": "Sprecher:"
+    }
+  ]
+}

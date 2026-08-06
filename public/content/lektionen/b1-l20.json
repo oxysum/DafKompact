@@ -1,0 +1,95 @@
+{
+  "id": "b1-l20",
+  "level": "B1",
+  "number": 20,
+  "titleDe": "Verkehrsunfall in der Innenstadt",
+  "titleEn": "Traffic accident downtown",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Verkehrsunfall in der Innenstadt“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “Traffic accident downtown” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t01",
+      "cd": 3,
+      "track": 1,
+      "audioUrl": "/audio/cd3/track-01.mp3",
+      "preview": "Polizist: Herr Jünger, können Sie bitte den Unfall kurz"
+    },
+    {
+      "id": "cd3-t02",
+      "cd": 3,
+      "track": 2,
+      "audioUrl": "/audio/cd3/track-02.mp3",
+      "preview": "Polizist: Hm, Frau Schneider, Sie waren Zeugin des"
+    },
+    {
+      "id": "cd3-t03",
+      "cd": 3,
+      "track": 3,
+      "audioUrl": "/audio/cd3/track-03.mp3",
+      "preview": "Fr. Abing: Ach, Herr Jünger! Das ist ja eine Über-"
+    },
+    {
+      "id": "cd3-t04",
+      "cd": 3,
+      "track": 4,
+      "audioUrl": "/audio/cd3/track-04.mp3",
+      "preview": "Robert: Wie geht’s dir denn, Günter?"
+    },
+    {
+      "id": "cd3-t05",
+      "cd": 3,
+      "track": 5,
+      "audioUrl": "/audio/cd3/track-05.mp3",
+      "preview": "Wetteransage: Sonne, Regen oder Sturm. Hier bei"
+    },
+    {
+      "id": "cd3-t06",
+      "cd": 3,
+      "track": 6,
+      "audioUrl": "/audio/cd3/track-06.mp3",
+      "preview": "Angestellte: Guten Abend, mein Name ist Jana Berger,"
+    },
+    {
+      "id": "cd3-t07",
+      "cd": 3,
+      "track": 7,
+      "audioUrl": "/audio/cd3/track-07.mp3",
+      "preview": "Sprecherin: Herzlich willkommen bei Ihrer Medion"
+    },
+    {
+      "id": "cd3-t08",
+      "cd": 3,
+      "track": 8,
+      "audioUrl": "/audio/cd3/track-08.mp3",
+      "preview": "Sprecherin: Unsere Mitarbeiter befinden sich alle zur-"
+    },
+    {
+      "id": "cd3-t09",
+      "cd": 3,
+      "track": 9,
+      "audioUrl": "/audio/cd3/track-09.mp3",
+      "preview": "Angestellter: Hier Karl Wiemer, was kann ich für Sie tun?"
+    }
+  ]
+}

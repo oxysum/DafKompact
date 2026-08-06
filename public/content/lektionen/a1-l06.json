@@ -1,0 +1,2046 @@
+{
+  "id": "a1-l06",
+  "level": "A1",
+  "number": 6,
+  "titleDe": "Kleider machen Leute",
+  "titleEn": "Clothes make the person",
+  "status": "complete",
+  "goals": [
+    {
+      "de": "Webseiten zum Thema Waschsalon verstehen",
+      "en": "Understand websites about laundromats"
+    },
+    {
+      "de": "Schriftliche Anleitungen verstehen und formulieren",
+      "en": "Understand and write instructions"
+    },
+    {
+      "de": "Vorschläge verstehen und machen",
+      "en": "Understand and make suggestions"
+    },
+    {
+      "de": "Kleidungsstücke und Farben benennen",
+      "en": "Name clothes and colours"
+    },
+    {
+      "de": "Anweisungen höflich nachfragen und notieren",
+      "en": "Politely ask about and note instructions"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "anderen",
+      "en": "others",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v2",
+      "de": "Angst",
+      "en": "fear",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v3",
+      "de": "Anlass",
+      "en": "occasion",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v4",
+      "de": "Anleitung",
+      "en": "instructions",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v5",
+      "de": "Antwort",
+      "en": "answer",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v6",
+      "de": "Anweisung",
+      "en": "instruction",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v7",
+      "de": "Anzug",
+      "en": "Men's suit",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v8",
+      "de": "Arbeit",
+      "en": "work / job",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v9",
+      "de": "Artikel",
+      "en": "article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v10",
+      "de": "Automat",
+      "en": "machine (ticket etc.)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v11",
+      "de": "Badeanzug",
+      "en": "swimsuit",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v12",
+      "de": "Badehose",
+      "en": "Swimming trunks",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v13",
+      "de": "Bahnhof",
+      "en": "train station",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v14",
+      "de": "Baumwolle",
+      "en": "cotton",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v15",
+      "de": "Bedeutung",
+      "en": "meaning",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v16",
+      "de": "Bekannte",
+      "en": "acquaintance",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v17",
+      "de": "Bild",
+      "en": "picture / painting",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v18",
+      "de": "Bitte",
+      "en": "request / please (as noun: request)",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v19",
+      "de": "Blick",
+      "en": "view",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v20",
+      "de": "Bluse",
+      "en": "blouse",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v21",
+      "de": "Bus",
+      "en": "bus",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v22",
+      "de": "Cafe",
+      "en": "cafe",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v23",
+      "de": "Copyshop",
+      "en": "Copy shop",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v24",
+      "de": "Endung",
+      "en": "ending",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v25",
+      "de": "Espresso",
+      "en": "espresso",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v26",
+      "de": "Essen",
+      "en": "to eat",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v27",
+      "de": "Fahrrad",
+      "en": "bicycle",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v28",
+      "de": "Fahrt",
+      "en": "drive",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v29",
+      "de": "Farbe",
+      "en": "colour",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v30",
+      "de": "Fernsehen",
+      "en": "to watch TV",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v31",
+      "de": "Fest",
+      "en": "festival / celebration",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v32",
+      "de": "Foto",
+      "en": "photo",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v33",
+      "de": "Freund",
+      "en": "friend (male)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v34",
+      "de": "Freundin",
+      "en": "friend (female)",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v35",
+      "de": "Fuß",
+      "en": "foot",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v36",
+      "de": "Gespräch",
+      "en": "conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v37",
+      "de": "GmbH",
+      "en": "gmbH",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v38",
+      "de": "Grad",
+      "en": "degree",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v39",
+      "de": "Grammatik",
+      "en": "grammar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v40",
+      "de": "Gruppe",
+      "en": "group",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v41",
+      "de": "Größe",
+      "en": "size",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v42",
+      "de": "Gürtel",
+      "en": "belt",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v43",
+      "de": "Handschuh",
+      "en": "handschuh",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v44",
+      "de": "Hemd",
+      "en": "shirt",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v45",
+      "de": "Hose",
+      "en": "trousers / pants",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v46",
+      "de": "Hut",
+      "en": "hat",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v47",
+      "de": "Idee",
+      "en": "idea",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v48",
+      "de": "Imperativ",
+      "en": "imperative (command form)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v49",
+      "de": "Inhaber",
+      "en": "owner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v50",
+      "de": "Inhaberin",
+      "en": "owner",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v51",
+      "de": "Internet",
+      "en": "Internet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v52",
+      "de": "Jacke",
+      "en": "jacket",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v53",
+      "de": "Jeans",
+      "en": "jeans",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v54",
+      "de": "Job",
+      "en": "job",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v55",
+      "de": "Jogginganzug",
+      "en": "Jogging suit",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v56",
+      "de": "Kaffee",
+      "en": "coffee",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v57",
+      "de": "Kantine",
+      "en": "canteen",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v58",
+      "de": "Kasse",
+      "en": "checkout",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v59",
+      "de": "Kassenautomat",
+      "en": "Pay machine",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v60",
+      "de": "Kino",
+      "en": "cinema",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v61",
+      "de": "Klasse",
+      "en": "class",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v62",
+      "de": "Kleid",
+      "en": "dress",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v63",
+      "de": "Kleider",
+      "en": "dresses",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v64",
+      "de": "Kleidung",
+      "en": "clothing",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v65",
+      "de": "Kleidungsstück",
+      "en": "garment",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v66",
+      "de": "Kochen",
+      "en": "to cook",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v67",
+      "de": "Konzert",
+      "en": "concert",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v68",
+      "de": "Kopie",
+      "en": "copy",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v69",
+      "de": "Korrektur",
+      "en": "correction",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v70",
+      "de": "Krawatte",
+      "en": "necktie",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v71",
+      "de": "Kurs",
+      "en": "course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v72",
+      "de": "Kursbuch",
+      "en": "Course book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v73",
+      "de": "Kursleiter",
+      "en": "instructor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v74",
+      "de": "Laden",
+      "en": "load",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v75",
+      "de": "Laut",
+      "en": "loud",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v76",
+      "de": "Leder",
+      "en": "leather",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v77",
+      "de": "letzte Mal",
+      "en": "last time",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v78",
+      "de": "Liste",
+      "en": "list",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v79",
+      "de": "Lust",
+      "en": "desire",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v80",
+      "de": "Lösung",
+      "en": "solution",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v81",
+      "de": "mal",
+      "en": "modal particle (just / once)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v82",
+      "de": "Mantel",
+      "en": "coat",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v83",
+      "de": "Material",
+      "en": "material",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v84",
+      "de": "Moment",
+      "en": "moment",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v85",
+      "de": "Morgen",
+      "en": "morning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v86",
+      "de": "Mädchen",
+      "en": "girl",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v87",
+      "de": "Münster",
+      "en": "muenster",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v88",
+      "de": "Mütze",
+      "en": "cap",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v89",
+      "de": "Nachthemd",
+      "en": "nightgown",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v90",
+      "de": "Neuigkeit",
+      "en": "news",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v91",
+      "de": "Nomen",
+      "en": "noun",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v92",
+      "de": "Notiz",
+      "en": "note",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v93",
+      "de": "Orange",
+      "en": "orange",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v94",
+      "de": "Paar",
+      "en": "couple",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v95",
+      "de": "Pass",
+      "en": "passport",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v96",
+      "de": "Platz",
+      "en": "square / place",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v97",
+      "de": "Polyester",
+      "en": "polyester",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v98",
+      "de": "Position",
+      "en": "position",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v99",
+      "de": "Profi",
+      "en": "professional",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v100",
+      "de": "Pullover",
+      "en": "sweater",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v101",
+      "de": "Reaktion",
+      "en": "reaction",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v102",
+      "de": "Regel",
+      "en": "rule",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v103",
+      "de": "Restaurant",
+      "en": "restaurant",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v104",
+      "de": "Rock",
+      "en": "skirt",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v105",
+      "de": "Satz",
+      "en": "sentence",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v106",
+      "de": "Satzende",
+      "en": "End of sentence",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v107",
+      "de": "Schal",
+      "en": "scarf",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v108",
+      "de": "Schreiben",
+      "en": "to write",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v109",
+      "de": "Seide",
+      "en": "silk",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v110",
+      "de": "Situation",
+      "en": "situation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v111",
+      "de": "Snack",
+      "en": "snack",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v112",
+      "de": "Socke",
+      "en": "sock",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v113",
+      "de": "Spiel",
+      "en": "game",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v114",
+      "de": "Stadt",
+      "en": "city",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v115",
+      "de": "Start",
+      "en": "start",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v116",
+      "de": "Straßenbahn",
+      "en": "tram",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v117",
+      "de": "Strumpf",
+      "en": "stocking",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v118",
+      "de": "Strumpfhose",
+      "en": "pantyhose",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v119",
+      "de": "Sweatshirt",
+      "en": "sweatshirt",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v120",
+      "de": "T-Shirt",
+      "en": "t-shirt",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v121",
+      "de": "Tabelle",
+      "en": "table",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v122",
+      "de": "Tee",
+      "en": "tea",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v123",
+      "de": "Teil",
+      "en": "part",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v124",
+      "de": "Tischtuch",
+      "en": "tablecloth",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v125",
+      "de": "Touristeninformation",
+      "en": "Tourist information",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v126",
+      "de": "Traum",
+      "en": "dream",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v127",
+      "de": "Treffen",
+      "en": "to meet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v128",
+      "de": "Trockner",
+      "en": "dryer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v129",
+      "de": "Tür",
+      "en": "door",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v130",
+      "de": "Unterhemd",
+      "en": "undershirt",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v131",
+      "de": "Unterhose",
+      "en": "underpants",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v132",
+      "de": "Velo",
+      "en": "bike",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v133",
+      "de": "Veranstaltung",
+      "en": "event",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v134",
+      "de": "Verb",
+      "en": "verb",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v135",
+      "de": "Vermutung",
+      "en": "supposition",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v136",
+      "de": "Vetter",
+      "en": "cousin",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v137",
+      "de": "Viskose",
+      "en": "viscose",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v138",
+      "de": "Vokalwechsel",
+      "en": "Vowel change",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v139",
+      "de": "Vorschlag",
+      "en": "suggestion",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v140",
+      "de": "waschen",
+      "en": "to wash",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v141",
+      "de": "Waschmaschine",
+      "en": "washing machine",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v142",
+      "de": "Waschmaschinentür",
+      "en": "Washing machine door",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v143",
+      "de": "Waschsalon",
+      "en": "laundromat",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v144",
+      "de": "Weg",
+      "en": "way / path",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v145",
+      "de": "Wegbeschreibung",
+      "en": "directions",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v146",
+      "de": "Weste",
+      "en": "vest",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v147",
+      "de": "Wochenende",
+      "en": "weekend",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v148",
+      "de": "Wolle",
+      "en": "wool",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v149",
+      "de": "Wunsch",
+      "en": "wish",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v150",
+      "de": "Wäsche",
+      "en": "wash",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v151",
+      "de": "Wäscherei",
+      "en": "laundry",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v152",
+      "de": "Zeile",
+      "en": "line",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v153",
+      "de": "Zeit",
+      "en": "time",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v154",
+      "de": "Zettel",
+      "en": "note",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v155",
+      "de": "anfangen",
+      "en": "to begin",
+      "pos": "verb"
+    },
+    {
+      "id": "v156",
+      "de": "anmachen",
+      "en": "to turn on",
+      "pos": "verb"
+    },
+    {
+      "id": "v157",
+      "de": "anprobieren",
+      "en": "to try on (clothes)",
+      "pos": "verb"
+    },
+    {
+      "id": "v158",
+      "de": "anstoßen",
+      "en": "to toast (clink glasses)",
+      "pos": "verb"
+    },
+    {
+      "id": "v159",
+      "de": "aufpassen",
+      "en": "to pay attention",
+      "pos": "verb"
+    },
+    {
+      "id": "v160",
+      "de": "ausführen",
+      "en": "to carry out",
+      "pos": "verb"
+    },
+    {
+      "id": "v161",
+      "de": "aussehen",
+      "en": "to look",
+      "pos": "verb"
+    },
+    {
+      "id": "v162",
+      "de": "beantworten",
+      "en": "answer",
+      "pos": "verb"
+    },
+    {
+      "id": "v163",
+      "de": "bedeuten",
+      "en": "to mean",
+      "pos": "verb"
+    },
+    {
+      "id": "v164",
+      "de": "benutzen",
+      "en": "to use",
+      "pos": "verb"
+    },
+    {
+      "id": "v165",
+      "de": "besichtigen",
+      "en": "to visit",
+      "pos": "verb"
+    },
+    {
+      "id": "v166",
+      "de": "bezahlen",
+      "en": "to pay for",
+      "pos": "verb"
+    },
+    {
+      "id": "v167",
+      "de": "bilden",
+      "en": "form",
+      "pos": "verb"
+    },
+    {
+      "id": "v168",
+      "de": "bitten",
+      "en": "ask",
+      "pos": "verb"
+    },
+    {
+      "id": "v169",
+      "de": "bringen",
+      "en": "to bring",
+      "pos": "verb"
+    },
+    {
+      "id": "v170",
+      "de": "drücken",
+      "en": "press",
+      "pos": "verb"
+    },
+    {
+      "id": "v171",
+      "de": "eingeben",
+      "en": "input",
+      "pos": "verb"
+    },
+    {
+      "id": "v172",
+      "de": "einladen",
+      "en": "to invite",
+      "pos": "verb"
+    },
+    {
+      "id": "v173",
+      "de": "einlaufen",
+      "en": "to shrink (fabric)",
+      "pos": "verb"
+    },
+    {
+      "id": "v174",
+      "de": "ergänzen",
+      "en": "add to",
+      "pos": "verb"
+    },
+    {
+      "id": "v175",
+      "de": "erklären",
+      "en": "to explain",
+      "pos": "verb"
+    },
+    {
+      "id": "v176",
+      "de": "festhalten",
+      "en": "to hold tight",
+      "pos": "verb"
+    },
+    {
+      "id": "v177",
+      "de": "formulieren",
+      "en": "formulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v178",
+      "de": "füllen",
+      "en": "fill",
+      "pos": "verb"
+    },
+    {
+      "id": "v179",
+      "de": "helfen",
+      "en": "to help",
+      "pos": "verb"
+    },
+    {
+      "id": "v180",
+      "de": "holen",
+      "en": "to fetch",
+      "pos": "verb"
+    },
+    {
+      "id": "v181",
+      "de": "hören",
+      "en": "to hear",
+      "pos": "verb"
+    },
+    {
+      "id": "v182",
+      "de": "Kopieren",
+      "en": "to copy",
+      "pos": "verb"
+    },
+    {
+      "id": "v183",
+      "de": "lächeln",
+      "en": "to smile",
+      "pos": "verb"
+    },
+    {
+      "id": "v184",
+      "de": "mailen",
+      "en": "to email",
+      "pos": "verb"
+    },
+    {
+      "id": "v185",
+      "de": "mitbringen",
+      "en": "to bring along",
+      "pos": "verb"
+    },
+    {
+      "id": "v186",
+      "de": "nachfragen",
+      "en": "to inquire",
+      "pos": "verb"
+    },
+    {
+      "id": "v187",
+      "de": "nehmen",
+      "en": "to take",
+      "pos": "verb"
+    },
+    {
+      "id": "v188",
+      "de": "nennen",
+      "en": "to name",
+      "pos": "verb"
+    },
+    {
+      "id": "v189",
+      "de": "oben",
+      "en": "above",
+      "pos": "verb"
+    },
+    {
+      "id": "v190",
+      "de": "passen",
+      "en": "to fit",
+      "pos": "verb"
+    },
+    {
+      "id": "v191",
+      "de": "raten",
+      "en": "guess",
+      "pos": "verb"
+    },
+    {
+      "id": "v192",
+      "de": "reden",
+      "en": "to talk",
+      "pos": "verb"
+    },
+    {
+      "id": "v193",
+      "de": "regeln",
+      "en": "regulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v194",
+      "de": "sagen",
+      "en": "to say",
+      "pos": "verb"
+    },
+    {
+      "id": "v195",
+      "de": "schauen",
+      "en": "to look",
+      "pos": "verb"
+    },
+    {
+      "id": "v196",
+      "de": "schließen",
+      "en": "to close",
+      "pos": "verb"
+    },
+    {
+      "id": "v197",
+      "de": "sitzen",
+      "en": "to sit",
+      "pos": "verb"
+    },
+    {
+      "id": "v198",
+      "de": "stehen",
+      "en": "to stand",
+      "pos": "verb"
+    },
+    {
+      "id": "v199",
+      "de": "surfen",
+      "en": "to surf",
+      "pos": "verb"
+    },
+    {
+      "id": "v200",
+      "de": "tauschen",
+      "en": "to exchange",
+      "pos": "verb"
+    },
+    {
+      "id": "v201",
+      "de": "trocknen",
+      "en": "to dry",
+      "pos": "verb"
+    },
+    {
+      "id": "v202",
+      "de": "Vergleichen",
+      "en": "to compare",
+      "pos": "verb"
+    },
+    {
+      "id": "v203",
+      "de": "vermuten",
+      "en": "to suspect",
+      "pos": "verb"
+    },
+    {
+      "id": "v204",
+      "de": "verstehen",
+      "en": "understand",
+      "pos": "verb"
+    },
+    {
+      "id": "v205",
+      "de": "versuchen",
+      "en": "to try",
+      "pos": "verb"
+    },
+    {
+      "id": "v206",
+      "de": "wiederholen",
+      "en": "repeat",
+      "pos": "verb"
+    },
+    {
+      "id": "v207",
+      "de": "wählen",
+      "en": "choose",
+      "pos": "verb"
+    },
+    {
+      "id": "v208",
+      "de": "zahlen",
+      "en": "to pay",
+      "pos": "verb"
+    },
+    {
+      "id": "v209",
+      "de": "zumachen",
+      "en": "to close",
+      "pos": "verb"
+    },
+    {
+      "id": "v210",
+      "de": "zusammen",
+      "en": "together",
+      "pos": "verb"
+    },
+    {
+      "id": "v211",
+      "de": "öffnen",
+      "en": "to open",
+      "pos": "verb"
+    },
+    {
+      "id": "v212",
+      "de": "alt",
+      "en": "old",
+      "pos": "adjective"
+    },
+    {
+      "id": "v213",
+      "de": "bald",
+      "en": "soon",
+      "pos": "other"
+    },
+    {
+      "id": "v214",
+      "de": "beige",
+      "en": "beige",
+      "pos": "other"
+    },
+    {
+      "id": "v215",
+      "de": "Bitte …",
+      "en": "Please …",
+      "pos": "phrase"
+    },
+    {
+      "id": "v216",
+      "de": "blau",
+      "en": "blue",
+      "pos": "adjective"
+    },
+    {
+      "id": "v217",
+      "de": "dann",
+      "en": "then",
+      "pos": "other"
+    },
+    {
+      "id": "v218",
+      "de": "denn",
+      "en": "because / for",
+      "pos": "other"
+    },
+    {
+      "id": "v219",
+      "de": "direkt",
+      "en": "direct",
+      "pos": "other"
+    },
+    {
+      "id": "v220",
+      "de": "doch",
+      "en": "modal particle (do / after all)",
+      "pos": "adverb"
+    },
+    {
+      "id": "v221",
+      "de": "dort",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v222",
+      "de": "dunkelblau",
+      "en": "dark blue",
+      "pos": "other"
+    },
+    {
+      "id": "v223",
+      "de": "ernst",
+      "en": "serious",
+      "pos": "other"
+    },
+    {
+      "id": "v224",
+      "de": "formell",
+      "en": "formally",
+      "pos": "other"
+    },
+    {
+      "id": "v225",
+      "de": "freundlich",
+      "en": "friendly",
+      "pos": "other"
+    },
+    {
+      "id": "v226",
+      "de": "ganz",
+      "en": "quite",
+      "pos": "other"
+    },
+    {
+      "id": "v227",
+      "de": "ganz schnell",
+      "en": "real quick",
+      "pos": "phrase"
+    },
+    {
+      "id": "v228",
+      "de": "gelb",
+      "en": "yellow",
+      "pos": "other"
+    },
+    {
+      "id": "v229",
+      "de": "gemischt",
+      "en": "mixed",
+      "pos": "other"
+    },
+    {
+      "id": "v230",
+      "de": "gibt es",
+      "en": "there is",
+      "pos": "phrase"
+    },
+    {
+      "id": "v231",
+      "de": "gleich",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v232",
+      "de": "glücklich",
+      "en": "happy",
+      "pos": "other"
+    },
+    {
+      "id": "v233",
+      "de": "grau",
+      "en": "gray",
+      "pos": "other"
+    },
+    {
+      "id": "v234",
+      "de": "grün",
+      "en": "green",
+      "pos": "adjective"
+    },
+    {
+      "id": "v235",
+      "de": "hellblau",
+      "en": "light blue",
+      "pos": "other"
+    },
+    {
+      "id": "v236",
+      "de": "herzlich",
+      "en": "heartfelt",
+      "pos": "other"
+    },
+    {
+      "id": "v237",
+      "de": "häufig",
+      "en": "frequently",
+      "pos": "other"
+    },
+    {
+      "id": "v238",
+      "de": "höflich",
+      "en": "polite",
+      "pos": "other"
+    },
+    {
+      "id": "v239",
+      "de": "lila",
+      "en": "purple",
+      "pos": "other"
+    },
+    {
+      "id": "v240",
+      "de": "natürlich",
+      "en": "naturally",
+      "pos": "other"
+    },
+    {
+      "id": "v241",
+      "de": "neu",
+      "en": "new",
+      "pos": "adjective"
+    },
+    {
+      "id": "v242",
+      "de": "nur",
+      "en": "only",
+      "pos": "other"
+    },
+    {
+      "id": "v243",
+      "de": "professionell",
+      "en": "professional",
+      "pos": "other"
+    },
+    {
+      "id": "v244",
+      "de": "rosa",
+      "en": "pink",
+      "pos": "other"
+    },
+    {
+      "id": "v245",
+      "de": "rot",
+      "en": "red",
+      "pos": "adjective"
+    },
+    {
+      "id": "v246",
+      "de": "sauber",
+      "en": "clean",
+      "pos": "adjective"
+    },
+    {
+      "id": "v247",
+      "de": "schmutzig",
+      "en": "dirty",
+      "pos": "adjective"
+    },
+    {
+      "id": "v248",
+      "de": "Schuhe",
+      "en": "shoes",
+      "pos": "noun"
+    },
+    {
+      "id": "v249",
+      "de": "schwarz",
+      "en": "black",
+      "pos": "adjective"
+    },
+    {
+      "id": "v250",
+      "de": "seid herzlich gegrüßt",
+      "en": "you are warmly greeted",
+      "pos": "phrase"
+    },
+    {
+      "id": "v251",
+      "de": "Sollen wir …?",
+      "en": "Shall we …?",
+      "pos": "phrase"
+    },
+    {
+      "id": "v252",
+      "de": "türkis",
+      "en": "turquoise",
+      "pos": "other"
+    },
+    {
+      "id": "v253",
+      "de": "vielleicht",
+      "en": "perhaps",
+      "pos": "other"
+    },
+    {
+      "id": "v254",
+      "de": "vorsichtig",
+      "en": "cautious",
+      "pos": "other"
+    },
+    {
+      "id": "v255",
+      "de": "warm",
+      "en": "warm",
+      "pos": "other"
+    },
+    {
+      "id": "v256",
+      "de": "weiter",
+      "en": "further",
+      "pos": "other"
+    },
+    {
+      "id": "v257",
+      "de": "weiß",
+      "en": "white",
+      "pos": "adjective"
+    },
+    {
+      "id": "v258",
+      "de": "wieder",
+      "en": "again",
+      "pos": "other"
+    },
+    {
+      "id": "v259",
+      "de": "Wollen wir …?",
+      "en": "Do we want to …?",
+      "pos": "phrase"
+    },
+    {
+      "id": "v260",
+      "de": "zu Fuß",
+      "en": "on foot",
+      "pos": "phrase"
+    },
+    {
+      "id": "v261",
+      "de": "zuerst",
+      "en": "first",
+      "pos": "other"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Imperativ (Sie / du / ihr) und Vorschläge",
+      "titleEn": "Imperative and suggestions",
+      "explanationEn": "Formal: Nehmen Sie …! Informal du: Nimm …! ihr: Nehmt …! Suggestions: Sollen/Wollen wir …? Soll ich …?",
+      "patterns": [
+        "Lesen Sie die Anleitung!",
+        "Wasch die Hose!",
+        "Sollen wir waschen gehen?"
+      ],
+      "examples": [
+        {
+          "de": "Probieren Sie die Jacke an!",
+          "en": "Try on the jacket!"
+        },
+        {
+          "de": "Wollen wir neue Schuhe kaufen?",
+          "en": "Shall we buy new shoes?"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "titleDe": "Unregelmäßige und gemischte Verben im Perfekt; untrennbare Vorsilben",
+      "titleEn": "Irregular/mixed perfect; inseparable prefixes",
+      "explanationEn": "Irregular: gefunden, genommen, gewaschen. Mixed: gebracht, gedacht. Inseparable be-/ge-/er-/ver-/zer- have no extra ge-: Ich habe die Hose gewaschen; Ich habe die Farbe empfohlen.",
+      "patterns": [
+        "haben + irregular participle",
+        "ver-/be- without ge-"
+      ],
+      "examples": [
+        {
+          "de": "Ich habe meine Jacke gewaschen.",
+          "en": "I washed my jacket."
+        },
+        {
+          "de": "Er hat einen Pullover gefunden.",
+          "en": "He found a sweater."
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "Imperativ Sie",
+      "promptEn": "Formal imperative",
+      "content": "___ Sie die Anleitung!",
+      "options": [
+        "Lesen",
+        "Liest",
+        "Lest",
+        "Lesen wir"
+      ],
+      "answer": "Lesen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "Vorschlag",
+      "promptEn": "Suggestion",
+      "content": "___ wir ins Café gehen?",
+      "answer": "Sollen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "cloze",
+      "promptDe": "Perfekt",
+      "promptEn": "Perfect",
+      "content": "Ich habe die Hose ___. (waschen)",
+      "answer": "gewaschen",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d4",
+      "type": "multiple-choice",
+      "promptDe": "du-Imperativ",
+      "promptEn": "du imperative",
+      "content": "___ die Maschine an! (machen)",
+      "options": [
+        "Mach",
+        "Macht",
+        "Machen Sie",
+        "Machest"
+      ],
+      "answer": "Mach",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Satz",
+      "promptEn": "Sentence",
+      "content": "wir | Wollen | einkaufen | gehen | ?",
+      "answer": "Wollen wir einkaufen gehen?",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Partizip",
+      "promptEn": "Participle",
+      "content": "Sie hat einen Rock ___.",
+      "options": [
+        "gefunden",
+        "gefundenen",
+        "finden",
+        "gefindet"
+      ],
+      "answer": "gefunden",
+      "grammarId": "g2"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "vocab-de-en",
+      "prompt": "„die Hose“ means…",
+      "options": [
+        "trousers",
+        "skirt",
+        "coat",
+        "shoes"
+      ],
+      "answer": "trousers",
+      "vocabId": "v2"
+    },
+    {
+      "id": "q2",
+      "type": "grammar-mc",
+      "prompt": "Formal command:",
+      "options": [
+        "Warten Sie hier!",
+        "Warte Sie hier!",
+        "Wartet Sie hier!"
+      ],
+      "answer": "Warten Sie hier!",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "vocab-en-de",
+      "prompt": "“laundromat”:",
+      "options": [
+        "der Waschsalon",
+        "die Waschmaschine",
+        "die Anleitung",
+        "die Farbe"
+      ],
+      "answer": "der Waschsalon",
+      "vocabId": "v15"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Ich habe ein Hemd ___. (nehmen → genommen)",
+      "answer": "genommen",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "vocab-de-en",
+      "prompt": "„anprobieren“ means…",
+      "options": [
+        "to try on",
+        "to wash",
+        "to fit",
+        "to dry"
+      ],
+      "answer": "to try on",
+      "vocabId": "v20"
+    },
+    {
+      "id": "q6",
+      "type": "grammar-mc",
+      "prompt": "___ wir die Jacke kaufen?",
+      "options": [
+        "Sollen",
+        "Soll",
+        "Sollst",
+        "Müssen"
+      ],
+      "answer": "Sollen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-en-de",
+      "prompt": "“cotton”:",
+      "options": [
+        "die Baumwolle",
+        "die Wolle",
+        "das Material",
+        "die Größe"
+      ],
+      "answer": "die Baumwolle",
+      "vocabId": "v25"
+    },
+    {
+      "id": "q8",
+      "type": "cloze",
+      "prompt": "Complete: ___ die Tür auf! (du, machen)",
+      "answer": "Mach",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q9",
+      "type": "grammar-mc",
+      "prompt": "Perfect of finden:",
+      "options": [
+        "gefunden",
+        "gefindet",
+        "gefundenen",
+        "finden"
+      ],
+      "answer": "gefunden",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-de-en",
+      "prompt": "„schmutzig“ means…",
+      "options": [
+        "dirty",
+        "clean",
+        "new",
+        "white"
+      ],
+      "answer": "dirty",
+      "vocabId": "v31"
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd1-t34",
+      "cd": 1,
+      "track": 34,
+      "audioUrl": "/audio/cd1/track-34.mp3",
+      "preview": "Fr. Wald: Hallo Herr Schneider, Mittagspause! Kommen"
+    },
+    {
+      "id": "cd1-t35",
+      "cd": 1,
+      "track": 35,
+      "audioUrl": "/audio/cd1/track-35.mp3",
+      "preview": "Max: Entschuldigen Sie bitte, können Sie mir helfen?"
+    },
+    {
+      "id": "cd1-t36",
+      "cd": 1,
+      "track": 36,
+      "audioUrl": "/audio/cd1/track-36.mp3",
+      "preview": "Max: So! Jetzt hab’ ich alles sortiert. Komm doch bitte"
+    },
+    {
+      "id": "cd1-t37",
+      "cd": 1,
+      "track": 37,
+      "audioUrl": "/audio/cd1/track-37.mp3",
+      "preview": "Sprecher: Lies die Anleitung, du Dummkopf! Nimm"
+    },
+    {
+      "id": "cd1-t38",
+      "cd": 1,
+      "track": 38,
+      "audioUrl": "/audio/cd1/track-38.mp3",
+      "preview": "Lena: Hallo Max. Du bist ja schon da."
+    },
+    {
+      "id": "cd1-t39",
+      "cd": 1,
+      "track": 39,
+      "audioUrl": "/audio/cd1/track-39.mp3",
+      "preview": "Max: Lena, schau mal hier! Oh Gott!"
+    },
+    {
+      "id": "cd1-t40",
+      "cd": 1,
+      "track": 40,
+      "audioUrl": "/audio/cd1/track-40.mp3",
+      "preview": "Max: Lena, schau mal, das weiße Hemd ist rosa! Und"
+    },
+    {
+      "id": "cd1-t41",
+      "cd": 1,
+      "track": 41,
+      "audioUrl": "/audio/cd1/track-41.mp3",
+      "preview": "Sprecher: Was die Waschmaschine sagt (vgl. Lektion 6,"
+    }
+  ]
+}

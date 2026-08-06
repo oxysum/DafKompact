@@ -1,0 +1,276 @@
+{
+  "book": "DaF kompakt A1–B1 Kursbuch",
+  "languagePair": "de-en",
+  "lessons": [
+    {
+      "id": "a1-l01",
+      "level": "A1",
+      "number": 1,
+      "titleDe": "Ich und die anderen",
+      "titleEn": "Me and the others",
+      "status": "complete",
+      "order": 1
+    },
+    {
+      "id": "a1-l02",
+      "level": "A1",
+      "number": 2,
+      "titleDe": "Termine, Termine",
+      "titleEn": "Appointments, appointments",
+      "status": "complete",
+      "order": 2
+    },
+    {
+      "id": "a1-l03",
+      "level": "A1",
+      "number": 3,
+      "titleDe": "Unternehmen Familie",
+      "titleEn": "Family enterprise",
+      "status": "complete",
+      "order": 3
+    },
+    {
+      "id": "a1-l04",
+      "level": "A1",
+      "number": 4,
+      "titleDe": "Spiel und Spaß",
+      "titleEn": "Play and fun",
+      "status": "complete",
+      "order": 4
+    },
+    {
+      "id": "a1-l05",
+      "level": "A1",
+      "number": 5,
+      "titleDe": "Endlich ein Zimmer!",
+      "titleEn": "Finally a room!",
+      "status": "complete",
+      "order": 5
+    },
+    {
+      "id": "a1-l06",
+      "level": "A1",
+      "number": 6,
+      "titleDe": "Kleider machen Leute",
+      "titleEn": "Clothes make the person",
+      "status": "complete",
+      "order": 6
+    },
+    {
+      "id": "a1-l07",
+      "level": "A1",
+      "number": 7,
+      "titleDe": "Grüezi in der Schweiz",
+      "titleEn": "Hello in Switzerland",
+      "status": "complete",
+      "order": 7
+    },
+    {
+      "id": "a1-l08",
+      "level": "A1",
+      "number": 8,
+      "titleDe": "Hmmm, das schmeckt!",
+      "titleEn": "Hmm, that tastes good!",
+      "status": "complete",
+      "order": 8
+    },
+    {
+      "id": "a2-l09",
+      "level": "A2",
+      "number": 9,
+      "titleDe": "Feste feiern, wie sie fallen",
+      "titleEn": "Celebrating festivals as they come",
+      "status": "complete",
+      "order": 9
+    },
+    {
+      "id": "a2-l10",
+      "level": "A2",
+      "number": 10,
+      "titleDe": "Umziehen, ausziehen, einziehen",
+      "titleEn": "Moving in and out",
+      "status": "complete",
+      "order": 10
+    },
+    {
+      "id": "a2-l11",
+      "level": "A2",
+      "number": 11,
+      "titleDe": "Neu in Köln",
+      "titleEn": "New in Cologne",
+      "status": "complete",
+      "order": 11
+    },
+    {
+      "id": "a2-l12",
+      "level": "A2",
+      "number": 12,
+      "titleDe": "Bankgeschichten und andere",
+      "titleEn": "Bank stories and more",
+      "status": "complete",
+      "order": 12
+    },
+    {
+      "id": "a2-l13",
+      "level": "A2",
+      "number": 13,
+      "titleDe": "Die Gesundheit ist wie das Salz",
+      "titleEn": "Health is like salt",
+      "status": "complete",
+      "order": 13
+    },
+    {
+      "id": "a2-l14",
+      "level": "A2",
+      "number": 14,
+      "titleDe": "Herbst in München",
+      "titleEn": "Autumn in Munich",
+      "status": "complete",
+      "order": 14
+    },
+    {
+      "id": "a2-l15",
+      "level": "A2",
+      "number": 15,
+      "titleDe": "Eine Reise nach Wien",
+      "titleEn": "A trip to Vienna",
+      "status": "complete",
+      "order": 15
+    },
+    {
+      "id": "a2-l16",
+      "level": "A2",
+      "number": 16,
+      "titleDe": "Fünfhundert Berufe! Aber welcher?",
+      "titleEn": "Five hundred jobs! But which one?",
+      "status": "complete",
+      "order": 16
+    },
+    {
+      "id": "a2-l17",
+      "level": "A2",
+      "number": 17,
+      "titleDe": "Praktikum: Erfahrung, Lernen, Spaß",
+      "titleEn": "Internship: experience, learning, fun",
+      "status": "complete",
+      "order": 17
+    },
+    {
+      "id": "a2-l18",
+      "level": "A2",
+      "number": 18,
+      "titleDe": "Von den Alpen bis ans Meer",
+      "titleEn": "From the Alps to the sea",
+      "status": "complete",
+      "order": 18
+    },
+    {
+      "id": "b1-l19",
+      "level": "B1",
+      "number": 19,
+      "titleDe": "Trainee in Liechtenstein",
+      "titleEn": "Trainee in Liechtenstein",
+      "status": "complete",
+      "order": 19
+    },
+    {
+      "id": "b1-l20",
+      "level": "B1",
+      "number": 20,
+      "titleDe": "Verkehrsunfall in der Innenstadt",
+      "titleEn": "Traffic accident downtown",
+      "status": "stub",
+      "order": 20
+    },
+    {
+      "id": "b1-l21",
+      "level": "B1",
+      "number": 21,
+      "titleDe": "Kreativ in Hamburg",
+      "titleEn": "Creative in Hamburg",
+      "status": "stub",
+      "order": 21
+    },
+    {
+      "id": "b1-l22",
+      "level": "B1",
+      "number": 22,
+      "titleDe": "Ab die Post",
+      "titleEn": "Off to the post office",
+      "status": "stub",
+      "order": 22
+    },
+    {
+      "id": "b1-l23",
+      "level": "B1",
+      "number": 23,
+      "titleDe": "Studium in Deutschland",
+      "titleEn": "Studying in Germany",
+      "status": "stub",
+      "order": 23
+    },
+    {
+      "id": "b1-l24",
+      "level": "B1",
+      "number": 24,
+      "titleDe": "Mit der Natur arbeiten",
+      "titleEn": "Working with nature",
+      "status": "stub",
+      "order": 24
+    },
+    {
+      "id": "b1-l25",
+      "level": "B1",
+      "number": 25,
+      "titleDe": "Die Kunst, (keine) Fehler zu machen",
+      "titleEn": "The art of (not) making mistakes",
+      "status": "stub",
+      "order": 25
+    },
+    {
+      "id": "b1-l26",
+      "level": "B1",
+      "number": 26,
+      "titleDe": "Auf nach Dresden!",
+      "titleEn": "Off to Dresden!",
+      "status": "stub",
+      "order": 26
+    },
+    {
+      "id": "b1-l27",
+      "level": "B1",
+      "number": 27,
+      "titleDe": "Geschichten und Gesichter Berlins",
+      "titleEn": "Berlin's stories and faces",
+      "status": "stub",
+      "order": 27
+    },
+    {
+      "id": "b1-l28",
+      "level": "B1",
+      "number": 28,
+      "titleDe": "Von hier nach dort – von dort nach hier",
+      "titleEn": "From here to there – from there to here",
+      "status": "stub",
+      "order": 28
+    },
+    {
+      "id": "b1-l29",
+      "level": "B1",
+      "number": 29,
+      "titleDe": "Interessieren Sie sich für Politik?",
+      "titleEn": "Are you interested in politics?",
+      "status": "stub",
+      "order": 29
+    },
+    {
+      "id": "b1-l30",
+      "level": "B1",
+      "number": 30,
+      "titleDe": "Hauptperson Deutsch",
+      "titleEn": "German takes center stage",
+      "status": "stub",
+      "order": 30
+    }
+  ]
+}

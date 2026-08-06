@@ -1,0 +1,74 @@
+{
+  "id": "b1-l22",
+  "level": "B1",
+  "number": 22,
+  "titleDe": "Ab die Post",
+  "titleEn": "Off to the post office",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Ab die Post“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “Off to the post office” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t17",
+      "cd": 3,
+      "track": 17,
+      "audioUrl": "/audio/cd3/track-17.mp3",
+      "preview": "Postangestellter: Guten Tag!"
+    },
+    {
+      "id": "cd3-t18",
+      "cd": 3,
+      "track": 18,
+      "audioUrl": "/audio/cd3/track-18.mp3",
+      "preview": "Susanne: Hallo Markus."
+    },
+    {
+      "id": "cd3-t19",
+      "cd": 3,
+      "track": 19,
+      "audioUrl": "/audio/cd3/track-19.mp3",
+      "preview": "Postangestellter: Ah, haben Sie das Formular aus gefüllt?"
+    },
+    {
+      "id": "cd3-t20",
+      "cd": 3,
+      "track": 20,
+      "audioUrl": "/audio/cd3/track-20.mp3",
+      "preview": "Postangestellte: Guten Tag, bitte?"
+    },
+    {
+      "id": "cd3-t21",
+      "cd": 3,
+      "track": 21,
+      "audioUrl": "/audio/cd3/track-21.mp3",
+      "preview": "Susanne: Hallo Markus."
+    },
+    {
+      "id": "cd3-t22",
+      "cd": 3,
+      "track": 22,
+      "audioUrl": "/audio/cd3/track-22.mp3",
+      "preview": "Postangestellter: Guten Tag, was kann ich für Sie tun?"
+    }
+  ]
+}

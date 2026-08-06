@@ -1,0 +1,60 @@
+{
+  "id": "b1-l26",
+  "level": "B1",
+  "number": 26,
+  "titleDe": "Auf nach Dresden!",
+  "titleEn": "Off to Dresden!",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Auf nach Dresden!“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “Off to Dresden!” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t45",
+      "cd": 3,
+      "track": 45,
+      "audioUrl": "/audio/cd3/track-45.mp3",
+      "preview": "Dr. Baumann: Hallo Herr Lindner. Es freut mich sehr,"
+    },
+    {
+      "id": "cd3-t46",
+      "cd": 3,
+      "track": 46,
+      "audioUrl": "/audio/cd3/track-46.mp3",
+      "preview": "Gaby: Hallo Christian, schön, dass du die Konzertkarten"
+    },
+    {
+      "id": "cd3-t47",
+      "cd": 3,
+      "track": 47,
+      "audioUrl": "/audio/cd3/track-47.mp3",
+      "preview": "Reporter: Liebe Hörer und Hörerinnen, ich begrüße"
+    },
+    {
+      "id": "cd3-t48",
+      "cd": 3,
+      "track": 48,
+      "audioUrl": "/audio/cd3/track-48.mp3",
+      "preview": "Reporter: Und wie ist es mit Ihren Kollegen?"
+    }
+  ]
+}

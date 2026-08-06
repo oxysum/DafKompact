@@ -1,0 +1,207 @@
+{
+  "id": "b1-l30",
+  "level": "B1",
+  "number": 30,
+  "titleDe": "Hauptperson Deutsch",
+  "titleEn": "German takes center stage",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Hauptperson Deutsch“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “German takes center stage” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t60",
+      "cd": 3,
+      "track": 60,
+      "audioUrl": "/audio/cd3/track-60.mp3",
+      "preview": "Sprecher: Am Abend ist leider was Unangenehmes"
+    },
+    {
+      "id": "cd3-t61",
+      "cd": 3,
+      "track": 61,
+      "audioUrl": "/audio/cd3/track-61.mp3",
+      "preview": "Sprecher: Am Abend passierte leider etwas Unange-"
+    },
+    {
+      "id": "cd3-t62",
+      "cd": 3,
+      "track": 62,
+      "audioUrl": "/audio/cd3/track-62.mp3",
+      "preview": "Sprecherin: Am Abend ist leider etwas Dummes"
+    },
+    {
+      "id": "cd3-t63",
+      "cd": 3,
+      "track": 63,
+      "audioUrl": "/audio/cd3/track-63.mp3",
+      "preview": "Sprecher: Ich stürzte die Treppe hinunter und wurde"
+    },
+    {
+      "id": "cd3-t64",
+      "cd": 3,
+      "track": 64,
+      "audioUrl": "/audio/cd3/track-64.mp3",
+      "preview": "Sprecherin: Ich bin die Treppe hinunter gefallen und"
+    },
+    {
+      "id": "cd3-t65",
+      "cd": 3,
+      "track": 65,
+      "audioUrl": "/audio/cd3/track-65.mp3",
+      "preview": "Sprecher: Ich bin die Stiege hinunter gefallen und eilig"
+    },
+    {
+      "id": "cd3-t66",
+      "cd": 3,
+      "track": 66,
+      "audioUrl": "/audio/cd3/track-66.mp3",
+      "preview": "Sprecher: Verabredungsversuch am Telefon. Hoch-"
+    },
+    {
+      "id": "cd3-t67",
+      "cd": 3,
+      "track": 67,
+      "audioUrl": "/audio/cd3/track-67.mp3",
+      "preview": "Sprecherin: München: Bairisch: Du, woll mer morgen"
+    },
+    {
+      "id": "cd3-t68",
+      "cd": 3,
+      "track": 68,
+      "audioUrl": "/audio/cd3/track-68.mp3",
+      "preview": "Sprecher: Berlin: Berlinerisch: Woll’n wa morjen ins Kino"
+    },
+    {
+      "id": "cd3-t69",
+      "cd": 3,
+      "track": 69,
+      "audioUrl": "/audio/cd3/track-69.mp3",
+      "preview": "Sprecher: Frankfurt am Main: Hessisch: Wolle mer mor-"
+    },
+    {
+      "id": "cd3-t70",
+      "cd": 3,
+      "track": 70,
+      "audioUrl": "/audio/cd3/track-70.mp3",
+      "preview": "Sprecher: Köln: Kölsch: Wolle mer ins Kino jonn? – Nä?"
+    },
+    {
+      "id": "cd3-t71",
+      "cd": 3,
+      "track": 71,
+      "audioUrl": "/audio/cd3/track-71.mp3",
+      "preview": "Sprecherin: Hamburg: Nordniedersächsisch: Wollen wir"
+    },
+    {
+      "id": "cd3-t72",
+      "cd": 3,
+      "track": 72,
+      "audioUrl": "/audio/cd3/track-72.mp3",
+      "preview": "Sprecherin: Dortmund: Ruhrdeutsch: Eh, soll ma morgen"
+    },
+    {
+      "id": "cd3-t73",
+      "cd": 3,
+      "track": 73,
+      "audioUrl": "/audio/cd3/track-73.mp3",
+      "preview": "Sprecherin: Leipzig: Sächsisch: Woll’mer morschen ins"
+    },
+    {
+      "id": "cd3-t74",
+      "cd": 3,
+      "track": 74,
+      "audioUrl": "/audio/cd3/track-74.mp3",
+      "preview": "Sprecherin: Stuttgart: Schwäbisch: Soll mr morga ins"
+    },
+    {
+      "id": "cd3-t75",
+      "cd": 3,
+      "track": 75,
+      "audioUrl": "/audio/cd3/track-75.mp3",
+      "preview": "Sprecherin: Wollen wir morgen ins Kino gehen? – Nein?"
+    },
+    {
+      "id": "cd3-t76",
+      "cd": 3,
+      "track": 76,
+      "audioUrl": "/audio/cd3/track-76.mp3",
+      "preview": "Sprecher: Wolle mer ins Kino jonn? – Nä? Woröm dann"
+    },
+    {
+      "id": "cd3-t77",
+      "cd": 3,
+      "track": 77,
+      "audioUrl": "/audio/cd3/track-77.mp3",
+      "preview": "Sprecherin: Soll mr morga ins Kino ganga? – Noi, war-"
+    },
+    {
+      "id": "cd3-t78",
+      "cd": 3,
+      "track": 78,
+      "audioUrl": "/audio/cd3/track-78.mp3",
+      "preview": "Sprecher: Woll’n wa morjen ins Kino jehn? – Nee? War-"
+    },
+    {
+      "id": "cd3-t79",
+      "cd": 3,
+      "track": 79,
+      "audioUrl": "/audio/cd3/track-79.mp3",
+      "preview": "Sprecherin: Du, woll mer morgen ins Kino gehen? – Na?"
+    },
+    {
+      "id": "cd3-t80",
+      "cd": 3,
+      "track": 80,
+      "audioUrl": "/audio/cd3/track-80.mp3",
+      "preview": "Sprecher: Wolle mer morje ins Kinou geie? – Naa? Ei,"
+    },
+    {
+      "id": "cd3-t81",
+      "cd": 3,
+      "track": 81,
+      "audioUrl": "/audio/cd3/track-81.mp3",
+      "preview": "Sprecherin: Woll’mer morschen ins Giinou gehn? – Nej?"
+    },
+    {
+      "id": "cd3-t82",
+      "cd": 3,
+      "track": 82,
+      "audioUrl": "/audio/cd3/track-82.mp3",
+      "preview": "Sprecherin: Eh, soll ma morgen ins Kino? – Warum,"
+    },
+    {
+      "id": "cd3-t83",
+      "cd": 3,
+      "track": 83,
+      "audioUrl": "/audio/cd3/track-83.mp3",
+      "preview": "Ralf: Also Julie, du sprichst echt super Deutsch!"
+    },
+    {
+      "id": "cd3-t84",
+      "cd": 3,
+      "track": 84,
+      "audioUrl": "/audio/cd3/track-84.mp3",
+      "preview": "Sprecher:"
+    }
+  ]
+}

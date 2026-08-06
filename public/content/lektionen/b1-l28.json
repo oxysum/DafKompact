@@ -1,0 +1,53 @@
+{
+  "id": "b1-l28",
+  "level": "B1",
+  "number": 28,
+  "titleDe": "Von hier nach dort – von dort nach hier",
+  "titleEn": "From here to there – from there to here",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Von hier nach dort – von dort nach hier“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “From here to there – from there to here” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t50",
+      "cd": 3,
+      "track": 50,
+      "audioUrl": "/audio/cd3/track-50.mp3",
+      "preview": "Bert: Hallo."
+    },
+    {
+      "id": "cd3-t51",
+      "cd": 3,
+      "track": 51,
+      "audioUrl": "/audio/cd3/track-51.mp3",
+      "preview": "Reporterin: Heute zu Gast in der Sendung „Leute“ be-"
+    },
+    {
+      "id": "cd3-t52",
+      "cd": 3,
+      "track": 52,
+      "audioUrl": "/audio/cd3/track-52.mp3",
+      "preview": "Reporterin: Und was haben Sie gemacht, um eine Stelle"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "b1-l23",
+  "level": "B1",
+  "number": 23,
+  "titleDe": "Studium in Deutschland",
+  "titleEn": "Studying in Germany",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Studium in Deutschland“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “Studying in Germany” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t23",
+      "cd": 3,
+      "track": 23,
+      "audioUrl": "/audio/cd3/track-23.mp3",
+      "preview": "Kursleiterin: So, nachdem wir nun gemeinsam den"
+    },
+    {
+      "id": "cd3-t24",
+      "cd": 3,
+      "track": 24,
+      "audioUrl": "/audio/cd3/track-24.mp3",
+      "preview": "Kursleiterin: Und Sie, Françoise?"
+    },
+    {
+      "id": "cd3-t25",
+      "cd": 3,
+      "track": 25,
+      "audioUrl": "/audio/cd3/track-25.mp3",
+      "preview": "Kursleiterin: Und was meinen Sie, Daniel?"
+    },
+    {
+      "id": "cd3-t26",
+      "cd": 3,
+      "track": 26,
+      "audioUrl": "/audio/cd3/track-26.mp3",
+      "preview": "Kursleiterin: Aha, interessant. Und Sie Kristin?"
+    },
+    {
+      "id": "cd3-t27",
+      "cd": 3,
+      "track": 27,
+      "audioUrl": "/audio/cd3/track-27.mp3",
+      "preview": "Kursleiterin: Hm, Interessant, dass mehrere von Ihnen"
+    },
+    {
+      "id": "cd3-t28",
+      "cd": 3,
+      "track": 28,
+      "audioUrl": "/audio/cd3/track-28.mp3",
+      "preview": "Kursleiterin: Gestern haben wir ja schon über das"
+    },
+    {
+      "id": "cd3-t29",
+      "cd": 3,
+      "track": 29,
+      "audioUrl": "/audio/cd3/track-29.mp3",
+      "preview": "Kursleiterin: Wer in Deutschland studieren möchte,"
+    },
+    {
+      "id": "cd3-t30",
+      "cd": 3,
+      "track": 30,
+      "audioUrl": "/audio/cd3/track-30.mp3",
+      "preview": "Kursleiterin: Und dann ist da noch die Fernuniversität"
+    },
+    {
+      "id": "cd3-t31",
+      "cd": 3,
+      "track": 31,
+      "audioUrl": "/audio/cd3/track-31.mp3",
+      "preview": "Kursleiterin: Über Fachhochschulen haben wir ja schon"
+    },
+    {
+      "id": "cd3-t32",
+      "cd": 3,
+      "track": 32,
+      "audioUrl": "/audio/cd3/track-32.mp3",
+      "preview": "Kursleiterin: Zum Schluss möchte ich Ihnen noch ein"
+    },
+    {
+      "id": "cd3-t33",
+      "cd": 3,
+      "track": 33,
+      "audioUrl": "/audio/cd3/track-33.mp3",
+      "preview": "Kursleiterin: Was sind nun die Vor- und Nachteile bei"
+    },
+    {
+      "id": "cd3-t34",
+      "cd": 3,
+      "track": 34,
+      "audioUrl": "/audio/cd3/track-34.mp3",
+      "preview": "Kursleiterin: Das heißt aber auch, dass es in einem du-"
+    }
+  ]
+}

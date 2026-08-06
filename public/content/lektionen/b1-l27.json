@@ -1,0 +1,39 @@
+{
+  "id": "b1-l27",
+  "level": "B1",
+  "number": 27,
+  "titleDe": "Geschichten und Gesichter Berlins",
+  "titleEn": "Berlin's stories and faces",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Geschichten und Gesichter Berlins“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “Berlin's stories and faces” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t49",
+      "cd": 3,
+      "track": 49,
+      "audioUrl": "/audio/cd3/track-49.mp3",
+      "preview": "Karl: Hey, weißt du, was ich vorgestern noch gefunden"
+    }
+  ]
+}

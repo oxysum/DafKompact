@@ -1,0 +1,2411 @@
+{
+  "id": "a2-l14",
+  "level": "A2",
+  "number": 14,
+  "titleDe": "Herbst in München",
+  "titleEn": "Autumn in Munich",
+  "status": "complete",
+  "goals": [
+    {
+      "de": "Wetterkarte und Wetterbericht verstehen",
+      "en": "Understand weather maps and forecasts"
+    },
+    {
+      "de": "Über Kleidung sprechen und Kaufhaus-Durchsagen verstehen",
+      "en": "Talk about clothes; understand store announcements"
+    },
+    {
+      "de": "Texte über Oktoberfest verstehen und Volksfest berichten",
+      "en": "Understand Oktoberfest texts; report on a folk festival"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Abschnitt",
+      "en": "section",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v2",
+      "de": "Abteilung",
+      "en": "department",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v3",
+      "de": "anderen",
+      "en": "others",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v4",
+      "de": "Anfang",
+      "en": "beginning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v5",
+      "de": "Angebot",
+      "en": "offer",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v6",
+      "de": "Anrede",
+      "en": "salutation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v7",
+      "de": "Artikel",
+      "en": "article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v8",
+      "de": "Ausland",
+      "en": "abroad",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v9",
+      "de": "Ausschnitt",
+      "en": "detail",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v10",
+      "de": "Baumwolle",
+      "en": "cotton",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v11",
+      "de": "Bedeutung",
+      "en": "meaning",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v12",
+      "de": "Bekleidung",
+      "en": "clothing",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v13",
+      "de": "Besucher",
+      "en": "visitor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v14",
+      "de": "Betrieb",
+      "en": "operation",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v15",
+      "de": "Bierfass",
+      "en": "Beer barrel",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v16",
+      "de": "Bierzelt",
+      "en": "beer tent",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v17",
+      "de": "Bild",
+      "en": "picture / painting",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v18",
+      "de": "Bitte",
+      "en": "request / please (as noun: request)",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v19",
+      "de": "Blick",
+      "en": "view",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v20",
+      "de": "Bluse",
+      "en": "blouse",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v21",
+      "de": "Brathendl",
+      "en": "Fried chicken",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v22",
+      "de": "Bürger",
+      "en": "citizens",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v23",
+      "de": "Bürgermeister",
+      "en": "mayor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v24",
+      "de": "Bürgermeisterin",
+      "en": "mayor",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v25",
+      "de": "Campingplatz",
+      "en": "campsite",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v26",
+      "de": "Dame",
+      "en": "lady",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v27",
+      "de": "Damenabteilung",
+      "en": "Women's department",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v28",
+      "de": "Daunenmantel",
+      "en": "Down coat",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v29",
+      "de": "Dienst",
+      "en": "service",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v30",
+      "de": "Dirndl",
+      "en": "dirndl",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v31",
+      "de": "Durchsage",
+      "en": "announcement",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v32",
+      "de": "Ende",
+      "en": "ending",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v33",
+      "de": "Endung",
+      "en": "ending",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v34",
+      "de": "Erinnerung",
+      "en": "memory",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v35",
+      "de": "Essen",
+      "en": "to eat",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v36",
+      "de": "Etikett",
+      "en": "label",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v37",
+      "de": "Fahrgeschäft",
+      "en": "fairground ride",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v38",
+      "de": "Feierlichkeit",
+      "en": "solemnity",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v39",
+      "de": "Fest",
+      "en": "festival / celebration",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v40",
+      "de": "Foto",
+      "en": "photo",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v41",
+      "de": "Frühling",
+      "en": "spring",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v42",
+      "de": "Gastgeber",
+      "en": "host",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v43",
+      "de": "Gastronomie",
+      "en": "gastronomy",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v44",
+      "de": "Gastwirt",
+      "en": "innkeeper",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v45",
+      "de": "Gericht",
+      "en": "court",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v46",
+      "de": "Geschichte",
+      "en": "story",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v47",
+      "de": "Geschmack",
+      "en": "The taste",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v48",
+      "de": "Geschäft",
+      "en": "business",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v49",
+      "de": "Gespräch",
+      "en": "conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v50",
+      "de": "Gewitter",
+      "en": "thunderstorm",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v51",
+      "de": "GmbH",
+      "en": "gmbH",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v52",
+      "de": "Grad",
+      "en": "degree",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v53",
+      "de": "Grammatik",
+      "en": "grammar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v54",
+      "de": "Gruppe",
+      "en": "group",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v55",
+      "de": "Größe",
+      "en": "size",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v56",
+      "de": "Gästebett",
+      "en": "Guest bed",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v57",
+      "de": "Gürtel",
+      "en": "belt",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v58",
+      "de": "Hagel",
+      "en": "hail",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v59",
+      "de": "Handschuhe",
+      "en": "gloves",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v60",
+      "de": "Handtasche",
+      "en": "handbag",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v61",
+      "de": "Haushalt",
+      "en": "household",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v62",
+      "de": "Haushaltsware",
+      "en": "Household goods",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v63",
+      "de": "Heimat",
+      "en": "home country / hometown",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v64",
+      "de": "Herbst",
+      "en": "autumn / fall",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v65",
+      "de": "Herrenabteilung",
+      "en": "herrenabteilung",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v66",
+      "de": "Hochzeit",
+      "en": "wedding",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v67",
+      "de": "Hose",
+      "en": "trousers / pants",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v68",
+      "de": "Hotel",
+      "en": "hotel",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v69",
+      "de": "Idee",
+      "en": "idea",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v70",
+      "de": "Innenstadt",
+      "en": "downtown",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v71",
+      "de": "Internet",
+      "en": "Internet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v72",
+      "de": "Jacke",
+      "en": "jacket",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v73",
+      "de": "Jeans",
+      "en": "jeans",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v74",
+      "de": "Jugendherberge",
+      "en": "youth hostel",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v75",
+      "de": "Kabine",
+      "en": "cabin",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v76",
+      "de": "Kapuze",
+      "en": "hood",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v77",
+      "de": "Karte",
+      "en": "card",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v78",
+      "de": "Karussell",
+      "en": "carousel",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v79",
+      "de": "Kasse",
+      "en": "checkout",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v80",
+      "de": "Kassenbon",
+      "en": "receipt",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v81",
+      "de": "Kaufhaus",
+      "en": "department store",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v82",
+      "de": "Klasse",
+      "en": "class",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v83",
+      "de": "Kleid",
+      "en": "dress",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v84",
+      "de": "Kleider",
+      "en": "dresses",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v85",
+      "de": "Kleidergröße",
+      "en": "Dress size",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v86",
+      "de": "Kleidung",
+      "en": "clothing",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v87",
+      "de": "Knopf",
+      "en": "button",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v88",
+      "de": "Kragen",
+      "en": "collar",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v89",
+      "de": "Kreditkarte",
+      "en": "credit card",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v90",
+      "de": "Kunde",
+      "en": "customer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v91",
+      "de": "Kurs",
+      "en": "course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v92",
+      "de": "Kursbuch",
+      "en": "Course book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v93",
+      "de": "König",
+      "en": "king",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v94",
+      "de": "Lederhose",
+      "en": "leather trousers",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v95",
+      "de": "Lederjacke",
+      "en": "Leather jacket",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v96",
+      "de": "Leinen",
+      "en": "linen",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v97",
+      "de": "Leute",
+      "en": "people",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v98",
+      "de": "Loch",
+      "en": "hole",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v99",
+      "de": "Mal",
+      "en": "modal particle (just / once)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v100",
+      "de": "Malbuch",
+      "en": "coloring book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v101",
+      "de": "Mantel",
+      "en": "coat",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v102",
+      "de": "Maß",
+      "en": "litre of beer",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v103",
+      "de": "Modell",
+      "en": "model",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v104",
+      "de": "Moment",
+      "en": "moment",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v105",
+      "de": "Multimedia",
+      "en": "multimedia",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v106",
+      "de": "Mütze",
+      "en": "cap",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v107",
+      "de": "Natur",
+      "en": "nature",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v108",
+      "de": "Nebel",
+      "en": "fog",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v109",
+      "de": "Nomen",
+      "en": "noun",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v110",
+      "de": "Oberbürgermeister",
+      "en": "mayor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v111",
+      "de": "Oktober",
+      "en": "october",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v112",
+      "de": "Oktoberfest",
+      "en": "Oktoberfest",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v113",
+      "de": "Partner",
+      "en": "partner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v114",
+      "de": "Pferderennen",
+      "en": "Horse racing",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v115",
+      "de": "Pferdewagen",
+      "en": "Horse cart",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v116",
+      "de": "Preis",
+      "en": "price",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v117",
+      "de": "Prinz",
+      "en": "prince",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v118",
+      "de": "Prinzessin",
+      "en": "princess",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v119",
+      "de": "Profil",
+      "en": "profile",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v120",
+      "de": "Pullover",
+      "en": "sweater",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v121",
+      "de": "Redemittel",
+      "en": "means of speech",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v122",
+      "de": "Regen",
+      "en": "rain",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v123",
+      "de": "Regenhose",
+      "en": "Rain pants",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v124",
+      "de": "Regenjacke",
+      "en": "Rain jacket",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v125",
+      "de": "Regisseur",
+      "en": "director",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v126",
+      "de": "Regisseurin",
+      "en": "director",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v127",
+      "de": "Reihenfolge",
+      "en": "series",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v128",
+      "de": "Reise",
+      "en": "trip",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v129",
+      "de": "Reisen",
+      "en": "travel",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v130",
+      "de": "Reisende",
+      "en": "travelers",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v131",
+      "de": "Reiseziel",
+      "en": "destination",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v132",
+      "de": "Reißverschluss",
+      "en": "zipper",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v133",
+      "de": "Rennen",
+      "en": "run",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v134",
+      "de": "Riesenrad",
+      "en": "Ferris wheel",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v135",
+      "de": "Rock",
+      "en": "skirt",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v136",
+      "de": "Rollkragen",
+      "en": "turtleneck",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v137",
+      "de": "Schal",
+      "en": "scarf",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v138",
+      "de": "Schaukel",
+      "en": "swing",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v139",
+      "de": "Schausteller",
+      "en": "showman",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v140",
+      "de": "Schirm",
+      "en": "umbrella",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v141",
+      "de": "Schluss",
+      "en": "ending",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v142",
+      "de": "Schnee",
+      "en": "snow",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v143",
+      "de": "Schnäppchen",
+      "en": "bargain",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v144",
+      "de": "Schnäppchenmarkt",
+      "en": "Bargain market",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v145",
+      "de": "Schreiben",
+      "en": "to write",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v146",
+      "de": "Schreibware",
+      "en": "stationery",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v147",
+      "de": "September",
+      "en": "september",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v148",
+      "de": "Sonderangebot",
+      "en": "special offer",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v149",
+      "de": "Sonne",
+      "en": "sun",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v150",
+      "de": "Spielware",
+      "en": "toys",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v151",
+      "de": "Sport",
+      "en": "sport",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v152",
+      "de": "Sportabteilung",
+      "en": "Sports department",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v153",
+      "de": "Stadt",
+      "en": "city",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v154",
+      "de": "Strickjacke",
+      "en": "cardigan",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v155",
+      "de": "Suche",
+      "en": "search",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v156",
+      "de": "Süden",
+      "en": "south",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v157",
+      "de": "Tabelle",
+      "en": "table",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v158",
+      "de": "Teil",
+      "en": "part",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v159",
+      "de": "Telefongespräch",
+      "en": "Telephone conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v160",
+      "de": "Temperatur",
+      "en": "temperature",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v161",
+      "de": "Text",
+      "en": "text",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v162",
+      "de": "Thema",
+      "en": "theme",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v163",
+      "de": "Tisch",
+      "en": "table",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v164",
+      "de": "Touristenmagnet",
+      "en": "Tourist magnet",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v165",
+      "de": "Tradition",
+      "en": "tradition",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v166",
+      "de": "Treffen",
+      "en": "to meet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v167",
+      "de": "Typ",
+      "en": "type",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v168",
+      "de": "Umgebung",
+      "en": "vicinity",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v169",
+      "de": "Umkleidekabine",
+      "en": "changing room",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v170",
+      "de": "Umsatz",
+      "en": "Sales volume",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v171",
+      "de": "Umtausch",
+      "en": "exchange",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v172",
+      "de": "Unterhaltung",
+      "en": "entertainment",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v173",
+      "de": "Verkäufer",
+      "en": "salesperson",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v174",
+      "de": "Verkäuferin",
+      "en": "saleswoman",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v175",
+      "de": "Vokalwechsel",
+      "en": "Vowel change",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v176",
+      "de": "Volk",
+      "en": "people",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v177",
+      "de": "Volksfest",
+      "en": "folk festival",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v178",
+      "de": "Weg",
+      "en": "way / path",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v179",
+      "de": "Wetter",
+      "en": "weather",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v180",
+      "de": "Wetterbericht",
+      "en": "weather forecast",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v181",
+      "de": "Wetterkarte",
+      "en": "Weather map",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v182",
+      "de": "Wiese",
+      "en": "meadow",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v183",
+      "de": "Wind",
+      "en": "wind",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v184",
+      "de": "Winter",
+      "en": "winter",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v185",
+      "de": "Wirt",
+      "en": "host",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v186",
+      "de": "Woche",
+      "en": "week",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v187",
+      "de": "Wolke",
+      "en": "cloud",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v188",
+      "de": "Wolle",
+      "en": "wool",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v189",
+      "de": "Zeit",
+      "en": "time",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v190",
+      "de": "Zeitungsartikel",
+      "en": "Newspaper article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v191",
+      "de": "Ärmel",
+      "en": "sleeve",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v192",
+      "de": "anprobieren",
+      "en": "to try on (clothes)",
+      "pos": "verb"
+    },
+    {
+      "id": "v193",
+      "de": "ausprobieren",
+      "en": "to try out",
+      "pos": "verb"
+    },
+    {
+      "id": "v194",
+      "de": "beantworten",
+      "en": "answer",
+      "pos": "verb"
+    },
+    {
+      "id": "v195",
+      "de": "benutzen",
+      "en": "to use",
+      "pos": "verb"
+    },
+    {
+      "id": "v196",
+      "de": "berichten",
+      "en": "report",
+      "pos": "verb"
+    },
+    {
+      "id": "v197",
+      "de": "bezahlen",
+      "en": "to pay for",
+      "pos": "verb"
+    },
+    {
+      "id": "v198",
+      "de": "bieten",
+      "en": "offer",
+      "pos": "verb"
+    },
+    {
+      "id": "v199",
+      "de": "bleiben",
+      "en": "to stay",
+      "pos": "verb"
+    },
+    {
+      "id": "v200",
+      "de": "blitzen",
+      "en": "flash",
+      "pos": "verb"
+    },
+    {
+      "id": "v201",
+      "de": "brauchen",
+      "en": "to need",
+      "pos": "verb"
+    },
+    {
+      "id": "v202",
+      "de": "donnern",
+      "en": "thunder",
+      "pos": "verb"
+    },
+    {
+      "id": "v203",
+      "de": "einzeln",
+      "en": "individually",
+      "pos": "verb"
+    },
+    {
+      "id": "v204",
+      "de": "ergänzen",
+      "en": "add to",
+      "pos": "verb"
+    },
+    {
+      "id": "v205",
+      "de": "erkennen",
+      "en": "recognize",
+      "pos": "verb"
+    },
+    {
+      "id": "v206",
+      "de": "fallen",
+      "en": "fall",
+      "pos": "verb"
+    },
+    {
+      "id": "v207",
+      "de": "gebrauchen",
+      "en": "use",
+      "pos": "verb"
+    },
+    {
+      "id": "v208",
+      "de": "gewittern",
+      "en": "thunderstorms",
+      "pos": "verb"
+    },
+    {
+      "id": "v209",
+      "de": "hageln",
+      "en": "hail",
+      "pos": "verb"
+    },
+    {
+      "id": "v210",
+      "de": "helfen",
+      "en": "to help",
+      "pos": "verb"
+    },
+    {
+      "id": "v211",
+      "de": "hören",
+      "en": "to hear",
+      "pos": "verb"
+    },
+    {
+      "id": "v212",
+      "de": "inzwischen",
+      "en": "in the meantime",
+      "pos": "verb"
+    },
+    {
+      "id": "v213",
+      "de": "kosten",
+      "en": "to cost",
+      "pos": "verb"
+    },
+    {
+      "id": "v214",
+      "de": "meinen",
+      "en": "mean",
+      "pos": "verb"
+    },
+    {
+      "id": "v215",
+      "de": "oben",
+      "en": "above",
+      "pos": "verb"
+    },
+    {
+      "id": "v216",
+      "de": "passen",
+      "en": "to fit",
+      "pos": "verb"
+    },
+    {
+      "id": "v217",
+      "de": "reduzieren",
+      "en": "reduce",
+      "pos": "verb"
+    },
+    {
+      "id": "v218",
+      "de": "regeln",
+      "en": "regulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v219",
+      "de": "regnen",
+      "en": "to rain",
+      "pos": "verb"
+    },
+    {
+      "id": "v220",
+      "de": "schauen",
+      "en": "to look",
+      "pos": "verb"
+    },
+    {
+      "id": "v221",
+      "de": "scheinen",
+      "en": "to shine",
+      "pos": "verb"
+    },
+    {
+      "id": "v222",
+      "de": "schneien",
+      "en": "snow",
+      "pos": "verb"
+    },
+    {
+      "id": "v223",
+      "de": "Shoppen",
+      "en": "shopping",
+      "pos": "verb"
+    },
+    {
+      "id": "v224",
+      "de": "stattfinden",
+      "en": "to take place",
+      "pos": "verb"
+    },
+    {
+      "id": "v225",
+      "de": "stürmen",
+      "en": "storm",
+      "pos": "verb"
+    },
+    {
+      "id": "v226",
+      "de": "suchen",
+      "en": "to look for",
+      "pos": "verb"
+    },
+    {
+      "id": "v227",
+      "de": "surfen",
+      "en": "to surf",
+      "pos": "verb"
+    },
+    {
+      "id": "v228",
+      "de": "tauschen",
+      "en": "to exchange",
+      "pos": "verb"
+    },
+    {
+      "id": "v229",
+      "de": "Vergleichen",
+      "en": "to compare",
+      "pos": "verb"
+    },
+    {
+      "id": "v230",
+      "de": "verschieden",
+      "en": "different",
+      "pos": "verb"
+    },
+    {
+      "id": "v231",
+      "de": "verstehen",
+      "en": "understand",
+      "pos": "verb"
+    },
+    {
+      "id": "v232",
+      "de": "wandern",
+      "en": "to hike",
+      "pos": "verb"
+    },
+    {
+      "id": "v233",
+      "de": "wehen",
+      "en": "blow",
+      "pos": "verb"
+    },
+    {
+      "id": "v234",
+      "de": "Übernachten",
+      "en": "Stay overnight",
+      "pos": "verb"
+    },
+    {
+      "id": "v235",
+      "de": "übersetzen",
+      "en": "translate",
+      "pos": "verb"
+    },
+    {
+      "id": "v236",
+      "de": "alt",
+      "en": "old",
+      "pos": "other"
+    },
+    {
+      "id": "v237",
+      "de": "altmodisch",
+      "en": "old fashioned",
+      "pos": "other"
+    },
+    {
+      "id": "v238",
+      "de": "am Ende",
+      "en": "at the end",
+      "pos": "phrase"
+    },
+    {
+      "id": "v239",
+      "de": "Aus dem Ausland",
+      "en": "From abroad",
+      "pos": "other"
+    },
+    {
+      "id": "v240",
+      "de": "Bayern",
+      "en": "bavaria",
+      "pos": "other"
+    },
+    {
+      "id": "v241",
+      "de": "bedeckt",
+      "en": "covered",
+      "pos": "other"
+    },
+    {
+      "id": "v242",
+      "de": "beige",
+      "en": "beige",
+      "pos": "other"
+    },
+    {
+      "id": "v243",
+      "de": "bekannt",
+      "en": "known",
+      "pos": "other"
+    },
+    {
+      "id": "v244",
+      "de": "bequem",
+      "en": "comfortable",
+      "pos": "other"
+    },
+    {
+      "id": "v245",
+      "de": "bewölkt",
+      "en": "cloudy",
+      "pos": "other"
+    },
+    {
+      "id": "v246",
+      "de": "bis",
+      "en": "until",
+      "pos": "other"
+    },
+    {
+      "id": "v247",
+      "de": "Celsius",
+      "en": "celsius",
+      "pos": "other"
+    },
+    {
+      "id": "v248",
+      "de": "cool",
+      "en": "cool",
+      "pos": "other"
+    },
+    {
+      "id": "v249",
+      "de": "da",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v250",
+      "de": "dann",
+      "en": "then",
+      "pos": "other"
+    },
+    {
+      "id": "v251",
+      "de": "darum",
+      "en": "that is why",
+      "pos": "adverb"
+    },
+    {
+      "id": "v252",
+      "de": "denn",
+      "en": "because / for",
+      "pos": "other"
+    },
+    {
+      "id": "v253",
+      "de": "deshalb",
+      "en": "therefore",
+      "pos": "adverb"
+    },
+    {
+      "id": "v254",
+      "de": "deswegen",
+      "en": "for that reason",
+      "pos": "adverb"
+    },
+    {
+      "id": "v255",
+      "de": "doch",
+      "en": "modal particle (do / after all)",
+      "pos": "other"
+    },
+    {
+      "id": "v256",
+      "de": "dort",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v257",
+      "de": "dunkelblau",
+      "en": "dark blue",
+      "pos": "other"
+    },
+    {
+      "id": "v258",
+      "de": "einfarbig",
+      "en": "monochrome",
+      "pos": "other"
+    },
+    {
+      "id": "v259",
+      "de": "erfolgreich",
+      "en": "successful",
+      "pos": "other"
+    },
+    {
+      "id": "v260",
+      "de": "ernst",
+      "en": "serious",
+      "pos": "other"
+    },
+    {
+      "id": "v261",
+      "de": "froh",
+      "en": "glad",
+      "pos": "other"
+    },
+    {
+      "id": "v262",
+      "de": "ganz",
+      "en": "quite",
+      "pos": "other"
+    },
+    {
+      "id": "v263",
+      "de": "gar",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v264",
+      "de": "geblümt",
+      "en": "floral",
+      "pos": "other"
+    },
+    {
+      "id": "v265",
+      "de": "gemütlich",
+      "en": "cosy",
+      "pos": "adjective"
+    },
+    {
+      "id": "v266",
+      "de": "genau",
+      "en": "exactly",
+      "pos": "other"
+    },
+    {
+      "id": "v267",
+      "de": "genug",
+      "en": "enough",
+      "pos": "other"
+    },
+    {
+      "id": "v268",
+      "de": "gestreift",
+      "en": "striped",
+      "pos": "other"
+    },
+    {
+      "id": "v269",
+      "de": "gibt es",
+      "en": "there is",
+      "pos": "phrase"
+    },
+    {
+      "id": "v270",
+      "de": "gratis",
+      "en": "free",
+      "pos": "other"
+    },
+    {
+      "id": "v271",
+      "de": "grün",
+      "en": "green",
+      "pos": "other"
+    },
+    {
+      "id": "v272",
+      "de": "heiter",
+      "en": "cheerful",
+      "pos": "other"
+    },
+    {
+      "id": "v273",
+      "de": "heiß",
+      "en": "hot",
+      "pos": "other"
+    },
+    {
+      "id": "v274",
+      "de": "hoch",
+      "en": "high",
+      "pos": "other"
+    },
+    {
+      "id": "v275",
+      "de": "hübsch",
+      "en": "pretty",
+      "pos": "other"
+    },
+    {
+      "id": "v276",
+      "de": "immer",
+      "en": "always",
+      "pos": "other"
+    },
+    {
+      "id": "v277",
+      "de": "kalt",
+      "en": "cold",
+      "pos": "adjective"
+    },
+    {
+      "id": "v278",
+      "de": "kaputt",
+      "en": "broken",
+      "pos": "other"
+    },
+    {
+      "id": "v279",
+      "de": "klein",
+      "en": "small",
+      "pos": "other"
+    },
+    {
+      "id": "v280",
+      "de": "kühl",
+      "en": "cool",
+      "pos": "other"
+    },
+    {
+      "id": "v281",
+      "de": "lila",
+      "en": "purple",
+      "pos": "other"
+    },
+    {
+      "id": "v282",
+      "de": "mild",
+      "en": "mild",
+      "pos": "other"
+    },
+    {
+      "id": "v283",
+      "de": "mithilfe",
+      "en": "using",
+      "pos": "other"
+    },
+    {
+      "id": "v284",
+      "de": "München",
+      "en": "Munich",
+      "pos": "other"
+    },
+    {
+      "id": "v285",
+      "de": "neblig",
+      "en": "foggy",
+      "pos": "other"
+    },
+    {
+      "id": "v286",
+      "de": "neu",
+      "en": "new",
+      "pos": "other"
+    },
+    {
+      "id": "v287",
+      "de": "nicht zu",
+      "en": "not to (brauchen…zu)",
+      "pos": "phrase"
+    },
+    {
+      "id": "v288",
+      "de": "nur",
+      "en": "only",
+      "pos": "other"
+    },
+    {
+      "id": "v289",
+      "de": "nötig",
+      "en": "necessary",
+      "pos": "other"
+    },
+    {
+      "id": "v290",
+      "de": "praktisch",
+      "en": "practical",
+      "pos": "other"
+    },
+    {
+      "id": "v291",
+      "de": "quer",
+      "en": "across",
+      "pos": "other"
+    },
+    {
+      "id": "v292",
+      "de": "rechts",
+      "en": "right",
+      "pos": "other"
+    },
+    {
+      "id": "v293",
+      "de": "regnerisch",
+      "en": "rainy",
+      "pos": "other"
+    },
+    {
+      "id": "v294",
+      "de": "schick",
+      "en": "chic",
+      "pos": "other"
+    },
+    {
+      "id": "v295",
+      "de": "schließlich",
+      "en": "finally",
+      "pos": "other"
+    },
+    {
+      "id": "v296",
+      "de": "schwach",
+      "en": "weak",
+      "pos": "other"
+    },
+    {
+      "id": "v297",
+      "de": "seit",
+      "en": "since / for",
+      "pos": "other"
+    },
+    {
+      "id": "v298",
+      "de": "sonnig",
+      "en": "sunny",
+      "pos": "other"
+    },
+    {
+      "id": "v299",
+      "de": "sportlich",
+      "en": "sporty",
+      "pos": "other"
+    },
+    {
+      "id": "v300",
+      "de": "stark",
+      "en": "strong",
+      "pos": "other"
+    },
+    {
+      "id": "v301",
+      "de": "stürmisch",
+      "en": "stormy",
+      "pos": "other"
+    },
+    {
+      "id": "v302",
+      "de": "teuer",
+      "en": "expensive",
+      "pos": "other"
+    },
+    {
+      "id": "v303",
+      "de": "umsonst",
+      "en": "for free",
+      "pos": "other"
+    },
+    {
+      "id": "v304",
+      "de": "unfreundlich",
+      "en": "unfriendly/unpleasant",
+      "pos": "adjective"
+    },
+    {
+      "id": "v305",
+      "de": "vereinzelt",
+      "en": "isolated",
+      "pos": "other"
+    },
+    {
+      "id": "v306",
+      "de": "vorne",
+      "en": "in front",
+      "pos": "other"
+    },
+    {
+      "id": "v307",
+      "de": "warm",
+      "en": "warm",
+      "pos": "adjective"
+    },
+    {
+      "id": "v308",
+      "de": "wasserfest",
+      "en": "waterproof",
+      "pos": "other"
+    },
+    {
+      "id": "v309",
+      "de": "weiter",
+      "en": "further",
+      "pos": "other"
+    },
+    {
+      "id": "v310",
+      "de": "weiß",
+      "en": "white",
+      "pos": "other"
+    },
+    {
+      "id": "v311",
+      "de": "wenig",
+      "en": "few",
+      "pos": "other"
+    },
+    {
+      "id": "v312",
+      "de": "wieder",
+      "en": "again",
+      "pos": "other"
+    },
+    {
+      "id": "v313",
+      "de": "windig",
+      "en": "windy",
+      "pos": "other"
+    },
+    {
+      "id": "v314",
+      "de": "wirtschaftlich",
+      "en": "economically",
+      "pos": "other"
+    },
+    {
+      "id": "v315",
+      "de": "wunderschön",
+      "en": "beautiful",
+      "pos": "other"
+    },
+    {
+      "id": "v316",
+      "de": "zahlreich",
+      "en": "numerous",
+      "pos": "other"
+    },
+    {
+      "id": "v317",
+      "de": "über",
+      "en": "about / over",
+      "pos": "other"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "seit(dem) und bis; Modalverben-Bedeutung",
+      "titleEn": "seit/bis; modal meanings",
+      "explanationEn": "seit(dem) = since/for; bis = until. Modals: müssen (obligation), sollen (advice), dürfen (permission), können (ability), wollen (want). brauchen nicht zu + Inf.",
+      "patterns": [
+        "seit gestern",
+        "bis Montag",
+        "Du brauchst nicht zu kommen."
+      ],
+      "examples": [
+        {
+          "de": "Seit einer Woche ist es kalt.",
+          "en": "It has been cold for a week."
+        },
+        {
+          "de": "Du brauchst keinen Schirm mitzunehmen.",
+          "en": "You need not take an umbrella."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "titleDe": "darum/deshalb/deswegen; Diminutiv",
+      "titleEn": "Causal adverbs; diminutives",
+      "explanationEn": "Causal linking adverbs start the next main clause (verb still position 2): Es regnet, deshalb bleibe ich zu Hause. Diminutive -chen/-lein → das: das Bierchen.",
+      "patterns": [
+        "…, deshalb … Verb.",
+        "das Festchen"
+      ],
+      "examples": [
+        {
+          "de": "Es ist kalt, darum trage ich einen Schal.",
+          "en": "It is cold, that is why I wear a scarf."
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "seit",
+      "promptEn": "seit",
+      "content": "___ Oktober ist das Wetter schlecht.",
+      "options": [
+        "Seit",
+        "Bis",
+        "Als"
+      ],
+      "answer": "Seit",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "brauchen",
+      "promptEn": "need not",
+      "content": "Du brauchst nicht zu ___ . (kommen)",
+      "answer": "kommen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "deshalb",
+      "promptEn": "therefore",
+      "content": "Es regnet, ___ bleibe ich zu Hause.",
+      "options": [
+        "deshalb",
+        "weil",
+        "dass"
+      ],
+      "answer": "deshalb",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "bis",
+      "promptEn": "until",
+      "content": "Das Fest dauert ___ Sonntag.",
+      "answer": "bis",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Satz",
+      "promptEn": "Order",
+      "content": "Es | ist | kalt | , | darum | trage | ich | eine | Jacke | .",
+      "answer": "Es ist kalt, darum trage ich eine Jacke.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Modal",
+      "promptEn": "Modal",
+      "content": "Hier ___ man nicht rauchen.",
+      "options": [
+        "darf",
+        "muss",
+        "will"
+      ],
+      "answer": "darf",
+      "grammarId": "g1"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "vocab-de-en",
+      "prompt": "„der Wetterbericht“ means…",
+      "answer": "weather forecast",
+      "options": [
+        "weather forecast",
+        "folk festival",
+        "scarf"
+      ],
+      "vocabId": "v3"
+    },
+    {
+      "id": "q2",
+      "type": "grammar-mc",
+      "prompt": "Du brauchst keinen Mantel ___ .",
+      "answer": "mitzunehmen",
+      "options": [
+        "mitzunehmen",
+        "mitnehmen",
+        "mitgenommen"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "vocab-en-de",
+      "prompt": "“umbrella”:",
+      "answer": "der Schirm",
+      "options": [
+        "der Schirm",
+        "der Schal",
+        "die Jacke"
+      ],
+      "vocabId": "v15"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Es schneit, ___ fahre ich nicht.",
+      "answer": "deshalb",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "vocab-de-en",
+      "prompt": "„das Oktoberfest“ is…",
+      "answer": "Oktoberfest",
+      "options": [
+        "Oktoberfest",
+        "a museum",
+        "a pharmacy"
+      ],
+      "vocabId": "v16"
+    },
+    {
+      "id": "q6",
+      "type": "grammar-mc",
+      "prompt": "Ich warte ___ Freitag.",
+      "answer": "bis",
+      "options": [
+        "bis",
+        "seit",
+        "vor"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-en-de",
+      "prompt": "“gloves”:",
+      "answer": "die Handschuhe",
+      "options": [
+        "die Handschuhe",
+        "der Schal",
+        "die Wolke"
+      ],
+      "vocabId": "v14"
+    },
+    {
+      "id": "q8",
+      "type": "cloze",
+      "prompt": "Complete: ___ einer Woche regnet es.",
+      "answer": "Seit",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q9",
+      "type": "grammar-mc",
+      "prompt": "Es ist windig, ___ nehme ich eine Jacke.",
+      "answer": "deswegen",
+      "options": [
+        "deswegen",
+        "weil",
+        "als"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-de-en",
+      "prompt": "„gemütlich“ means…",
+      "answer": "cosy",
+      "options": [
+        "cosy",
+        "cold",
+        "salty"
+      ],
+      "vocabId": "v37"
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd2-t18",
+      "cd": 2,
+      "track": 18,
+      "audioUrl": "/audio/cd2/track-18.mp3",
+      "preview": "Fritzi: Mmh! Draußen sitzen – ist das nicht herrlich?"
+    },
+    {
+      "id": "cd2-t19",
+      "cd": 2,
+      "track": 19,
+      "audioUrl": "/audio/cd2/track-19.mp3",
+      "preview": "Radiomoderator: Und hier nun die Wettervorhersage"
+    },
+    {
+      "id": "cd2-t20",
+      "cd": 2,
+      "track": 20,
+      "audioUrl": "/audio/cd2/track-20.mp3",
+      "preview": "Fritzi: Schau mal, Isabella, wir wollen shoppen gehen"
+    },
+    {
+      "id": "cd2-t21",
+      "cd": 2,
+      "track": 21,
+      "audioUrl": "/audio/cd2/track-21.mp3",
+      "preview": "Fritzi: Schau mal, wie findest du den Wollpullover?"
+    },
+    {
+      "id": "cd2-t22",
+      "cd": 2,
+      "track": 22,
+      "audioUrl": "/audio/cd2/track-22.mp3",
+      "preview": "Isabella: Schau mal: Wie gefällt dir denn die Strick-"
+    },
+    {
+      "id": "cd2-t23",
+      "cd": 2,
+      "track": 23,
+      "audioUrl": "/audio/cd2/track-23.mp3",
+      "preview": "Sprecherin: Der Sommer geht, der Herbst kommt."
+    },
+    {
+      "id": "cd2-t24",
+      "cd": 2,
+      "track": 24,
+      "audioUrl": "/audio/cd2/track-24.mp3",
+      "preview": "Sprecherin: Unsere neue Herbstkollektion wartet schon"
+    },
+    {
+      "id": "cd2-t25",
+      "cd": 2,
+      "track": 25,
+      "audioUrl": "/audio/cd2/track-25.mp3",
+      "preview": "Sprecherin: Heute großer Aktionstag in der Sportabtei-"
+    },
+    {
+      "id": "cd2-t26",
+      "cd": 2,
+      "track": 26,
+      "audioUrl": "/audio/cd2/track-26.mp3",
+      "preview": "Sprecherin: Liebe Kundinnen und Kunden, besuchen"
+    },
+    {
+      "id": "cd2-t27",
+      "cd": 2,
+      "track": 27,
+      "audioUrl": "/audio/cd2/track-27.mp3",
+      "preview": "Verkäuferin: Kann ich Ihnen helfen?"
+    }
+  ]
+}

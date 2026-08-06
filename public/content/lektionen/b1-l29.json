@@ -1,0 +1,81 @@
+{
+  "id": "b1-l29",
+  "level": "B1",
+  "number": 29,
+  "titleDe": "Interessieren Sie sich für Politik?",
+  "titleEn": "Are you interested in politics?",
+  "status": "stub",
+  "goals": [
+    {
+      "de": "Lernziele zu „Interessieren Sie sich für Politik?“ im Kursbuch nachlesen und verstehen",
+      "en": "Read and understand the learning goals for “Are you interested in politics?” in the course book"
+    },
+    {
+      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
+      "en": "Collect and practice key vocabulary from this lesson"
+    },
+    {
+      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
+      "en": "Review the grammar topics of this lesson"
+    },
+    {
+      "de": "Sprachhandlungen in einfachen Übungen anwenden",
+      "en": "Apply the language functions in simple practice"
+    }
+  ],
+  "vocab": [],
+  "grammar": [],
+  "drills": [],
+  "quiz": [],
+  "listening": [
+    {
+      "id": "cd3-t53",
+      "cd": 3,
+      "track": 53,
+      "audioUrl": "/audio/cd3/track-53.mp3",
+      "preview": "Rolf: Na, Jack. Ich denke du hast Mittagspause. Was"
+    },
+    {
+      "id": "cd3-t54",
+      "cd": 3,
+      "track": 54,
+      "audioUrl": "/audio/cd3/track-54.mp3",
+      "preview": "Rolf: Hallo Jack. Na, du liest ja schon wieder in der"
+    },
+    {
+      "id": "cd3-t55",
+      "cd": 3,
+      "track": 55,
+      "audioUrl": "/audio/cd3/track-55.mp3",
+      "preview": "Reporter: Wir haben uns umgehört und haben verschie-"
+    },
+    {
+      "id": "cd3-t56",
+      "cd": 3,
+      "track": 56,
+      "audioUrl": "/audio/cd3/track-56.mp3",
+      "preview": "Passantin: Also ich würde bestimmt die Grünen wählen."
+    },
+    {
+      "id": "cd3-t57",
+      "cd": 3,
+      "track": 57,
+      "audioUrl": "/audio/cd3/track-57.mp3",
+      "preview": "Jack: Mhm, eine gute Frage. Ich habe mich in letz-"
+    },
+    {
+      "id": "cd3-t58",
+      "cd": 3,
+      "track": 58,
+      "audioUrl": "/audio/cd3/track-58.mp3",
+      "preview": "Passantin: Ich weiß im Moment nicht, wen ich wählen"
+    },
+    {
+      "id": "cd3-t59",
+      "cd": 3,
+      "track": 59,
+      "audioUrl": "/audio/cd3/track-59.mp3",
+      "preview": "Passant: Dazu kann ich nix sagen, sorry. Für mich ist"
+    }
+  ]
+}

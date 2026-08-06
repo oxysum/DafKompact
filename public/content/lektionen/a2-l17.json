@@ -1,0 +1,2481 @@
+{
+  "id": "a2-l17",
+  "level": "A2",
+  "number": 17,
+  "titleDe": "Praktikum: Erfahrung, Lernen, Spaß",
+  "titleEn": "Internship: experience, learning, fun",
+  "status": "complete",
+  "goals": [
+    {
+      "de": "Bewerbungsbrief und Lebenslauf verstehen und schreiben",
+      "en": "Understand and write application letter and CV"
+    },
+    {
+      "de": "Vorstellungsgespräch nachspielen",
+      "en": "Role-play a job interview"
+    },
+    {
+      "de": "Über Abteilungen und Aufgaben Meinungen äußern",
+      "en": "Express opinions about departments and tasks"
+    },
+    {
+      "de": "E-Mail über den 1. Tag im Praktikum schreiben",
+      "en": "Write an email about day 1 of the internship"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Abitur",
+      "en": "high school diploma",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v2",
+      "de": "Abneigung",
+      "en": "dislike",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v3",
+      "de": "Absatz",
+      "en": "paragraph",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v4",
+      "de": "Abteilung",
+      "en": "department",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v5",
+      "de": "Akademie",
+      "en": "academy",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v6",
+      "de": "Allgemeine",
+      "en": "general",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v7",
+      "de": "Analysemethode",
+      "en": "Analysis method",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v8",
+      "de": "Analytik",
+      "en": "analytics",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v9",
+      "de": "Anfang",
+      "en": "beginning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v10",
+      "de": "Anrede",
+      "en": "salutation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v11",
+      "de": "Anteil",
+      "en": "portion",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v12",
+      "de": "Apotheke",
+      "en": "pharmacy",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v13",
+      "de": "Arbeit",
+      "en": "work / job",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v14",
+      "de": "Arbeitsvertrag",
+      "en": "employment contract",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v15",
+      "de": "Arbeitszeit",
+      "en": "Working time",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v16",
+      "de": "Aufgabe",
+      "en": "task",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v17",
+      "de": "Bachelor",
+      "en": "bachelor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v18",
+      "de": "Bad",
+      "en": "bathroom / bath",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v19",
+      "de": "Besuch",
+      "en": "visit",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v20",
+      "de": "Betreff",
+      "en": "regarding",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v21",
+      "de": "Betrieb",
+      "en": "operation",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v22",
+      "de": "Bewerbung",
+      "en": "application",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v23",
+      "de": "Bewerbungsbrief",
+      "en": "cover letter",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v24",
+      "de": "Bewerbungsunterlagen",
+      "en": "Application documents",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v25",
+      "de": "Bezug",
+      "en": "relation",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v26",
+      "de": "Biologie",
+      "en": "biology",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v27",
+      "de": "Blick",
+      "en": "view",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v28",
+      "de": "Brief",
+      "en": "letter",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v29",
+      "de": "Buchhaltung",
+      "en": "accounting",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v30",
+      "de": "Büro",
+      "en": "office",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v31",
+      "de": "Cafe",
+      "en": "cafe",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v32",
+      "de": "Chefin",
+      "en": "boss (f)",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v33",
+      "de": "Chemie",
+      "en": "chemistry",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v34",
+      "de": "Computer",
+      "en": "computer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v35",
+      "de": "Controlling",
+      "en": "controlling",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v36",
+      "de": "Daten",
+      "en": "data",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v37",
+      "de": "Dünenlandschaft",
+      "en": "Dune landscape",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v38",
+      "de": "EDV",
+      "en": "eDP",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v39",
+      "de": "Ehe",
+      "en": "before",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v40",
+      "de": "Ei",
+      "en": "egg",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v41",
+      "de": "Eigentümer",
+      "en": "owner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v42",
+      "de": "Eigentümerin",
+      "en": "owner",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v43",
+      "de": "Einführung",
+      "en": "introduction",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v44",
+      "de": "Ende",
+      "en": "ending",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v45",
+      "de": "Entwicklung",
+      "en": "development",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v46",
+      "de": "Erde",
+      "en": "earth",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v47",
+      "de": "Erfahrung",
+      "en": "experience",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v48",
+      "de": "Ergänzung",
+      "en": "addition",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v49",
+      "de": "Erholung",
+      "en": "recreation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v50",
+      "de": "Eröffnung",
+      "en": "opening",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v51",
+      "de": "Export",
+      "en": "export",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v52",
+      "de": "Fabrik",
+      "en": "factory",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v53",
+      "de": "Fachkenntnis",
+      "en": "expertise",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v54",
+      "de": "Farbe",
+      "en": "colour",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v55",
+      "de": "Feld",
+      "en": "field",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v56",
+      "de": "Fernsehen",
+      "en": "to watch TV",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v57",
+      "de": "Firewall",
+      "en": "firewall",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v58",
+      "de": "Firma",
+      "en": "company",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v59",
+      "de": "Folie",
+      "en": "film",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v60",
+      "de": "Form",
+      "en": "form",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v61",
+      "de": "Forschung",
+      "en": "research",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v62",
+      "de": "Fortbildungskurs",
+      "en": "Advanced training course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v63",
+      "de": "Foto",
+      "en": "photo",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v64",
+      "de": "Frühschicht",
+      "en": "Early shift",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v65",
+      "de": "Gefühl",
+      "en": "feeling",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v66",
+      "de": "Gelände",
+      "en": "terrain",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v67",
+      "de": "Geschichte",
+      "en": "story",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v68",
+      "de": "Gespräch",
+      "en": "conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v69",
+      "de": "Gleitzeit",
+      "en": "flextime",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v70",
+      "de": "GmbH",
+      "en": "gmbH",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v71",
+      "de": "Grammatik",
+      "en": "grammar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v72",
+      "de": "Grundschule",
+      "en": "Primary school",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v73",
+      "de": "Gruß",
+      "en": "greeting",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v74",
+      "de": "Grußformel",
+      "en": "Greeting formula",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v75",
+      "de": "Gründung",
+      "en": "founding",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v76",
+      "de": "Gymnasium",
+      "en": "High school",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v77",
+      "de": "Handout",
+      "en": "handout",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v78",
+      "de": "Heimat",
+      "en": "home country / hometown",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v79",
+      "de": "Herstellung",
+      "en": "manufacturing",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v80",
+      "de": "Herz",
+      "en": "heart",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v81",
+      "de": "Idee",
+      "en": "idea",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v82",
+      "de": "Industrie",
+      "en": "industry",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v83",
+      "de": "Information",
+      "en": "information",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v84",
+      "de": "Inhaberin",
+      "en": "owner",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v85",
+      "de": "Insel",
+      "en": "island",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v86",
+      "de": "Interesse",
+      "en": "interest",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v87",
+      "de": "Interview",
+      "en": "interview",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v88",
+      "de": "Job",
+      "en": "job",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v89",
+      "de": "Kantine",
+      "en": "canteen",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v90",
+      "de": "Kenntnis",
+      "en": "knowledge",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v91",
+      "de": "Kollege",
+      "en": "colleague",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v92",
+      "de": "Kontrolle",
+      "en": "control",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v93",
+      "de": "Krankenhaus",
+      "en": "hospital",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v94",
+      "de": "Kurs",
+      "en": "course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v95",
+      "de": "Kursbuch",
+      "en": "Course book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v96",
+      "de": "Kuss",
+      "en": "kiss",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v97",
+      "de": "Labor",
+      "en": "laboratory",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v98",
+      "de": "Laden",
+      "en": "load",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v99",
+      "de": "Lebenslauf",
+      "en": "cV",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v100",
+      "de": "Leistung",
+      "en": "performance",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v101",
+      "de": "Leistungskurs",
+      "en": "Advanced course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v102",
+      "de": "Liste",
+      "en": "list",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v103",
+      "de": "Marke",
+      "en": "brand",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v104",
+      "de": "Marketing",
+      "en": "marketing",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v105",
+      "de": "Markt",
+      "en": "market",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v106",
+      "de": "Mathematik",
+      "en": "mathematics",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v107",
+      "de": "Methode",
+      "en": "method",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v108",
+      "de": "Mitarbeiter",
+      "en": "employees",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v109",
+      "de": "Mitarbeiterin",
+      "en": "employee",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v110",
+      "de": "Moment",
+      "en": "moment",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v111",
+      "de": "Nachricht",
+      "en": "message",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v112",
+      "de": "Nachtschicht",
+      "en": "Night shift",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v113",
+      "de": "Nomen",
+      "en": "noun",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v114",
+      "de": "Note",
+      "en": "note (currency) / grade",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v115",
+      "de": "Partner",
+      "en": "partner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v116",
+      "de": "Pause",
+      "en": "break",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v117",
+      "de": "Person",
+      "en": "person",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v118",
+      "de": "Personal",
+      "en": "staff",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v119",
+      "de": "Personalabteilung",
+      "en": "HR department",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v120",
+      "de": "Personalchef",
+      "en": "HR manager",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v121",
+      "de": "Personalchefin",
+      "en": "HR manager",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v122",
+      "de": "Pflichtstudium",
+      "en": "Compulsory study",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v123",
+      "de": "Position",
+      "en": "position",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v124",
+      "de": "Praktikum",
+      "en": "internship",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v125",
+      "de": "Produkt",
+      "en": "product",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v126",
+      "de": "Produktion",
+      "en": "production",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v127",
+      "de": "Projekt",
+      "en": "project",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v128",
+      "de": "Quadrat",
+      "en": "square",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v129",
+      "de": "Rabatt",
+      "en": "discount",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v130",
+      "de": "Redemittel",
+      "en": "means of speech",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v131",
+      "de": "Reise",
+      "en": "trip",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v132",
+      "de": "Ritter",
+      "en": "knight",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v133",
+      "de": "Rohstoff",
+      "en": "raw material",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v134",
+      "de": "Ruhe",
+      "en": "quiet",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v135",
+      "de": "Rundgang",
+      "en": "tour",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v136",
+      "de": "Sand",
+      "en": "sand",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v137",
+      "de": "Satz",
+      "en": "sentence",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v138",
+      "de": "Satzende",
+      "en": "End of sentence",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v139",
+      "de": "Schicht",
+      "en": "layer",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v140",
+      "de": "Schifffahrt",
+      "en": "shipping",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v141",
+      "de": "Schokolade",
+      "en": "chocolate",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v142",
+      "de": "Schreiben",
+      "en": "to write",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v143",
+      "de": "Schule",
+      "en": "school",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v144",
+      "de": "Schwerpunkt",
+      "en": "focus",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v145",
+      "de": "Schwester",
+      "en": "sister",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v146",
+      "de": "See",
+      "en": "lake (der) / sea (die)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v147",
+      "de": "Semester",
+      "en": "semester",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v148",
+      "de": "Slogan",
+      "en": "slogan",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v149",
+      "de": "Sorte",
+      "en": "variety",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v150",
+      "de": "Spaziergang",
+      "en": "stroll",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v151",
+      "de": "Spaß",
+      "en": "fun",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v152",
+      "de": "Spezialkenntnis",
+      "en": "Special knowledge",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v153",
+      "de": "Sport",
+      "en": "sport",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v154",
+      "de": "Spätschicht",
+      "en": "Late shift",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v155",
+      "de": "Standardsprache",
+      "en": "Default language",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v156",
+      "de": "Steigerung",
+      "en": "increase",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v157",
+      "de": "Stelle",
+      "en": "position/job",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v158",
+      "de": "Stoff",
+      "en": "material",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v159",
+      "de": "Studium",
+      "en": "studies",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v160",
+      "de": "Subjekt",
+      "en": "subject",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v161",
+      "de": "Süden",
+      "en": "south",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v162",
+      "de": "Süßware",
+      "en": "confectionery",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v163",
+      "de": "Tabelle",
+      "en": "table",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v164",
+      "de": "Tagebuch",
+      "en": "diary",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v165",
+      "de": "Team",
+      "en": "team",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v166",
+      "de": "Teil",
+      "en": "part",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v167",
+      "de": "Telefongespräch",
+      "en": "Telephone conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v168",
+      "de": "Text",
+      "en": "text",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v169",
+      "de": "Thema",
+      "en": "theme",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v170",
+      "de": "Tisch",
+      "en": "table",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v171",
+      "de": "Tätigkeit",
+      "en": "task",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v172",
+      "de": "Umgangssprache",
+      "en": "Colloquial language",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v173",
+      "de": "Umsatz",
+      "en": "Sales volume",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v174",
+      "de": "Universität",
+      "en": "university",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v175",
+      "de": "Unterlagen",
+      "en": "documents",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v176",
+      "de": "Urlaub",
+      "en": "vacation / holiday",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v177",
+      "de": "Vergleich",
+      "en": "comparison",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v178",
+      "de": "Verkauf",
+      "en": "sales",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v179",
+      "de": "Verpackung",
+      "en": "packaging",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v180",
+      "de": "Vertrieb",
+      "en": "distribution",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v181",
+      "de": "Voraussetzung",
+      "en": "requirement",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v182",
+      "de": "Vorbereitung",
+      "en": "preparation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v183",
+      "de": "Vorliebe",
+      "en": "preference",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v184",
+      "de": "Vorstellungsgespräch",
+      "en": "job interview",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v185",
+      "de": "Wald",
+      "en": "forest",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v186",
+      "de": "Wanderweg",
+      "en": "trail",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v187",
+      "de": "Ware",
+      "en": "goods",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v188",
+      "de": "Wareneingang",
+      "en": "Goods receipt",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v189",
+      "de": "Weiterbildung",
+      "en": "Continuing education",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v190",
+      "de": "Welt",
+      "en": "world",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v191",
+      "de": "Weltkrieg",
+      "en": "World War",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v192",
+      "de": "Werbetext",
+      "en": "Advertising text",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v193",
+      "de": "Werbung",
+      "en": "advertising",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v194",
+      "de": "Werk",
+      "en": "factory",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v195",
+      "de": "Woche",
+      "en": "week",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v196",
+      "de": "Wort",
+      "en": "word",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v197",
+      "de": "Wörterbuch",
+      "en": "dictionary",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v198",
+      "de": "Zeile",
+      "en": "line",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v199",
+      "de": "Zeit",
+      "en": "time",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v200",
+      "de": "Zuckerware",
+      "en": "Sugar confectionery",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v201",
+      "de": "Zuschuss",
+      "en": "grant",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v202",
+      "de": "Überstunde",
+      "en": "overtime",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v203",
+      "de": "abbauen",
+      "en": "tear down",
+      "pos": "verb"
+    },
+    {
+      "id": "v204",
+      "de": "abschließen",
+      "en": "complete",
+      "pos": "verb"
+    },
+    {
+      "id": "v205",
+      "de": "absolvieren",
+      "en": "complete",
+      "pos": "verb"
+    },
+    {
+      "id": "v206",
+      "de": "analysieren",
+      "en": "analyze",
+      "pos": "verb"
+    },
+    {
+      "id": "v207",
+      "de": "anschaffen",
+      "en": "acquire",
+      "pos": "verb"
+    },
+    {
+      "id": "v208",
+      "de": "aufgeben",
+      "en": "give up",
+      "pos": "verb"
+    },
+    {
+      "id": "v209",
+      "de": "aufnehmen",
+      "en": "to record",
+      "pos": "verb"
+    },
+    {
+      "id": "v210",
+      "de": "ausdrücken",
+      "en": "to express",
+      "pos": "verb"
+    },
+    {
+      "id": "v211",
+      "de": "beantworten",
+      "en": "answer",
+      "pos": "verb"
+    },
+    {
+      "id": "v212",
+      "de": "befolgen",
+      "en": "follow",
+      "pos": "verb"
+    },
+    {
+      "id": "v213",
+      "de": "begründen",
+      "en": "justify",
+      "pos": "verb"
+    },
+    {
+      "id": "v214",
+      "de": "beifügen",
+      "en": "attach",
+      "pos": "verb"
+    },
+    {
+      "id": "v215",
+      "de": "bekommen",
+      "en": "to receive",
+      "pos": "verb"
+    },
+    {
+      "id": "v216",
+      "de": "berichten",
+      "en": "report",
+      "pos": "verb"
+    },
+    {
+      "id": "v217",
+      "de": "beschreiben",
+      "en": "to describe",
+      "pos": "verb"
+    },
+    {
+      "id": "v218",
+      "de": "beschäftigen",
+      "en": "occupy",
+      "pos": "verb"
+    },
+    {
+      "id": "v219",
+      "de": "bestimmen",
+      "en": "determine",
+      "pos": "verb"
+    },
+    {
+      "id": "v220",
+      "de": "betragen",
+      "en": "be",
+      "pos": "verb"
+    },
+    {
+      "id": "v221",
+      "de": "betreuen",
+      "en": "look after",
+      "pos": "verb"
+    },
+    {
+      "id": "v222",
+      "de": "bieten",
+      "en": "offer",
+      "pos": "verb"
+    },
+    {
+      "id": "v223",
+      "de": "bringen",
+      "en": "to bring",
+      "pos": "verb"
+    },
+    {
+      "id": "v224",
+      "de": "erfahren",
+      "en": "experience",
+      "pos": "verb"
+    },
+    {
+      "id": "v225",
+      "de": "ergänzen",
+      "en": "add to",
+      "pos": "verb"
+    },
+    {
+      "id": "v226",
+      "de": "erkennen",
+      "en": "recognize",
+      "pos": "verb"
+    },
+    {
+      "id": "v227",
+      "de": "erweitern",
+      "en": "expand",
+      "pos": "verb"
+    },
+    {
+      "id": "v228",
+      "de": "exportieren",
+      "en": "export",
+      "pos": "verb"
+    },
+    {
+      "id": "v229",
+      "de": "fern",
+      "en": "remote",
+      "pos": "verb"
+    },
+    {
+      "id": "v230",
+      "de": "festlegen",
+      "en": "establish",
+      "pos": "verb"
+    },
+    {
+      "id": "v231",
+      "de": "formulieren",
+      "en": "formulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v232",
+      "de": "fördern",
+      "en": "support financially",
+      "pos": "verb"
+    },
+    {
+      "id": "v233",
+      "de": "gefallen",
+      "en": "to please / like (es gefällt mir)",
+      "pos": "verb"
+    },
+    {
+      "id": "v234",
+      "de": "gründen",
+      "en": "to found",
+      "pos": "verb"
+    },
+    {
+      "id": "v235",
+      "de": "helfen",
+      "en": "to help",
+      "pos": "verb"
+    },
+    {
+      "id": "v236",
+      "de": "herstellen",
+      "en": "produce",
+      "pos": "verb"
+    },
+    {
+      "id": "v237",
+      "de": "hören",
+      "en": "to hear",
+      "pos": "verb"
+    },
+    {
+      "id": "v238",
+      "de": "klettern",
+      "en": "climb",
+      "pos": "verb"
+    },
+    {
+      "id": "v239",
+      "de": "lernen",
+      "en": "to learn",
+      "pos": "verb"
+    },
+    {
+      "id": "v240",
+      "de": "nehmen",
+      "en": "to take",
+      "pos": "verb"
+    },
+    {
+      "id": "v241",
+      "de": "oben",
+      "en": "above",
+      "pos": "verb"
+    },
+    {
+      "id": "v242",
+      "de": "passen",
+      "en": "to fit",
+      "pos": "verb"
+    },
+    {
+      "id": "v243",
+      "de": "pflanzen",
+      "en": "plant",
+      "pos": "verb"
+    },
+    {
+      "id": "v244",
+      "de": "produzieren",
+      "en": "to produce",
+      "pos": "verb"
+    },
+    {
+      "id": "v245",
+      "de": "regeln",
+      "en": "regulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v246",
+      "de": "sammeln",
+      "en": "to collect",
+      "pos": "verb"
+    },
+    {
+      "id": "v247",
+      "de": "schildern",
+      "en": "describe",
+      "pos": "verb"
+    },
+    {
+      "id": "v248",
+      "de": "segeln",
+      "en": "to sail",
+      "pos": "verb"
+    },
+    {
+      "id": "v249",
+      "de": "stehen",
+      "en": "to stand",
+      "pos": "verb"
+    },
+    {
+      "id": "v250",
+      "de": "studieren",
+      "en": "to study",
+      "pos": "verb"
+    },
+    {
+      "id": "v251",
+      "de": "suchen",
+      "en": "to look for",
+      "pos": "verb"
+    },
+    {
+      "id": "v252",
+      "de": "surfen",
+      "en": "to surf",
+      "pos": "verb"
+    },
+    {
+      "id": "v253",
+      "de": "tauchen",
+      "en": "dive",
+      "pos": "verb"
+    },
+    {
+      "id": "v254",
+      "de": "tauschen",
+      "en": "to exchange",
+      "pos": "verb"
+    },
+    {
+      "id": "v255",
+      "de": "teilen",
+      "en": "split",
+      "pos": "verb"
+    },
+    {
+      "id": "v256",
+      "de": "Vergleichen",
+      "en": "to compare",
+      "pos": "verb"
+    },
+    {
+      "id": "v257",
+      "de": "verkaufen",
+      "en": "to sell",
+      "pos": "verb"
+    },
+    {
+      "id": "v258",
+      "de": "verlegen",
+      "en": "embarrassed",
+      "pos": "verb"
+    },
+    {
+      "id": "v259",
+      "de": "verstehen",
+      "en": "understand",
+      "pos": "verb"
+    },
+    {
+      "id": "v260",
+      "de": "vertiefen",
+      "en": "deepen",
+      "pos": "verb"
+    },
+    {
+      "id": "v261",
+      "de": "verwenden",
+      "en": "to use",
+      "pos": "verb"
+    },
+    {
+      "id": "v262",
+      "de": "wachsen",
+      "en": "grow",
+      "pos": "verb"
+    },
+    {
+      "id": "v263",
+      "de": "wandern",
+      "en": "to hike",
+      "pos": "verb"
+    },
+    {
+      "id": "v264",
+      "de": "wechseln",
+      "en": "to change (money, etc.)",
+      "pos": "verb"
+    },
+    {
+      "id": "v265",
+      "de": "werden",
+      "en": "to become",
+      "pos": "verb"
+    },
+    {
+      "id": "v266",
+      "de": "wiederbekommen",
+      "en": "get back",
+      "pos": "verb"
+    },
+    {
+      "id": "v267",
+      "de": "Wissen",
+      "en": "to know (a fact)",
+      "pos": "verb"
+    },
+    {
+      "id": "v268",
+      "de": "äußern",
+      "en": "express",
+      "pos": "verb"
+    },
+    {
+      "id": "v269",
+      "de": "überfliegen",
+      "en": "fly over",
+      "pos": "verb"
+    },
+    {
+      "id": "v270",
+      "de": "überprüfen",
+      "en": "check",
+      "pos": "verb"
+    },
+    {
+      "id": "v271",
+      "de": "allgemein",
+      "en": "generally",
+      "pos": "other"
+    },
+    {
+      "id": "v272",
+      "de": "bekannt",
+      "en": "known",
+      "pos": "other"
+    },
+    {
+      "id": "v273",
+      "de": "beliebt",
+      "en": "popular",
+      "pos": "other"
+    },
+    {
+      "id": "v274",
+      "de": "dann",
+      "en": "then",
+      "pos": "other"
+    },
+    {
+      "id": "v275",
+      "de": "denn",
+      "en": "because / for",
+      "pos": "other"
+    },
+    {
+      "id": "v276",
+      "de": "der erste Tag",
+      "en": "the first day",
+      "pos": "phrase"
+    },
+    {
+      "id": "v277",
+      "de": "direkt",
+      "en": "direct",
+      "pos": "other"
+    },
+    {
+      "id": "v278",
+      "de": "doch",
+      "en": "modal particle (do / after all)",
+      "pos": "other"
+    },
+    {
+      "id": "v279",
+      "de": "dort",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v280",
+      "de": "E-Mail schreiben",
+      "en": "to write an email",
+      "pos": "phrase"
+    },
+    {
+      "id": "v281",
+      "de": "eigene",
+      "en": "own",
+      "pos": "other"
+    },
+    {
+      "id": "v282",
+      "de": "erfolgreich",
+      "en": "successful",
+      "pos": "other"
+    },
+    {
+      "id": "v283",
+      "de": "ernst",
+      "en": "serious",
+      "pos": "other"
+    },
+    {
+      "id": "v284",
+      "de": "erweitert",
+      "en": "expanded",
+      "pos": "other"
+    },
+    {
+      "id": "v285",
+      "de": "freiwillig",
+      "en": "voluntarily",
+      "pos": "other"
+    },
+    {
+      "id": "v286",
+      "de": "freundlich",
+      "en": "friendly",
+      "pos": "adjective"
+    },
+    {
+      "id": "v287",
+      "de": "früh",
+      "en": "early",
+      "pos": "other"
+    },
+    {
+      "id": "v288",
+      "de": "ganz",
+      "en": "quite",
+      "pos": "other"
+    },
+    {
+      "id": "v289",
+      "de": "gemacht werden",
+      "en": "is/are done",
+      "pos": "phrase"
+    },
+    {
+      "id": "v290",
+      "de": "gerade",
+      "en": "straight",
+      "pos": "other"
+    },
+    {
+      "id": "v291",
+      "de": "gibt es",
+      "en": "there is",
+      "pos": "phrase"
+    },
+    {
+      "id": "v292",
+      "de": "gleich",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v293",
+      "de": "herrlich",
+      "en": "splendid",
+      "pos": "other"
+    },
+    {
+      "id": "v294",
+      "de": "herzlich",
+      "en": "heartfelt",
+      "pos": "other"
+    },
+    {
+      "id": "v295",
+      "de": "hoch",
+      "en": "high",
+      "pos": "other"
+    },
+    {
+      "id": "v296",
+      "de": "Hoffentlich",
+      "en": "hopefully",
+      "pos": "adverb"
+    },
+    {
+      "id": "v297",
+      "de": "idyllisch",
+      "en": "idyllic",
+      "pos": "other"
+    },
+    {
+      "id": "v298",
+      "de": "Industriell",
+      "en": "industrial",
+      "pos": "other"
+    },
+    {
+      "id": "v299",
+      "de": "jemand",
+      "en": "someone",
+      "pos": "other"
+    },
+    {
+      "id": "v300",
+      "de": "kinderlieb",
+      "en": "fond of children",
+      "pos": "other"
+    },
+    {
+      "id": "v301",
+      "de": "Krieg",
+      "en": "war",
+      "pos": "other"
+    },
+    {
+      "id": "v302",
+      "de": "lernen durch Tun",
+      "en": "learning by doing",
+      "pos": "phrase"
+    },
+    {
+      "id": "v303",
+      "de": "mithilfe",
+      "en": "using",
+      "pos": "other"
+    },
+    {
+      "id": "v304",
+      "de": "möglich",
+      "en": "possible",
+      "pos": "other"
+    },
+    {
+      "id": "v305",
+      "de": "natürlich",
+      "en": "naturally",
+      "pos": "other"
+    },
+    {
+      "id": "v306",
+      "de": "nirgends",
+      "en": "nowhere",
+      "pos": "other"
+    },
+    {
+      "id": "v307",
+      "de": "nur",
+      "en": "only",
+      "pos": "other"
+    },
+    {
+      "id": "v308",
+      "de": "originell",
+      "en": "original",
+      "pos": "other"
+    },
+    {
+      "id": "v309",
+      "de": "Passiv",
+      "en": "passive voice",
+      "pos": "other"
+    },
+    {
+      "id": "v310",
+      "de": "perfekt",
+      "en": "present perfect tense",
+      "pos": "other"
+    },
+    {
+      "id": "v311",
+      "de": "pünktlich",
+      "en": "punctual",
+      "pos": "adjective"
+    },
+    {
+      "id": "v312",
+      "de": "quadratisch",
+      "en": "square",
+      "pos": "other"
+    },
+    {
+      "id": "v313",
+      "de": "rechts",
+      "en": "right",
+      "pos": "other"
+    },
+    {
+      "id": "v314",
+      "de": "Ritter Sport",
+      "en": "Ritter Sport (company)",
+      "pos": "other"
+    },
+    {
+      "id": "v315",
+      "de": "Schwächen",
+      "en": "weaknesses",
+      "pos": "noun"
+    },
+    {
+      "id": "v316",
+      "de": "selbst",
+      "en": "himself",
+      "pos": "other"
+    },
+    {
+      "id": "v317",
+      "de": "sich vorstellen",
+      "en": "to introduce oneself",
+      "pos": "verb"
+    },
+    {
+      "id": "v318",
+      "de": "sogar",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v319",
+      "de": "spazieren gehen",
+      "en": "go for a stroll",
+      "pos": "phrase"
+    },
+    {
+      "id": "v320",
+      "de": "Stärken",
+      "en": "strengths",
+      "pos": "noun"
+    },
+    {
+      "id": "v321",
+      "de": "verantwortlich",
+      "en": "responsible",
+      "pos": "adjective"
+    },
+    {
+      "id": "v322",
+      "de": "verhandlungssicher",
+      "en": "business fluent",
+      "pos": "other"
+    },
+    {
+      "id": "v323",
+      "de": "vertraglich",
+      "en": "compatible",
+      "pos": "other"
+    },
+    {
+      "id": "v324",
+      "de": "vertraut",
+      "en": "trusted",
+      "pos": "other"
+    },
+    {
+      "id": "v325",
+      "de": "Vorstellungsgespräch führen",
+      "en": "conduct an interview",
+      "pos": "phrase"
+    },
+    {
+      "id": "v326",
+      "de": "wieder",
+      "en": "again",
+      "pos": "other"
+    },
+    {
+      "id": "v327",
+      "de": "wurde",
+      "en": "was (passive past)",
+      "pos": "other"
+    },
+    {
+      "id": "v328",
+      "de": "zuerst",
+      "en": "first",
+      "pos": "other"
+    },
+    {
+      "id": "v329",
+      "de": "zusätzlich",
+      "en": "additionally",
+      "pos": "other"
+    },
+    {
+      "id": "v330",
+      "de": "über",
+      "en": "about / over",
+      "pos": "other"
+    },
+    {
+      "id": "v331",
+      "de": "übersichtlich",
+      "en": "clear",
+      "pos": "other"
+    },
+    {
+      "id": "v332",
+      "de": "üblich",
+      "en": "usual",
+      "pos": "other"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Passiv Präsens und Präteritum",
+      "titleEn": "Passive present and past",
+      "explanationEn": "werden + Partizip II: Die Bewerbung wird gelesen. Die Stelle wurde besetzt. Agent with von: von der Chefin.",
+      "patterns": [
+        "wird gemacht",
+        "wurde gemacht",
+        "von + Dat."
+      ],
+      "examples": [
+        {
+          "de": "Hier wird Schokolade produziert.",
+          "en": "Chocolate is produced here."
+        },
+        {
+          "de": "Ich wurde freundlich begrüßt.",
+          "en": "I was greeted kindly."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "titleDe": "Wortstellung im Satz",
+      "titleEn": "Word order",
+      "explanationEn": "Time–manner–place tendency; verb second in main clauses; in passive the participle is at the end.",
+      "patterns": [
+        "Heute werde ich vorgestellt.",
+        "Im Büro wird viel telefoniert."
+      ],
+      "examples": [
+        {
+          "de": "Am ersten Tag wurde ich durch die Firma geführt.",
+          "en": "On the first day I was shown around the company."
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "Passiv",
+      "promptEn": "Passive",
+      "content": "Die E-Mail ___ jetzt geschrieben.",
+      "options": [
+        "wird",
+        "wurde",
+        "ist"
+      ],
+      "answer": "wird",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "Passiv past",
+      "promptEn": "Passive past",
+      "content": "Ich ___ gestern begrüßt. (werden)",
+      "answer": "wurde",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Partizip",
+      "promptEn": "Participle",
+      "content": "Hier wird Kaffee ___ .",
+      "options": [
+        "gemacht",
+        "machen",
+        "gemachten"
+      ],
+      "answer": "gemacht",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "von",
+      "promptEn": "by",
+      "content": "Der Brief wurde ___ der Chefin gelesen.",
+      "answer": "von",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Satz",
+      "promptEn": "Order",
+      "content": "Am | Montag | werde | ich | vorgestellt | .",
+      "answer": "Am Montag werde ich vorgestellt.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Passiv",
+      "promptEn": "Passive",
+      "content": "Die Aufgaben ___ gestern erklärt.",
+      "options": [
+        "wurden",
+        "werden",
+        "ward"
+      ],
+      "answer": "wurden",
+      "grammarId": "g1"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "vocab-de-en",
+      "prompt": "„das Vorstellungsgespräch“ means…",
+      "answer": "job interview",
+      "options": [
+        "job interview",
+        "CV",
+        "department"
+      ],
+      "vocabId": "v5"
+    },
+    {
+      "id": "q2",
+      "type": "grammar-mc",
+      "prompt": "Die Bewerbung ___ geprüft.",
+      "answer": "wird",
+      "options": [
+        "wird",
+        "werden",
+        "wurde ich"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "vocab-en-de",
+      "prompt": "“department”:",
+      "answer": "die Abteilung",
+      "options": [
+        "die Abteilung",
+        "die Stelle",
+        "das Team"
+      ],
+      "vocabId": "v7"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Ich ___ freundlich empfangen. (wurde)",
+      "answer": "wurde",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Von wem? Die Frage wurde ___ Kollegen gestellt.",
+      "answer": "vom",
+      "options": [
+        "vom",
+        "zum",
+        "beim"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q6",
+      "type": "vocab-de-en",
+      "prompt": "„die Abneigung“ means…",
+      "answer": "dislike",
+      "options": [
+        "dislike",
+        "preference",
+        "break"
+      ],
+      "vocabId": "v26"
+    },
+    {
+      "id": "q7",
+      "type": "cloze",
+      "prompt": "Complete: Hier ___ viel gelernt. (wird)",
+      "answer": "wird",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“cover letter”:",
+      "answer": "der Bewerbungsbrief",
+      "options": [
+        "der Bewerbungsbrief",
+        "der Lebenslauf",
+        "die Pause"
+      ],
+      "vocabId": "v3"
+    },
+    {
+      "id": "q9",
+      "type": "grammar-mc",
+      "prompt": "Gestern ___ die Maschinen repariert.",
+      "answer": "wurden",
+      "options": [
+        "wurden",
+        "wird",
+        "werden"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-de-en",
+      "prompt": "„Hoffentlich“ means…",
+      "answer": "Hopefully",
+      "options": [
+        "Hopefully",
+        "Punctual",
+        "Friendly"
+      ],
+      "vocabId": "v27"
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd2-t42",
+      "cd": 2,
+      "track": 42,
+      "audioUrl": "/audio/cd2/track-42.mp3",
+      "preview": "Hr. Bayer: So Frau Feld, nach unserer kleinen Vorstel-"
+    },
+    {
+      "id": "cd2-t43",
+      "cd": 2,
+      "track": 43,
+      "audioUrl": "/audio/cd2/track-43.mp3",
+      "preview": "Hr. Bayer: Warum wollen Sie eigentlich gerade bei uns"
+    },
+    {
+      "id": "cd2-t44",
+      "cd": 2,
+      "track": 44,
+      "audioUrl": "/audio/cd2/track-44.mp3",
+      "preview": "Hr. Bayer: Mhm, und darf ich noch etwas Persönliches"
+    },
+    {
+      "id": "cd2-t45",
+      "cd": 2,
+      "track": 45,
+      "audioUrl": "/audio/cd2/track-45.mp3",
+      "preview": "Sandra: Ich habe gerade gesehen, dass Sie 18 Abteilun-"
+    },
+    {
+      "id": "cd2-t46",
+      "cd": 2,
+      "track": 46,
+      "audioUrl": "/audio/cd2/track-46.mp3",
+      "preview": "Sandra: Ich hätte noch einige Fragen, geht das?"
+    }
+  ]
+}

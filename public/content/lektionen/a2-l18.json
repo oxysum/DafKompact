@@ -1,0 +1,2500 @@
+{
+  "id": "a2-l18",
+  "level": "A2",
+  "number": 18,
+  "titleDe": "Von den Alpen bis ans Meer",
+  "titleEn": "From the Alps to the sea",
+  "status": "complete",
+  "goals": [
+    {
+      "de": "Urlaubsangebote und Unterkünfte vergleichen",
+      "en": "Compare holiday offers and accommodation"
+    },
+    {
+      "de": "Vorlieben äußern; um Infos bei einem Gasthof bitten",
+      "en": "Express preferences; request info from a guesthouse"
+    },
+    {
+      "de": "Von Urlaubserlebnissen berichten",
+      "en": "Report on holiday experiences"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Abbau",
+      "en": "dismantling",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v2",
+      "de": "Aktivurlaub",
+      "en": "activity holiday",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v3",
+      "de": "Alpen",
+      "en": "Alps",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v4",
+      "de": "anderen",
+      "en": "others",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v5",
+      "de": "Angebot",
+      "en": "offer",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v6",
+      "de": "Angst",
+      "en": "fear",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v7",
+      "de": "Artikel",
+      "en": "article",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v8",
+      "de": "Attraktion",
+      "en": "attraction",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v9",
+      "de": "Aufbau",
+      "en": "construction",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v10",
+      "de": "Ausflug",
+      "en": "excursion",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v11",
+      "de": "Ausland",
+      "en": "abroad",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v12",
+      "de": "Ausstattung",
+      "en": "furnishings",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v13",
+      "de": "Badestrand",
+      "en": "Bathing beach",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v14",
+      "de": "Badeurlaub",
+      "en": "beach holiday",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v15",
+      "de": "Balkon",
+      "en": "balcony",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v16",
+      "de": "Bedeutung",
+      "en": "meaning",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v17",
+      "de": "Berg",
+      "en": "mountain",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v18",
+      "de": "Bericht",
+      "en": "report",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v19",
+      "de": "Beschäftigung",
+      "en": "occupation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v20",
+      "de": "Besuch",
+      "en": "visit",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v21",
+      "de": "Bild",
+      "en": "picture / painting",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v22",
+      "de": "Blick",
+      "en": "view",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v23",
+      "de": "Bodensee",
+      "en": "Lake Constance",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v24",
+      "de": "Boot",
+      "en": "boat",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v25",
+      "de": "Brief",
+      "en": "letter",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v26",
+      "de": "Bummel",
+      "en": "stroll",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v27",
+      "de": "Büfett",
+      "en": "buffet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v28",
+      "de": "Cafe",
+      "en": "cafe",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v29",
+      "de": "Camping",
+      "en": "camping",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v30",
+      "de": "Campingplatz",
+      "en": "campsite",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v31",
+      "de": "Campingurlaub",
+      "en": "Camping vacation",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v32",
+      "de": "Computer",
+      "en": "computer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v33",
+      "de": "Dank",
+      "en": "Thanks to",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v34",
+      "de": "Dreibettzimmer",
+      "en": "Triple room",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v35",
+      "de": "Dusche",
+      "en": "shower",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v36",
+      "de": "Düne",
+      "en": "dune",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v37",
+      "de": "Ei",
+      "en": "egg",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v38",
+      "de": "Einzelzimmer",
+      "en": "Single room",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v39",
+      "de": "Endung",
+      "en": "ending",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v40",
+      "de": "Entspannung",
+      "en": "relaxation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v41",
+      "de": "Ereignis",
+      "en": "event",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v42",
+      "de": "Ergebnis",
+      "en": "result",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v43",
+      "de": "Erholung",
+      "en": "recreation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v44",
+      "de": "Erlebnis",
+      "en": "experience",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v45",
+      "de": "Erwachsene",
+      "en": "adult",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v46",
+      "de": "Fahrrad",
+      "en": "bicycle",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v47",
+      "de": "Fahrt",
+      "en": "drive",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v48",
+      "de": "Fallschirm",
+      "en": "parachute",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v49",
+      "de": "Ferienwohnung",
+      "en": "Holiday apartment",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v50",
+      "de": "Ferne",
+      "en": "distance",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v51",
+      "de": "Fernreise",
+      "en": "Long distance travel",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v52",
+      "de": "Fest",
+      "en": "festival / celebration",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v53",
+      "de": "Flugzeug",
+      "en": "airplane",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v54",
+      "de": "Frühstück",
+      "en": "breakfast",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v55",
+      "de": "Fähre",
+      "en": "ferry",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v56",
+      "de": "Gasthof",
+      "en": "guesthouse",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v57",
+      "de": "Geist",
+      "en": "spirit",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v58",
+      "de": "Geschichte",
+      "en": "story",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v59",
+      "de": "Gespräch",
+      "en": "conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v60",
+      "de": "Gesundheit",
+      "en": "health",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v61",
+      "de": "Gitarre",
+      "en": "guitar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v62",
+      "de": "GmbH",
+      "en": "gmbH",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v63",
+      "de": "Grammatik",
+      "en": "grammar",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v64",
+      "de": "Hafen",
+      "en": "harbor",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v65",
+      "de": "Halbpension",
+      "en": "Half board",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v66",
+      "de": "Halle",
+      "en": "hall",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v67",
+      "de": "Hauptsaison",
+      "en": "Peak season",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v68",
+      "de": "Haus",
+      "en": "house",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v69",
+      "de": "Heimat",
+      "en": "home country / hometown",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v70",
+      "de": "Herr",
+      "en": "mr",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v71",
+      "de": "Hund",
+      "en": "dog",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v72",
+      "de": "Hunger",
+      "en": "hunger",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v73",
+      "de": "Höhe",
+      "en": "height",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v74",
+      "de": "Idee",
+      "en": "idea",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v75",
+      "de": "Inhalt",
+      "en": "contents",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v76",
+      "de": "Insel",
+      "en": "island",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v77",
+      "de": "Interesse",
+      "en": "interest",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v78",
+      "de": "Internet",
+      "en": "Internet",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v79",
+      "de": "Jugendherberge",
+      "en": "youth hostel",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v80",
+      "de": "Kiosk",
+      "en": "kiosk",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v81",
+      "de": "Kreuzfahrt",
+      "en": "cruise",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v82",
+      "de": "Kurs",
+      "en": "course",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v83",
+      "de": "Kursbuch",
+      "en": "Course book",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v84",
+      "de": "Körper",
+      "en": "body",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v85",
+      "de": "Küche",
+      "en": "kitchen",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v86",
+      "de": "Land",
+      "en": "country",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v87",
+      "de": "Landgasthof",
+      "en": "Country inn",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v88",
+      "de": "Leute",
+      "en": "people",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v89",
+      "de": "Liebhaber",
+      "en": "lover",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v90",
+      "de": "Liebhaberin",
+      "en": "lover",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v91",
+      "de": "Lieblingsbeschäftigung",
+      "en": "Favorite activity",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v92",
+      "de": "Luft",
+      "en": "air",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v93",
+      "de": "Lust",
+      "en": "desire",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v94",
+      "de": "Mal",
+      "en": "modal particle (just / once)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v95",
+      "de": "Meer",
+      "en": "sea",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v96",
+      "de": "Mensch",
+      "en": "person",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v97",
+      "de": "Menü",
+      "en": "menu",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v98",
+      "de": "Messe",
+      "en": "fair",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v99",
+      "de": "Mitte",
+      "en": "center",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v100",
+      "de": "Morgen",
+      "en": "morning",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v101",
+      "de": "Nacht",
+      "en": "night",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v102",
+      "de": "Natur",
+      "en": "nature",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v103",
+      "de": "Nichts",
+      "en": "nothing",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v104",
+      "de": "Nomen",
+      "en": "noun",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v105",
+      "de": "Paradies",
+      "en": "paradise",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v106",
+      "de": "Partner",
+      "en": "partner",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v107",
+      "de": "Pension",
+      "en": "pension",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v108",
+      "de": "Person",
+      "en": "person",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v109",
+      "de": "Pflanze",
+      "en": "plant",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v110",
+      "de": "Pkw",
+      "en": "car",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v111",
+      "de": "Platte",
+      "en": "plate",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v112",
+      "de": "Platz",
+      "en": "square / place",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v113",
+      "de": "Preis",
+      "en": "price",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v114",
+      "de": "Quatsch",
+      "en": "nonsense",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v115",
+      "de": "Rahmen",
+      "en": "frame",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v116",
+      "de": "Rand",
+      "en": "edge",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v117",
+      "de": "Redemittel",
+      "en": "means of speech",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v118",
+      "de": "Regel",
+      "en": "rule",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v119",
+      "de": "Region",
+      "en": "region",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v120",
+      "de": "Reihenfolge",
+      "en": "series",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v121",
+      "de": "Reisebüro",
+      "en": "Travel agency",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v122",
+      "de": "Reisen",
+      "en": "travel",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v123",
+      "de": "Reiseziel",
+      "en": "destination",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v124",
+      "de": "Reißleine",
+      "en": "ripcord",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v125",
+      "de": "Ruhe",
+      "en": "quiet",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v126",
+      "de": "Saison",
+      "en": "season",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v127",
+      "de": "Sauna",
+      "en": "sauna",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v128",
+      "de": "Schiff",
+      "en": "ship",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v129",
+      "de": "Schifffahrt",
+      "en": "shipping",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v130",
+      "de": "Schloss",
+      "en": "palace/castle",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v131",
+      "de": "Schreiben",
+      "en": "to write",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v132",
+      "de": "Schwimmbad",
+      "en": "Swimming pool",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v133",
+      "de": "See",
+      "en": "lake (der) / sea (die)",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v134",
+      "de": "Seeblick",
+      "en": "Lake view",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v135",
+      "de": "Seite",
+      "en": "page",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v136",
+      "de": "Sendung",
+      "en": "broadcast",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v137",
+      "de": "Sommer",
+      "en": "summer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v138",
+      "de": "Sonne",
+      "en": "sun",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v139",
+      "de": "Sport",
+      "en": "sport",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v140",
+      "de": "Sportler",
+      "en": "sportsman",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v141",
+      "de": "Sportlerin",
+      "en": "sportswoman",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v142",
+      "de": "Sprung",
+      "en": "jump",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v143",
+      "de": "Spur",
+      "en": "track",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v144",
+      "de": "Stadt",
+      "en": "city",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v145",
+      "de": "Stadtbummel",
+      "en": "Stroll through town",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v146",
+      "de": "Stein",
+      "en": "stone",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v147",
+      "de": "Stellplatz",
+      "en": "parking space",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v148",
+      "de": "Strand",
+      "en": "beach",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v149",
+      "de": "Strandwiese",
+      "en": "Beach meadow",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v150",
+      "de": "Tabelle",
+      "en": "table",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v151",
+      "de": "Tandem",
+      "en": "tandem",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v152",
+      "de": "Tandemsprung",
+      "en": "Tandem jump",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v153",
+      "de": "Teil",
+      "en": "part",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v154",
+      "de": "Telefongespräch",
+      "en": "Telephone conversation",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v155",
+      "de": "Termin",
+      "en": "appointment",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v156",
+      "de": "Text",
+      "en": "text",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v157",
+      "de": "Thema",
+      "en": "theme",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v158",
+      "de": "Tour",
+      "en": "tour",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v159",
+      "de": "Touristikmesse",
+      "en": "Tourism fair",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v160",
+      "de": "Trainee",
+      "en": "trainee",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v161",
+      "de": "Treiben",
+      "en": "to do (sport)",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v162",
+      "de": "Trick",
+      "en": "trick",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v163",
+      "de": "Trockner",
+      "en": "dryer",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v164",
+      "de": "Ufer",
+      "en": "riverbank",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v165",
+      "de": "Unterkunft",
+      "en": "accommodation",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v166",
+      "de": "Urlaub",
+      "en": "vacation / holiday",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v167",
+      "de": "Vergleich",
+      "en": "comparison",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v168",
+      "de": "Vergnügen",
+      "en": "enjoyment",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v169",
+      "de": "Verpflegung",
+      "en": "board/meals",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v170",
+      "de": "Versorgung",
+      "en": "supply",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v171",
+      "de": "Vogel",
+      "en": "bird",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v172",
+      "de": "Vollpension",
+      "en": "Full board",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v173",
+      "de": "Wanderweg",
+      "en": "trail",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v174",
+      "de": "Ware",
+      "en": "goods",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v175",
+      "de": "Wasser",
+      "en": "water",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v176",
+      "de": "Wellness",
+      "en": "wellness",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v177",
+      "de": "Werbesendung",
+      "en": "commercial",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v178",
+      "de": "Werbetext",
+      "en": "Advertising text",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v179",
+      "de": "Wetter",
+      "en": "weather",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v180",
+      "de": "Winter",
+      "en": "winter",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v181",
+      "de": "Woche",
+      "en": "week",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v182",
+      "de": "Wohnmobil",
+      "en": "motorhome",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v183",
+      "de": "Wohnwagen",
+      "en": "caravan",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v184",
+      "de": "Zeit",
+      "en": "time",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v185",
+      "de": "Zelt",
+      "en": "tent",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v186",
+      "de": "Zeppelin",
+      "en": "zeppelin",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v187",
+      "de": "Zimmer",
+      "en": "room",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v188",
+      "de": "Zweibettzimmer",
+      "en": "Twin room",
+      "pos": "noun",
+      "article": "das"
+    },
+    {
+      "id": "v189",
+      "de": "abbauen",
+      "en": "tear down",
+      "pos": "verb"
+    },
+    {
+      "id": "v190",
+      "de": "ankommen",
+      "en": "to arrive",
+      "pos": "verb"
+    },
+    {
+      "id": "v191",
+      "de": "aufbauen",
+      "en": "build up",
+      "pos": "verb"
+    },
+    {
+      "id": "v192",
+      "de": "baden",
+      "en": "bathe",
+      "pos": "verb"
+    },
+    {
+      "id": "v193",
+      "de": "beantworten",
+      "en": "answer",
+      "pos": "verb"
+    },
+    {
+      "id": "v194",
+      "de": "berichten",
+      "en": "report",
+      "pos": "verb"
+    },
+    {
+      "id": "v195",
+      "de": "beschreiben",
+      "en": "to describe",
+      "pos": "verb"
+    },
+    {
+      "id": "v196",
+      "de": "bieten",
+      "en": "offer",
+      "pos": "verb"
+    },
+    {
+      "id": "v197",
+      "de": "bringen",
+      "en": "to bring",
+      "pos": "verb"
+    },
+    {
+      "id": "v198",
+      "de": "buchen",
+      "en": "to book",
+      "pos": "verb"
+    },
+    {
+      "id": "v199",
+      "de": "drücken",
+      "en": "press",
+      "pos": "verb"
+    },
+    {
+      "id": "v200",
+      "de": "einholen",
+      "en": "catch up",
+      "pos": "verb"
+    },
+    {
+      "id": "v201",
+      "de": "einrasten",
+      "en": "snap into place",
+      "pos": "verb"
+    },
+    {
+      "id": "v202",
+      "de": "entdecken",
+      "en": "discover",
+      "pos": "verb"
+    },
+    {
+      "id": "v203",
+      "de": "entspannen",
+      "en": "to relax",
+      "pos": "verb"
+    },
+    {
+      "id": "v204",
+      "de": "ergänzen",
+      "en": "add to",
+      "pos": "verb"
+    },
+    {
+      "id": "v205",
+      "de": "erkennen",
+      "en": "recognize",
+      "pos": "verb"
+    },
+    {
+      "id": "v206",
+      "de": "erleben",
+      "en": "experience",
+      "pos": "verb"
+    },
+    {
+      "id": "v207",
+      "de": "falten",
+      "en": "fold",
+      "pos": "verb"
+    },
+    {
+      "id": "v208",
+      "de": "faulenzen",
+      "en": "laze around",
+      "pos": "verb"
+    },
+    {
+      "id": "v209",
+      "de": "fern",
+      "en": "remote",
+      "pos": "verb"
+    },
+    {
+      "id": "v210",
+      "de": "fliegen",
+      "en": "fly",
+      "pos": "verb"
+    },
+    {
+      "id": "v211",
+      "de": "formulieren",
+      "en": "formulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v212",
+      "de": "gefallen",
+      "en": "to please / like (es gefällt mir)",
+      "pos": "verb"
+    },
+    {
+      "id": "v213",
+      "de": "gleiten",
+      "en": "slide",
+      "pos": "verb"
+    },
+    {
+      "id": "v214",
+      "de": "grüßen",
+      "en": "to greet",
+      "pos": "verb"
+    },
+    {
+      "id": "v215",
+      "de": "helfen",
+      "en": "to help",
+      "pos": "verb"
+    },
+    {
+      "id": "v216",
+      "de": "hören",
+      "en": "to hear",
+      "pos": "verb"
+    },
+    {
+      "id": "v217",
+      "de": "informieren",
+      "en": "inform",
+      "pos": "verb"
+    },
+    {
+      "id": "v218",
+      "de": "klettern",
+      "en": "climb",
+      "pos": "verb"
+    },
+    {
+      "id": "v219",
+      "de": "legen",
+      "en": "place",
+      "pos": "verb"
+    },
+    {
+      "id": "v220",
+      "de": "leihen",
+      "en": "lend",
+      "pos": "verb"
+    },
+    {
+      "id": "v221",
+      "de": "liegen",
+      "en": "to lie (be lying)",
+      "pos": "verb"
+    },
+    {
+      "id": "v222",
+      "de": "losfahren",
+      "en": "drive off",
+      "pos": "verb"
+    },
+    {
+      "id": "v223",
+      "de": "melden",
+      "en": "to report / to sign up",
+      "pos": "verb"
+    },
+    {
+      "id": "v224",
+      "de": "mitmachen",
+      "en": "to participate",
+      "pos": "verb"
+    },
+    {
+      "id": "v225",
+      "de": "nerven",
+      "en": "annoy",
+      "pos": "verb"
+    },
+    {
+      "id": "v226",
+      "de": "oben",
+      "en": "above",
+      "pos": "verb"
+    },
+    {
+      "id": "v227",
+      "de": "regeln",
+      "en": "regulate",
+      "pos": "verb"
+    },
+    {
+      "id": "v228",
+      "de": "schauen",
+      "en": "to look",
+      "pos": "verb"
+    },
+    {
+      "id": "v229",
+      "de": "schreien",
+      "en": "scream",
+      "pos": "verb"
+    },
+    {
+      "id": "v230",
+      "de": "schwimmen",
+      "en": "to swim",
+      "pos": "verb"
+    },
+    {
+      "id": "v231",
+      "de": "segeln",
+      "en": "to sail",
+      "pos": "verb"
+    },
+    {
+      "id": "v232",
+      "de": "springen",
+      "en": "jump",
+      "pos": "verb"
+    },
+    {
+      "id": "v233",
+      "de": "stehen",
+      "en": "to stand",
+      "pos": "verb"
+    },
+    {
+      "id": "v234",
+      "de": "strukturieren",
+      "en": "structure",
+      "pos": "verb"
+    },
+    {
+      "id": "v235",
+      "de": "suchen",
+      "en": "to look for",
+      "pos": "verb"
+    },
+    {
+      "id": "v236",
+      "de": "tauchen",
+      "en": "dive",
+      "pos": "verb"
+    },
+    {
+      "id": "v237",
+      "de": "tauschen",
+      "en": "to exchange",
+      "pos": "verb"
+    },
+    {
+      "id": "v238",
+      "de": "tragen",
+      "en": "carry",
+      "pos": "verb"
+    },
+    {
+      "id": "v239",
+      "de": "verbringen",
+      "en": "to spend (time)",
+      "pos": "verb"
+    },
+    {
+      "id": "v240",
+      "de": "Vergleichen",
+      "en": "to compare",
+      "pos": "verb"
+    },
+    {
+      "id": "v241",
+      "de": "vermuten",
+      "en": "to suspect",
+      "pos": "verb"
+    },
+    {
+      "id": "v242",
+      "de": "verstehen",
+      "en": "understand",
+      "pos": "verb"
+    },
+    {
+      "id": "v243",
+      "de": "verwenden",
+      "en": "to use",
+      "pos": "verb"
+    },
+    {
+      "id": "v244",
+      "de": "verwöhnen",
+      "en": "pamper",
+      "pos": "verb"
+    },
+    {
+      "id": "v245",
+      "de": "wandern",
+      "en": "to hike",
+      "pos": "verb"
+    },
+    {
+      "id": "v246",
+      "de": "werden",
+      "en": "to become",
+      "pos": "verb"
+    },
+    {
+      "id": "v247",
+      "de": "Wissen",
+      "en": "to know (a fact)",
+      "pos": "verb"
+    },
+    {
+      "id": "v248",
+      "de": "wählen",
+      "en": "choose",
+      "pos": "verb"
+    },
+    {
+      "id": "v249",
+      "de": "zusammen",
+      "en": "together",
+      "pos": "verb"
+    },
+    {
+      "id": "v250",
+      "de": "zusammendrücken",
+      "en": "squeeze together",
+      "pos": "verb"
+    },
+    {
+      "id": "v251",
+      "de": "zusammenfalten",
+      "en": "fold up",
+      "pos": "verb"
+    },
+    {
+      "id": "v252",
+      "de": "äußern",
+      "en": "express",
+      "pos": "verb"
+    },
+    {
+      "id": "v253",
+      "de": "absolut",
+      "en": "absolutely",
+      "pos": "other"
+    },
+    {
+      "id": "v254",
+      "de": "als",
+      "en": "when (past one-time)",
+      "pos": "other"
+    },
+    {
+      "id": "v255",
+      "de": "alt",
+      "en": "old",
+      "pos": "other"
+    },
+    {
+      "id": "v256",
+      "de": "am besten",
+      "en": "the best",
+      "pos": "phrase"
+    },
+    {
+      "id": "v257",
+      "de": "am schönsten",
+      "en": "the nicest",
+      "pos": "phrase"
+    },
+    {
+      "id": "v258",
+      "de": "am See",
+      "en": "at the lake",
+      "pos": "phrase"
+    },
+    {
+      "id": "v259",
+      "de": "an Bord",
+      "en": "on board",
+      "pos": "phrase"
+    },
+    {
+      "id": "v260",
+      "de": "anderswo",
+      "en": "elsewhere",
+      "pos": "other"
+    },
+    {
+      "id": "v261",
+      "de": "angenehm",
+      "en": "pleasant",
+      "pos": "other"
+    },
+    {
+      "id": "v262",
+      "de": "ausgezeichnet",
+      "en": "excellent",
+      "pos": "other"
+    },
+    {
+      "id": "v263",
+      "de": "außerdem",
+      "en": "aside from that",
+      "pos": "other"
+    },
+    {
+      "id": "v264",
+      "de": "beide",
+      "en": "both",
+      "pos": "other"
+    },
+    {
+      "id": "v265",
+      "de": "bekannt",
+      "en": "known",
+      "pos": "other"
+    },
+    {
+      "id": "v266",
+      "de": "beliebt",
+      "en": "popular",
+      "pos": "other"
+    },
+    {
+      "id": "v267",
+      "de": "besser",
+      "en": "better",
+      "pos": "adjective"
+    },
+    {
+      "id": "v268",
+      "de": "blass",
+      "en": "pale",
+      "pos": "other"
+    },
+    {
+      "id": "v269",
+      "de": "cool",
+      "en": "cool",
+      "pos": "other"
+    },
+    {
+      "id": "v270",
+      "de": "danach",
+      "en": "thereafter",
+      "pos": "other"
+    },
+    {
+      "id": "v271",
+      "de": "dann",
+      "en": "then",
+      "pos": "other"
+    },
+    {
+      "id": "v272",
+      "de": "denn",
+      "en": "because / for",
+      "pos": "other"
+    },
+    {
+      "id": "v273",
+      "de": "direkt",
+      "en": "direct",
+      "pos": "other"
+    },
+    {
+      "id": "v274",
+      "de": "doch",
+      "en": "modal particle (do / after all)",
+      "pos": "other"
+    },
+    {
+      "id": "v275",
+      "de": "dort",
+      "en": "there",
+      "pos": "other"
+    },
+    {
+      "id": "v276",
+      "de": "elegant",
+      "en": "elegant",
+      "pos": "other"
+    },
+    {
+      "id": "v277",
+      "de": "ernst",
+      "en": "serious",
+      "pos": "other"
+    },
+    {
+      "id": "v278",
+      "de": "familiär",
+      "en": "family",
+      "pos": "other"
+    },
+    {
+      "id": "v279",
+      "de": "fantastisch",
+      "en": "fantastic",
+      "pos": "other"
+    },
+    {
+      "id": "v280",
+      "de": "faszinierend",
+      "en": "fascinating",
+      "pos": "other"
+    },
+    {
+      "id": "v281",
+      "de": "frei",
+      "en": "free",
+      "pos": "other"
+    },
+    {
+      "id": "v282",
+      "de": "frisch",
+      "en": "fresh",
+      "pos": "other"
+    },
+    {
+      "id": "v283",
+      "de": "ganz",
+      "en": "quite",
+      "pos": "other"
+    },
+    {
+      "id": "v284",
+      "de": "genauso",
+      "en": "just as",
+      "pos": "other"
+    },
+    {
+      "id": "v285",
+      "de": "geöffnet",
+      "en": "open",
+      "pos": "other"
+    },
+    {
+      "id": "v286",
+      "de": "gibt es",
+      "en": "there is",
+      "pos": "phrase"
+    },
+    {
+      "id": "v287",
+      "de": "gleich",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v288",
+      "de": "großartig",
+      "en": "great",
+      "pos": "other"
+    },
+    {
+      "id": "v289",
+      "de": "größer",
+      "en": "bigger",
+      "pos": "adjective"
+    },
+    {
+      "id": "v290",
+      "de": "heiß",
+      "en": "hot",
+      "pos": "other"
+    },
+    {
+      "id": "v291",
+      "de": "herrlich",
+      "en": "splendid",
+      "pos": "other"
+    },
+    {
+      "id": "v292",
+      "de": "hoch",
+      "en": "high",
+      "pos": "other"
+    },
+    {
+      "id": "v293",
+      "de": "häufig",
+      "en": "frequently",
+      "pos": "other"
+    },
+    {
+      "id": "v294",
+      "de": "immer",
+      "en": "always",
+      "pos": "other"
+    },
+    {
+      "id": "v295",
+      "de": "in der Regel",
+      "en": "usually",
+      "pos": "phrase"
+    },
+    {
+      "id": "v296",
+      "de": "jemand",
+      "en": "someone",
+      "pos": "other"
+    },
+    {
+      "id": "v297",
+      "de": "kleiner",
+      "en": "smaller",
+      "pos": "adjective"
+    },
+    {
+      "id": "v298",
+      "de": "leicht",
+      "en": "light",
+      "pos": "other"
+    },
+    {
+      "id": "v299",
+      "de": "mehrmals",
+      "en": "several times",
+      "pos": "other"
+    },
+    {
+      "id": "v300",
+      "de": "möglich",
+      "en": "possible",
+      "pos": "other"
+    },
+    {
+      "id": "v301",
+      "de": "nicht so … wie",
+      "en": "not as … as",
+      "pos": "phrase"
+    },
+    {
+      "id": "v302",
+      "de": "nirgends",
+      "en": "nowhere",
+      "pos": "other"
+    },
+    {
+      "id": "v303",
+      "de": "nur",
+      "en": "only",
+      "pos": "other"
+    },
+    {
+      "id": "v304",
+      "de": "perfekt",
+      "en": "present perfect tense",
+      "pos": "other"
+    },
+    {
+      "id": "v305",
+      "de": "pur",
+      "en": "pure",
+      "pos": "other"
+    },
+    {
+      "id": "v306",
+      "de": "rechts",
+      "en": "right",
+      "pos": "other"
+    },
+    {
+      "id": "v307",
+      "de": "regional",
+      "en": "regional",
+      "pos": "other"
+    },
+    {
+      "id": "v308",
+      "de": "rund",
+      "en": "around",
+      "pos": "other"
+    },
+    {
+      "id": "v309",
+      "de": "rundum",
+      "en": "all around",
+      "pos": "other"
+    },
+    {
+      "id": "v310",
+      "de": "schließlich",
+      "en": "finally",
+      "pos": "other"
+    },
+    {
+      "id": "v311",
+      "de": "schriftlich",
+      "en": "in written form",
+      "pos": "other"
+    },
+    {
+      "id": "v312",
+      "de": "schöner",
+      "en": "nicer",
+      "pos": "adjective"
+    },
+    {
+      "id": "v313",
+      "de": "sinnvoll",
+      "en": "sensible",
+      "pos": "other"
+    },
+    {
+      "id": "v314",
+      "de": "so … wie",
+      "en": "as … as",
+      "pos": "phrase"
+    },
+    {
+      "id": "v315",
+      "de": "sogar",
+      "en": "even",
+      "pos": "other"
+    },
+    {
+      "id": "v316",
+      "de": "sonst",
+      "en": "otherwise",
+      "pos": "other"
+    },
+    {
+      "id": "v317",
+      "de": "sportlich",
+      "en": "sporty",
+      "pos": "other"
+    },
+    {
+      "id": "v318",
+      "de": "steinzeitlich",
+      "en": "stone age",
+      "pos": "other"
+    },
+    {
+      "id": "v319",
+      "de": "teuer",
+      "en": "expensive",
+      "pos": "other"
+    },
+    {
+      "id": "v320",
+      "de": "total",
+      "en": "total",
+      "pos": "other"
+    },
+    {
+      "id": "v321",
+      "de": "traditionell",
+      "en": "traditional",
+      "pos": "other"
+    },
+    {
+      "id": "v322",
+      "de": "traumhaft",
+      "en": "fantastic",
+      "pos": "other"
+    },
+    {
+      "id": "v323",
+      "de": "tropisch",
+      "en": "tropical",
+      "pos": "other"
+    },
+    {
+      "id": "v324",
+      "de": "un-",
+      "en": "un-/not-",
+      "pos": "other"
+    },
+    {
+      "id": "v325",
+      "de": "unbekannt",
+      "en": "unknown",
+      "pos": "adjective"
+    },
+    {
+      "id": "v326",
+      "de": "unbeliebt",
+      "en": "unpopular",
+      "pos": "other"
+    },
+    {
+      "id": "v327",
+      "de": "unglaublich",
+      "en": "incredible",
+      "pos": "adjective"
+    },
+    {
+      "id": "v328",
+      "de": "uninteressant",
+      "en": "uninteresting",
+      "pos": "other"
+    },
+    {
+      "id": "v329",
+      "de": "unsportlich",
+      "en": "unsportsmanlike",
+      "pos": "other"
+    },
+    {
+      "id": "v330",
+      "de": "vielfältig",
+      "en": "diverse",
+      "pos": "other"
+    },
+    {
+      "id": "v331",
+      "de": "vor allem",
+      "en": "above all",
+      "pos": "phrase"
+    },
+    {
+      "id": "v332",
+      "de": "voraus",
+      "en": "in advance",
+      "pos": "other"
+    },
+    {
+      "id": "v333",
+      "de": "weiter",
+      "en": "further",
+      "pos": "other"
+    },
+    {
+      "id": "v334",
+      "de": "wenn",
+      "en": "if / when",
+      "pos": "other"
+    },
+    {
+      "id": "v335",
+      "de": "wieder",
+      "en": "again",
+      "pos": "other"
+    },
+    {
+      "id": "v336",
+      "de": "wohl",
+      "en": "probably",
+      "pos": "other"
+    },
+    {
+      "id": "v337",
+      "de": "zuerst",
+      "en": "first",
+      "pos": "other"
+    },
+    {
+      "id": "v338",
+      "de": "über",
+      "en": "about / over",
+      "pos": "other"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Komparativ und Superlativ",
+      "titleEn": "Comparative and superlative",
+      "explanationEn": "größer als, so groß wie, am größten / der größte. Irregular: gut→besser→am besten; gern→lieber→am liebsten.",
+      "patterns": [
+        "älter als",
+        "so alt wie",
+        "am ältesten"
+      ],
+      "examples": [
+        {
+          "de": "Der See ist schöner als das Meer.",
+          "en": "The lake is nicer than the sea."
+        },
+        {
+          "de": "Am liebsten wandere ich in den Alpen.",
+          "en": "I most like hiking in the Alps."
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "titleDe": "wenn/als; werden + Adj./Nomen",
+      "titleEn": "wenn/als; werden",
+      "explanationEn": "wenn = whenever/future; als = one past time. werden: Es wird warm. Er wird Lehrer.",
+      "patterns": [
+        "Wenn ich Urlaub habe…",
+        "Als ich am See war…",
+        "Es wird schön."
+      ],
+      "examples": [
+        {
+          "de": "Wenn es regnet, bleiben wir im Gasthof.",
+          "en": "When it rains we stay at the guesthouse."
+        }
+      ]
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "Komparativ",
+      "promptEn": "Comp.",
+      "content": "Die Alpen sind ___ als der Strand.",
+      "options": [
+        "schöner",
+        "am schönsten",
+        "schön"
+      ],
+      "answer": "schöner",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "als",
+      "promptEn": "than",
+      "content": "Wandern ist besser ___ faulenzen.",
+      "answer": "als",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Superlativ",
+      "promptEn": "Super.",
+      "content": "Am ___ entspanne ich am See.",
+      "options": [
+        "besten",
+        "besser",
+        "gute"
+      ],
+      "answer": "besten",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "wie",
+      "promptEn": "as…as",
+      "content": "Der See ist so klar ___ ein Spiegel.",
+      "answer": "wie",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Satz",
+      "promptEn": "Order",
+      "content": "Wenn | ich | Zeit | habe | , | fahre | ich | an | den | See | .",
+      "answer": "Wenn ich Zeit habe, fahre ich an den See.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "werden",
+      "promptEn": "become",
+      "content": "Im Sommer ___ es heiß.",
+      "options": [
+        "wird",
+        "ist werden",
+        "wurde"
+      ],
+      "answer": "wird",
+      "grammarId": "g2"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "vocab-de-en",
+      "prompt": "„der Gasthof“ means…",
+      "answer": "guesthouse",
+      "options": [
+        "guesthouse",
+        "tent",
+        "beach"
+      ],
+      "vocabId": "v6"
+    },
+    {
+      "id": "q2",
+      "type": "grammar-mc",
+      "prompt": "Der Bodensee ist ___ als viele denken.",
+      "answer": "größer",
+      "options": [
+        "größer",
+        "am größten",
+        "groß"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "vocab-en-de",
+      "prompt": "“accommodation”:",
+      "answer": "die Unterkunft",
+      "options": [
+        "die Unterkunft",
+        "die Verpflegung",
+        "das Zelt"
+      ],
+      "vocabId": "v9"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Am ___ schwimme ich im Meer. (gern)",
+      "answer": "liebsten",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "___ ich Kind war, war ich oft am See.",
+      "answer": "Als",
+      "options": [
+        "Als",
+        "Wenn",
+        "Weil"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "vocab-de-en",
+      "prompt": "„das Erlebnis“ means…",
+      "answer": "experience",
+      "options": [
+        "experience",
+        "offer",
+        "region"
+      ],
+      "vocabId": "v30"
+    },
+    {
+      "id": "q7",
+      "type": "cloze",
+      "prompt": "Complete: Heute ___ das Wetter besser.",
+      "answer": "wird",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“to hike”:",
+      "answer": "wandern",
+      "options": [
+        "wandern",
+        "segeln",
+        "buchen"
+      ],
+      "vocabId": "v14"
+    },
+    {
+      "id": "q9",
+      "type": "grammar-mc",
+      "prompt": "Berlin ist nicht so alt ___ Köln? (often: wie)",
+      "answer": "wie",
+      "options": [
+        "wie",
+        "als",
+        "von"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-de-en",
+      "prompt": "„unbekannt“ means…",
+      "answer": "unknown",
+      "options": [
+        "unknown",
+        "incredible",
+        "cosy"
+      ],
+      "vocabId": "v26"
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd2-t47",
+      "cd": 2,
+      "track": 47,
+      "audioUrl": "/audio/cd2/track-47.mp3",
+      "preview": "Katja: Hör mal, Jan. Hast du schon eine Idee, was wir"
+    },
+    {
+      "id": "cd2-t48",
+      "cd": 2,
+      "track": 48,
+      "audioUrl": "/audio/cd2/track-48.mp3",
+      "preview": "Werbesprecher: Das ideale Reiseziel für Urlauber, die"
+    },
+    {
+      "id": "cd2-t49",
+      "cd": 2,
+      "track": 49,
+      "audioUrl": "/audio/cd2/track-49.mp3",
+      "preview": "Katja: Guten Tag."
+    },
+    {
+      "id": "cd2-t50",
+      "cd": 2,
+      "track": 50,
+      "audioUrl": "/audio/cd2/track-50.mp3",
+      "preview": "Jan: Könnten Sie uns vielleicht auch noch einen Tipp für"
+    },
+    {
+      "id": "cd2-t51",
+      "cd": 2,
+      "track": 51,
+      "audioUrl": "/audio/cd2/track-51.mp3",
+      "preview": "Katja: Hier, Dahn."
+    }
+  ]
+}
