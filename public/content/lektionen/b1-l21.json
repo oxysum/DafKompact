@@ -8,19 +8,23 @@
   "goals": [
     {
       "de": "Lernziele zu „Kreativ in Hamburg“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Creative in Hamburg” in the course book"
+      "en": "Read and understand the learning goals for “Creative in Hamburg” in the course book",
+      "fa": "اهداف یادگیری «خلاق در هامبورگ» را در کتاب دوره بخوانید و بفهمید"
     },
     {
       "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson"
+      "en": "Collect and practice key vocabulary from this lesson",
+      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
     },
     {
       "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson"
+      "en": "Review the grammar topics of this lesson",
+      "fa": "مرور اجمالی موضوعات گرامری درس"
     },
     {
       "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice"
+      "en": "Apply the language functions in simple practice",
+      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
     }
   ],
   "vocab": [],
@@ -77,5 +81,6 @@
       "audioUrl": "/audio/cd3/track-16.mp3",
       "preview": "Sprecherin: Szene 5"
     }
-  ]
+  ],
+  "titleFa": "خلاق در هامبورگ"
 }

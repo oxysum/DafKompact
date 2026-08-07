@@ -3,12 +3,15 @@ import { Link, useNavigate, useParams } from 'react-router-dom'
 import type { Lesson } from '../types/lesson'
 import { fetchLesson } from '../lib/content'
 import { useProgress } from '../context/ProgressContext'
+import { useSettings } from '../context/SettingsContext'
+import { pickGloss, isRtl } from '../lib/gloss'
 import { Layout } from '../components/Layout'
 
 export function GoalsPage() {
   const { lessonId = '' } = useParams()
   const navigate = useNavigate()
   const { mark } = useProgress()
+  const { helperLanguage } = useSettings()
   const [lesson, setLesson] = useState<Lesson | null>(null)
 
   useEffect(() => {
@@ -23,18 +26,24 @@ export function GoalsPage() {
     )
   }
 
+  const rtl = isRtl(helperLanguage)
+
   return (
     <Layout>
       <div className="panel">
         <p className="muted" style={{ marginTop: 0 }}>
           Goals · {lesson.titleDe}
         </p>
-        <h1 style={{ marginTop: 0 }}>What you will learn</h1>
+        <h1 style={{ marginTop: 0 }}>
+          {helperLanguage === 'fa' ? 'چه چیزی یاد می‌گیرید' : 'What you will learn'}
+        </h1>
         <ul className="goal-list">
           {lesson.goals.map((g, i) => (
             <li key={i}>
               <div>{g.de}</div>
-              <div className="en">{g.en}</div>
+              <div className={`en ${rtl ? 'gloss-rtl' : ''}`}>
+                {pickGloss(g.en, g.fa, helperLanguage)}
+              </div>
             </li>
           ))}
         </ul>

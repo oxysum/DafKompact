@@ -4,12 +4,15 @@ import type { DrillItem, Lesson } from '../types/lesson'
 import { fetchLesson } from '../lib/content'
 import { answersEqual } from '../lib/progress'
 import { useProgress } from '../context/ProgressContext'
+import { useSettings } from '../context/SettingsContext'
+import { isRtl, pickGloss } from '../lib/gloss'
 import { Layout } from '../components/Layout'
 
 export function GrammarPage() {
   const { lessonId = '' } = useParams()
   const navigate = useNavigate()
   const { mark } = useProgress()
+  const { helperLanguage } = useSettings()
   const [lesson, setLesson] = useState<Lesson | null>(null)
   const [phase, setPhase] = useState<'learn' | 'drill'>('learn')
   const [drillIndex, setDrillIndex] = useState(0)
@@ -124,10 +127,15 @@ export function GrammarPage() {
             {lesson.grammar.map((g) => (
               <div key={g.id} className="grammar-block">
                 <h2 style={{ marginBottom: 0.25 }}>{g.titleDe}</h2>
-                <p className="muted" style={{ marginTop: 0 }}>
-                  {g.titleEn}
+                <p
+                  className={`muted ${isRtl(helperLanguage) ? 'gloss-rtl' : ''}`}
+                  style={{ marginTop: 0 }}
+                >
+                  {pickGloss(g.titleEn, g.titleFa, helperLanguage)}
                 </p>
-                <p>{g.explanationEn}</p>
+                <p className={isRtl(helperLanguage) ? 'gloss-rtl' : undefined}>
+                  {pickGloss(g.explanationEn, g.explanationFa, helperLanguage)}
+                </p>
                 <div className="patterns">
                   {g.patterns.map((p) => (
                     <div key={p}>{p}</div>
@@ -137,7 +145,12 @@ export function GrammarPage() {
                   {g.examples.map((ex) => (
                     <li key={ex.de}>
                       <strong>{ex.de}</strong>
-                      <span className="muted"> — {ex.en}</span>
+                      <span
+                        className={`muted ${isRtl(helperLanguage) ? 'gloss-rtl' : ''}`}
+                      >
+                        {' '}
+                        — {pickGloss(ex.en, ex.fa, helperLanguage)}
+                      </span>
                     </li>
                   ))}
                 </ul>
@@ -169,7 +182,9 @@ export function GrammarPage() {
             <p>
               <strong>{drill.promptDe}</strong>
             </p>
-            <p className="muted">{drill.promptEn}</p>
+            <p className={`muted ${isRtl(helperLanguage) ? 'gloss-rtl' : ''}`}>
+              {pickGloss(drill.promptEn, drill.promptFa, helperLanguage)}
+            </p>
             <p style={{ fontSize: '1.15rem' }}>{drill.content}</p>
 
             {drill.type === 'multiple-choice' && drill.options && (

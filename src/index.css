@@ -374,6 +374,14 @@ textarea {
   transform: scale(0.99);
 }
 
+.flash-card-word {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  flex-wrap: wrap;
+}
+
 .flash-card .de {
   font-family: var(--font-display);
   font-size: clamp(1.4rem, 3vw, 2rem);
@@ -383,6 +391,38 @@ textarea {
   margin-top: 0.5rem;
   color: var(--muted);
   font-size: 0.9rem;
+}
+
+.pronounce-attr {
+  font-size: 0.8rem;
+  margin-top: 0.35rem;
+}
+
+.pronounce-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.35rem;
+  height: 2.35rem;
+  padding: 0;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--panel, var(--bg));
+  color: var(--text);
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.pronounce-btn:hover {
+  border-color: var(--accent, #d4a017);
+  color: var(--accent, #d4a017);
+}
+
+.pronounce-btn.playing {
+  border-color: var(--accent, #d4a017);
+  background: rgba(212, 160, 23, 0.15);
+  color: var(--accent, #d4a017);
 }
 
 .options {
@@ -490,6 +530,35 @@ textarea {
   padding: 1rem 0;
 }
 
+.lang-toggle {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0.75rem 0 1.5rem;
+  flex-wrap: wrap;
+}
+
+.lang-option {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.55rem 1.1rem;
+  background: var(--bg);
+  color: var(--ink);
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.lang-option.active {
+  border-color: rgba(61, 154, 106, 0.55);
+  background: rgba(61, 154, 106, 0.18);
+  color: var(--accent-soft);
+}
+
+.gloss-rtl {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Tahoma', 'Segoe UI', 'Arial', sans-serif;
+}
+
 .listening-hub {
   margin: 1.25rem 0;
   padding-top: 0.5rem;
@@ -575,5 +644,10 @@ textarea {
   line-height: 1.55;
   max-height: min(50vh, 28rem);
   overflow: auto;
+}
+
+.listening-translation {
+  border-color: rgba(61, 154, 106, 0.35);
+  background: rgba(61, 154, 106, 0.08);
 }
 

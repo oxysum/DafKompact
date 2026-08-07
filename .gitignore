@@ -17,6 +17,10 @@ public/audio/**/*.mp3
 
 # Large / regenerable caches
 scripts/.en-cache.json
+scripts/.fa-cache.json
+scripts/.listening-i18n-cache.json
+scripts/.audio-cache.json
+scripts/.audio-commons-index.json
 
 # Editor directories and files
 .vscode/*
@@ -28,3 +32,6 @@ scripts/.en-cache.json
 *.njsproj
 *.sln
 *.sw?
+
+__pycache__/
+*.pyc

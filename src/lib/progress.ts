@@ -83,7 +83,17 @@ export function enrollVocab(
 ): ProgressState {
   const map = new Map(state.review.map((r) => [r.id, r]))
   for (const item of vocabToReviewItems(lessonId, vocab)) {
-    if (!map.has(item.id)) map.set(item.id, item)
+    const existing = map.get(item.id)
+    if (!existing) {
+      map.set(item.id, item)
+      continue
+    }
+    // Refresh FA fields when re-enrolling without resetting schedule
+    map.set(item.id, {
+      ...existing,
+      answerFa: item.answerFa ?? existing.answerFa,
+      promptFa: item.promptFa ?? existing.promptFa,
+    })
   }
   return { ...state, review: [...map.values()] }
 }

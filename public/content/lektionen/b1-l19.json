@@ -8,19 +8,23 @@
   "goals": [
     {
       "de": "Vorschläge und Ratschläge verstehen und äußern",
-      "en": "Understand and give suggestions and advice"
+      "en": "Understand and give suggestions and advice",
+      "fa": "فهمیدن و بیان پیشنهاد و توصیه"
     },
     {
       "de": "Notizen zu Texten über Liechtenstein machen",
-      "en": "Take notes on texts about Liechtenstein"
+      "en": "Take notes on texts about Liechtenstein",
+      "fa": "یادداشت از متن‌های مربوط به لیختن‌اشتاین"
     },
     {
       "de": "Gespräch im Reisebüro führen; Reise bestätigen",
-      "en": "Role-play a travel agency; confirm a trip"
+      "en": "Role-play a travel agency; confirm a trip",
+      "fa": "مکالمه در آژانس مسافرتی؛ تأیید سفر"
     },
     {
       "de": "Reklamation bei Reisegepäck formulieren",
-      "en": "Complain about travel luggage"
+      "en": "Complain about travel luggage",
+      "fa": "تنظیم شکایت درباره بار سفر"
     }
   ],
   "vocab": [
@@ -28,280 +32,366 @@
       "id": "v1",
       "de": "Liechtenstein",
       "en": "Liechtenstein",
-      "pos": "other"
+      "pos": "other",
+      "fa": "لیختن اشتاین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Liechtenstein.ogg"
     },
     {
       "id": "v2",
       "de": "Fürstentum",
       "en": "principality",
       "article": "das",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "شاهزادگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-F%C3%BCrstentum.ogg"
     },
     {
       "id": "v3",
       "de": "Trainee",
       "en": "trainee",
       "article": "der",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "کارآموز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Trainee.ogg"
     },
     {
       "id": "v4",
       "de": "Reisebüro",
       "en": "travel agency",
       "article": "das",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "آژانس مسافرتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Reiseb%C3%BCro.ogg"
     },
     {
       "id": "v5",
       "de": "Anreise",
       "en": "arrival journey",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "ورود به مقصد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-Anreise.ogg"
     },
     {
       "id": "v6",
       "de": "Abflug",
       "en": "departure (flight)",
       "article": "der",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "پرواز خروجی",
+      "audioUrl": "/audio/vocab/abflug.mp3"
     },
     {
       "id": "v7",
       "de": "Flugzeug",
       "en": "airplane",
       "article": "das",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "هواپیما",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-Flugzeug.ogg"
     },
     {
       "id": "v8",
       "de": "Zugverbindung",
       "en": "train connection",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "اتصال قطار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-Zugverbindung.ogg"
     },
     {
       "id": "v9",
       "de": "Gepäck",
       "en": "luggage",
       "article": "das",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "بار و بنه سفر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Gep%C3%A4ck.ogg"
     },
     {
       "id": "v10",
       "de": "Koffer",
       "en": "suitcase",
       "article": "der",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "چمدان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/De-Koffer.ogg"
     },
     {
       "id": "v11",
       "de": "Lost and Found",
       "en": "lost and found",
-      "pos": "other"
+      "pos": "other",
+      "fa": "گم شده و پیدا شد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Lost.ogg"
     },
     {
       "id": "v12",
       "de": "Reklamation",
       "en": "complaint",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "شکایت، اعتراض",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Reklamation.ogg"
     },
     {
       "id": "v13",
       "de": "bestätigen",
       "en": "to confirm",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "تایید کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/De-best%C3%A4tigen.ogg"
     },
     {
       "id": "v14",
       "de": "buchen",
       "en": "to book",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "رزرو کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-buchen.ogg"
     },
     {
       "id": "v15",
       "de": "vorschlagen",
       "en": "to suggest",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "پیشنهاد کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-vorschlagen.ogg"
     },
     {
       "id": "v16",
       "de": "raten",
       "en": "to advise",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "حدس زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-raten.ogg"
     },
     {
       "id": "v17",
       "de": "wäre",
       "en": "would be",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بودند",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-w%C3%A4re.ogg"
     },
     {
       "id": "v18",
       "de": "hätte",
       "en": "would have",
-      "pos": "other"
+      "pos": "other",
+      "fa": "خواهد داشت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-h%C3%A4tte.ogg"
     },
     {
       "id": "v19",
       "de": "könnte",
       "en": "could",
-      "pos": "other"
+      "pos": "other",
+      "fa": "توانست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-k%C3%B6nnte.ogg"
     },
     {
       "id": "v20",
       "de": "sollte",
       "en": "should",
-      "pos": "other"
+      "pos": "other",
+      "fa": "باید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-sollte.ogg"
     },
     {
       "id": "v21",
       "de": "größerer",
       "en": "larger (attr.)",
-      "pos": "adjective"
+      "pos": "adjective",
+      "fa": "بزرگتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-gr%C3%B6%C3%9Ferer.ogg"
     },
     {
       "id": "v22",
       "de": "schnellere",
       "en": "faster (attr.)",
-      "pos": "adjective"
+      "pos": "adjective",
+      "fa": "سریعتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-schnellere.ogg"
     },
     {
       "id": "v23",
       "de": "beste",
       "en": "best (attr.)",
-      "pos": "adjective"
+      "pos": "adjective",
+      "fa": "بهترین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-beste.ogg"
     },
     {
       "id": "v24",
       "de": "Relativsatz mit wo",
       "en": "relative clause with wo",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "بند نسبی با کجا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Relativsatz.ogg"
     },
     {
       "id": "v25",
       "de": "wo",
       "en": "where (relative)",
-      "pos": "other"
+      "pos": "other",
+      "fa": "کجا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Wo.ogg"
     },
     {
       "id": "v26",
       "de": "Hauptstadt",
       "en": "capital",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "پایتخت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Hauptstadt.ogg"
     },
     {
       "id": "v27",
       "de": "Vaduz",
       "en": "Vaduz",
-      "pos": "other"
+      "pos": "other",
+      "fa": "وادوز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-Vaduz.ogg"
     },
     {
       "id": "v28",
       "de": "Schweiz",
       "en": "Switzerland",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "سوئیس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-Schweiz.ogg"
     },
     {
       "id": "v29",
       "de": "Österreich",
       "en": "Austria",
-      "pos": "other"
+      "pos": "other",
+      "fa": "اتریش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-%C3%96sterreich.ogg"
     },
     {
       "id": "v30",
       "de": "Grenze",
       "en": "border",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "مرز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Grenze.ogg"
     },
     {
       "id": "v31",
       "de": "Pass",
       "en": "passport",
       "article": "der",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "پاسپورت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Pass.ogg"
     },
     {
       "id": "v32",
       "de": "Fahrplan",
       "en": "timetable",
       "article": "der",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "نقشه سفر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-Fahrplan.ogg"
     },
     {
       "id": "v33",
       "de": "Verspätung",
       "en": "delay",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "تأخیر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Versp%C3%A4tung.ogg"
     },
     {
       "id": "v34",
       "de": "Durchsage",
       "en": "announcement",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "اعلان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Durchsage.ogg"
     },
     {
       "id": "v35",
       "de": "Fluggesellschaft",
       "en": "airline",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "شرکت هواپیمایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Fluggesellschaft.ogg"
     },
     {
       "id": "v36",
       "de": "Entschuldigung",
       "en": "apology",
       "article": "die",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "ببخشید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Entschuldigung.ogg"
     },
     {
       "id": "v37",
       "de": "Ich wäre froh, wenn…",
       "en": "I would be glad if…",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "خوشحال می شوم اگر ...",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Ich.ogg"
     },
     {
       "id": "v38",
       "de": "An Ihrer Stelle…",
       "en": "In your place…",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "به جای تو...",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-an.ogg"
     },
     {
       "id": "v39",
       "de": "erste Tage",
       "en": "first days",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "روزهای اول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-erste.ogg"
     },
     {
       "id": "v40",
       "de": "ankommen",
       "en": "to arrive",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "رسیدن، آمدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-ankommen.ogg"
     },
     {
       "id": "v41",
       "de": "ausfüllen",
       "en": "to fill in",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "پر کردن فرم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-ausf%C3%BCllen.ogg"
     },
     {
       "id": "v42",
       "de": "Formular",
       "en": "form",
       "article": "das",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "فرم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Formular.ogg"
     },
     {
       "id": "v43",
       "de": "Verkehrsmittel",
       "en": "means of transport",
       "article": "das",
-      "pos": "noun"
+      "pos": "noun",
+      "fa": "وسایل نقلیه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Verkehrsmittel.ogg"
     }
   ],
   "grammar": [
@@ -587,5 +677,6 @@
       "audioUrl": "/audio/cd2/track-59.mp3",
       "preview": "Nicole: Mist, jetzt ist auch noch mein Koffer kaputt!"
     }
-  ]
+  ],
+  "titleFa": "کارآموز در لیختن‌اشتاین"
 }

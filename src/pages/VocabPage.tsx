@@ -12,7 +12,10 @@ import {
 } from '../lib/conjugate'
 import { pickRegisterPair, type RegisterPair } from '../lib/register'
 import { useProgress } from '../context/ProgressContext'
+import { useSettings } from '../context/SettingsContext'
+import { helperLabel, isRtl, pickGloss } from '../lib/gloss'
 import { Layout } from '../components/Layout'
+import { PronounceButton } from '../components/PronounceButton'
 
 type Mode = 'cards' | 'match' | 'type-article' | 'conjugate' | 'register'
 
@@ -20,6 +23,7 @@ export function VocabPage() {
   const { lessonId = '' } = useParams()
   const navigate = useNavigate()
   const { mark, enrollLessonVocab } = useProgress()
+  const { helperLanguage } = useSettings()
   const [lesson, setLesson] = useState<Lesson | null>(null)
   const [index, setIndex] = useState(0)
   const [flipped, setFlipped] = useState(false)
@@ -137,6 +141,10 @@ export function VocabPage() {
           continue. DE↔EN
           {articleItems.length ? ' + articles' : ''}.
         </p>
+        <p className="muted pronounce-attr">
+          Pronunciations: Wikimedia Commons / de.wiktionary (CC BY-SA), when
+          available.
+        </p>
 
         <div className="tabs" style={{ flexWrap: 'wrap', marginTop: '1rem' }}>
           {(
@@ -184,21 +192,38 @@ export function VocabPage() {
             >
               {!flipped ? (
                 <div>
-                  <div className="de">
-                    {card.article ? `${card.article} ` : ''}
-                    {card.de}
+                  <div className="flash-card-word">
+                    <div className="de">
+                      {card.article ? `${card.article} ` : ''}
+                      {card.de}
+                    </div>
+                    {card.audioUrl ? (
+                      <PronounceButton src={card.audioUrl} />
+                    ) : null}
                   </div>
                   <div className="meta">
-                    {card.pos ?? 'word'} · tap for English
+                    {card.pos ?? 'word'} · tap for{' '}
+                    {helperLabel(helperLanguage)}
                   </div>
                 </div>
               ) : (
                 <div>
-                  <div className="de">{card.en}</div>
+                  <div
+                    className={`de ${isRtl(helperLanguage) ? 'gloss-rtl' : ''}`}
+                  >
+                    {pickGloss(card.en, card.fa, helperLanguage)}
+                  </div>
                   {card.exampleDe && (
                     <div className="meta">
                       {card.exampleDe}
-                      {card.exampleEn ? ` — ${card.exampleEn}` : ''}
+                      {(() => {
+                        const ex = pickGloss(
+                          card.exampleEn,
+                          card.exampleFa,
+                          helperLanguage,
+                        )
+                        return ex ? ` — ${ex}` : ''
+                      })()}
                     </div>
                   )}
                 </div>
@@ -375,7 +400,11 @@ export function VocabPage() {
 
         {mode === 'register' && reg && (
           <>
-            <p className="muted">{reg.pair.en}</p>
+            <p
+              className={`muted ${isRtl(helperLanguage) ? 'gloss-rtl' : ''}`}
+            >
+              {pickGloss(reg.pair.en, reg.pair.fa, helperLanguage)}
+            </p>
             <p>
               {reg.askFormal ? (
                 <>

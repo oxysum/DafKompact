@@ -57,10 +57,35 @@ def extract_pdf_text(path: Path, start_page: int | None = None) -> str:
     return "\n".join(parts)
 
 
+def strip_pdf_footer(s: str) -> str:
+    """Remove Klett Transkriptionen page footers and trailing page numbers."""
+    s = re.sub(
+        r"(?:\n|^)\s*A08103-67618001\s*\n"
+        r"[^\n]*\n"
+        r"(?:ISBN|شابک)\s*978-3-12-676180-2\s*\n"
+        r"©\s*Ernst\s+Klett\s+Sprachen\s+GmbH[^\n]*\n"
+        r"[^\n]*(?:Vervielfältigung|reproduced|تکثیر)[^\n]*\n"
+        r"[^\n]*(?:Kopiergebühren\s+sind\s+abgegolten|copying\s+fees\s+have\s+been\s+paid|"
+        r"هزینه\s+کپی\s+پرداخت\s+شده\s+است)\.?\s*"
+        r"(?:\n[ \t]*\d{1,3}[ \t]*)?",
+        "\n",
+        s,
+        flags=re.IGNORECASE,
+    )
+    # Orphan Transkriptionen page numbers (booklet has ≤36 pages)
+    s = re.sub(
+        r"(?:(?<=\n)|^)[ \t]*(?:[1-9]|[12]\d|3[0-6])[ \t]*(?:\n|$)",
+        "\n",
+        s,
+    )
+    return s
+
+
 def clean_text(s: str) -> str:
     s = s.replace("\u00ad", "")  # soft hyphen
     s = s.replace("\t", " ")
     s = re.sub(r"[ \u2005\u00a0\u2009]+", " ", s)
+    s = strip_pdf_footer(s)
     s = re.sub(r" *\n *", "\n", s)
     s = re.sub(r"\n{3,}", "\n\n", s)
     return s.strip()
@@ -254,9 +279,18 @@ def main() -> None:
 
     OUT_LISTEN.mkdir(parents=True, exist_ok=True)
     for it in tracks:
-        (OUT_LISTEN / f"{it['id']}.json").write_text(
-            json.dumps(it, ensure_ascii=False, indent=2) + "\n"
-        )
+        out_path = OUT_LISTEN / f"{it['id']}.json"
+        # Preserve existing EN/FA translations if re-parsing
+        if out_path.exists():
+            try:
+                prev = json.loads(out_path.read_text())
+                if prev.get("textEn") and not it.get("textEn"):
+                    it["textEn"] = prev["textEn"]
+                if prev.get("textFa") and not it.get("textFa"):
+                    it["textFa"] = prev["textFa"]
+            except Exception:
+                pass
+        out_path.write_text(json.dumps(it, ensure_ascii=False, indent=2) + "\n")
 
     index = {
         "source": str(TRANSCRIPT_PDF.name),

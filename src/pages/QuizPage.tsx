@@ -1,18 +1,88 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import type { Lesson, LessonIndexEntry, QuizItem, ReviewItem } from '../types/lesson'
+import type {
+  Lesson,
+  LessonIndexEntry,
+  QuizItem,
+  ReviewItem,
+  VocabItem,
+} from '../types/lesson'
 import { fetchIndex, fetchLesson } from '../lib/content'
 import { QUIZ_PASS, answersEqual } from '../lib/progress'
 import { useProgress } from '../context/ProgressContext'
+import { useSettings } from '../context/SettingsContext'
+import { isRtl, pickGloss } from '../lib/gloss'
+import type { HelperLanguage } from '../lib/settings'
 import { Layout } from '../components/Layout'
 
-function toReview(lessonId: string, item: QuizItem): ReviewItem {
+function findVocab(lesson: Lesson, item: QuizItem): VocabItem | undefined {
+  if (item.vocabId) {
+    return lesson.vocab.find((v) => v.id === item.vocabId)
+  }
+  if (item.type === 'vocab-de-en') {
+    return lesson.vocab.find(
+      (v) => answersEqual(v.en, item.answer) || item.prompt.includes(v.de),
+    )
+  }
+  if (item.type === 'vocab-en-de') {
+    return lesson.vocab.find(
+      (v) =>
+        item.prompt.includes(v.en) ||
+        answersEqual(v.article ? `${v.article} ${v.de}` : v.de, item.answer),
+    )
+  }
+  return undefined
+}
+
+function resolveQuiz(
+  lesson: Lesson,
+  item: QuizItem,
+  lang: HelperLanguage,
+): { prompt: string; answer: string; rtlPrompt: boolean; rtlAnswer: boolean } {
+  const v = findVocab(lesson, item)
+  if (item.type === 'vocab-de-en' && v) {
+    const answer = pickGloss(v.en, v.fa, lang)
+    return {
+      prompt: item.prompt,
+      answer,
+      rtlPrompt: false,
+      rtlAnswer: lang === 'fa' && !!v.fa,
+    }
+  }
+  if (item.type === 'vocab-en-de' && v) {
+    const gloss = pickGloss(v.en, v.fa, lang)
+    const prompt =
+      lang === 'fa' && v.fa
+        ? `«${v.fa}» را به آلمانی چگونه می‌گویید؟`
+        : item.prompt.includes(v.en)
+          ? item.prompt.replace(v.en, gloss)
+          : `How do you say “${gloss}” in German?`
+    return {
+      prompt,
+      answer: item.answer,
+      rtlPrompt: lang === 'fa' && !!v.fa,
+      rtlAnswer: false,
+    }
+  }
+  return {
+    prompt: item.prompt,
+    answer: item.answer,
+    rtlPrompt: false,
+    rtlAnswer: false,
+  }
+}
+
+function toReview(
+  lessonId: string,
+  item: QuizItem,
+  resolved: { prompt: string; answer: string },
+): ReviewItem {
   return {
     id: `${lessonId}:${item.id}`,
     lessonId,
     kind: item.type.startsWith('vocab') ? 'vocab' : 'grammar',
-    prompt: item.prompt,
-    answer: item.answer,
+    prompt: resolved.prompt,
+    answer: resolved.answer,
     ease: 2.5,
     interval: 0,
     due: Date.now(),
@@ -24,6 +94,7 @@ export function QuizPage() {
   const { lessonId = '' } = useParams()
   const navigate = useNavigate()
   const { finishQuiz } = useProgress()
+  const { helperLanguage } = useSettings()
   const [lesson, setLesson] = useState<Lesson | null>(null)
   const [meta, setMeta] = useState<LessonIndexEntry | null>(null)
   const [index, setIndex] = useState(0)
@@ -51,11 +122,15 @@ export function QuizPage() {
 
   const quiz = lesson.quiz
 
-  function record(item: QuizItem, ok: boolean) {
-    if (!ok) failedRef.current.push(toReview(lesson!.id, item))
+  function record(
+    item: QuizItem,
+    ok: boolean,
+    resolved: { prompt: string; answer: string },
+  ) {
+    if (!ok) failedRef.current.push(toReview(lesson!.id, item, resolved))
     const nextCorrect = correctCount + (ok ? 1 : 0)
     setCorrectCount(nextCorrect)
-    setFeedback(ok ? 'Correct!' : `Answer: ${item.answer}`)
+    setFeedback(ok ? 'Correct!' : `Answer: ${resolved.answer}`)
 
     setTimeout(() => {
       if (index < quiz.length - 1) {
@@ -72,8 +147,9 @@ export function QuizPage() {
   }
 
   function submit(given: string) {
-    const item = quiz[index]!
-    record(item, answersEqual(item.answer, given))
+    const q = quiz[index]!
+    const resolved = resolveQuiz(lesson!, q, helperLanguage)
+    record(q, answersEqual(resolved.answer, given), resolved)
   }
 
   if (quiz.length === 0) {
@@ -143,6 +219,7 @@ export function QuizPage() {
   }
 
   const item = quiz[index]!
+  const resolved = resolveQuiz(lesson, item, helperLanguage)
 
   return (
     <Layout>
@@ -150,7 +227,12 @@ export function QuizPage() {
         <p className="muted" style={{ marginTop: 0 }}>
           Quiz · {index + 1}/{quiz.length}
         </p>
-        <h1 style={{ marginTop: 0 }}>{item.prompt}</h1>
+        <h1
+          className={resolved.rtlPrompt ? 'gloss-rtl' : undefined}
+          style={{ marginTop: 0 }}
+        >
+          {resolved.prompt}
+        </h1>
 
         {item.options && (
           <div className="options">
@@ -158,11 +240,15 @@ export function QuizPage() {
               <button
                 key={opt}
                 type="button"
-                className="option"
+                className={`option ${
+                  resolved.rtlAnswer && isRtl(helperLanguage) ? 'gloss-rtl' : ''
+                }`}
                 disabled={!!feedback}
                 onClick={() => submit(opt)}
               >
-                {opt}
+                {item.type === 'vocab-de-en' && opt === item.answer
+                  ? resolved.answer
+                  : opt}
               </button>
             ))}
           </div>
@@ -171,7 +257,7 @@ export function QuizPage() {
         {!item.options && (
           <>
             <input
-              className="field"
+              className={`field ${resolved.rtlAnswer ? 'gloss-rtl' : ''}`}
               value={input}
               disabled={!!feedback}
               onChange={(e) => setInput(e.target.value)}

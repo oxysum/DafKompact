@@ -11,29 +11,37 @@ export type PartOfSpeech =
 export interface Goal {
   de: string
   en: string
+  fa?: string
 }
 
 export interface VocabItem {
   id: string
   de: string
   en: string
+  fa?: string
   article?: 'der' | 'die' | 'das'
   pos?: PartOfSpeech
   exampleDe?: string
   exampleEn?: string
+  exampleFa?: string
   tags?: string[]
+  /** Local path to Wiktionary/Commons human pronunciation, when available */
+  audioUrl?: string
 }
 
 export interface GrammarExample {
   de: string
   en: string
+  fa?: string
 }
 
 export interface GrammarTopic {
   id: string
   titleDe: string
   titleEn: string
+  titleFa?: string
   explanationEn: string
+  explanationFa?: string
   patterns: string[]
   examples: GrammarExample[]
 }
@@ -51,6 +59,7 @@ export interface DrillItem {
   type: DrillType
   promptDe: string
   promptEn: string
+  promptFa?: string
   /** For cloze: sentence with ___ ; for MC: question; for reorder: words joined later */
   content: string
   options?: string[]
@@ -81,6 +90,8 @@ export interface ListeningTrackRef {
 export interface ListeningTrack extends ListeningTrackRef {
   lessonNumber: number | null
   text: string
+  textEn?: string
+  textFa?: string
 }
 
 export interface Lesson {
@@ -89,6 +100,7 @@ export interface Lesson {
   number: number
   titleDe: string
   titleEn: string
+  titleFa?: string
   status: 'complete' | 'stub'
   goals: Goal[]
   vocab: VocabItem[]
@@ -104,6 +116,7 @@ export interface LessonIndexEntry {
   number: number
   titleDe: string
   titleEn: string
+  titleFa?: string
   status: 'complete' | 'stub'
   order: number
 }
@@ -132,6 +145,10 @@ export interface ReviewItem {
   mode?: 'recall' | 'de-en' | 'en-de' | 'article'
   prompt: string
   answer: string
+  /** Optional Farsi answer for de→L2 cards; used when helper language is fa */
+  answerFa?: string
+  /** Optional Farsi prompt fragment for L2→de cards */
+  promptFa?: string
   ease: number
   interval: number
   due: number

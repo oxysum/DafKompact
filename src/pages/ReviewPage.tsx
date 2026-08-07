@@ -2,10 +2,28 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { answersEqual } from '../lib/progress'
 import { useProgress } from '../context/ProgressContext'
+import { useSettings } from '../context/SettingsContext'
+import { isRtl, pickGloss } from '../lib/gloss'
 import { Layout } from '../components/Layout'
+import type { ReviewItem } from '../types/lesson'
+
+function reviewPrompt(item: ReviewItem, lang: 'en' | 'fa'): string {
+  if (lang === 'fa' && item.mode === 'en-de' && item.promptFa) {
+    return item.promptFa
+  }
+  return item.prompt
+}
+
+function reviewAnswer(item: ReviewItem, lang: 'en' | 'fa'): string {
+  if (item.mode === 'de-en') {
+    return pickGloss(item.answer, item.answerFa, lang)
+  }
+  return item.answer
+}
 
 export function ReviewPage() {
   const { due, answerReview, stats } = useProgress()
+  const { helperLanguage } = useSettings()
   const [queue, setQueue] = useState(due)
   const [index, setIndex] = useState(0)
   const [revealed, setRevealed] = useState(false)
@@ -49,7 +67,8 @@ export function ReviewPage() {
         <div className="panel">
           <h1>Session complete</h1>
           <p className="muted">
-            Nice work. {stats.dueToday > 0
+            Nice work.{' '}
+            {stats.dueToday > 0
               ? `${stats.dueToday} still marked due later today.`
               : 'No more cards due today.'}
           </p>
@@ -70,6 +89,12 @@ export function ReviewPage() {
     setMsg(null)
   }
 
+  const expected = reviewAnswer(item, helperLanguage)
+  const prompt = reviewPrompt(item, helperLanguage)
+  const rtlPrompt =
+    helperLanguage === 'fa' && item.mode === 'en-de' && !!item.promptFa
+  const rtlAnswer = helperLanguage === 'fa' && item.mode === 'de-en'
+
   return (
     <Layout>
       <div className="panel">
@@ -80,20 +105,25 @@ export function ReviewPage() {
             ? ` · ${stats.dueToday} due today`
             : ''}
         </p>
-        <h1 style={{ marginTop: 0 }}>{item.prompt}</h1>
+        <h1
+          className={rtlPrompt ? 'gloss-rtl' : undefined}
+          style={{ marginTop: 0 }}
+        >
+          {prompt}
+        </h1>
 
         {!revealed ? (
           <>
             <input
-              className="field"
+              className={`field ${rtlAnswer ? 'gloss-rtl' : ''}`}
               value={input}
               onChange={(e) => setInput(e.target.value)}
               placeholder="Your answer"
               autoFocus
               onKeyDown={(e) => {
                 if (e.key === 'Enter' && input.trim()) {
-                  const ok = answersEqual(item.answer, input)
-                  setMsg(ok ? 'Correct!' : `Answer: ${item.answer}`)
+                  const ok = answersEqual(expected, input)
+                  setMsg(ok ? 'Correct!' : `Answer: ${expected}`)
                   answerReview(item.id, ok)
                   setTimeout(advance, 550)
                 }
@@ -111,8 +141,8 @@ export function ReviewPage() {
                 type="button"
                 className="btn"
                 onClick={() => {
-                  const ok = answersEqual(item.answer, input)
-                  setMsg(ok ? 'Correct!' : `Answer: ${item.answer}`)
+                  const ok = answersEqual(expected, input)
+                  setMsg(ok ? 'Correct!' : `Answer: ${expected}`)
                   answerReview(item.id, ok)
                   setTimeout(advance, 550)
                 }}
@@ -123,8 +153,8 @@ export function ReviewPage() {
           </>
         ) : (
           <>
-            <p>
-              <strong>{item.answer}</strong>
+            <p className={rtlAnswer || isRtl(helperLanguage) ? 'gloss-rtl' : undefined}>
+              <strong>{expected}</strong>
             </p>
             <div className="btn-row">
               <button

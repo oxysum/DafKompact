@@ -8,6 +8,8 @@ import {
   lessonPercent,
 } from '../lib/progress'
 import { useProgress } from '../context/ProgressContext'
+import { useSettings } from '../context/SettingsContext'
+import { isRtl, pickGloss } from '../lib/gloss'
 import { Layout } from '../components/Layout'
 
 const STEPS: { id: StepId; label: string; title: string }[] = [
@@ -21,6 +23,7 @@ export function LessonHubPage() {
   const { lessonId = '' } = useParams()
   const navigate = useNavigate()
   const { progress, ready } = useProgress()
+  const { helperLanguage, unlockAll } = useSettings()
   const [lesson, setLesson] = useState<Lesson | null>(null)
   const [meta, setMeta] = useState<LessonIndexEntry | null>(null)
   const [error, setError] = useState<string | null>(null)
@@ -55,17 +58,23 @@ export function LessonHubPage() {
     )
   }
 
-  if (!isLessonUnlocked(progress, meta.order)) {
+  if (!unlockAll && !isLessonUnlocked(progress, meta.order)) {
     return (
       <Layout>
         <div className="panel">
           <h1>Lesson locked</h1>
           <p className="muted">
-            Finish the previous lesson quiz (≥70%) to unlock this one.
+            Finish the previous lesson quiz (≥70%) to unlock this one. Or turn on
+            Free access in Settings.
           </p>
-          <Link className="btn" to="/">
-            Back to lessons
-          </Link>
+          <div className="btn-row">
+            <Link className="btn secondary" to="/">
+              Back to lessons
+            </Link>
+            <Link className="btn" to="/settings">
+              Settings
+            </Link>
+          </div>
         </div>
       </Layout>
     )
@@ -80,6 +89,7 @@ export function LessonHubPage() {
   }
 
   function canOpen(step: StepId): boolean {
+    if (unlockAll) return true
     if (step === 'goals') return true
     if (step === 'vocab') return done.goals
     if (step === 'grammar') return done.vocab
@@ -94,7 +104,9 @@ export function LessonHubPage() {
           {lesson.level} · Lektion {lesson.number} · {lessonPercent(lp)}%
         </p>
         <h1 style={{ marginTop: 0 }}>{lesson.titleDe}</h1>
-        <p className="muted">{lesson.titleEn}</p>
+        <p className={`muted ${isRtl(helperLanguage) ? 'gloss-rtl' : ''}`}>
+          {pickGloss(lesson.titleEn, lesson.titleFa, helperLanguage)}
+        </p>
 
         {lesson.status === 'stub' && (
           <p className="feedback" style={{ color: 'var(--accent-soft)' }}>

@@ -2,14 +2,18 @@ import { useEffect, useState } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import type { Lesson, ListeningTrack } from '../types/lesson'
 import { fetchLesson, fetchListeningTrack } from '../lib/content'
+import { useSettings } from '../context/SettingsContext'
+import { helperLabel, isRtl, pickGloss } from '../lib/gloss'
 import { Layout } from '../components/Layout'
 
 export function ListeningPage() {
   const { lessonId = '' } = useParams()
   const [searchParams, setSearchParams] = useSearchParams()
+  const { helperLanguage } = useSettings()
   const [lesson, setLesson] = useState<Lesson | null>(null)
   const [active, setActive] = useState<ListeningTrack | null>(null)
   const [showTranscript, setShowTranscript] = useState(true)
+  const [showTranslation, setShowTranslation] = useState(true)
   const [error, setError] = useState<string | null>(null)
 
   const tracks = lesson?.listening ?? []
@@ -73,6 +77,11 @@ export function ListeningPage() {
     )
   }
 
+  const translation = active
+    ? pickGloss(active.textEn, active.textFa, helperLanguage)
+    : ''
+  const hasTranslation = Boolean(translation && translation !== active?.text)
+
   return (
     <Layout>
       <div className="panel">
@@ -81,8 +90,11 @@ export function ListeningPage() {
         </p>
         <h1 style={{ marginTop: 0 }}>Hörverstehen</h1>
         <p className="muted">
-          Kursbuch CD audio with matching transcript. Does not unlock the next
-          lesson.
+          Kursbuch CD audio with German transcript
+          {hasTranslation
+            ? ` and ${helperLabel(helperLanguage)} translation`
+            : ''}
+          . Does not unlock the next lesson.
         </p>
 
         <div className="listening-layout">
@@ -125,11 +137,36 @@ export function ListeningPage() {
                     className="btn secondary"
                     onClick={() => setShowTranscript((v) => !v)}
                   >
-                    {showTranscript ? 'Hide transcript' : 'Show transcript'}
+                    {showTranscript ? 'Hide German' : 'Show German'}
                   </button>
+                  {hasTranslation && (
+                    <button
+                      type="button"
+                      className="btn secondary"
+                      onClick={() => setShowTranslation((v) => !v)}
+                    >
+                      {showTranslation
+                        ? `Hide ${helperLabel(helperLanguage)}`
+                        : `Show ${helperLabel(helperLanguage)}`}
+                    </button>
+                  )}
                 </div>
                 {showTranscript && (
                   <pre className="listening-transcript">{active.text}</pre>
+                )}
+                {showTranslation && hasTranslation && (
+                  <pre
+                    className={`listening-transcript listening-translation ${
+                      isRtl(helperLanguage) ? 'gloss-rtl' : ''
+                    }`}
+                  >
+                    {translation}
+                  </pre>
+                )}
+                {!hasTranslation && showTranscript && (
+                  <p className="muted" style={{ marginTop: '0.75rem' }}>
+                    Translation not available for this track yet.
+                  </p>
                 )}
               </>
             ) : (

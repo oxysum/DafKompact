@@ -5,5 +5,7 @@
   "text": "Sprecher: Wie geht’s dir?\nSprecher: 1. Im Moment ziemlich schlecht.\nSprecher: 2. Na ja, es geht so.\nSprecher: 3. Danke, auch gut.\nSprecher: 4. So la la.\nSprecher: 5. Danke, bestens.\nSprecher: 6. Mir geht’s leider gar nicht gut!",
   "preview": "Sprecher: Wie geht’s dir?",
   "id": "cd1-t26",
-  "audioUrl": "/audio/cd1/track-26.mp3"
+  "audioUrl": "/audio/cd1/track-26.mp3",
+  "textEn": "Speaker: How are you?\nNarrator: 1. Pretty bad at the moment.\nSpeaker: 2. Well, it goes like this.\nSpeaker: 3. Thank you, good too.\nSpeaker: 4. So-so-so.\nSpeaker: 5. Thank you, great.\nSpeaker: 6. Unfortunately, I'm not feeling well at all!",
+  "textFa": "سخنران: چطوری؟\nراوی: 1. در حال حاضر خیلی بد است.\nسخنران: 2. خب، اینطوری می شود.\nسخنران: 3. متشکرم، شما هم خوب هستید.\nسخنران: 4. فلانی.\nسخنران: 5. ممنون، عالی.\nسخنران: 6. متاسفانه حالم اصلا خوب نیست!"
 }

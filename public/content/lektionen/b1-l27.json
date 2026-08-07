@@ -8,19 +8,23 @@
   "goals": [
     {
       "de": "Lernziele zu „Geschichten und Gesichter Berlins“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Berlin's stories and faces” in the course book"
+      "en": "Read and understand the learning goals for “Berlin's stories and faces” in the course book",
+      "fa": "اهداف یادگیری «داستان‌ها و چهره‌های برلین» را در کتاب دوره بخوانید و بفهمید"
     },
     {
       "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson"
+      "en": "Collect and practice key vocabulary from this lesson",
+      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
     },
     {
       "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson"
+      "en": "Review the grammar topics of this lesson",
+      "fa": "مرور اجمالی موضوعات گرامری درس"
     },
     {
       "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice"
+      "en": "Apply the language functions in simple practice",
+      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
     }
   ],
   "vocab": [],
@@ -35,5 +39,6 @@
       "audioUrl": "/audio/cd3/track-49.mp3",
       "preview": "Karl: Hey, weißt du, was ich vorgestern noch gefunden"
     }
-  ]
+  ],
+  "titleFa": "داستان‌ها و چهره‌های برلین"
 }

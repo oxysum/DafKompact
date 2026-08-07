@@ -8,6 +8,8 @@ import {
   lessonPercent,
 } from '../lib/progress'
 import { useProgress } from '../context/ProgressContext'
+import { useSettings } from '../context/SettingsContext'
+import { isRtl, pickGloss } from '../lib/gloss'
 import { Layout } from '../components/Layout'
 
 export function HomePage() {
@@ -15,6 +17,7 @@ export function HomePage() {
   const [level, setLevel] = useState<Level | 'ALL'>('A1')
   const [error, setError] = useState<string | null>(null)
   const { progress, ready, stats } = useProgress()
+  const { helperLanguage, unlockAll } = useSettings()
 
   useEffect(() => {
     fetchIndex()
@@ -86,7 +89,8 @@ export function HomePage() {
 
       <div className="lesson-list">
         {lessons.map((lesson) => {
-          const unlocked = isLessonUnlocked(progress, lesson.order)
+          const unlocked =
+            unlockAll || isLessonUnlocked(progress, lesson.order)
           const lp = getLessonProgress(progress, lesson.id)
           const pct = lessonPercent(lp)
           const inner = (
@@ -94,7 +98,11 @@ export function HomePage() {
               <div className="lesson-num">{lesson.number}</div>
               <div>
                 <h2>{lesson.titleDe}</h2>
-                <div className="sub">{lesson.titleEn}</div>
+                <div
+                  className={`sub ${isRtl(helperLanguage) ? 'gloss-rtl' : ''}`}
+                >
+                  {pickGloss(lesson.titleEn, lesson.titleFa, helperLanguage)}
+                </div>
               </div>
               <div style={{ textAlign: 'right' }}>
                 <div

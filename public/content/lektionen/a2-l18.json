@@ -8,15 +8,18 @@
   "goals": [
     {
       "de": "Urlaubsangebote und Unterkünfte vergleichen",
-      "en": "Compare holiday offers and accommodation"
+      "en": "Compare holiday offers and accommodation",
+      "fa": "مقایسه پیشنهادهای تعطیلات و محل اقامت"
     },
     {
       "de": "Vorlieben äußern; um Infos bei einem Gasthof bitten",
-      "en": "Express preferences; request info from a guesthouse"
+      "en": "Express preferences; request info from a guesthouse",
+      "fa": "بیان سلیقه؛ درخواست اطلاعات از مسافرخانه"
     },
     {
       "de": "Von Urlaubserlebnissen berichten",
-      "en": "Report on holiday experiences"
+      "en": "Report on holiday experiences",
+      "fa": "گزارش تجربه‌های تعطیلات"
     }
   ],
   "vocab": [
@@ -25,2216 +28,2882 @@
       "de": "Abbau",
       "en": "dismantling",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "پیاده کردن، کاستن، بستن",
+      "audioUrl": "/audio/vocab/abbau.mp3"
     },
     {
       "id": "v2",
       "de": "Aktivurlaub",
       "en": "activity holiday",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "تعطیلات فعالانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-Aktivurlaub.ogg"
     },
     {
       "id": "v3",
       "de": "Alpen",
       "en": "Alps",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "کوههای آلپ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-Alpen.ogg"
     },
     {
       "id": "v4",
       "de": "anderen",
       "en": "others",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "دیگران",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-anderen.ogg"
     },
     {
       "id": "v5",
       "de": "Angebot",
       "en": "offer",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "پیشنهاد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Angebot.ogg"
     },
     {
       "id": "v6",
       "de": "Angst",
       "en": "fear",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "ترس و هراس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-Angst.ogg"
     },
     {
       "id": "v7",
       "de": "Artikel",
       "en": "article",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "حرف تعریف؛ مقاله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Artikel.ogg"
     },
     {
       "id": "v8",
       "de": "Attraktion",
       "en": "attraction",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "جاذبه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Attraktion.ogg"
     },
     {
       "id": "v9",
       "de": "Aufbau",
       "en": "construction",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "ساخت و ساز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Aufbau.ogg"
     },
     {
       "id": "v10",
       "de": "Ausflug",
       "en": "excursion",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "سفر جانبی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Ausflug.ogg"
     },
     {
       "id": "v11",
       "de": "Ausland",
       "en": "abroad",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "خارج از کشور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Ausland.ogg"
     },
     {
       "id": "v12",
       "de": "Ausstattung",
       "en": "furnishings",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "تجهیزات، جهیزیه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-Ausstattung.ogg"
     },
     {
       "id": "v13",
       "de": "Badestrand",
       "en": "Bathing beach",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "پلاژ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-Badestrand.ogg"
     },
     {
       "id": "v14",
       "de": "Badeurlaub",
       "en": "beach holiday",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "تعطیلات ساحلی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Badeurlaub.ogg"
     },
     {
       "id": "v15",
       "de": "Balkon",
       "en": "balcony",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "بالکن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Balkon.ogg"
     },
     {
       "id": "v16",
       "de": "Bedeutung",
       "en": "meaning",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "معنی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Bedeutung.ogg"
     },
     {
       "id": "v17",
       "de": "Berg",
       "en": "mountain",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "کوه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-Berg.ogg"
     },
     {
       "id": "v18",
       "de": "Bericht",
       "en": "report",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "گزارش دهید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Bericht.ogg"
     },
     {
       "id": "v19",
       "de": "Beschäftigung",
       "en": "occupation",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "اشتغال",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/De-Besch%C3%A4ftigung.ogg"
     },
     {
       "id": "v20",
       "de": "Besuch",
       "en": "visit",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "دیدار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Besuch.ogg"
     },
     {
       "id": "v21",
       "de": "Bild",
       "en": "picture / painting",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "شکل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-Bild.ogg"
     },
     {
       "id": "v22",
       "de": "Blick",
-      "en": "view",
+      "en": "look; view",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "نگاه؛ چشم‌انداز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Blick.ogg"
     },
     {
       "id": "v23",
       "de": "Bodensee",
       "en": "Lake Constance",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "دریاچه کنستانس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-Bodensee.ogg"
     },
     {
       "id": "v24",
       "de": "Boot",
       "en": "boat",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "قایق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/De-Boot.ogg"
     },
     {
       "id": "v25",
       "de": "Brief",
       "en": "letter",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "نامه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Brief.ogg"
     },
     {
       "id": "v26",
       "de": "Bummel",
       "en": "stroll",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "گشت و گذار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Bummel.ogg"
     },
     {
       "id": "v27",
       "de": "Büfett",
       "en": "buffet",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "بوفه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-B%C3%BCfett.ogg"
     },
     {
       "id": "v28",
       "de": "Cafe",
-      "en": "cafe",
+      "en": "café",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "کافه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-Cafeteria.ogg"
     },
     {
       "id": "v29",
       "de": "Camping",
       "en": "camping",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "کمپینگ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Camping.ogg"
     },
     {
       "id": "v30",
       "de": "Campingplatz",
       "en": "campsite",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "محل چادر زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-Campingplatz.ogg"
     },
     {
       "id": "v31",
       "de": "Campingurlaub",
       "en": "Camping vacation",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "اردو زدن در تعطیلات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-Campingurlaub.ogg"
     },
     {
       "id": "v32",
       "de": "Computer",
       "en": "computer",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "رایانه؛ کامپیوتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Computer.ogg"
     },
     {
       "id": "v33",
       "de": "Dank",
       "en": "Thanks to",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "Sg. تشکر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-Dank.ogg"
     },
     {
       "id": "v34",
       "de": "Dreibettzimmer",
       "en": "Triple room",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "اتاق سه تخته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-Dreibettzimmer.ogg"
     },
     {
       "id": "v35",
       "de": "Dusche",
       "en": "shower",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "دوش گرفتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Dusche.ogg"
     },
     {
       "id": "v36",
       "de": "Düne",
       "en": "dune",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "تپه شنی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-D%C3%BCne.ogg"
     },
     {
       "id": "v37",
       "de": "Ei",
       "en": "egg",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "تخم‌مرغ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/De-Ei.ogg"
     },
     {
       "id": "v38",
       "de": "Einzelzimmer",
       "en": "Single room",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "اتاق یکنفره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/De-Einzelzimmer.ogg"
     },
     {
       "id": "v39",
       "de": "Endung",
-      "en": "ending",
+      "en": "ending (grammar)",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "پایان (دستوری)",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-Endung.ogg"
     },
     {
       "id": "v40",
       "de": "Entspannung",
       "en": "relaxation",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "استراحت، تمدد اعصاب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-Entspannung.ogg"
     },
     {
       "id": "v41",
       "de": "Ereignis",
       "en": "event",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "پیش آمد، رخداد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-Ereignis.ogg"
     },
     {
       "id": "v42",
       "de": "Ergebnis",
       "en": "result",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "نتیجه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Ergebnis.ogg"
     },
     {
       "id": "v43",
       "de": "Erholung",
       "en": "recreation",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "تجدید قوا، استراحت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-Erholung.ogg"
     },
     {
       "id": "v44",
       "de": "Erlebnis",
       "en": "experience",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "ماجرا، واقعه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-Erlebnis.ogg"
     },
     {
       "id": "v45",
       "de": "Erwachsene",
       "en": "adult",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "بالغ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Erwachsene.ogg"
     },
     {
       "id": "v46",
       "de": "Fahrrad",
       "en": "bicycle",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "دوچرخه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Fahrrad.ogg"
     },
     {
       "id": "v47",
       "de": "Fahrt",
       "en": "drive",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "سفر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/De-Fahrt.ogg"
     },
     {
       "id": "v48",
       "de": "Fallschirm",
       "en": "parachute",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "چتر بازی، چتر نجات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/De-Fallschirm.ogg"
     },
     {
       "id": "v49",
       "de": "Ferienwohnung",
       "en": "Holiday apartment",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "ویلا اجاره ای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-Ferienwohnung.ogg"
     },
     {
       "id": "v50",
       "de": "Ferne",
       "en": "distance",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "دوردست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Ferne.ogg"
     },
     {
       "id": "v51",
       "de": "Fernreise",
       "en": "Long distance travel",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "سفر به دور دست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-Fernreise.ogg"
     },
     {
       "id": "v52",
       "de": "Fest",
       "en": "festival / celebration",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "جشن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Fest.ogg"
     },
     {
       "id": "v53",
       "de": "Flugzeug",
       "en": "airplane",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "هواپیما",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-Flugzeug.ogg"
     },
     {
       "id": "v54",
       "de": "Frühstück",
       "en": "breakfast",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "صبحانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/De-Fr%C3%BChst%C3%BCck.ogg"
     },
     {
       "id": "v55",
       "de": "Fähre",
       "en": "ferry",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "کشتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/De-F%C3%A4hre.ogg"
     },
     {
       "id": "v56",
       "de": "Gasthof",
       "en": "guesthouse",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "مسافرخانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Gasthof.ogg"
     },
     {
       "id": "v57",
       "de": "Geist",
       "en": "spirit",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "روح و روان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Geist.ogg"
     },
     {
       "id": "v58",
       "de": "Geschichte",
       "en": "story",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "داستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Geschichte.ogg"
     },
     {
       "id": "v59",
       "de": "Gespräch",
       "en": "conversation",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "گفتگو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Gespr%C3%A4ch.ogg"
     },
     {
       "id": "v60",
       "de": "Gesundheit",
       "en": "health",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "سلامتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Gesundheit.ogg"
     },
     {
       "id": "v61",
       "de": "Gitarre",
       "en": "guitar",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "گیتار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-Gitarre.ogg"
     },
     {
       "id": "v62",
       "de": "GmbH",
-      "en": "gmbH",
+      "en": "Ltd (GmbH)",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "شرکت با مسئولیت محدود (آلمانی)",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-GmbH.ogg"
     },
     {
       "id": "v63",
       "de": "Grammatik",
       "en": "grammar",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "دستور زبان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Grammatik.ogg"
     },
     {
       "id": "v64",
       "de": "Hafen",
       "en": "harbor",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "بندرگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/De-Hafen.ogg"
     },
     {
       "id": "v65",
       "de": "Halbpension",
       "en": "Half board",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "تخت و صبحانه و شام",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-Halbpension.ogg"
     },
     {
       "id": "v66",
       "de": "Halle",
       "en": "hall",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "سالن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Halle.ogg"
     },
     {
       "id": "v67",
       "de": "Hauptsaison",
       "en": "Peak season",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "سرفصل های سیزن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Hauptsaison.ogg"
     },
     {
       "id": "v68",
       "de": "Haus",
       "en": "house",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "خانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Haus.ogg"
     },
     {
       "id": "v69",
       "de": "Heimat",
       "en": "home country / hometown",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "وطن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Heimat.ogg"
     },
     {
       "id": "v70",
       "de": "Herr",
       "en": "mr",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "آقا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-Herr.ogg"
     },
     {
       "id": "v71",
       "de": "Hund",
       "en": "dog",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "سگ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Hund.ogg"
     },
     {
       "id": "v72",
       "de": "Hunger",
       "en": "hunger",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "گرسنگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/De-Hunger.ogg"
     },
     {
       "id": "v73",
       "de": "Höhe",
       "en": "height",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "ارتفاع، اوج",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-H%C3%B6he.ogg"
     },
     {
       "id": "v74",
       "de": "Idee",
       "en": "idea",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "نظر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Idee.ogg"
     },
     {
       "id": "v75",
       "de": "Inhalt",
       "en": "contents",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "مطالب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-Inhalt.ogg"
     },
     {
       "id": "v76",
       "de": "Insel",
       "en": "island",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "جزیره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/De-Insel.ogg"
     },
     {
       "id": "v77",
       "de": "Interesse",
       "en": "interest",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "علاقه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Interesse.ogg"
     },
     {
       "id": "v78",
       "de": "Internet",
       "en": "Internet",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "اینترنت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De-Internet.ogg"
     },
     {
       "id": "v79",
       "de": "Jugendherberge",
       "en": "youth hostel",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "خوابگاه برای جوانان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Jugendherberge.ogg"
     },
     {
       "id": "v80",
       "de": "Kiosk",
       "en": "kiosk",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "دکه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Kiosk.ogg"
     },
     {
       "id": "v81",
       "de": "Kreuzfahrt",
       "en": "cruise",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "سفر دریایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/De-Kreuzfahrt.ogg"
     },
     {
       "id": "v82",
       "de": "Kurs",
       "en": "course",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "دوره؛ کلاس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Kurs.ogg"
     },
     {
       "id": "v83",
       "de": "Kursbuch",
-      "en": "Course book",
+      "en": "course book",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "کتاب دوره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Kursbuch.ogg"
     },
     {
       "id": "v84",
       "de": "Körper",
       "en": "body",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "بدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-K%C3%B6rper.ogg"
     },
     {
       "id": "v85",
       "de": "Küche",
       "en": "kitchen",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "آشپزخانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/De-K%C3%BCche.ogg"
     },
     {
       "id": "v86",
       "de": "Land",
       "en": "country",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "کشور؛ سرزمین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-Land.ogg"
     },
     {
       "id": "v87",
       "de": "Landgasthof",
       "en": "Country inn",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "مسافرخانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-Landgasthof.ogg"
     },
     {
       "id": "v88",
       "de": "Leute",
       "en": "people",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "مردم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Leute.ogg"
     },
     {
       "id": "v89",
       "de": "Liebhaber",
       "en": "lover",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "خاطرخواه، معشوق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/De-Liebhaber.ogg"
     },
     {
       "id": "v90",
       "de": "Liebhaberin",
       "en": "lover",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "خاطرخواه، معشوقه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/De-Liebhaberin.ogg"
     },
     {
       "id": "v91",
       "de": "Lieblingsbeschäftigung",
       "en": "Favorite activity",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "هوبی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Lieblingsbesch%C3%A4ftigung.ogg"
     },
     {
       "id": "v92",
       "de": "Luft",
       "en": "air",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "هوا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-Luft.ogg"
     },
     {
       "id": "v93",
       "de": "Lust",
       "en": "desire",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "حوصله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/De-Lust.ogg"
     },
     {
       "id": "v94",
       "de": "Mal",
       "en": "modal particle (just / once)",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "هربار، هر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Mal.ogg"
     },
     {
       "id": "v95",
       "de": "Meer",
       "en": "sea",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "دریا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-Meer.ogg"
     },
     {
       "id": "v96",
       "de": "Mensch",
       "en": "person",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "شخص",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Mensch.ogg"
     },
     {
       "id": "v97",
       "de": "Menü",
       "en": "menu",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "منو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Men%C3%BC.ogg"
     },
     {
       "id": "v98",
       "de": "Messe",
       "en": "fair",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "نمایشگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Messe.ogg"
     },
     {
       "id": "v99",
       "de": "Mitte",
       "en": "center",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "وسط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/De-Mitte.ogg"
     },
     {
       "id": "v100",
       "de": "Morgen",
-      "en": "morning",
+      "en": "morning; tomorrow",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "صبح؛ فردا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Morgen.ogg"
     },
     {
       "id": "v101",
       "de": "Nacht",
       "en": "night",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "شب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Nacht.ogg"
     },
     {
       "id": "v102",
       "de": "Natur",
       "en": "nature",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "طبیعت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-Natur.ogg"
     },
     {
       "id": "v103",
       "de": "Nichts",
       "en": "nothing",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "هیچ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-Nichts.ogg"
     },
     {
       "id": "v104",
       "de": "Nomen",
       "en": "noun",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "اسم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Nomen.ogg"
     },
     {
       "id": "v105",
       "de": "Paradies",
       "en": "paradise",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "بهشت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-Paradies.ogg"
     },
     {
       "id": "v106",
       "de": "Partner",
       "en": "partner",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "شریک؛ همکار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Partner.ogg"
     },
     {
       "id": "v107",
       "de": "Pension",
       "en": "pension",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "پانسیون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Pension.ogg"
     },
     {
       "id": "v108",
       "de": "Person",
       "en": "person",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "شخص",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Person.ogg"
     },
     {
       "id": "v109",
       "de": "Pflanze",
       "en": "plant",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "گیاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Pflanze.ogg"
     },
     {
       "id": "v110",
       "de": "Pkw",
       "en": "car",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "اتومبیل شخصی"
     },
     {
       "id": "v111",
       "de": "Platte",
       "en": "plate",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "ورقه، صفحه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/De-Platte.ogg"
     },
     {
       "id": "v112",
       "de": "Platz",
       "en": "square / place",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "مکان، میدان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Platz.ogg"
     },
     {
       "id": "v113",
       "de": "Preis",
       "en": "price",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "قیمت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/De-Preis.ogg"
     },
     {
       "id": "v114",
       "de": "Quatsch",
       "en": "nonsense",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "چرت و پرت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-Quatsch.ogg"
     },
     {
       "id": "v115",
       "de": "Rahmen",
       "en": "frame",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "بدنه، چارچوب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/De-Rahmen.ogg"
     },
     {
       "id": "v116",
       "de": "Rand",
       "en": "edge",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "حاشیه، لبه am",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-Rand.ogg"
     },
     {
       "id": "v117",
       "de": "Redemittel",
-      "en": "means of speech",
+      "en": "useful phrases",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "عبارات آماده گفتار"
     },
     {
       "id": "v118",
       "de": "Regel",
       "en": "rule",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "قاعده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Regel.ogg"
     },
     {
       "id": "v119",
       "de": "Region",
       "en": "region",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "منطقه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-Region.ogg"
     },
     {
       "id": "v120",
       "de": "Reihenfolge",
       "en": "series",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "ترتیب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Reihenfolge.ogg"
     },
     {
       "id": "v121",
       "de": "Reisebüro",
       "en": "Travel agency",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "آژانس مسافرتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Reiseb%C3%BCro.ogg"
     },
     {
       "id": "v122",
       "de": "Reisen",
       "en": "travel",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "سفر کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Reisen.ogg"
     },
     {
       "id": "v123",
       "de": "Reiseziel",
       "en": "destination",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "مقصد سفر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Reiseziel.ogg"
     },
     {
       "id": "v124",
       "de": "Reißleine",
       "en": "ripcord",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "طناب ثابت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-Rei%C3%9Fleine.ogg"
     },
     {
       "id": "v125",
       "de": "Ruhe",
       "en": "quiet",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "آرامش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Ruhe.ogg"
     },
     {
       "id": "v126",
       "de": "Saison",
       "en": "season",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "فصل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Saison.ogg"
     },
     {
       "id": "v127",
       "de": "Sauna",
       "en": "sauna",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "سونا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-Sauna.ogg"
     },
     {
       "id": "v128",
       "de": "Schiff",
       "en": "ship",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "سفینه، کشتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Schiff.ogg"
     },
     {
       "id": "v129",
       "de": "Schifffahrt",
       "en": "shipping",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "کشتیرانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/De-Schifffahrt.ogg"
     },
     {
       "id": "v130",
       "de": "Schloss",
       "en": "palace/castle",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "قلعه، قفل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Schloss.ogg"
     },
     {
       "id": "v131",
       "de": "Schreiben",
       "en": "to write",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "نوشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Schreiben.ogg"
     },
     {
       "id": "v132",
       "de": "Schwimmbad",
       "en": "Swimming pool",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "استخر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-Schwimmbad.ogg"
     },
     {
       "id": "v133",
       "de": "See",
       "en": "lake (der) / sea (die)",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "دریا اقیانوس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-See.ogg"
     },
     {
       "id": "v134",
       "de": "Seeblick",
       "en": "Lake view",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "مشرف به دریاچه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/De-Seeblick.ogg"
     },
     {
       "id": "v135",
       "de": "Seite",
       "en": "page",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "صفحه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-Seite.ogg"
     },
     {
       "id": "v136",
       "de": "Sendung",
       "en": "broadcast",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "ارسال، بسته پستی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Sendung.ogg"
     },
     {
       "id": "v137",
       "de": "Sommer",
       "en": "summer",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "تابستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-Sommer.ogg"
     },
     {
       "id": "v138",
       "de": "Sonne",
       "en": "sun",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "خورشید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Sonne.ogg"
     },
     {
       "id": "v139",
       "de": "Sport",
       "en": "sport",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "ورزش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Sport.ogg"
     },
     {
       "id": "v140",
       "de": "Sportler",
       "en": "sportsman",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "ورزشکار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-Sportler.ogg"
     },
     {
       "id": "v141",
       "de": "Sportlerin",
       "en": "sportswoman",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "ورزشکار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Sportlerin.ogg"
     },
     {
       "id": "v142",
       "de": "Sprung",
       "en": "jump",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "پرش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Sprung.ogg"
     },
     {
       "id": "v143",
       "de": "Spur",
       "en": "track",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "رد پا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Spur.ogg"
     },
     {
       "id": "v144",
       "de": "Stadt",
       "en": "city",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "شهر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-Stadt.ogg"
     },
     {
       "id": "v145",
       "de": "Stadtbummel",
       "en": "Stroll through town",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "گشت در شهر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-Stadtbummel.ogg"
     },
     {
       "id": "v146",
       "de": "Stein",
       "en": "stone",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "سنگ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Stein.ogg"
     },
     {
       "id": "v147",
       "de": "Stellplatz",
       "en": "parking space",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "مکان مناسب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/De-Stellplatz.ogg"
     },
     {
       "id": "v148",
       "de": "Strand",
       "en": "beach",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "ساحل ماسه ای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/De-Strand.ogg"
     },
     {
       "id": "v149",
       "de": "Strandwiese",
       "en": "Beach meadow",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "چمنزار کنار ساحل"
     },
     {
       "id": "v150",
       "de": "Tabelle",
       "en": "table",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "جدول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Tabelle.ogg"
     },
     {
       "id": "v151",
       "de": "Tandem",
       "en": "tandem",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "پشت سر هم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Tandem.ogg"
     },
     {
       "id": "v152",
       "de": "Tandemsprung",
       "en": "Tandem jump",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "چتربازی با همراه"
     },
     {
       "id": "v153",
       "de": "Teil",
       "en": "part",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "قسمت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Teil.ogg"
     },
     {
       "id": "v154",
       "de": "Telefongespräch",
       "en": "Telephone conversation",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "گفتگوی تلفنی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Telefongespr%C3%A4ch.ogg"
     },
     {
       "id": "v155",
       "de": "Termin",
       "en": "appointment",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "قرار ملاقات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Termin.ogg"
     },
     {
       "id": "v156",
       "de": "Text",
       "en": "text",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "متن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-Text.ogg"
     },
     {
       "id": "v157",
       "de": "Thema",
       "en": "theme",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "عنوان. مطلب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Thema.ogg"
     },
     {
       "id": "v158",
       "de": "Tour",
       "en": "tour",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "سیاحت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Tour.ogg"
     },
     {
       "id": "v159",
       "de": "Touristikmesse",
       "en": "Tourism fair",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "نمایشگاه گردشگری"
     },
     {
       "id": "v160",
       "de": "Trainee",
       "en": "trainee",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "کارآموز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Trainee.ogg"
     },
     {
       "id": "v161",
       "de": "Treiben",
       "en": "to do (sport)",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "جنبش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-Treiben.ogg"
     },
     {
       "id": "v162",
       "de": "Trick",
       "en": "trick",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "ترفند، حیله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Trick.ogg"
     },
     {
       "id": "v163",
       "de": "Trockner",
       "en": "dryer",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "خشک کن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/De-Trockner.ogg"
     },
     {
       "id": "v164",
       "de": "Ufer",
       "en": "riverbank",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "کناره ساحل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Ufer.ogg"
     },
     {
       "id": "v165",
       "de": "Unterkunft",
       "en": "accommodation",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "محل اقامت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-Unterkunft.ogg"
     },
     {
       "id": "v166",
       "de": "Urlaub",
       "en": "vacation / holiday",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "مرخصی؛ تعطیلات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Urlaub.ogg"
     },
     {
       "id": "v167",
       "de": "Vergleich",
       "en": "comparison",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "مقایسه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Vergleich.ogg"
     },
     {
       "id": "v168",
       "de": "Vergnügen",
       "en": "enjoyment",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "مشغول و سرگرم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-Vergn%C3%BCgen.ogg"
     },
     {
       "id": "v169",
       "de": "Verpflegung",
       "en": "board/meals",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "تغذیه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-Verpflegung.ogg"
     },
     {
       "id": "v170",
       "de": "Versorgung",
       "en": "supply",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "تدارک و تامین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/De-Versorgung.ogg"
     },
     {
       "id": "v171",
       "de": "Vogel",
       "en": "bird",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "طیور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-Vogel.ogg"
     },
     {
       "id": "v172",
       "de": "Vollpension",
       "en": "Full board",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "تخت و سه وعده غذا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-Vollpension.ogg"
     },
     {
       "id": "v173",
       "de": "Wanderweg",
       "en": "trail",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "مسیر پیاده روی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-Wanderweg.ogg"
     },
     {
       "id": "v174",
       "de": "Ware",
       "en": "goods",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "محصول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Ware.ogg"
     },
     {
       "id": "v175",
       "de": "Wasser",
       "en": "water",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "آب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-Wasser.ogg"
     },
     {
       "id": "v176",
       "de": "Wellness",
       "en": "wellness",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "سلامتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Wellness.ogg"
     },
     {
       "id": "v177",
       "de": "Werbesendung",
       "en": "commercial",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "برنامه تبلیغاتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-Werbesendung.ogg"
     },
     {
       "id": "v178",
       "de": "Werbetext",
       "en": "Advertising text",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "متن تبلیغی"
     },
     {
       "id": "v179",
       "de": "Wetter",
       "en": "weather",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "هوا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Wetter.ogg"
     },
     {
       "id": "v180",
       "de": "Winter",
       "en": "winter",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "زمستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-Winter.ogg"
     },
     {
       "id": "v181",
       "de": "Woche",
       "en": "week",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "هفته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-Woche.ogg"
     },
     {
       "id": "v182",
       "de": "Wohnmobil",
       "en": "motorhome",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "خانه متحرک، شبیه اتوبوس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Wohnmobil.ogg"
     },
     {
       "id": "v183",
       "de": "Wohnwagen",
       "en": "caravan",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "کاروان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Wohnwagen.ogg"
     },
     {
       "id": "v184",
       "de": "Zeit",
       "en": "time",
       "pos": "noun",
-      "article": "die"
+      "article": "die",
+      "fa": "زمان؛ وقت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Zeit.ogg"
     },
     {
       "id": "v185",
       "de": "Zelt",
       "en": "tent",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "چادر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-Zelt.ogg"
     },
     {
       "id": "v186",
       "de": "Zeppelin",
       "en": "zeppelin",
       "pos": "noun",
-      "article": "der"
+      "article": "der",
+      "fa": "کشتی هوایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/De-Zeppelin.ogg"
     },
     {
       "id": "v187",
       "de": "Zimmer",
       "en": "room",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "اتاق"
     },
     {
       "id": "v188",
       "de": "Zweibettzimmer",
       "en": "Twin room",
       "pos": "noun",
-      "article": "das"
+      "article": "das",
+      "fa": "اتاق دو تخته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Zweibettzimmer.ogg"
     },
     {
       "id": "v189",
       "de": "abbauen",
       "en": "tear down",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "کم کردن، بستن چادر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/De-abbauen.ogg"
     },
     {
       "id": "v190",
       "de": "ankommen",
       "en": "to arrive",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "رسیدن، آمدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-ankommen.ogg"
     },
     {
       "id": "v191",
       "de": "aufbauen",
       "en": "build up",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "ساختن، بازسازی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-aufbauen.ogg"
     },
     {
       "id": "v192",
       "de": "baden",
       "en": "bathe",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "حمام در وان، شنا کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/De-baden.ogg"
     },
     {
       "id": "v193",
       "de": "beantworten",
       "en": "answer",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "جواب دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-beantworten.ogg"
     },
     {
       "id": "v194",
       "de": "berichten",
       "en": "report",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "گزارش، خبر دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De-berichten.ogg"
     },
     {
       "id": "v195",
       "de": "beschreiben",
       "en": "to describe",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "تشریح کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-beschreiben.ogg"
     },
     {
       "id": "v196",
       "de": "bieten",
       "en": "offer",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "ارائه کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-bieten.ogg"
     },
     {
       "id": "v197",
       "de": "bringen",
       "en": "to bring",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "آوردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-bringen.ogg"
     },
     {
       "id": "v198",
       "de": "buchen",
       "en": "to book",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "رزرو کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-buchen.ogg"
     },
     {
       "id": "v199",
       "de": "drücken",
       "en": "press",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "فشار دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/De-dr%C3%BCcken.ogg"
     },
     {
       "id": "v200",
       "de": "einholen",
       "en": "catch up",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "گرفتن (اطلاعات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-einholen.ogg"
     },
     {
       "id": "v201",
       "de": "einrasten",
       "en": "snap into place",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "جا افتادن، جا زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-einrasten.ogg"
     },
     {
       "id": "v202",
       "de": "entdecken",
       "en": "discover",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "کشف کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-entdecken.ogg"
     },
     {
       "id": "v203",
       "de": "entspannen",
       "en": "to relax",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "استراحت کن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-entspannen.ogg"
     },
     {
       "id": "v204",
       "de": "ergänzen",
-      "en": "add to",
-      "pos": "verb"
+      "en": "to complete / fill in",
+      "pos": "verb",
+      "fa": "تکمیل کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-erg%C3%A4nzen.ogg"
     },
     {
       "id": "v205",
       "de": "erkennen",
       "en": "recognize",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "شناختن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-erkennen.ogg"
     },
     {
       "id": "v206",
       "de": "erleben",
       "en": "experience",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "تجربه کردن. به چشم دیدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-erleben.ogg"
     },
     {
       "id": "v207",
       "de": "falten",
       "en": "fold",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "تا زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-falten.ogg"
     },
     {
       "id": "v208",
       "de": "faulenzen",
       "en": "laze around",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "تنبلی و سستی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-faulenzen.ogg"
     },
     {
       "id": "v209",
       "de": "fern",
       "en": "remote",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "دورافتاده، منزوی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/De-fern.ogg"
     },
     {
       "id": "v210",
       "de": "fliegen",
       "en": "fly",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "پرواز کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-fliegen.ogg"
     },
     {
       "id": "v211",
       "de": "formulieren",
       "en": "formulate",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "فرمول‌بندی کردن؛ بیان کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-formulieren.ogg"
     },
     {
       "id": "v212",
       "de": "gefallen",
       "en": "to please / like (es gefällt mir)",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "به کسی خوشایند بودن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-gefallen.ogg"
     },
     {
       "id": "v213",
       "de": "gleiten",
       "en": "slide",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "لیز خوردن، بدون موتور پرواز کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-gleiten.ogg"
     },
     {
       "id": "v214",
       "de": "grüßen",
       "en": "to greet",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "سلام کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/De-gr%C3%BC%C3%9Fen.ogg"
     },
     {
       "id": "v215",
       "de": "helfen",
       "en": "to help",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "کمک کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-helfen.ogg"
     },
     {
       "id": "v216",
       "de": "hören",
       "en": "to hear",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "شنیدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-h%C3%B6ren.ogg"
     },
     {
       "id": "v217",
       "de": "informieren",
       "en": "inform",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "مطلع کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-informieren.ogg"
     },
     {
       "id": "v218",
       "de": "klettern",
       "en": "climb",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "بالا رفتن، صخره نوردی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-klettern.ogg"
     },
     {
       "id": "v219",
       "de": "legen",
       "en": "place",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "قرار دادن به صورت خوابیده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-legen.ogg"
     },
     {
       "id": "v220",
       "de": "leihen",
       "en": "lend",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "قرض دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-leihen.ogg"
     },
     {
       "id": "v221",
       "de": "liegen",
       "en": "to lie (be lying)",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "واقع بودن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-liegen.ogg"
     },
     {
       "id": "v222",
       "de": "losfahren",
       "en": "drive off",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "آغاز به راندن، حرکت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-losfahren.ogg"
     },
     {
       "id": "v223",
       "de": "melden",
       "en": "to report / to sign up",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "اطلاع دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/De-melden.ogg"
     },
     {
       "id": "v224",
       "de": "mitmachen",
       "en": "to participate",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "با دیگران انجام دادن، شرکت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-mitmachen.ogg"
     },
     {
       "id": "v225",
       "de": "nerven",
       "en": "annoy",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "رو اعصاب بودن، ریدن به اعصاب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-nerven.ogg"
     },
     {
       "id": "v226",
       "de": "oben",
       "en": "above",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "بالا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-oben.ogg"
     },
     {
       "id": "v227",
       "de": "regeln",
       "en": "regulate",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "مرتب کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-regeln.ogg"
     },
     {
       "id": "v228",
       "de": "schauen",
       "en": "to look",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "نگاه کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-schauen.ogg"
     },
     {
       "id": "v229",
       "de": "schreien",
       "en": "scream",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "داد زدن، جیغ زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-schreien.ogg"
     },
     {
       "id": "v230",
       "de": "schwimmen",
       "en": "to swim",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "برای شنا کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-schwimmen.ogg"
     },
     {
       "id": "v231",
       "de": "segeln",
       "en": "to sail",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "بادبان برافراشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-segeln.ogg"
     },
     {
       "id": "v232",
       "de": "springen",
       "en": "jump",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "جهیدن، پرش کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-springen.ogg"
     },
     {
       "id": "v233",
       "de": "stehen",
       "en": "to stand",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "ایستادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-stehen.ogg"
     },
     {
       "id": "v234",
       "de": "strukturieren",
       "en": "structure",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "تشکیلات و سازمان دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-strukturieren.ogg"
     },
     {
       "id": "v235",
       "de": "suchen",
       "en": "to look for",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "جستجو کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-suchen.ogg"
     },
     {
       "id": "v236",
       "de": "tauchen",
       "en": "dive",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "غواصی، غوطه ور شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-tauchen.ogg"
     },
     {
       "id": "v237",
       "de": "tauschen",
       "en": "to exchange",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "عوض کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-tauschen.ogg"
     },
     {
       "id": "v238",
       "de": "tragen",
       "en": "carry",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "پوشیدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-tragen.ogg"
     },
     {
       "id": "v239",
       "de": "verbringen",
       "en": "to spend (time)",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "سپری کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-verbringen.ogg"
     },
     {
       "id": "v240",
       "de": "Vergleichen",
       "en": "to compare",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "مقایسه کردن"
     },
     {
       "id": "v241",
       "de": "vermuten",
       "en": "to suspect",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "حدس زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-vermuten.ogg"
     },
     {
       "id": "v242",
       "de": "verstehen",
       "en": "understand",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "فهمیدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-verstehen.ogg"
     },
     {
       "id": "v243",
       "de": "verwenden",
       "en": "to use",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "به کار بردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-verwenden.ogg"
     },
     {
       "id": "v244",
       "de": "verwöhnen",
       "en": "pamper",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "به بار آوردن، لوس کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-verw%C3%B6hnen.ogg"
     },
     {
       "id": "v245",
       "de": "wandern",
       "en": "to hike",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "پیاده‌روی در طبیعت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-wandern.ogg"
     },
     {
       "id": "v246",
       "de": "werden",
       "en": "to become",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "تبدیل شود",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-werden.ogg"
     },
     {
       "id": "v247",
       "de": "Wissen",
       "en": "to know (a fact)",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "دانستن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Wissen.ogg"
     },
     {
       "id": "v248",
       "de": "wählen",
       "en": "choose",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "انتخاب کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-w%C3%A4hlen.ogg"
     },
     {
       "id": "v249",
       "de": "zusammen",
       "en": "together",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "با هم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-zusammen.ogg"
     },
     {
       "id": "v250",
       "de": "zusammendrücken",
       "en": "squeeze together",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "به هم فشرده کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/De-zusammendr%C3%BCcken.ogg"
     },
     {
       "id": "v251",
       "de": "zusammenfalten",
       "en": "fold up",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "تا کردن، دولا کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-zusammenfalten.ogg"
     },
     {
       "id": "v252",
       "de": "äußern",
       "en": "express",
-      "pos": "verb"
+      "pos": "verb",
+      "fa": "بیان کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/De-%C3%A4u%C3%9Fern.ogg"
     },
     {
       "id": "v253",
       "de": "absolut",
       "en": "absolutely",
-      "pos": "other"
+      "pos": "other",
+      "fa": "کاملا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-absolut.ogg"
     },
     {
       "id": "v254",
       "de": "als",
       "en": "when (past one-time)",
-      "pos": "other"
+      "pos": "other",
+      "fa": "به عنوان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-als.ogg"
     },
     {
       "id": "v255",
       "de": "alt",
       "en": "old",
-      "pos": "other"
+      "pos": "other",
+      "fa": "قدیمی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-alt.ogg"
     },
     {
       "id": "v256",
       "de": "am besten",
       "en": "the best",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "ترجیحا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-am.ogg"
     },
     {
       "id": "v257",
       "de": "am schönsten",
       "en": "the nicest",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "زیباترین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-am.ogg"
     },
     {
       "id": "v258",
       "de": "am See",
       "en": "at the lake",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "کنار دریاچه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-am.ogg"
     },
     {
       "id": "v259",
       "de": "an Bord",
       "en": "on board",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "در عرشه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-an.ogg"
     },
     {
       "id": "v260",
       "de": "anderswo",
       "en": "elsewhere",
-      "pos": "other"
+      "pos": "other",
+      "fa": "در جای دیگر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-anderswo.ogg"
     },
     {
       "id": "v261",
       "de": "angenehm",
       "en": "pleasant",
-      "pos": "other"
+      "pos": "other",
+      "fa": "لذت بخش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-angenehm.ogg"
     },
     {
       "id": "v262",
       "de": "ausgezeichnet",
       "en": "excellent",
-      "pos": "other"
+      "pos": "other",
+      "fa": "ممتاز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-ausgezeichnet.ogg"
     },
     {
       "id": "v263",
       "de": "außerdem",
       "en": "aside from that",
-      "pos": "other"
+      "pos": "other",
+      "fa": "علاوه بر این",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-au%C3%9Ferdem.ogg"
     },
     {
       "id": "v264",
       "de": "beide",
       "en": "both",
-      "pos": "other"
+      "pos": "other",
+      "fa": "هردو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-beide.ogg"
     },
     {
       "id": "v265",
       "de": "bekannt",
       "en": "known",
-      "pos": "other"
+      "pos": "other",
+      "fa": "شناخته شده است",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-bekannt.ogg"
     },
     {
       "id": "v266",
       "de": "beliebt",
       "en": "popular",
-      "pos": "other"
+      "pos": "other",
+      "fa": "محبوب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-beliebt.ogg"
     },
     {
       "id": "v267",
       "de": "besser",
       "en": "better",
-      "pos": "adjective"
+      "pos": "adjective",
+      "fa": "بهتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-besser.ogg"
     },
     {
       "id": "v268",
       "de": "blass",
       "en": "pale",
-      "pos": "other"
+      "pos": "other",
+      "fa": "رنگ و رو رفته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-blass.ogg"
     },
     {
       "id": "v269",
       "de": "cool",
       "en": "cool",
-      "pos": "other"
+      "pos": "other",
+      "fa": "باحال؛ عالی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-cool.ogg"
     },
     {
       "id": "v270",
       "de": "danach",
       "en": "thereafter",
-      "pos": "other"
+      "pos": "other",
+      "fa": "سپس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De-danach.ogg"
     },
     {
       "id": "v271",
       "de": "dann",
       "en": "then",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بعد، بعدا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-dann.ogg"
     },
     {
       "id": "v272",
       "de": "denn",
       "en": "because / for",
-      "pos": "other"
+      "pos": "other",
+      "fa": "چونکه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-denn.ogg"
     },
     {
       "id": "v273",
       "de": "direkt",
       "en": "direct",
-      "pos": "other"
+      "pos": "other",
+      "fa": "مستقیم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-direkt.ogg"
     },
     {
       "id": "v274",
       "de": "doch",
       "en": "modal particle (do / after all)",
-      "pos": "other"
+      "pos": "other",
+      "fa": "اما، البته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-doch.ogg"
     },
     {
       "id": "v275",
       "de": "dort",
       "en": "there",
-      "pos": "other"
+      "pos": "other",
+      "fa": "آنجا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-dort.ogg"
     },
     {
       "id": "v276",
       "de": "elegant",
       "en": "elegant",
-      "pos": "other"
+      "pos": "other",
+      "fa": "برگزیده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/De-elegant.ogg"
     },
     {
       "id": "v277",
       "de": "ernst",
       "en": "serious",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بطور جدی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-ernst.ogg"
     },
     {
       "id": "v278",
       "de": "familiär",
       "en": "family",
-      "pos": "other"
+      "pos": "other",
+      "fa": "خانوادگی، مانوس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-famili%C3%A4r.ogg"
     },
     {
       "id": "v279",
       "de": "fantastisch",
       "en": "fantastic",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بسیار زیبا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-fantastisch.ogg"
     },
     {
       "id": "v280",
       "de": "faszinierend",
       "en": "fascinating",
-      "pos": "other"
+      "pos": "other",
+      "fa": "حیران کننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-faszinierend.ogg"
     },
     {
       "id": "v281",
       "de": "frei",
       "en": "free",
-      "pos": "other"
+      "pos": "other",
+      "fa": "آزاد، خالی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/De-frei.ogg"
     },
     {
       "id": "v282",
       "de": "frisch",
       "en": "fresh",
-      "pos": "other"
+      "pos": "other",
+      "fa": "سرزنده، تازه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-frisch.ogg"
     },
     {
       "id": "v283",
       "de": "ganz",
       "en": "quite",
-      "pos": "other"
+      "pos": "other",
+      "fa": "کاملاً؛ تمام",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-ganz.ogg"
     },
     {
       "id": "v284",
       "de": "genauso",
       "en": "just as",
-      "pos": "other"
+      "pos": "other",
+      "fa": "همچنین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/De-genauso.ogg"
     },
     {
       "id": "v285",
       "de": "geöffnet",
       "en": "open",
-      "pos": "other"
+      "pos": "other",
+      "fa": "باز و بسته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-ge%C3%B6ffnet.ogg"
     },
     {
       "id": "v286",
       "de": "gibt es",
       "en": "there is",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "وجود دارد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-gibt.ogg"
     },
     {
       "id": "v287",
       "de": "gleich",
       "en": "even",
-      "pos": "other"
+      "pos": "other",
+      "fa": "الان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-gleich.ogg"
     },
     {
       "id": "v288",
       "de": "großartig",
       "en": "great",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بی همتا، باشکوه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-gro%C3%9Fartig.ogg"
     },
     {
       "id": "v289",
       "de": "größer",
       "en": "bigger",
-      "pos": "adjective"
+      "pos": "adjective",
+      "fa": "بزرگتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-gr%C3%B6%C3%9Fer.ogg"
     },
     {
       "id": "v290",
       "de": "heiß",
       "en": "hot",
-      "pos": "other"
+      "pos": "other",
+      "fa": "داغ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-hei%C3%9F.ogg"
     },
     {
       "id": "v291",
       "de": "herrlich",
       "en": "splendid",
-      "pos": "other"
+      "pos": "other",
+      "fa": "باشکوه مجلل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-herrlich.ogg"
     },
     {
       "id": "v292",
       "de": "hoch",
       "en": "high",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بالا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-hoch.ogg"
     },
     {
       "id": "v293",
       "de": "häufig",
       "en": "frequently",
-      "pos": "other"
+      "pos": "other",
+      "fa": "به دفعات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-h%C3%A4ufig.ogg"
     },
     {
       "id": "v294",
       "de": "immer",
       "en": "always",
-      "pos": "other"
+      "pos": "other",
+      "fa": "همیشه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-immer.ogg"
     },
     {
       "id": "v295",
       "de": "in der Regel",
       "en": "usually",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "معمولا، به صورت منظم؟",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De-in.ogg"
     },
     {
       "id": "v296",
       "de": "jemand",
       "en": "someone",
-      "pos": "other"
+      "pos": "other",
+      "fa": "کسی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/De-jemand.ogg"
     },
     {
       "id": "v297",
       "de": "kleiner",
       "en": "smaller",
-      "pos": "adjective"
+      "pos": "adjective",
+      "fa": "کوچکتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/De-kleiner.ogg"
     },
     {
       "id": "v298",
       "de": "leicht",
       "en": "light",
-      "pos": "other"
+      "pos": "other",
+      "fa": "سخت، سبک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/De-leicht.ogg"
     },
     {
       "id": "v299",
       "de": "mehrmals",
       "en": "several times",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بیش از یک بار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/De-mehrmals.ogg"
     },
     {
       "id": "v300",
       "de": "möglich",
       "en": "possible",
-      "pos": "other"
+      "pos": "other",
+      "fa": "ممکن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-m%C3%B6glich.ogg"
     },
     {
       "id": "v301",
       "de": "nicht so … wie",
       "en": "not as … as",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "نه مانند ... مانند",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-nicht.ogg"
     },
     {
       "id": "v302",
       "de": "nirgends",
       "en": "nowhere",
-      "pos": "other"
+      "pos": "other",
+      "fa": "در هیچ جا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-nirgends.ogg"
     },
     {
       "id": "v303",
       "de": "nur",
       "en": "only",
-      "pos": "other"
+      "pos": "other",
+      "fa": "صرفا، فقط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-nur.ogg"
     },
     {
       "id": "v304",
       "de": "perfekt",
       "en": "present perfect tense",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بی عیب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-Perfekt.ogg"
     },
     {
       "id": "v305",
       "de": "pur",
       "en": "pure",
-      "pos": "other"
+      "pos": "other",
+      "fa": "خالص",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/De-pur.ogg"
     },
     {
       "id": "v306",
       "de": "rechts",
       "en": "right",
-      "pos": "other"
+      "pos": "other",
+      "fa": "راست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-rechts.ogg"
     },
     {
       "id": "v307",
       "de": "regional",
       "en": "regional",
-      "pos": "other"
+      "pos": "other",
+      "fa": "منطقه ای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-regional.ogg"
     },
     {
       "id": "v308",
       "de": "rund",
       "en": "around",
-      "pos": "other"
+      "pos": "other",
+      "fa": "حدوداً =ca.",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-rund.ogg"
     },
     {
       "id": "v309",
       "de": "rundum",
       "en": "all around",
-      "pos": "other"
+      "pos": "other",
+      "fa": "دور تا دور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-rundum.ogg"
     },
     {
       "id": "v310",
       "de": "schließlich",
       "en": "finally",
-      "pos": "other"
+      "pos": "other",
+      "fa": "عاقبت، سرانجام",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-schlie%C3%9Flich.ogg"
     },
     {
       "id": "v311",
       "de": "schriftlich",
       "en": "in written form",
-      "pos": "other"
+      "pos": "other",
+      "fa": "مکتوب"
     },
     {
       "id": "v312",
       "de": "schöner",
       "en": "nicer",
-      "pos": "adjective"
+      "pos": "adjective",
+      "fa": "زیباتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-sch%C3%B6ner.ogg"
     },
     {
       "id": "v313",
       "de": "sinnvoll",
       "en": "sensible",
-      "pos": "other"
+      "pos": "other",
+      "fa": "معنی دار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-sinnvoll.ogg"
     },
     {
       "id": "v314",
       "de": "so … wie",
       "en": "as … as",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "و همچنین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-so.ogg"
     },
     {
       "id": "v315",
       "de": "sogar",
       "en": "even",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بعلاوه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-sogar.ogg"
     },
     {
       "id": "v316",
       "de": "sonst",
       "en": "otherwise",
-      "pos": "other"
+      "pos": "other",
+      "fa": "وگرنه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-sonst.ogg"
     },
     {
       "id": "v317",
       "de": "sportlich",
       "en": "sporty",
-      "pos": "other"
+      "pos": "other",
+      "fa": "ورزشی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-sportlich.ogg"
     },
     {
       "id": "v318",
       "de": "steinzeitlich",
       "en": "stone age",
-      "pos": "other"
+      "pos": "other",
+      "fa": "عصر حجری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-steinzeitlich.ogg"
     },
     {
       "id": "v319",
       "de": "teuer",
       "en": "expensive",
-      "pos": "other"
+      "pos": "other",
+      "fa": "گران قیمت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-teuer.ogg"
     },
     {
       "id": "v320",
       "de": "total",
       "en": "total",
-      "pos": "other"
+      "pos": "other",
+      "fa": "کاملا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-total.ogg"
     },
     {
       "id": "v321",
       "de": "traditionell",
       "en": "traditional",
-      "pos": "other"
+      "pos": "other",
+      "fa": "سنتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-traditionell.ogg"
     },
     {
       "id": "v322",
       "de": "traumhaft",
       "en": "fantastic",
-      "pos": "other"
+      "pos": "other",
+      "fa": "رویایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-traumhaft.ogg"
     },
     {
       "id": "v323",
       "de": "tropisch",
       "en": "tropical",
-      "pos": "other"
+      "pos": "other",
+      "fa": "استوایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-tropisch.ogg"
     },
     {
       "id": "v324",
       "de": "un-",
       "en": "un-/not-",
-      "pos": "other"
+      "pos": "other",
+      "fa": "پیشوند منفی‌ساز (un-)"
     },
     {
       "id": "v325",
       "de": "unbekannt",
       "en": "unknown",
-      "pos": "adjective"
+      "pos": "adjective",
+      "fa": "ناآشنا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-unbekannt.ogg"
     },
     {
       "id": "v326",
       "de": "unbeliebt",
       "en": "unpopular",
-      "pos": "other"
+      "pos": "other",
+      "fa": "منفور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-unbeliebt.ogg"
     },
     {
       "id": "v327",
       "de": "unglaublich",
       "en": "incredible",
-      "pos": "adjective"
+      "pos": "adjective",
+      "fa": "باور نکردنی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-unglaublich.ogg"
     },
     {
       "id": "v328",
       "de": "uninteressant",
       "en": "uninteresting",
-      "pos": "other"
+      "pos": "other",
+      "fa": "خسته کننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-uninteressant.ogg"
     },
     {
       "id": "v329",
       "de": "unsportlich",
       "en": "unsportsmanlike",
-      "pos": "other"
+      "pos": "other",
+      "fa": "ضعیف",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-unsportlich.ogg"
     },
     {
       "id": "v330",
       "de": "vielfältig",
       "en": "diverse",
-      "pos": "other"
+      "pos": "other",
+      "fa": "متنوع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/De-vielf%C3%A4ltig.ogg"
     },
     {
       "id": "v331",
       "de": "vor allem",
       "en": "above all",
-      "pos": "phrase"
+      "pos": "phrase",
+      "fa": "مخصوصا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-vor.ogg"
     },
     {
       "id": "v332",
       "de": "voraus",
       "en": "in advance",
-      "pos": "other"
+      "pos": "other",
+      "fa": "پیشاپیش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/De-voraus.ogg"
     },
     {
       "id": "v333",
       "de": "weiter",
       "en": "further",
-      "pos": "other"
+      "pos": "other",
+      "fa": "دورتر، بیشتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-weiter.ogg"
     },
     {
       "id": "v334",
       "de": "wenn",
       "en": "if / when",
-      "pos": "other"
+      "pos": "other",
+      "fa": "اگر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/De-wenn.ogg"
     },
     {
       "id": "v335",
       "de": "wieder",
       "en": "again",
-      "pos": "other"
+      "pos": "other",
+      "fa": "دوباره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-wieder.ogg"
     },
     {
       "id": "v336",
       "de": "wohl",
       "en": "probably",
-      "pos": "other"
+      "pos": "other",
+      "fa": "احساس راحتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/De-wohl.ogg"
     },
     {
       "id": "v337",
       "de": "zuerst",
       "en": "first",
-      "pos": "other"
+      "pos": "other",
+      "fa": "اول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-zuerst.ogg"
     },
     {
       "id": "v338",
       "de": "über",
       "en": "about / over",
-      "pos": "other"
+      "pos": "other",
+      "fa": "بالای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-%C3%BCber.ogg"
     }
   ],
   "grammar": [
@@ -2496,5 +3165,6 @@
       "audioUrl": "/audio/cd2/track-51.mp3",
       "preview": "Katja: Hier, Dahn."
     }
-  ]
+  ],
+  "titleFa": "از آلپ تا دریا"
 }

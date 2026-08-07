@@ -8,19 +8,23 @@
   "goals": [
     {
       "de": "Lernziele zu „Die Kunst, (keine) Fehler zu machen“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “The art of (not) making mistakes” in the course book"
+      "en": "Read and understand the learning goals for “The art of (not) making mistakes” in the course book",
+      "fa": "اهداف یادگیری «هنر (نکردن) اشتباه» را در کتاب دوره بخوانید و بفهمید"
     },
     {
       "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson"
+      "en": "Collect and practice key vocabulary from this lesson",
+      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
     },
     {
       "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson"
+      "en": "Review the grammar topics of this lesson",
+      "fa": "مرور اجمالی موضوعات گرامری درس"
     },
     {
       "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice"
+      "en": "Apply the language functions in simple practice",
+      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
     }
   ],
   "vocab": [],
@@ -42,5 +46,6 @@
       "audioUrl": "/audio/cd3/track-44.mp3",
       "preview": "Astrid: Hallo, hier Beck."
     }
-  ]
+  ],
+  "titleFa": "هنر (نکردن) اشتباه"
 }

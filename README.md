@@ -36,4 +36,5 @@ That writes hard links under `public/audio/cd{n}/track-{nn}.mp3`.
 ## Notes
 
 - Progress is stored in `localStorage` (export/import under Settings).
+- **Helper language** (Settings): English (default) or فارسی for meanings; German stays the learning language. Missing Farsi falls back to English.
 - For personal study only — do not redistribute copyrighted book text or audio.
