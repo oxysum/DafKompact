@@ -30,112 +30,728 @@
   "vocab": [
     {
       "id": "v1",
-      "de": "Liechtenstein",
-      "en": "Liechtenstein",
-      "pos": "other",
-      "fa": "لیختن اشتاین",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Liechtenstein.ogg"
+      "de": "Abfahrt",
+      "en": "departure",
+      "pos": "noun",
+      "article": "die",
+      "fa": "خروجی اتوبان",
+      "audioUrl": "/audio/vocab/abfahrt.mp3",
+      "exampleDe": "Hm, also, Sie fahren jetzt weiter auf der A1 und dann nehmen Sie die A21 und dann geht es weiter auf der A23, also der Stadtautobahn bis zur Abfahrt „St.",
+      "exampleEn": "Hm, well, you now continue on the A1 and then take the A21 and then continue on the A23, i.e. the city motorway, to the “St.",
+      "exampleFa": "خوب، حالا شما A1 را ادامه می دهید و سپس A21 را انتخاب می کنید و سپس در A23، یعنی بزرگراه شهر، به خیابان خیابان ادامه می دهید."
     },
     {
       "id": "v2",
-      "de": "Fürstentum",
-      "en": "principality",
-      "article": "das",
+      "de": "Abflug",
+      "en": "departure (flight)",
       "pos": "noun",
-      "fa": "شاهزادگی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-F%C3%BCrstentum.ogg"
+      "article": "der",
+      "fa": "پرواز خروجی",
+      "audioUrl": "/audio/vocab/abflug.mp3",
+      "exampleDe": "Wie wäre: Abflug in Hamburg um 9.50 Uhr und Ankunft in Zürich 11.20 Uhr?",
+      "exampleEn": "How about: Departure from Hamburg at 9:50 a.m. and arrival in Zurich at 11:20 a.m.?",
+      "exampleFa": "چطور: حرکت از هامبورگ در ساعت 9:50 صبح و ورود به زوریخ در ساعت 11:20 صبح؟"
     },
     {
       "id": "v3",
-      "de": "Trainee",
-      "en": "trainee",
-      "article": "der",
+      "de": "Abreise",
+      "en": "departure",
       "pos": "noun",
-      "fa": "کارآموز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Trainee.ogg"
+      "article": "die",
+      "fa": "عزیمت",
+      "audioUrl": "/audio/vocab/abreise.mp3"
     },
     {
       "id": "v4",
-      "de": "Reisebüro",
-      "en": "travel agency",
-      "article": "das",
+      "de": "Abteilung",
+      "en": "department",
       "pos": "noun",
-      "fa": "آژانس مسافرتی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Reiseb%C3%BCro.ogg"
+      "article": "die",
+      "fa": "بخش، واحد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/De-Abteilung.ogg",
+      "exampleDe": "Und in der Controlling-Abteilung bzw.",
+      "exampleEn": "And in the controlling department or",
+      "exampleFa": "و در بخش کنترل یا"
     },
     {
       "id": "v5",
-      "de": "Anreise",
-      "en": "arrival journey",
-      "article": "die",
+      "de": "Aluminium",
+      "en": "aluminum",
       "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-Aluminium.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Angestellte",
+      "en": "Employee",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Angestellte.ogg"
+    },
+    {
+      "id": "v7",
+      "de": "Ankunft",
+      "en": "Arrival",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ورودی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-Ankunft.ogg",
+      "exampleDe": "Wie wäre: Abflug in Hamburg um 9.50 Uhr und Ankunft in Zürich 11.20 Uhr?",
+      "exampleEn": "How about: Departure from Hamburg at 9:50 a.m. and arrival in Zurich at 11:20 a.m.?",
+      "exampleFa": "چطور: حرکت از هامبورگ در ساعت 9:50 صبح و ورود به زوریخ در ساعت 11:20 صبح؟"
+    },
+    {
+      "id": "v8",
+      "de": "Anreise",
+      "en": "Arrival",
+      "pos": "noun",
+      "article": "die",
       "fa": "ورود به مقصد",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-Anreise.ogg"
     },
     {
-      "id": "v6",
-      "de": "Abflug",
-      "en": "departure (flight)",
-      "article": "der",
-      "pos": "noun",
-      "fa": "پرواز خروجی",
-      "audioUrl": "/audio/vocab/abflug.mp3"
-    },
-    {
-      "id": "v7",
-      "de": "Flugzeug",
-      "en": "airplane",
-      "article": "das",
-      "pos": "noun",
-      "fa": "هواپیما",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-Flugzeug.ogg"
-    },
-    {
-      "id": "v8",
-      "de": "Zugverbindung",
-      "en": "train connection",
-      "article": "die",
-      "pos": "noun",
-      "fa": "اتصال قطار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-Zugverbindung.ogg"
-    },
-    {
       "id": "v9",
-      "de": "Gepäck",
-      "en": "luggage",
-      "article": "das",
+      "de": "Ansicht",
+      "en": "Opinion",
       "pos": "noun",
-      "fa": "بار و بنه سفر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Gep%C3%A4ck.ogg"
+      "article": "die",
+      "fa": "نظر، عقیده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Ansicht.ogg"
     },
     {
       "id": "v10",
-      "de": "Koffer",
-      "en": "suitcase",
-      "article": "der",
+      "de": "Aufenthalt",
+      "en": "Stay",
       "pos": "noun",
-      "fa": "چمدان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/De-Koffer.ogg"
+      "article": "der",
+      "fa": "اقامت، توقف",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/De-Aufenthalt.ogg",
+      "exampleDe": "Wir wünschen Ihnen einen angenehmen Aufenthalt in Zürich bzw.",
+      "exampleEn": "We wish you a pleasant stay in Zurich.",
+      "exampleFa": "برای شما اقامت خوشی در زوریخ آرزو می کنیم."
     },
     {
       "id": "v11",
-      "de": "Lost and Found",
-      "en": "lost and found",
-      "pos": "other",
-      "fa": "گم شده و پیدا شد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Lost.ogg"
+      "de": "Auskunft",
+      "en": "Information",
+      "pos": "noun",
+      "article": "die",
+      "fa": "آگهی ، اعلام",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/De-Auskunft.ogg",
+      "exampleDe": "Hm, Auskunft …",
+      "exampleEn": "Hmm, information...",
+      "exampleFa": "هوم، اطلاعات..."
     },
     {
       "id": "v12",
-      "de": "Reklamation",
-      "en": "complaint",
-      "article": "die",
+      "de": "Ausländer",
+      "en": "Foreigner",
       "pos": "noun",
-      "fa": "شکایت، اعتراض",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Reklamation.ogg"
+      "article": "der",
+      "fa": "خارجی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Ausl%C3%A4nder.ogg"
     },
     {
       "id": "v13",
+      "de": "Ausländerin",
+      "en": "Foreigner",
+      "pos": "noun",
+      "article": "die",
+      "fa": "خارجی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Ausl%C3%A4nderin.ogg"
+    },
+    {
+      "id": "v14",
+      "de": "Berg",
+      "en": "mountain",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کوه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-Berg.ogg",
+      "exampleDe": "Also, jetzt erzähle ich euch mal einen Witz aus Österreich: Ein Schweizer, ein Österreicher und ein Deutscher stehen auf einem Berg, sagt der Schweizer …",
+      "exampleEn": "So, now I'll tell you a joke from Austria: A Swiss, an Austrian and a German are standing on a mountain, says the Swiss...",
+      "exampleFa": "بنابراین، حالا یک جوک از اتریش به شما می گویم: سوئیسی، یک سوئیسی، یک اتریشی و یک آلمانی روی کوه ایستاده اند."
+    },
+    {
+      "id": "v15",
+      "de": "Bevölkerung",
+      "en": "Population",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جمعیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/De-Bev%C3%B6lkerung.ogg"
+    },
+    {
+      "id": "v16",
+      "de": "BIC",
+      "en": "BIC",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v17",
+      "de": "Buchung",
+      "en": "booking",
+      "pos": "noun",
+      "article": "die",
+      "fa": "رزرو جا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-Buchung.ogg"
+    },
+    {
+      "id": "v18",
+      "de": "Ding",
+      "en": "thing",
+      "pos": "noun",
+      "article": "das",
+      "fa": "چیز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/De-Ding.ogg"
+    },
+    {
+      "id": "v19",
+      "de": "Drittel",
+      "en": "third",
+      "pos": "noun",
+      "article": "das",
+      "fa": "یک سوم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/De-Drittel.ogg"
+    },
+    {
+      "id": "v20",
+      "de": "Einreise",
+      "en": "entry",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اجازه ورود قانونی به کشوری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-Einreise.ogg"
+    },
+    {
+      "id": "v21",
+      "de": "Einwohnerin",
+      "en": "resident",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ساکن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-Einwohnerin.ogg"
+    },
+    {
+      "id": "v22",
+      "de": "Fahrplan",
+      "en": "Timetable",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نقشه سفر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-Fahrplan.ogg"
+    },
+    {
+      "id": "v23",
+      "de": "Flug",
+      "en": "Flight",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Flug.ogg",
+      "exampleDe": "Und was kostet der Flug?",
+      "exampleEn": "And how much does the flight cost?",
+      "exampleFa": "و هزینه پرواز چقدر است؟"
+    },
+    {
+      "id": "v24",
+      "de": "Fluggesellschaft",
+      "en": "airline",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شرکت هواپیمایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Fluggesellschaft.ogg",
+      "exampleDe": "Dann schicken Sie Ihr Flugticket, die Rechnung vom Kofferfachgeschäft und die Schadensmeldung an die Fluggesellschaft, also an die Swiss.",
+      "exampleEn": "Then send your flight ticket, the invoice from the luggage store and the damage report to the airline, i.e. Swiss.",
+      "exampleFa": "سپس بلیط هواپیما، فاکتور را از فروشگاه چمدان و گزارش خسارت را برای شرکت هواپیمایی، یعنی Swiss ارسال کنید."
+    },
+    {
+      "id": "v25",
+      "de": "Flughafen",
+      "en": "Airport",
+      "pos": "noun",
+      "article": "der",
+      "fa": "فرودگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Flughafen.ogg",
+      "exampleDe": "Zürich-Kloten ist von Vaduz der nächste internationale Flughafen, in Liechtenstein gibt es ja keinen Flughafen.",
+      "exampleEn": "Zurich-Kloten is the nearest international airport to Vaduz, as there is no airport in Liechtenstein.",
+      "exampleFa": "زوریخ-کلوتن نزدیکترین فرودگاه بین المللی به وادوز است، زیرا فرودگاهی در لیختن اشتاین وجود ندارد."
+    },
+    {
+      "id": "v26",
+      "de": "Flugsteig",
+      "en": "boarding gate",
+      "pos": "noun",
+      "article": "der",
+      "fa": "گیت پرواز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Flugsteig.ogg",
+      "exampleDe": "Fluggäste gebucht auf Swiss LX 1051 nach Zürich werden zu Flugsteig A 7 in Terminal 2 gebeten.",
+      "exampleEn": "Passengers booked on Swiss LX 1051 to Zurich are asked to go to gate A 7 in Terminal 2.",
+      "exampleFa": "از مسافرانی که با Swiss LX 1051 به زوریخ رزرو کرده اند، خواسته می شود به دروازه A 7 در ترمینال 2 بروند."
+    },
+    {
+      "id": "v27",
+      "de": "Fluss",
+      "en": "Flow",
+      "pos": "noun",
+      "article": "der",
+      "fa": "رودخانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Fluss.ogg"
+    },
+    {
+      "id": "v28",
+      "de": "Fußgängerzone",
+      "en": "Pedestrian zone",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/De-Fu%C3%9Fg%C3%A4ngerzone.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Fürstentum",
+      "en": "principality",
+      "pos": "noun",
+      "article": "das",
+      "fa": "شاهزادگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-F%C3%BCrstentum.ogg"
+    },
+    {
+      "id": "v30",
+      "de": "Gemeinde",
+      "en": "Community",
+      "pos": "noun",
+      "article": "die",
+      "fa": "گروه اجتماعی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/De-Gemeinde.ogg"
+    },
+    {
+      "id": "v31",
+      "de": "Gepäck",
+      "en": "luggage",
+      "pos": "noun",
+      "article": "das",
+      "fa": "بار و بنه سفر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Gep%C3%A4ck.ogg",
+      "exampleDe": "Sie haben ja bestimmt viel Gepäck und auch Umzugskartons, oder?",
+      "exampleEn": "You probably have a lot of luggage and moving boxes, right?",
+      "exampleFa": "احتمالاً چمدان و جعبه های متحرک زیادی دارید، درست است؟"
+    },
+    {
+      "id": "v32",
+      "de": "Gepäckschein",
+      "en": "Baggage receipt",
+      "pos": "noun",
+      "article": "der",
+      "fa": "قبض بار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Gep%C3%A4ckschein.ogg"
+    },
+    {
+      "id": "v33",
+      "de": "Gepäckstück",
+      "en": "piece of luggage",
+      "pos": "noun",
+      "article": "das",
+      "fa": "قطعه ای از بار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Gep%C3%A4ckst%C3%BCck.ogg"
+    },
+    {
+      "id": "v34",
+      "de": "Gleis",
+      "en": "Track",
+      "pos": "noun",
+      "article": "das",
+      "fa": "ریل قطار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Gleis.ogg"
+    },
+    {
+      "id": "v35",
+      "de": "Grenze",
+      "en": "Border",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مرز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Grenze.ogg",
+      "exampleDe": "Aha, bei zwei Kilo ist also die Grenze.",
+      "exampleEn": "Aha, so the limit is two kilos.",
+      "exampleFa": "آخه پس حد دو کیلو هست."
+    },
+    {
+      "id": "v36",
+      "de": "Grußformel",
+      "en": "Greeting formula",
+      "pos": "noun",
+      "article": "die",
+      "fa": "درود آخر نامه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Gru%C3%9Fformel.ogg"
+    },
+    {
+      "id": "v37",
+      "de": "Hälfte",
+      "en": "half",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نصف",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-H%C3%A4lfte.ogg"
+    },
+    {
+      "id": "v38",
+      "de": "IBAN",
+      "en": "IBAN",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-IBAN.ogg"
+    },
+    {
+      "id": "v39",
+      "de": "Kanton",
+      "en": "Canton",
+      "pos": "noun",
+      "article": "der",
+      "fa": "استان، بلوک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-Kanton.ogg",
+      "exampleDe": "Die vielen Sprachen, die da gesprochen werden: Deutsch, Französisch, Italienisch, Rätoromanisch, also zum Beispiel im Kanton Graubünden.",
+      "exampleEn": "The many languages ​​spoken there: German, French, Italian, Romansh, for example in the canton of Graubünden.",
+      "exampleFa": "زبان های زیادی که در آنجا صحبت می شود: آلمانی، فرانسوی، ایتالیایی، رومانش، به عنوان مثال در کانتون Graubünden."
+    },
+    {
+      "id": "v40",
+      "de": "Koffer",
+      "en": "suitcase",
+      "pos": "noun",
+      "article": "der",
+      "fa": "چمدان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/De-Koffer.ogg",
+      "exampleDe": "Und dort kaufe ich dann einen neuen Koffer?",
+      "exampleEn": "And then I buy a new suitcase there?",
+      "exampleFa": "و بعد من آنجا یک چمدان جدید می خرم؟"
+    },
+    {
+      "id": "v41",
+      "de": "Kompetenz",
+      "en": "competence",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شایستگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-Kompetenz.ogg"
+    },
+    {
+      "id": "v42",
+      "de": "Lotto",
+      "en": "lotto",
+      "pos": "noun",
+      "article": "das",
+      "fa": "قمار Lottospielen",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Lotto.ogg"
+    },
+    {
+      "id": "v43",
+      "de": "Meldung",
+      "en": "Report",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پیام، گزارش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Meldung.ogg"
+    },
+    {
+      "id": "v44",
+      "de": "Monarchie",
+      "en": "monarchy",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سلطنتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-Monarchie.ogg"
+    },
+    {
+      "id": "v45",
+      "de": "Nylon",
+      "en": "nylon",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نایلون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-Nylon.ogg"
+    },
+    {
+      "id": "v46",
+      "de": "Passagier",
+      "en": "passenger",
+      "pos": "noun",
+      "article": "der",
+      "fa": "سرنشین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-Passagier.ogg"
+    },
+    {
+      "id": "v47",
+      "de": "Personalausweis",
+      "en": "ID card",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کارت شناسایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Personalausweis.ogg",
+      "exampleDe": "Haben Sie Ihren Personalausweis oder Pass dabei?",
+      "exampleEn": "Do you have your ID card or passport with you?",
+      "exampleFa": "آیا کارت شناسایی یا پاسپورت خود را همراه دارید؟"
+    },
+    {
+      "id": "v48",
+      "de": "Preis",
+      "en": "price",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/De-Preis.ogg",
+      "exampleDe": "Ja, der Preis ist wirklich gut.",
+      "exampleEn": "Yes, the price is really good.",
+      "exampleFa": "بله قیمتش واقعا خوبه"
+    },
+    {
+      "id": "v49",
+      "de": "Reisebüro",
+      "en": "Travel agency",
+      "pos": "noun",
+      "article": "das",
+      "fa": "آژانس مسافرتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Reiseb%C3%BCro.ogg",
+      "exampleDe": "Es wäre gut, wenn du ins Reisebüro gehst.",
+      "exampleEn": "It would be good if you go to the travel agency.",
+      "exampleFa": "اگر به آژانس مسافرتی بروید خوب است."
+    },
+    {
+      "id": "v50",
+      "de": "Reisepass",
+      "en": "passport",
+      "pos": "noun",
+      "article": "der",
+      "fa": "گذرنامه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Reisepass.ogg"
+    },
+    {
+      "id": "v51",
+      "de": "Reisetasche",
+      "en": "Travel bag",
+      "pos": "noun",
+      "article": "die",
+      "fa": "n کیف سفر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Reisetasche.ogg"
+    },
+    {
+      "id": "v52",
+      "de": "Residenz",
+      "en": "residence",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مقر حکومتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/De-Residenz.ogg",
+      "exampleDe": "Auf einem Hügel liegt das Wahrzeichen Liechtensteins, das Schloss Vaduz, die Residenz der Fürstenfamilie, und dahinter liegen die Alpen.",
+      "exampleEn": "Liechtenstein's landmark, Vaduz Castle, the residence of the princely family, lies on a hill, and behind it lie the Alps.",
+      "exampleFa": "مکان دیدنی لیختن اشتاین، قلعه وادوز، محل سکونت خانواده شاهزاده، بر روی تپه ای قرار دارد و در پشت آن کوه های آلپ قرار دارد."
+    },
+    {
+      "id": "v53",
+      "de": "Rucksack",
+      "en": "Backpack",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کوله پشتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-Rucksack.ogg"
+    },
+    {
+      "id": "v54",
+      "de": "Schadensmeldung",
+      "en": "Damage report",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پیام ضرر و زیان",
+      "exampleDe": "Ich notiere den Schaden, na ja, und mit dieser Schadensmeldung gehen Sie dann in ein Kofferfachgeschäft.",
+      "exampleEn": "I make a note of the damage, well, and you then take this damage report to a luggage store.",
+      "exampleFa": "من آسیب را یادداشت می کنم، خوب، و شما سپس این گزارش خسارت را به یک فروشگاه چمدانی ببرید."
+    },
+    {
+      "id": "v55",
+      "de": "Schein",
+      "en": "Appearance",
+      "pos": "noun",
+      "article": "der",
+      "fa": "جلوه، فروغ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/De-Schein.ogg",
+      "exampleDe": "Drüben auf dem Tisch, da können Sie auch den Schein ausfüllen.",
+      "exampleEn": "Over on the table, you can fill out the form there too.",
+      "exampleFa": "در بالای میز، می توانید فرم را نیز در آنجا پر کنید."
+    },
+    {
+      "id": "v56",
+      "de": "Sitzreihe",
+      "en": "row of seats",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ردیف صندلی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-Sitzreihe.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "Snowboard",
+      "en": "Snowboard",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-Snowboard.ogg"
+    },
+    {
+      "id": "v58",
+      "de": "Spezialität",
+      "en": "specialty",
+      "pos": "noun",
+      "article": "die",
+      "fa": "رشته تخصصی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Spezialit%C3%A4t.ogg",
+      "exampleDe": "Das ist eine Schweizer Spezialität.",
+      "exampleEn": "This is a Swiss specialty.",
+      "exampleFa": "این یک تخصص سوئیسی است."
+    },
+    {
+      "id": "v59",
+      "de": "Spitze",
+      "en": "Great",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نوک، سر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/De-Spitze.ogg",
+      "exampleDe": "Bederstrasse 250, das Haus mit dem spitzen Dach, neben dem Haus steht ein hoher Baum.",
+      "exampleEn": "Bederstrasse 250, the house with the pointed roof, there is a tall tree next to the house.",
+      "exampleFa": "Bederstrasse 250، خانه ای با سقف نوک تیز، یک درخت بلند در کنار خانه وجود دارد."
+    },
+    {
+      "id": "v60",
+      "de": "Tarif",
+      "en": "Tariff",
+      "pos": "noun",
+      "article": "der",
+      "fa": "تعرفه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Tarif.ogg"
+    },
+    {
+      "id": "v61",
+      "de": "Tourismus",
+      "en": "tourism",
+      "pos": "noun",
+      "article": "der",
+      "fa": "جهانگردی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-Tourismus.ogg"
+    },
+    {
+      "id": "v62",
+      "de": "Trainee",
+      "en": "trainee",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کارآموز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Trainee.ogg",
+      "exampleDe": "Wie lange dauert denn das Trainee-Programm eigentlich?",
+      "exampleEn": "How long does the trainee program actually last?",
+      "exampleFa": "برنامه کارآموزی واقعا چقدر طول می کشد؟"
+    },
+    {
+      "id": "v63",
+      "de": "Trolley",
+      "en": "trolley",
+      "pos": "noun",
+      "article": "der",
+      "fa": "واگن برقی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-Trolley.ogg"
+    },
+    {
+      "id": "v64",
+      "de": "Variante",
+      "en": "variant",
+      "pos": "noun",
+      "article": "die",
+      "fa": "متفاوت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/De-Variante.ogg",
+      "exampleDe": "Meiner Meinung nach wäre das die beste Variante.",
+      "exampleEn": "In my opinion that would be the best option.",
+      "exampleFa": "به نظر من این بهترین گزینه خواهد بود."
+    },
+    {
+      "id": "v65",
+      "de": "Verbindung",
+      "en": "Connection",
+      "pos": "noun",
+      "article": "die",
+      "fa": "رابطه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Verbindung.ogg"
+    },
+    {
+      "id": "v66",
+      "de": "Visum",
+      "en": "visa",
+      "pos": "noun",
+      "article": "das",
+      "fa": "ویزا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Visum.ogg",
+      "exampleDe": "Deine Mama war ganz überrascht, weil sie ja am Tag davor erst ihr Visum für einen Besuch bei ihrer Oma in Düsseldorf bekommen hatte.",
+      "exampleEn": "Your mom was completely surprised because she had just gotten her visa to visit her grandma in Düsseldorf the day before.",
+      "exampleFa": "مادر شما کاملاً متعجب شده بود زیرا روز قبل ویزا برای دیدار مادربزرگش در دوسلدورف گرفته بود."
+    },
+    {
+      "id": "v67",
+      "de": "Wissenswerte",
+      "en": "Things to know",
+      "pos": "noun",
+      "article": "das",
+      "fa": "دانش علمی، دانستن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/De-Wissenswerte.ogg"
+    },
+    {
+      "id": "v68",
+      "de": "Zug",
+      "en": "train",
+      "pos": "noun",
+      "article": "der",
+      "fa": "قطار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Zug.ogg",
+      "exampleDe": "Von Zürich könnten Sie dann mit dem Zug nach Vaduz fahren.",
+      "exampleEn": "From Zurich you could then take the train to Vaduz.",
+      "exampleFa": "از زوریخ می توانید با قطار به وادوز بروید."
+    },
+    {
+      "id": "v69",
+      "de": "Ärger",
+      "en": "Trouble",
+      "pos": "noun",
+      "article": "der",
+      "fa": "غضب خشم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-%C3%84rger.ogg",
+      "exampleDe": "Ja, ich verstehe Ihren Ärger.",
+      "exampleEn": "Yes, I understand your anger.",
+      "exampleFa": "بله، عصبانیت شما را درک می کنم."
+    },
+    {
+      "id": "v70",
+      "de": "abfahren",
+      "en": "to depart",
+      "pos": "verb",
+      "fa": "ترک کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-abfahren.ogg",
+      "exampleDe": "Hm, also, Sie fahren jetzt weiter auf der A1 und dann nehmen Sie die A21 und dann geht es weiter auf der A23, also der Stadtautobahn bis zur Abfahrt „St.",
+      "exampleEn": "Hm, well, you now continue on the A1 and then take the A21 and then continue on the A23, i.e. the city motorway, to the “St.",
+      "exampleFa": "خوب، حالا شما A1 را ادامه می دهید و سپس A21 را انتخاب می کنید و سپس در A23، یعنی بزرگراه شهر، به خیابان خیابان ادامه می دهید."
+    },
+    {
+      "id": "v71",
+      "de": "abfliegen",
+      "en": "fly off",
+      "pos": "verb",
+      "fa": "پرواز کردن - خروجی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-abfliegen.ogg"
+    },
+    {
+      "id": "v72",
+      "de": "anstellen",
+      "en": "hire",
+      "pos": "verb",
+      "fa": "روشن کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/De-anstellen.ogg"
+    },
+    {
+      "id": "v73",
       "de": "bestätigen",
       "en": "to confirm",
       "pos": "verb",
@@ -143,255 +759,381 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/De-best%C3%A4tigen.ogg"
     },
     {
-      "id": "v14",
-      "de": "buchen",
-      "en": "to book",
+      "id": "v74",
+      "de": "blicken",
+      "en": "look",
       "pos": "verb",
-      "fa": "رزرو کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-buchen.ogg"
+      "fa": "نظر انداختن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/De-blicken.ogg",
+      "exampleDe": "Hm, aber so ein Blick von oben …",
+      "exampleEn": "Hmm, but a view from above...",
+      "exampleFa": "هوم، اما نمایی از بالا..."
     },
     {
-      "id": "v15",
-      "de": "vorschlagen",
-      "en": "to suggest",
+      "id": "v75",
+      "de": "einreisen",
+      "en": "enter",
       "pos": "verb",
-      "fa": "پیشنهاد کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-vorschlagen.ogg"
+      "fa": "وارد شدن به کشوری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-einreisen.ogg"
     },
     {
-      "id": "v16",
-      "de": "raten",
-      "en": "to advise",
+      "id": "v76",
+      "de": "erledigen",
+      "en": "to take care of",
       "pos": "verb",
-      "fa": "حدس زدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-raten.ogg"
+      "fa": "به اتمام رساندن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/De-erledigen.ogg",
+      "exampleDe": "Gut jedenfalls, dass du das heute erledigst, dann hat Barbara",
+      "exampleEn": "Anyway, it's good that you're doing it today, then Barbara",
+      "exampleFa": "به هر حال خوبه که امروز داری انجامش میدی بعد باربارا"
     },
     {
-      "id": "v17",
-      "de": "wäre",
-      "en": "would be",
+      "id": "v77",
+      "de": "ernennen",
+      "en": "appoint",
+      "pos": "verb",
+      "fa": "منصوب کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/De-ernennen.ogg"
+    },
+    {
+      "id": "v78",
+      "de": "fliegen",
+      "en": "fly",
+      "pos": "verb",
+      "fa": "پرواز کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-fliegen.ogg",
+      "exampleDe": "Oktober fliegen kann.",
+      "exampleEn": "October can fly.",
+      "exampleFa": "اکتبر می تواند پرواز کند."
+    },
+    {
+      "id": "v79",
+      "de": "fließen",
+      "en": "flow",
+      "pos": "verb",
+      "fa": "جریان داشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-flie%C3%9Fen.ogg"
+    },
+    {
+      "id": "v80",
+      "de": "geschehen",
+      "en": "happen",
+      "pos": "verb",
+      "fa": "انجام شده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-geschehen.ogg",
+      "exampleDe": "Gern geschehen!",
+      "exampleEn": "You're welcome!",
+      "exampleFa": "شما خوش آمدید!"
+    },
+    {
+      "id": "v81",
+      "de": "klären",
+      "en": "clear up",
+      "pos": "verb",
+      "fa": "شفاف سازی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-kl%C3%A4ren.ogg",
+      "exampleDe": "Das klären wir noch.",
+      "exampleEn": "We'll sort that out.",
+      "exampleFa": "ما آن را مرتب می کنیم."
+    },
+    {
+      "id": "v82",
+      "de": "landen",
+      "en": "land",
+      "pos": "verb",
+      "fa": "فرود آمدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-landen.ogg",
+      "exampleDe": "Jetzt kannst du mich dort mal besuchen, dann können wir das Land gemeinsam erkunden.",
+      "exampleEn": "Now you can visit me there and we can explore the country together.",
+      "exampleFa": "حالا می توانید آنجا به من سر بزنید و با هم کشور را بشناسیم."
+    },
+    {
+      "id": "v83",
+      "de": "rodeln",
+      "en": "tobogganing",
+      "pos": "verb",
+      "fa": "سورتمه سواری کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-rodeln.ogg"
+    },
+    {
+      "id": "v84",
+      "de": "schicken",
+      "en": "send",
+      "pos": "verb",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-schicken.ogg",
+      "exampleDe": "Dann schicken Sie Ihr Flugticket, die Rechnung vom Kofferfachgeschäft und die Schadensmeldung an die Fluggesellschaft, also an die Swiss.",
+      "exampleEn": "Then send your flight ticket, the invoice from the luggage store and the damage report to the airline, i.e. Swiss.",
+      "exampleFa": "سپس بلیط هواپیما، فاکتور را از فروشگاه چمدان و گزارش خسارت را برای شرکت هواپیمایی، یعنی Swiss ارسال کنید."
+    },
+    {
+      "id": "v85",
+      "de": "senden",
+      "en": "send",
+      "pos": "verb",
+      "fa": "ارسال کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-senden.ogg",
+      "exampleDe": "Gut, dann tippen Sie jetzt alles ein und drücken Sie dann hier unten rechts auf „Überweisung senden“.",
+      "exampleEn": "Good, then type everything in and then press “Send transfer” at the bottom right.",
+      "exampleFa": "خوب، سپس همه چیز را وارد کنید و سپس \"ارسال انتقال\" را در پایین سمت راست فشار دهید."
+    },
+    {
+      "id": "v86",
+      "de": "stornieren",
+      "en": "cancel",
+      "pos": "verb",
+      "fa": "لغو کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/De-stornieren.ogg"
+    },
+    {
+      "id": "v87",
+      "de": "stören",
+      "en": "disturb",
+      "pos": "verb",
+      "fa": "مزاحم شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-st%C3%B6ren.ogg",
+      "exampleDe": "Es darf nur die Nachbarn nicht stören.",
+      "exampleEn": "It just shouldn't disturb the neighbors.",
+      "exampleFa": "فقط نباید مزاحم همسایه ها شود."
+    },
+    {
+      "id": "v88",
+      "de": "umformulieren",
+      "en": "rephrase",
+      "pos": "verb",
+      "fa": "فرمول بندی عوض کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/De-umformulieren.ogg"
+    },
+    {
+      "id": "v89",
+      "de": "umsteigen",
+      "en": "to change (trains/buses)",
+      "pos": "verb",
+      "fa": "مسیرعوض کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-umsteigen.ogg",
+      "exampleDe": "Sie müssen mindestens zweimal umsteigen und die Fahrt dauert über zehn Stunden.",
+      "exampleEn": "You have to change at least twice and the journey takes over ten hours.",
+      "exampleFa": "شما باید حداقل دو بار تغییر دهید و سفر بیش از ده ساعت طول می کشد."
+    },
+    {
+      "id": "v90",
+      "de": "verfassen",
+      "en": "write",
+      "pos": "verb",
+      "fa": "تالیف و تحریر کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-verfassen.ogg"
+    },
+    {
+      "id": "v91",
+      "de": "verlängern",
+      "en": "extend",
+      "pos": "verb",
+      "fa": "تمدید کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-verl%C3%A4ngern.ogg",
+      "exampleDe": "18 Monate, manchmal kann man das Trainee-Programm aber auch auf zwei Jahre verlängern.",
+      "exampleEn": "18 months, but sometimes you can extend the trainee program to two years.",
+      "exampleFa": "18 ماه، اما گاهی اوقات می توانید برنامه کارآموزی را تا دو سال افزایش دهید."
+    },
+    {
+      "id": "v92",
+      "de": "vertauschen",
+      "en": "swap",
+      "pos": "verb",
+      "fa": "مبادله کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-vertauschen.ogg"
+    },
+    {
+      "id": "v93",
+      "de": "überprüfen",
+      "en": "check",
+      "pos": "verb",
+      "fa": "بازرسی کردن er überprüft",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-%C3%BCberpr%C3%BCfen.ogg",
+      "exampleDe": "Immer kommt „Bitte überprüfen Sie die Eingaben“.",
+      "exampleEn": "It always says “Please check your entries”.",
+      "exampleFa": "همیشه می گوید \"لطفاً ورودی های خود را بررسی کنید\"."
+    },
+    {
+      "id": "v94",
+      "de": "abwechslungsreich",
+      "en": "varied",
       "pos": "other",
-      "fa": "بودند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-w%C3%A4re.ogg"
+      "fa": "متنوع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-abwechslungsreich.ogg"
     },
     {
-      "id": "v18",
-      "de": "hätte",
-      "en": "would have",
-      "pos": "other",
-      "fa": "خواهد داشت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-h%C3%A4tte.ogg"
-    },
-    {
-      "id": "v19",
-      "de": "könnte",
-      "en": "could",
-      "pos": "other",
-      "fa": "توانست",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-k%C3%B6nnte.ogg"
-    },
-    {
-      "id": "v20",
-      "de": "sollte",
-      "en": "should",
-      "pos": "other",
-      "fa": "باید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-sollte.ogg"
-    },
-    {
-      "id": "v21",
-      "de": "größerer",
-      "en": "larger (attr.)",
-      "pos": "adjective",
-      "fa": "بزرگتر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-gr%C3%B6%C3%9Ferer.ogg"
-    },
-    {
-      "id": "v22",
-      "de": "schnellere",
-      "en": "faster (attr.)",
-      "pos": "adjective",
-      "fa": "سریعتر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-schnellere.ogg"
-    },
-    {
-      "id": "v23",
-      "de": "beste",
-      "en": "best (attr.)",
-      "pos": "adjective",
-      "fa": "بهترین",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-beste.ogg"
-    },
-    {
-      "id": "v24",
-      "de": "Relativsatz mit wo",
-      "en": "relative clause with wo",
+      "id": "v95",
+      "de": "am Ende",
+      "en": "at the end",
       "pos": "phrase",
-      "fa": "بند نسبی با کجا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Relativsatz.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-am.ogg"
     },
     {
-      "id": "v25",
-      "de": "wo",
-      "en": "where (relative)",
+      "id": "v96",
+      "de": "anbei",
+      "en": "enclosed",
       "pos": "other",
-      "fa": "کجا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Wo.ogg"
+      "fa": "ضمیمه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-anbei.ogg"
     },
     {
-      "id": "v26",
-      "de": "Hauptstadt",
-      "en": "capital",
-      "article": "die",
-      "pos": "noun",
-      "fa": "پایتخت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Hauptstadt.ogg"
-    },
-    {
-      "id": "v27",
-      "de": "Vaduz",
-      "en": "Vaduz",
+      "id": "v97",
+      "de": "davon",
+      "en": "of that",
       "pos": "other",
-      "fa": "وادوز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-Vaduz.ogg"
+      "fa": "از آن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-davon.ogg",
+      "exampleDe": "Klaas hat mir davon erzählt.",
+      "exampleEn": "Klaas told me about it.",
+      "exampleFa": "کلااس در مورد آن به من گفت."
     },
     {
-      "id": "v28",
-      "de": "Schweiz",
-      "en": "Switzerland",
-      "article": "die",
-      "pos": "noun",
-      "fa": "سوئیس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-Schweiz.ogg"
-    },
-    {
-      "id": "v29",
-      "de": "Österreich",
-      "en": "Austria",
+      "id": "v98",
+      "de": "demokratisch",
+      "en": "democratically",
       "pos": "other",
-      "fa": "اتریش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-%C3%96sterreich.ogg"
+      "fa": "دموکراتیک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-demokratisch.ogg",
+      "exampleDe": "Wie ihr Name sagt: Sie ist christlich und demokratisch.",
+      "exampleEn": "As its name suggests: it is Christian and democratic.",
+      "exampleFa": "همانطور که از نامش پیداست: مسیحی و دموکراتیک است."
     },
     {
-      "id": "v30",
-      "de": "Grenze",
-      "en": "border",
-      "article": "die",
-      "pos": "noun",
-      "fa": "مرز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Grenze.ogg"
+      "id": "v99",
+      "de": "formlos",
+      "en": "informal",
+      "pos": "other",
+      "fa": "بی شکل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/De-formlos.ogg",
+      "exampleDe": "Das geht alles formlos.",
+      "exampleEn": "This all happens informally.",
+      "exampleFa": "همه اینها غیررسمی اتفاق می افتد."
     },
     {
-      "id": "v31",
-      "de": "Pass",
-      "en": "passport",
-      "article": "der",
-      "pos": "noun",
-      "fa": "پاسپورت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Pass.ogg"
+      "id": "v100",
+      "de": "geografisch",
+      "en": "geographically",
+      "pos": "other",
+      "fa": "به لحاظ جغرافیایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-geografisch.ogg"
     },
     {
-      "id": "v32",
-      "de": "Fahrplan",
-      "en": "timetable",
-      "article": "der",
-      "pos": "noun",
-      "fa": "نقشه سفر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-Fahrplan.ogg"
+      "id": "v101",
+      "de": "hervorragend",
+      "en": "terrific",
+      "pos": "other",
+      "fa": "درخشان، ممتاز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De-hervorragend.ogg"
     },
     {
-      "id": "v33",
-      "de": "Verspätung",
-      "en": "delay",
-      "article": "die",
-      "pos": "noun",
-      "fa": "تأخیر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Versp%C3%A4tung.ogg"
+      "id": "v102",
+      "de": "hiermit",
+      "en": "hereby",
+      "pos": "other",
+      "fa": "بدین وسیله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-hiermit.ogg"
     },
     {
-      "id": "v34",
-      "de": "Durchsage",
-      "en": "announcement",
-      "article": "die",
-      "pos": "noun",
-      "fa": "اعلان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Durchsage.ogg"
+      "id": "v103",
+      "de": "insgesamt",
+      "en": "in total",
+      "pos": "other",
+      "fa": "کلا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-insgesamt.ogg",
+      "exampleDe": "Und insgesamt bedeutet das duale Studium natürlich auch Stress, weil es sehr arbeitsintensiv ist.",
+      "exampleEn": "And overall, the dual study course also means stress because it is very work-intensive.",
+      "exampleFa": "و به طور کلی، دوره مطالعه دوگانه نیز به معنای استرس است زیرا بسیار کار فشرده است."
     },
     {
-      "id": "v35",
-      "de": "Fluggesellschaft",
-      "en": "airline",
-      "article": "die",
-      "pos": "noun",
-      "fa": "شرکت هواپیمایی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Fluggesellschaft.ogg"
+      "id": "v104",
+      "de": "interkulturell",
+      "en": "intercultural",
+      "pos": "other",
+      "fa": "بین فرهنگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-interkulturell.ogg",
+      "exampleDe": "Na ja, und dann war die Zeit bei der Familie Egger auch interkulturell eine tolle Erfahrung.",
+      "exampleEn": "Well, and then the time with the Egger family was also a great intercultural experience.",
+      "exampleFa": "خوب، و پس از آن زمان با خانواده Egger نیز یک تجربه بین فرهنگی عالی بود."
     },
     {
-      "id": "v36",
-      "de": "Entschuldigung",
-      "en": "apology",
-      "article": "die",
-      "pos": "noun",
-      "fa": "ببخشید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Entschuldigung.ogg"
+      "id": "v105",
+      "de": "maximal",
+      "en": "maximum",
+      "pos": "other",
+      "fa": "حداکثر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/De-maximal.ogg",
+      "exampleDe": "Ja, aber Sie dürfen maximal zehn Stunden am Tag arbeiten.",
+      "exampleEn": "Yes, but you are allowed to work a maximum of ten hours a day.",
+      "exampleFa": "بله، اما شما مجاز به کار حداکثر ده ساعت در روز هستید."
     },
     {
-      "id": "v37",
-      "de": "Ich wäre froh, wenn…",
-      "en": "I would be glad if…",
-      "pos": "phrase",
-      "fa": "خوشحال می شوم اگر ...",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Ich.ogg"
+      "id": "v106",
+      "de": "miteinander",
+      "en": "each other",
+      "pos": "other",
+      "fa": "باهمدیگر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/De-miteinander.ogg"
     },
     {
-      "id": "v38",
-      "de": "An Ihrer Stelle…",
-      "en": "In your place…",
-      "pos": "phrase",
-      "fa": "به جای تو...",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-an.ogg"
+      "id": "v107",
+      "de": "Mitteleuropa",
+      "en": "Central Europe",
+      "pos": "other",
+      "fa": "اروپای میانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/De-Mitteleuropa.ogg"
     },
     {
-      "id": "v39",
-      "de": "erste Tage",
-      "en": "first days",
-      "pos": "phrase",
-      "fa": "روزهای اول",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-erste.ogg"
+      "id": "v108",
+      "de": "notwendig",
+      "en": "necessary",
+      "pos": "other",
+      "fa": "ضروری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-notwendig.ogg"
     },
     {
-      "id": "v40",
-      "de": "ankommen",
-      "en": "to arrive",
-      "pos": "verb",
-      "fa": "رسیدن، آمدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-ankommen.ogg"
+      "id": "v109",
+      "de": "selbstverständlich",
+      "en": "of course",
+      "pos": "other",
+      "fa": "البته، طبعاً",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-selbstverst%C3%A4ndlich.ogg",
+      "exampleDe": "Selbstverständlich übernehmen wir die Kosten für den Schaden.",
+      "exampleEn": "Of course, we will cover the costs of the damage.",
+      "exampleFa": "البته ما هزینه های خسارت را تقبل می کنیم."
     },
     {
-      "id": "v41",
-      "de": "ausfüllen",
-      "en": "to fill in",
-      "pos": "verb",
-      "fa": "پر کردن فرم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-ausf%C3%BCllen.ogg"
+      "id": "v110",
+      "de": "umweltfreundlich",
+      "en": "environmentally friendly",
+      "pos": "other",
+      "fa": "سازگار با محیط زیست &lt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-umweltfreundlich.ogg"
     },
     {
-      "id": "v42",
-      "de": "Formular",
-      "en": "form",
-      "article": "das",
-      "pos": "noun",
-      "fa": "فرم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Formular.ogg"
+      "id": "v111",
+      "de": "unbekannt",
+      "en": "unknown",
+      "pos": "other",
+      "fa": "ناآشنا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-unbekannt.ogg"
     },
     {
-      "id": "v43",
-      "de": "Verkehrsmittel",
-      "en": "means of transport",
-      "article": "das",
-      "pos": "noun",
-      "fa": "وسایل نقلیه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Verkehrsmittel.ogg"
+      "id": "v112",
+      "de": "unsicher",
+      "en": "unsure",
+      "pos": "other",
+      "fa": "مبهم، سست، مردد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-unsicher.ogg",
+      "exampleDe": "Da habe ich gemerkt, dass ich ganz unsicher bin.",
+      "exampleEn": "Then I realized that I was very insecure.",
+      "exampleFa": "بعد متوجه شدم که خیلی ناامن هستم."
+    },
+    {
+      "id": "v113",
+      "de": "unterschiedlich",
+      "en": "different",
+      "pos": "other",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-unterschiedlich.ogg"
     }
   ],
   "grammar": [

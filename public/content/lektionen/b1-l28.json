@@ -4,33 +4,1263 @@
   "number": 28,
   "titleDe": "Von hier nach dort – von dort nach hier",
   "titleEn": "From here to there – from there to here",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Von hier nach dort – von dort nach hier“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “From here to there – from there to here” in the course book",
-      "fa": "اهداف یادگیری «از اینجا به آنجا — از آنجا به اینجا» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Sich über Auswanderungsgründe austauschen",
+      "en": "Exchange reasons for emigrating",
+      "fa": "گفتگو درباره دلایل مهاجرت"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Über ein Balkendiagramm sprechen",
+      "en": "Talk about a bar chart",
+      "fa": "صحبت درباره نمودار میله‌ای"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Beim Beratungsangebot Informationen einholen und die Antwort verstehen",
+      "en": "Obtain information from an advice service and understand the reply",
+      "fa": "گرفتن اطلاعات از مرکز مشاوره و فهم پاسخ"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "Reiseführertexte verstehen; Zukunftspläne und Träume vorstellen",
+      "en": "Understand guidebook texts; present future plans and dreams",
+      "fa": "فهم متون راهنما؛ معرفی برنامه‌ها و رویاهای آینده"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Absicherung",
+      "en": "Hedging",
+      "pos": "noun",
+      "article": "die",
+      "fa": "حفاظت حراست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Absicherung.ogg"
+    },
+    {
+      "id": "v2",
+      "de": "Absicht",
+      "en": "Intention",
+      "pos": "noun",
+      "article": "die",
+      "fa": "قصد نیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/De-Absicht.ogg"
+    },
+    {
+      "id": "v3",
+      "de": "Arbeitserlaubnis",
+      "en": "Work permit",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اجازه کار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Arbeitserlaubnis.ogg",
+      "exampleDe": "Ich brauche keine Aufenthaltsgenehmigung, ja, und auch keine Arbeitserlaubnis, ich muss nur an meinem Wohnort gemeldet sein.",
+      "exampleEn": "I don't need a residence permit, yes, and I don't need a work permit either, I just have to be registered at my place of residence.",
+      "exampleFa": "من نیازی به اجازه اقامت ندارم، بله، و همچنین نیازی به مجوز کار ندارم، فقط باید در محل زندگی خود ثبت نام کنم."
+    },
+    {
+      "id": "v4",
+      "de": "Armut",
+      "en": "Poverty",
+      "pos": "noun",
+      "article": "die",
+      "fa": "فقر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Armut.ogg"
+    },
+    {
+      "id": "v5",
+      "de": "Aufbaulehrgang",
+      "en": "Advanced course",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دوره ساخت و ساز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-Aufbaulehrgang.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Aufenthaltsgenehmigung",
+      "en": "Residence permit",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اجازه اقامت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-Aufenthaltsgenehmigung.ogg",
+      "exampleDe": "Ich brauche keine Aufenthaltsgenehmigung, ja, und auch keine Arbeitserlaubnis, ich muss nur an meinem Wohnort gemeldet sein.",
+      "exampleEn": "I don't need a residence permit, yes, and I don't need a work permit either, I just have to be registered at my place of residence.",
+      "exampleFa": "من نیازی به اجازه اقامت ندارم، بله، و همچنین نیازی به مجوز کار ندارم، فقط باید در محل زندگی خود ثبت نام کنم."
+    },
+    {
+      "id": "v7",
+      "de": "Auftrag",
+      "en": "Order",
+      "pos": "noun",
+      "article": "der",
+      "fa": "ماموریت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Auftrag.ogg"
+    },
+    {
+      "id": "v8",
+      "de": "Auslandsaufenthalt",
+      "en": "Stay abroad",
+      "pos": "noun",
+      "article": "der",
+      "fa": "اقامت در خارج",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Auslandsaufenthalt.ogg"
+    },
+    {
+      "id": "v9",
+      "de": "Auslandstätige",
+      "en": "Foreign workers",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کسی که خارج از کشور کار میکند ولی بعد از پایان کارش به کشور بر می گردد"
+    },
+    {
+      "id": "v10",
+      "de": "Ausreise",
+      "en": "Exit",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سفر به خارج",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-Ausreise.ogg"
+    },
+    {
+      "id": "v11",
+      "de": "Aussicht",
+      "en": "Outlook",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دورنما",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Aussicht.ogg"
+    },
+    {
+      "id": "v12",
+      "de": "Auswanderer",
+      "en": "Emigrants",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مهاجر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/De-Auswanderer.ogg"
+    },
+    {
+      "id": "v13",
+      "de": "Auswanderin",
+      "en": "Emigrant",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مهاجر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/De-Auswanderin.ogg"
+    },
+    {
+      "id": "v14",
+      "de": "Auswanderung",
+      "en": "emigration",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مهاجرت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/De-Auswanderung.ogg"
+    },
+    {
+      "id": "v15",
+      "de": "Balkendiagramm",
+      "en": "Bar chart",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نمودار میله ای افقی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-Balkendiagramm.ogg"
+    },
+    {
+      "id": "v16",
+      "de": "Befragung",
+      "en": "survey",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بازجویی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-Befragung.ogg"
+    },
+    {
+      "id": "v17",
+      "de": "Bogen",
+      "en": "bow",
+      "pos": "noun",
+      "article": "der",
+      "fa": "قوس طاق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-Bogen.ogg",
+      "exampleDe": "Ich brauche noch Informationen für den Personal bogen.",
+      "exampleEn": "I still need information for the personnel form.",
+      "exampleFa": "من هنوز برای فرم پرسنل به اطلاعات نیاز دارم."
+    },
+    {
+      "id": "v18",
+      "de": "Broschüre",
+      "en": "brochure",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بروشور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-Brosch%C3%BCre.ogg",
+      "exampleDe": "Ich schaue mir gerade die Broschüre an, die mir die Bank geschickt hat.",
+      "exampleEn": "I'm currently looking at the brochure the bank sent me.",
+      "exampleFa": "در حال حاضر مشغول بررسی بروشوری هستم که بانک برایم ارسال کرده است."
+    },
+    {
+      "id": "v19",
+      "de": "Bürokratie",
+      "en": "bureaucracy",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کاغذ بازی اداری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/De-B%C3%BCrokratie.ogg",
+      "exampleDe": "Und ähm, wie war das eigentlich mit der Bürokratie?",
+      "exampleEn": "And um, what was the bureaucracy like?",
+      "exampleFa": "و اوم، بوروکراسی چگونه بود؟"
+    },
+    {
+      "id": "v20",
+      "de": "Dienst",
+      "en": "service",
+      "pos": "noun",
+      "article": "der",
+      "fa": "خدمت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-Dienst.ogg",
+      "exampleDe": "Aufgrund der Arbeit an verschiedenen Projekten sitzen wir dann abends sowieso oft länger in der Firma, Dienst nach Vorschrift macht hier keiner.",
+      "exampleEn": "Because we work on various projects, we often sit in the company for longer in the evenings, and no one here works according to the rules.",
+      "exampleFa": "از آنجایی که ما روی پروژه های مختلف کار می کنیم، اغلب عصرها بیشتر در شرکت می نشینیم و هیچ کس در اینجا طبق قوانین کار نمی کند."
+    },
+    {
+      "id": "v21",
+      "de": "Dolmetscher",
+      "en": "Interpreter",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مترجم همزمان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Dolmetscher.ogg"
+    },
+    {
+      "id": "v22",
+      "de": "Einkaufsbummel",
+      "en": "Shopping spree",
+      "pos": "noun",
+      "article": "der",
+      "fa": "گشت و گذار برای خرید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/De-Einkaufsbummel.ogg"
+    },
+    {
+      "id": "v23",
+      "de": "Einkaufsstraße",
+      "en": "shopping street",
+      "pos": "noun",
+      "article": "die",
+      "fa": "خیابان خرید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Einkaufsstra%C3%9Fe.ogg"
+    },
+    {
+      "id": "v24",
+      "de": "Einwanderer",
+      "en": "Immigrants",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مهاجر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Einwanderer.ogg"
+    },
+    {
+      "id": "v25",
+      "de": "Einwanderin",
+      "en": "immigrant",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مهاجر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Einwanderin.ogg"
+    },
+    {
+      "id": "v26",
+      "de": "Einwanderung",
+      "en": "immigration",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مهاجرت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Einwanderung.ogg"
+    },
+    {
+      "id": "v27",
+      "de": "Erlaubnis",
+      "en": "Permission",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اجازه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/De-Erlaubnis.ogg",
+      "exampleDe": "War das kompliziert mit der Genehmigung für den Aufenthalt und mit der Erlaubnis für die Arbeit?",
+      "exampleEn": "Was it complicated with the permission to stay and the permission to work?",
+      "exampleFa": "آیا با اجازه اقامت و اجازه کار پیچیده بود؟"
+    },
+    {
+      "id": "v28",
+      "de": "Experte",
+      "en": "expert",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کارشناس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/De-Experte.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Expertin",
+      "en": "Expert",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کارشناس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Expertin.ogg"
+    },
+    {
+      "id": "v30",
+      "de": "Fachkraft",
+      "en": "Specialist",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کارشناس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Fachkraft.ogg"
+    },
+    {
+      "id": "v31",
+      "de": "Flüchtlinge",
+      "en": "refugees",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پناهنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-Fl%C3%BCchtlinge.ogg"
+    },
+    {
+      "id": "v32",
+      "de": "Freien",
+      "en": "outdoors",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تعطیل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Freien.ogg",
+      "exampleDe": "Nichts frei.",
+      "exampleEn": "Nothing free.",
+      "exampleFa": "هیچ چیز رایگان."
+    },
+    {
+      "id": "v33",
+      "de": "Gastgewerbe",
+      "en": "Hospitality industry",
+      "pos": "noun",
+      "article": "das",
+      "fa": "مهمان نوازی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Gastgewerbe.ogg"
+    },
+    {
+      "id": "v34",
+      "de": "Gebirge",
+      "en": "Mountains",
+      "pos": "noun",
+      "article": "das",
+      "fa": "کوهستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-Gebirge.ogg"
+    },
+    {
+      "id": "v35",
+      "de": "Gewerbe",
+      "en": "Commercial",
+      "pos": "noun",
+      "article": "das",
+      "fa": "شغل، حرفه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-Gewerbe.ogg"
+    },
+    {
+      "id": "v36",
+      "de": "Heimweh",
+      "en": "Homesickness",
+      "pos": "noun",
+      "article": "das",
+      "fa": "دلتنگ خانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/De-Heimweh.ogg"
+    },
+    {
+      "id": "v37",
+      "de": "Herausforderung",
+      "en": "Challenge",
+      "pos": "noun",
+      "article": "die",
+      "fa": "چالش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-Herausforderung.ogg"
+    },
+    {
+      "id": "v38",
+      "de": "Kaiser",
+      "en": "Emperor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "قیصر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/De-Kaiser.ogg"
+    },
+    {
+      "id": "v39",
+      "de": "Klarheit",
+      "en": "clarity",
+      "pos": "noun",
+      "article": "die",
+      "fa": "وضوح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Klarheit.ogg"
+    },
+    {
+      "id": "v40",
+      "de": "Klima",
+      "en": "climate",
+      "pos": "noun",
+      "article": "das",
+      "fa": "آب و هوا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-Klima.ogg"
+    },
+    {
+      "id": "v41",
+      "de": "Koch",
+      "en": "Cook",
+      "pos": "noun",
+      "article": "der",
+      "fa": "آشپز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-Koch.ogg",
+      "exampleDe": "Der Koch kommt selbstverständlich aus Wien und bereitet österreichische Speisen zu, z.",
+      "exampleEn": "The chef is of course from Vienna and prepares Austrian dishes, e.g.",
+      "exampleFa": "آشپز البته اهل وین است و غذاهای اتریشی را آماده می کند، به عنوان مثال."
+    },
+    {
+      "id": "v42",
+      "de": "Lebenshaltung",
+      "en": "attitude to life",
+      "pos": "noun",
+      "article": "die",
+      "fa": "گذران و معیشت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-Lebenshaltung.ogg"
+    },
+    {
+      "id": "v43",
+      "de": "Lebenshaltungskosten",
+      "en": "Cost of living",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مخارج زندگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Lebenshaltungskosten.ogg"
+    },
+    {
+      "id": "v44",
+      "de": "Lebensumstand",
+      "en": "living conditions",
+      "pos": "noun",
+      "article": "der",
+      "fa": "وضعیت زندگی"
+    },
+    {
+      "id": "v45",
+      "de": "Lehrgang",
+      "en": "course",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دوره آموزشی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-Lehrgang.ogg",
+      "exampleDe": "Ich mache den Lehrgang gemeinsam mit einer Freundin.",
+      "exampleEn": "I'm doing the course together with a friend.",
+      "exampleFa": "من با یکی از دوستان دوره را انجام می دهم."
+    },
+    {
+      "id": "v46",
+      "de": "Lohnniveau",
+      "en": "Wage level",
+      "pos": "noun",
+      "article": "das",
+      "fa": "تراز حقوق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-Lohnniveau.ogg"
+    },
+    {
+      "id": "v47",
+      "de": "Niveau",
+      "en": "level",
+      "pos": "noun",
+      "article": "das",
+      "fa": "سطح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-Niveau.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Olympia",
+      "en": "Olympia",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-Olympia.ogg"
+    },
+    {
+      "id": "v49",
+      "de": "Pforte",
+      "en": "gate",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دروازه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-Pforte.ogg"
+    },
+    {
+      "id": "v50",
+      "de": "Rundblick",
+      "en": "Panoramic view",
+      "pos": "noun",
+      "article": "der",
+      "fa": "چشم انداز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Rundblick.ogg"
+    },
+    {
+      "id": "v51",
+      "de": "Rückkehr",
+      "en": "return",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بازگشت به کشور بعد از اقامت در خارج",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-R%C3%BCckkehr.ogg"
+    },
+    {
+      "id": "v52",
+      "de": "Rückkehrer",
+      "en": "returnees",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کسی که خارج اقامت داشته، حالا اما به کشور برمیگردد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-R%C3%BCckkehrer.ogg"
+    },
+    {
+      "id": "v53",
+      "de": "Rückkehrerin",
+      "en": "returnee",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کسی که خارج اقامت داشته، حالا اما به کشور برمیگردد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-R%C3%BCckkehrerin.ogg"
+    },
+    {
+      "id": "v54",
+      "de": "Schanze",
+      "en": "ski jump",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سکوی پرش اسکی، سنگر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Schanze.ogg"
+    },
+    {
+      "id": "v55",
+      "de": "Sicherheit",
+      "en": "security",
+      "pos": "noun",
+      "article": "die",
+      "fa": "امنیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-Sicherheit.ogg"
+    },
+    {
+      "id": "v56",
+      "de": "Skispringen",
+      "en": "Ski jumping",
+      "pos": "noun",
+      "article": "das",
+      "fa": "پرش با اسکی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Skispringen.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "Sprungschanze",
+      "en": "ski jump",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سکوی پرش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-Sprungschanze.ogg"
+    },
+    {
+      "id": "v58",
+      "de": "Stadion",
+      "en": "stadium",
+      "pos": "noun",
+      "article": "das",
+      "fa": "استادیوم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/De-Stadion.ogg"
+    },
+    {
+      "id": "v59",
+      "de": "Säulendiagramm",
+      "en": "Column chart",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نمودار میله ای عمودی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-S%C3%A4ulendiagramm.ogg"
+    },
+    {
+      "id": "v60",
+      "de": "Torbogen",
+      "en": "archway",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دروازه طاق دار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/De-Torbogen.ogg"
+    },
+    {
+      "id": "v61",
+      "de": "Tortendiagramm",
+      "en": "Pie chart",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نمودار کیکی شکل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Tortendiagramm.ogg"
+    },
+    {
+      "id": "v62",
+      "de": "Triumph",
+      "en": "triumph",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پیروزی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-Triumph.ogg"
+    },
+    {
+      "id": "v63",
+      "de": "Triumphpforte",
+      "en": "Triumphal Gate",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دروازه پیروزی"
+    },
+    {
+      "id": "v64",
+      "de": "Umstand",
+      "en": "fact",
+      "pos": "noun",
+      "article": "der",
+      "fa": "وضعیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Umstand.ogg"
+    },
+    {
+      "id": "v65",
+      "de": "Vermutung",
+      "en": "Supposition",
+      "pos": "noun",
+      "article": "die",
+      "fa": "حدس"
+    },
+    {
+      "id": "v66",
+      "de": "Vorbereitung",
+      "en": "Preparation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "آماده کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Vorbereitung.ogg"
+    },
+    {
+      "id": "v67",
+      "de": "Werk",
+      "en": "Factory",
+      "pos": "noun",
+      "article": "das",
+      "fa": "کار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/De-Werk.ogg",
+      "exampleDe": "Übrigens: Wie schreibt man „Raphaels-Werk“?",
+      "exampleEn": "By the way: How do you spell “Raphael’s work”?",
+      "exampleFa": "به هر حال: \"کار رافائل\" را چگونه می نویسید؟"
+    },
+    {
+      "id": "v68",
+      "de": "Zielland",
+      "en": "Destination country",
+      "pos": "noun",
+      "article": "das",
+      "fa": "کشور مقصد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-Zielland.ogg"
+    },
+    {
+      "id": "v69",
+      "de": "Zuversicht",
+      "en": "Confidence",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اعتماد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/De-Zuversicht.ogg"
+    },
+    {
+      "id": "v70",
+      "de": "Überlegung",
+      "en": "consideration",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تامل، تفکر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-%C3%9Cberlegung.ogg"
+    },
+    {
+      "id": "v71",
+      "de": "aufklären",
+      "en": "enlighten",
+      "pos": "verb",
+      "fa": "وضعیت را روشن کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-aufkl%C3%A4ren.ogg"
+    },
+    {
+      "id": "v72",
+      "de": "begründen",
+      "en": "justify",
+      "pos": "verb",
+      "fa": "ثابت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-begr%C3%BCnden.ogg"
+    },
+    {
+      "id": "v73",
+      "de": "erbauen",
+      "en": "build",
+      "pos": "verb",
+      "fa": "تاسیس کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-erbauen.ogg"
+    },
+    {
+      "id": "v74",
+      "de": "erfahren",
+      "en": "experience",
+      "pos": "verb",
+      "fa": "با تجربه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-erfahren.ogg",
+      "exampleDe": "Sie gehen durch Wien, sehen wichtige Drehorte und erfahren auch etwas über die Geschichte von diesem Film.",
+      "exampleEn": "You walk through Vienna, see important filming locations and also learn something about the history of this film.",
+      "exampleFa": "در وین قدم می زنید، مکان های مهم فیلمبرداری را می بینید و همچنین درباره تاریخچه این فیلم چیزهایی یاد می گیرید."
+    },
+    {
+      "id": "v75",
+      "de": "festgefahren",
+      "en": "stuck",
+      "pos": "verb",
+      "fa": "استوار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/De-festgefahren.ogg"
+    },
+    {
+      "id": "v76",
+      "de": "gelingen",
+      "en": "succeed",
+      "pos": "verb",
+      "fa": "به هدف رسیدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-gelingen.ogg"
+    },
+    {
+      "id": "v77",
+      "de": "Heimweh haben",
+      "en": "to be homesick",
+      "pos": "verb",
+      "fa": "دلتنگ شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/De-Heimweh.ogg"
+    },
+    {
+      "id": "v78",
+      "de": "klappen",
+      "en": "to work out",
+      "pos": "verb",
+      "fa": "انجام شدن، نتیجه دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-klappen.ogg"
+    },
+    {
+      "id": "v79",
+      "de": "liefern",
+      "en": "delivery",
+      "pos": "verb",
+      "fa": "تحویل دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/De-liefern.ogg"
+    },
+    {
+      "id": "v80",
+      "de": "reizen",
+      "en": "irritate",
+      "pos": "verb",
+      "fa": "عصبی کردن، وسوسه کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-Reizen.ogg"
+    },
+    {
+      "id": "v81",
+      "de": "vermissen",
+      "en": "to miss",
+      "pos": "verb",
+      "fa": "دلتنگ شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/De-vermissen.ogg"
+    },
+    {
+      "id": "v82",
+      "de": "vermitteln",
+      "en": "convey",
+      "pos": "verb",
+      "fa": "وساطت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-vermitteln.ogg"
+    },
+    {
+      "id": "v83",
+      "de": "weiterarbeiten",
+      "en": "continue working",
+      "pos": "verb",
+      "fa": "کارکردن به روی چیزی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-weiterarbeiten.ogg"
+    },
+    {
+      "id": "v84",
+      "de": "weitergehen",
+      "en": "move on",
+      "pos": "verb",
+      "fa": "رفتن به سوی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/De-weitergehen.ogg"
+    },
+    {
+      "id": "v85",
+      "de": "weiterwandern",
+      "en": "continue hiking",
+      "pos": "verb",
+      "fa": "آوارگی و گردش بیشتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-weiterwandern.ogg"
+    },
+    {
+      "id": "v86",
+      "de": "zurückkehren",
+      "en": "return",
+      "pos": "verb",
+      "fa": "برگشتن به جای اول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/De-zur%C3%BCckkehren.ogg"
+    },
+    {
+      "id": "v87",
+      "de": "anfangs",
+      "en": "initially",
+      "pos": "other",
+      "fa": "در ابتدا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-anfangs.ogg"
+    },
+    {
+      "id": "v88",
+      "de": "aufregend",
+      "en": "exciting",
+      "pos": "other",
+      "fa": "هیجان زده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/De-aufregend.ogg"
+    },
+    {
+      "id": "v89",
+      "de": "binational",
+      "en": "binational",
+      "pos": "other",
+      "fa": "دو ملیتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-binational.ogg"
+    },
+    {
+      "id": "v90",
+      "de": "bürokratisch",
+      "en": "bureaucratic",
+      "pos": "other",
+      "fa": "سخت گیر، مقرراتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-b%C3%BCrokratisch.ogg"
+    },
+    {
+      "id": "v91",
+      "de": "danach",
+      "en": "thereafter",
+      "pos": "other",
+      "fa": "سپس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De-danach.ogg",
+      "exampleDe": "Danach habe ich …",
+      "exampleEn": "After that I...",
+      "exampleFa": "بعد از آن من ..."
+    },
+    {
+      "id": "v92",
+      "de": "doppelt",
+      "en": "double",
+      "pos": "other",
+      "fa": "دو برابر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/De-doppelt.ogg"
+    },
+    {
+      "id": "v93",
+      "de": "dreifach",
+      "en": "triple",
+      "pos": "other",
+      "fa": "سه برابر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-dreifach.ogg"
+    },
+    {
+      "id": "v94",
+      "de": "einst",
+      "en": "once",
+      "pos": "other",
+      "fa": "سابقا، روزگاری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-einst.ogg"
+    },
+    {
+      "id": "v95",
+      "de": "gotisch",
+      "en": "Gothic",
+      "pos": "other",
+      "fa": "گوتیک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-gotisch.ogg"
+    },
+    {
+      "id": "v96",
+      "de": "in Auftrag geben",
+      "en": "commission",
+      "pos": "phrase",
+      "fa": "طبق سفارش؟",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De-in.ogg"
+    },
+    {
+      "id": "v97",
+      "de": "konkret",
+      "en": "concrete",
+      "pos": "other",
+      "fa": "مشخص، محکم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/De-konkret.ogg",
+      "exampleDe": "Was bedeutet das nun konkret?",
+      "exampleEn": "So what does that mean specifically?",
+      "exampleFa": "پس به طور خاص به چه معناست؟"
+    },
+    {
+      "id": "v98",
+      "de": "Kupfer",
+      "en": "copper",
+      "pos": "other",
+      "fa": "مس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-Kupfer.ogg"
+    },
+    {
+      "id": "v99",
+      "de": "mittelalterlich",
+      "en": "medieval",
+      "pos": "other",
+      "fa": "مربوط به قرون وسطی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-mittelalterlich.ogg"
+    },
+    {
+      "id": "v100",
+      "de": "relativ",
+      "en": "relative",
+      "pos": "other",
+      "fa": "نسبی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-relativ.ogg"
+    },
+    {
+      "id": "v101",
+      "de": "sichtbar",
+      "en": "visible",
+      "pos": "other",
+      "fa": "قابل مشاهده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-sichtbar.ogg"
+    },
+    {
+      "id": "v102",
+      "de": "speziell",
+      "en": "special",
+      "pos": "other",
+      "fa": "مخصوص",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-speziell.ogg"
+    },
+    {
+      "id": "v103",
+      "de": "telefonisch",
+      "en": "by telephone",
+      "pos": "other",
+      "fa": "تلفنی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/De-telefonisch.ogg"
+    },
+    {
+      "id": "v104",
+      "de": "umfassend",
+      "en": "comprehensive",
+      "pos": "other",
+      "fa": "فراگیر، گسترده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-umfassend.ogg"
+    },
+    {
+      "id": "v105",
+      "de": "vergoldet",
+      "en": "gold plated",
+      "pos": "other",
+      "fa": "طلاپوش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-vergoldet.ogg"
+    },
+    {
+      "id": "v106",
+      "de": "vierfach",
+      "en": "quadruple",
+      "pos": "other",
+      "fa": "چهار برابر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-vierfach.ogg"
+    },
+    {
+      "id": "v107",
+      "de": "wahrscheinlich",
+      "en": "probably",
+      "pos": "other",
+      "fa": "احتمالاً",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/De-wahrscheinlich.ogg",
+      "exampleDe": "Dann findest du wahrscheinlich noch leichter einen Job.",
+      "exampleEn": "Then you'll probably find a job even easier.",
+      "exampleFa": "در این صورت احتمالاً شغلی آسان تر پیدا خواهید کرد."
+    },
+    {
+      "id": "v108",
+      "de": "weitreichend",
+      "en": "far-reaching",
+      "pos": "other",
+      "fa": "گسترده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-weitreichend.ogg"
+    },
+    {
+      "id": "v109",
+      "de": "willig",
+      "en": "willing",
+      "pos": "other",
+      "fa": "مشتاق، راغب"
+    },
+    {
+      "id": "v110",
+      "de": "woanders",
+      "en": "somewhere else",
+      "pos": "other",
+      "fa": "یک جای دیگر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-woanders.ogg"
+    },
+    {
+      "id": "v111",
+      "de": "wohl",
+      "en": "probably",
+      "pos": "other",
+      "fa": "احساس راحتی sich wohl fühlen",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/De-wohl.ogg",
+      "exampleDe": "Denn hier fühle ich mich sehr wohl.",
+      "exampleEn": "Because I feel very comfortable here.",
+      "exampleFa": "چون اینجا خیلی احساس راحتی می کنم."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Futur I; brauchen … nur zu",
+      "titleEn": "Future I; need only to",
+      "explanationEn": "Futur I: werden + Infinitiv for future or prediction: Ich werde auswandern. brauchen + nur/bloß + zu + Inf. = only need to: Du brauchst nur anzurufen.",
+      "patterns": [
+        "werde / wirst / wird + Inf.",
+        "brauchen nur zu + Inf."
+      ],
+      "examples": [
+        {
+          "de": "Nächstes Jahr werde ich in Innsbruck leben.",
+          "en": "Next year I will live in Innsbruck.",
+          "fa": "سال آینده در اینسبروک زندگی خواهم کرد."
+        },
+        {
+          "de": "Du brauchst nur das Formular auszufüllen.",
+          "en": "You only need to fill in the form.",
+          "fa": "فقط کافی است فرم را پر کنی."
+        }
+      ],
+      "titleFa": "آینده ساده؛ brauchen … nur zu"
+    },
+    {
+      "id": "g2",
+      "titleDe": "sowohl … als auch / weder … noch / nicht nur … sondern auch",
+      "titleEn": "both … and / neither … nor / not only … but also",
+      "explanationEn": "Two-part connectors: sowohl A als auch B; weder A noch B; nicht nur A, sondern auch B. They link equal elements (nouns, verbs, clauses).",
+      "patterns": [
+        "sowohl … als auch",
+        "weder … noch",
+        "nicht nur … , sondern auch"
+      ],
+      "examples": [
+        {
+          "de": "Er spricht sowohl Deutsch als auch Englisch.",
+          "en": "He speaks both German and English.",
+          "fa": "او هم آلمانی و هم انگلیسی حرف می‌زند."
+        },
+        {
+          "de": "Ich habe weder Angst noch Zweifel.",
+          "en": "I have neither fear nor doubt.",
+          "fa": "نه ترس دارم و نه تردید."
+        },
+        {
+          "de": "Sie will nicht nur arbeiten, sondern auch studieren.",
+          "en": "She wants not only to work but also to study.",
+          "fa": "او نه فقط می‌خواهد کار کند، بلکه درس هم بخواند."
+        }
+      ],
+      "titleFa": "هم…هم / نه…نه / نه فقط…بلکه"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "Futur",
+      "promptEn": "Future",
+      "content": "Ich ___ bald umziehen.",
+      "answer": "werde",
+      "grammarId": "g1",
+      "options": [
+        "werde",
+        "würde",
+        "bin"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "brauchen nur",
+      "promptEn": "need only",
+      "content": "Du brauchst ___ das Formular auszufüllen.",
+      "answer": "nur",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "sowohl",
+      "promptEn": "both … and",
+      "content": "Sie kennt ___ Innsbruck ___ Wien.",
+      "answer": "sowohl … als auch",
+      "grammarId": "g2",
+      "options": [
+        "sowohl … als auch",
+        "weder … noch",
+        "entweder … oder"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "weder … noch",
+      "promptEn": "neither … nor",
+      "content": "Er hat ___ Job ___ Wohnung gefunden.",
+      "answer": "weder … noch",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "nicht nur",
+      "promptEn": "not only",
+      "content": "Sie | will | nicht | nur | arbeiten | , | sondern | auch | lernen | .",
+      "answer": "Sie will nicht nur arbeiten, sondern auch lernen.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "brauchen zu",
+      "promptEn": "brauchen zu",
+      "content": "Ihr braucht nicht ___ zu kommen.",
+      "answer": "früh",
+      "grammarId": "g1",
+      "options": [
+        "früh",
+        "frühen",
+        "früheren"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Wir ___ nächstes Jahr auswandern.",
+      "answer": "werden",
+      "options": [
+        "werden",
+        "würden",
+        "sind"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Du brauchst nur die Website ___ . (besuchen)",
+      "answer": "zu besuchen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "Er spricht ___ Deutsch ___ Italienisch.",
+      "answer": "sowohl … als auch",
+      "options": [
+        "sowohl … als auch",
+        "weder … noch",
+        "je … desto"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Ich habe ___ Zeit ___ Geld.",
+      "answer": "weder … noch",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Sie will ___ informieren, ___ entscheiden.",
+      "answer": "nicht nur … sondern auch",
+      "options": [
+        "nicht nur … sondern auch",
+        "entweder … oder",
+        "um … zu"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: Es ___ bestimmt besser werden. (Futur)",
+      "answer": "wird",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„das Gastgewerbe“ means…",
+      "answer": "Hospitality industry",
+      "options": [
+        "returnee",
+        "Cost of living",
+        "Hospitality industry"
+      ],
+      "vocabId": "v33"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“Cost of living”:",
+      "answer": "die Lebenshaltungskosten",
+      "options": [
+        "die Rückkehrerin",
+        "das Gastgewerbe",
+        "die Lebenshaltungskosten"
+      ],
+      "vocabId": "v43"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„die Rückkehrerin“ means…",
+      "answer": "returnee",
+      "options": [
+        "Hospitality industry",
+        "Cost of living",
+        "returnee"
+      ],
+      "vocabId": "v53"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“Ski jumping”:",
+      "answer": "das Skispringen",
+      "options": [
+        "das Skispringen",
+        "die Lebenshaltungskosten",
+        "das Gastgewerbe"
+      ],
+      "vocabId": "v56"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t50",

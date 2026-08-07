@@ -45,19 +45,13 @@
       "pos": "noun",
       "article": "das",
       "fa": "شام",
-      "audioUrl": "/audio/vocab/abendessen.mp3"
+      "audioUrl": "/audio/vocab/abendessen.mp3",
+      "exampleDe": "Und am Donnerstag musst du auch das Abendessen machen.",
+      "exampleEn": "And on Thursday you also have to make dinner.",
+      "exampleFa": "و پنجشنبه هم باید شام درست کنید."
     },
     {
       "id": "v2",
-      "de": "Adjektiv",
-      "en": "adjective",
-      "pos": "noun",
-      "article": "das",
-      "fa": "صفت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Adjektiv.ogg"
-    },
-    {
-      "id": "v3",
       "de": "Adventszeit",
       "en": "Advent season",
       "pos": "noun",
@@ -66,61 +60,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Adventszeit.ogg"
     },
     {
-      "id": "v4",
-      "de": "Alm",
-      "en": "alm",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مرتع کوهستانی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-Alm.ogg"
-    },
-    {
-      "id": "v5",
-      "de": "Anlass",
-      "en": "occasion",
-      "pos": "noun",
-      "article": "der",
-      "fa": "سبب انگیزه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Anlass.ogg"
-    },
-    {
-      "id": "v6",
-      "de": "Antwort",
-      "en": "answer",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پاسخ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Antwort.ogg"
-    },
-    {
-      "id": "v7",
-      "de": "Artikel",
-      "en": "article",
-      "pos": "noun",
-      "article": "der",
-      "fa": "حرف تعریف؛ مقاله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Artikel.ogg"
-    },
-    {
-      "id": "v8",
+      "id": "v3",
       "de": "Auflauf",
       "en": "casserole",
       "pos": "noun",
       "article": "der",
       "fa": "غذای آماده شده در فر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Auflauf.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Auflauf.ogg",
+      "exampleDe": "Nein, nein, aber möchtest du was von meinem Auflauf?",
+      "exampleEn": "No, no, but would you like some of my casserole?",
+      "exampleFa": "نه، نه، اما آیا مقداری از کاسه من را می خواهید؟"
     },
     {
-      "id": "v9",
+      "id": "v4",
       "de": "Bier",
       "en": "beer",
       "pos": "noun",
       "article": "das",
       "fa": "آبجو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-Bier.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-Bier.ogg",
+      "exampleDe": "Ein Bier für mich und ein Mineralwasser, eine 1 LiterFlasche bitte.",
+      "exampleEn": "A beer for me and a mineral water, a 1 liter bottle please.",
+      "exampleFa": "یک آبجو برای من و یک آب معدنی، یک بطری 1 لیتری لطفا."
     },
     {
-      "id": "v10",
+      "id": "v5",
       "de": "Birnensaft",
       "en": "Pear juice",
       "pos": "noun",
@@ -129,141 +93,28 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/De-Birnensaft.ogg"
     },
     {
-      "id": "v11",
-      "de": "Bitte",
-      "en": "please; request",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خواهش؛ لطفاً",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Bitte.ogg"
-    },
-    {
-      "id": "v12",
-      "de": "Blick",
-      "en": "look; view",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نگاه؛ چشم‌انداز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Blick.ogg"
-    },
-    {
-      "id": "v13",
-      "de": "brötchen",
-      "en": "bread roll",
-      "pos": "noun",
-      "article": "das",
-      "fa": "رول نان"
-    },
-    {
-      "id": "v14",
-      "de": "Dank",
-      "en": "Thanks to",
-      "pos": "noun",
-      "article": "der",
-      "fa": "Sg. تشکر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-Dank.ogg"
-    },
-    {
-      "id": "v15",
+      "id": "v6",
       "de": "Dessert",
       "en": "dessert",
       "pos": "noun",
       "article": "das",
       "fa": "دسر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-Dessert.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-Dessert.ogg",
+      "exampleDe": "Und zum Dessert?",
+      "exampleEn": "And for dessert?",
+      "exampleFa": "و برای دسر؟"
     },
     {
-      "id": "v16",
-      "de": "Dezember",
-      "en": "december",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دسامبر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Dezember.ogg"
-    },
-    {
-      "id": "v17",
-      "de": "Einladung",
-      "en": "invitation",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دعوت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Einladung.ogg"
-    },
-    {
-      "id": "v18",
-      "de": "Eis",
-      "en": "ice",
-      "pos": "noun",
-      "article": "das",
-      "fa": "بستنی؛ یخ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Eis.ogg"
-    },
-    {
-      "id": "v19",
-      "de": "Eltern",
-      "en": "parents",
-      "pos": "noun",
-      "article": "die",
-      "fa": "والدین",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-Eltern.ogg"
-    },
-    {
-      "id": "v20",
-      "de": "Endung",
-      "en": "ending (grammar)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پایان (دستوری)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-Endung.ogg"
-    },
-    {
-      "id": "v21",
+      "id": "v7",
       "de": "Erdapfel",
       "en": "potato",
       "pos": "noun",
       "article": "der",
-      "fa": "سیب زمینی",
+      "fa": "سیب زمینی die Kartoffel",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Erdapfel.ogg"
     },
     {
-      "id": "v22",
-      "de": "Essen",
-      "en": "food; to eat",
-      "pos": "noun",
-      "article": "das",
-      "fa": "غذا؛ خوردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Essen.ogg"
-    },
-    {
-      "id": "v23",
-      "de": "Familie",
-      "en": "family",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خانواده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Familie.ogg"
-    },
-    {
-      "id": "v24",
-      "de": "Feiertag",
-      "en": "public holiday",
-      "pos": "noun",
-      "article": "der",
-      "fa": "روز تعطیل عمومی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Feiertag.ogg"
-    },
-    {
-      "id": "v25",
-      "de": "Fest",
-      "en": "festival / celebration",
-      "pos": "noun",
-      "article": "das",
-      "fa": "جشن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Fest.ogg"
-    },
-    {
-      "id": "v26",
+      "id": "v8",
       "de": "Fisch",
       "en": "fish",
       "pos": "noun",
@@ -272,7 +123,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/De-Fisch.ogg"
     },
     {
-      "id": "v27",
+      "id": "v9",
       "de": "Fladenbrot",
       "en": "flatbread",
       "pos": "noun",
@@ -281,25 +132,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/De-Fladenbrot.ogg"
     },
     {
-      "id": "v28",
-      "de": "Flasche",
-      "en": "bottle",
-      "pos": "noun",
-      "article": "die",
-      "fa": "بطری",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-Flasche.ogg"
-    },
-    {
-      "id": "v29",
-      "de": "Fleisch",
-      "en": "meat",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گوشت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Fleisch.ogg"
-    },
-    {
-      "id": "v30",
+      "id": "v10",
       "de": "Forelle",
       "en": "trout",
       "pos": "noun",
@@ -308,7 +141,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Forelle.ogg"
     },
     {
-      "id": "v31",
+      "id": "v11",
       "de": "Gabel",
       "en": "fork",
       "pos": "noun",
@@ -317,16 +150,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-Gabel.ogg"
     },
     {
-      "id": "v32",
+      "id": "v12",
       "de": "Gast",
       "en": "guest",
       "pos": "noun",
       "article": "der",
       "fa": "میهمان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/De-Gast.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/De-Gast.ogg",
+      "exampleDe": "Heute zu Gast in der Sendung „Leute“ begrüße ich Niels Jansen aus den Niederlanden.",
+      "exampleEn": "Today I welcome Niels Jansen from the Netherlands as a guest on the “People” show.",
+      "exampleFa": "امروز من به نیلز یانسن از هلند به عنوان مهمان در برنامه \"مردم\" خوش آمد می گویم."
     },
     {
-      "id": "v33",
+      "id": "v13",
       "de": "Geburt",
       "en": "birth",
       "pos": "noun",
@@ -335,7 +171,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-Geburt.ogg"
     },
     {
-      "id": "v34",
+      "id": "v14",
       "de": "Gegenteil",
       "en": "opposite",
       "pos": "noun",
@@ -344,15 +180,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Gegenteil.ogg"
     },
     {
-      "id": "v35",
+      "id": "v15",
       "de": "Gemüseauflauf",
       "en": "Vegetable casserole",
       "pos": "noun",
       "article": "der",
-      "fa": "گراتن سبزیجات"
+      "fa": "گراتن سبزیجات",
+      "exampleDe": "Und der Gemüseauflauf auch.",
+      "exampleEn": "And the vegetable casserole too.",
+      "exampleFa": "و قورمه سبزی هم."
     },
     {
-      "id": "v36",
+      "id": "v16",
       "de": "Gericht",
       "en": "court",
       "pos": "noun",
@@ -361,25 +200,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Gericht.ogg"
     },
     {
-      "id": "v37",
+      "id": "v17",
       "de": "Geschirr",
       "en": "dishes",
       "pos": "noun",
       "article": "das",
       "fa": "ظرف",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Geschirr.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Geschirr.ogg",
+      "exampleDe": "Also, ich möchte zehn Leute einladen und da habe ich ein Problem: Ich habe nicht genug Geschirr.",
+      "exampleEn": "So, I want to invite ten people and I have a problem: I don't have enough dishes.",
+      "exampleFa": "بنابراین، من می خواهم ده نفر را دعوت کنم و یک مشکل دارم: من ظرف کافی ندارم."
     },
     {
-      "id": "v38",
-      "de": "Gespräch",
-      "en": "conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Gespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v39",
+      "id": "v18",
       "de": "Getränk",
       "en": "beverage",
       "pos": "noun",
@@ -388,34 +221,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-Getr%C3%A4nk.ogg"
     },
     {
-      "id": "v40",
+      "id": "v19",
       "de": "Glas",
       "en": "glass",
       "pos": "noun",
       "article": "das",
       "fa": "شیشه ای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Glas.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Glas.ogg",
+      "exampleDe": "Wibke, schnell, eine Serviette bitte, ich habe ein volles Glas umgestoßen.",
+      "exampleEn": "Wibke, quickly, a napkin please, I knocked over a full glass.",
+      "exampleFa": "ویبکه، سریع، یک دستمال لطفا، یک لیوان پر را زدم."
     },
     {
-      "id": "v41",
-      "de": "GmbH",
-      "en": "Ltd (GmbH)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شرکت با مسئولیت محدود (آلمانی)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-GmbH.ogg"
-    },
-    {
-      "id": "v42",
-      "de": "Grammatik",
-      "en": "grammar",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دستور زبان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Grammatik.ogg"
-    },
-    {
-      "id": "v43",
+      "id": "v20",
       "de": "Hauptgericht",
       "en": "main course",
       "pos": "noun",
@@ -424,7 +242,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Hauptgericht.ogg"
     },
     {
-      "id": "v44",
+      "id": "v21",
       "de": "Hauptspeise",
       "en": "Main course",
       "pos": "noun",
@@ -433,7 +251,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-Hauptspeise.ogg"
     },
     {
-      "id": "v45",
+      "id": "v22",
       "de": "Hauswein",
       "en": "House wine",
       "pos": "noun",
@@ -442,34 +260,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Hauswein.ogg"
     },
     {
-      "id": "v46",
-      "de": "Heimat",
-      "en": "home country / hometown",
-      "pos": "noun",
-      "article": "die",
-      "fa": "وطن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Heimat.ogg"
-    },
-    {
-      "id": "v47",
-      "de": "Herr",
-      "en": "mr",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آقا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-Herr.ogg"
-    },
-    {
-      "id": "v48",
-      "de": "Hilfe",
-      "en": "help",
-      "pos": "noun",
-      "article": "die",
-      "fa": "کمک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Hilfe.ogg"
-    },
-    {
-      "id": "v49",
+      "id": "v23",
       "de": "Huhn",
       "en": "chicken",
       "pos": "noun",
@@ -478,7 +269,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-Huhn.ogg"
     },
     {
-      "id": "v50",
+      "id": "v24",
       "de": "Hühnerfleisch",
       "en": "chicken meat",
       "pos": "noun",
@@ -487,7 +278,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-H%C3%BChnerfleisch.ogg"
     },
     {
-      "id": "v51",
+      "id": "v25",
       "de": "Hühnersuppe",
       "en": "Chicken soup",
       "pos": "noun",
@@ -496,88 +287,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-H%C3%BChnersuppe.ogg"
     },
     {
-      "id": "v52",
-      "de": "Idee",
-      "en": "idea",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نظر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Idee.ogg"
-    },
-    {
-      "id": "v53",
-      "de": "Infinitiv",
-      "en": "infinitive",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مصدر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Infinitiv.ogg"
-    },
-    {
-      "id": "v54",
-      "de": "Jacke",
-      "en": "jacket",
-      "pos": "noun",
-      "article": "die",
-      "fa": "کت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Jacke.ogg"
-    },
-    {
-      "id": "v55",
+      "id": "v26",
       "de": "Kaffeetasse",
       "en": "Coffee cup",
       "pos": "noun",
       "article": "die",
       "fa": "فنجان قهوه خوری",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/De-Kaffeetasse.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/De-Kaffeetasse.ogg",
+      "exampleDe": "Aber, Kaffeetassen brauch’ ich auch noch.",
+      "exampleEn": "But, I still need coffee cups.",
+      "exampleFa": "اما، من هنوز به فنجان قهوه نیاز دارم."
     },
     {
-      "id": "v56",
-      "de": "Karotte",
-      "en": "carrot",
-      "pos": "noun",
-      "article": "die",
-      "fa": "هویج",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Karotte.ogg"
-    },
-    {
-      "id": "v57",
-      "de": "Karte",
-      "en": "card",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نقشه؛ کارت؛ منو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-Karte.ogg"
-    },
-    {
-      "id": "v58",
-      "de": "Kartoffel",
-      "en": "potato",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سیب زمینی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Kartoffel.ogg"
-    },
-    {
-      "id": "v59",
-      "de": "Kasten",
-      "en": "crate",
-      "pos": "noun",
-      "article": "der",
-      "fa": "جعبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-Kasten.ogg"
-    },
-    {
-      "id": "v60",
+      "id": "v27",
       "de": "Kellner",
       "en": "waiter",
       "pos": "noun",
       "article": "der",
       "fa": "گارسون",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Kellner.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Kellner.ogg",
+      "exampleDe": "Also: Sagt ein Kellner zum anderen: „An deinem Tisch liegt ein Gast, der schnarcht laut.",
+      "exampleEn": "So: One waiter says to another: “There is a guest at your table who is snoring loudly.",
+      "exampleFa": "بنابراین: یک گارسون به دیگری می گوید: «سر میز شما مهمانی است که با صدای بلند خروپف می کند."
     },
     {
-      "id": "v61",
+      "id": "v28",
       "de": "Kellnerin",
       "en": "waitress",
       "pos": "noun",
@@ -586,7 +320,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Kellnerin.ogg"
     },
     {
-      "id": "v62",
+      "id": "v29",
       "de": "Kernöl",
       "en": "Seed oil",
       "pos": "noun",
@@ -594,25 +328,19 @@
       "fa": "روغن هسته کدو"
     },
     {
-      "id": "v63",
-      "de": "Kino",
-      "en": "cinema",
-      "pos": "noun",
-      "article": "das",
-      "fa": "سینما",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Kino.ogg"
-    },
-    {
-      "id": "v64",
+      "id": "v30",
       "de": "Klingelton",
       "en": "ringtone",
       "pos": "noun",
       "article": "der",
       "fa": "زنگ موبایل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/De-Klingelton.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/De-Klingelton.ogg",
+      "exampleDe": "Nein, ich habe einen lauten Klingelton.",
+      "exampleEn": "No, I have a loud ringtone.",
+      "exampleFa": "نه، من یک آهنگ زنگ بلند دارم."
     },
     {
-      "id": "v65",
+      "id": "v31",
       "de": "Kloß",
       "en": "dumpling",
       "pos": "noun",
@@ -621,7 +349,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-Klo%C3%9F.ogg"
     },
     {
-      "id": "v66",
+      "id": "v32",
       "de": "Knoblauch",
       "en": "garlic",
       "pos": "noun",
@@ -630,7 +358,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Knoblauch.ogg"
     },
     {
-      "id": "v67",
+      "id": "v33",
       "de": "Knödel",
       "en": "dumplings",
       "pos": "noun",
@@ -639,51 +367,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Kn%C3%B6del.ogg"
     },
     {
-      "id": "v68",
-      "de": "Koch",
-      "en": "cook",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آشپز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-Koch.ogg"
-    },
-    {
-      "id": "v69",
-      "de": "Kochen",
-      "en": "to cook",
-      "pos": "noun",
-      "article": "das",
-      "fa": "غذا پختن"
-    },
-    {
-      "id": "v70",
+      "id": "v34",
       "de": "Kohlensäure",
       "en": "carbonic acid",
       "pos": "noun",
       "article": "die",
       "fa": "اسید کربنیک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Kohlens%C3%A4ure.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Kohlens%C3%A4ure.ogg",
+      "exampleDe": "Das Wasser mit oder ohne Kohlensäure?",
+      "exampleEn": "The water with or without carbonation?",
+      "exampleFa": "آب با یا بدون کربناته؟"
     },
     {
-      "id": "v71",
-      "de": "kollege",
-      "en": "colleague",
-      "pos": "noun",
-      "article": "der",
-      "fa": "همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-Kollege.ogg"
-    },
-    {
-      "id": "v72",
-      "de": "Kollegin",
-      "en": "colleague",
-      "pos": "noun",
-      "article": "die",
-      "fa": "همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Kollegin.ogg"
-    },
-    {
-      "id": "v73",
+      "id": "v35",
       "de": "Kraut",
       "en": "herb",
       "pos": "noun",
@@ -692,43 +388,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Kraut.ogg"
     },
     {
-      "id": "v74",
+      "id": "v36",
       "de": "Kuchen",
       "en": "cake",
       "pos": "noun",
       "article": "der",
       "fa": "کیک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Kuchen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Kuchen.ogg",
+      "exampleDe": "Ja, klar, ich backe Kuchen.",
+      "exampleEn": "Yes, of course, I bake cakes.",
+      "exampleFa": "بله، البته، من کیک می پزم."
     },
     {
-      "id": "v75",
-      "de": "Kurs",
-      "en": "course",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دوره؛ کلاس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Kurs.ogg"
-    },
-    {
-      "id": "v76",
-      "de": "Kursbuch",
-      "en": "course book",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کتاب دوره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Kursbuch.ogg"
-    },
-    {
-      "id": "v77",
-      "de": "Laden",
-      "en": "load",
-      "pos": "noun",
-      "article": "der",
-      "fa": "فروشگاه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-Laden.ogg"
-    },
-    {
-      "id": "v78",
+      "id": "v37",
       "de": "Lammfleisch",
       "en": "lamb",
       "pos": "noun",
@@ -737,97 +409,55 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Lammfleisch.ogg"
     },
     {
-      "id": "v79",
-      "de": "Laut",
-      "en": "loud",
-      "pos": "noun",
-      "article": "der",
-      "fa": "بلند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-Laut.ogg"
-    },
-    {
-      "id": "v80",
+      "id": "v38",
       "de": "Lieblingsgetränk",
       "en": "Favorite drink",
       "pos": "noun",
       "article": "das",
       "fa": "نوشیدنی مورد علاقه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Lieblingsgetr%C3%A4nk.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Lieblingsgetr%C3%A4nk.ogg",
+      "exampleDe": "Also, mein Lieblingsgetränk ist Cola.",
+      "exampleEn": "Well, my favorite drink is Cola.",
+      "exampleFa": "خب، نوشیدنی مورد علاقه من کولا است."
     },
     {
-      "id": "v81",
-      "de": "Lokal",
-      "en": "local",
-      "pos": "noun",
-      "article": "das",
-      "fa": "رستوران محلی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/De-Lokal.ogg"
-    },
-    {
-      "id": "v82",
-      "de": "Lust",
-      "en": "desire",
-      "pos": "noun",
-      "article": "die",
-      "fa": "حوصله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/De-Lust.ogg"
-    },
-    {
-      "id": "v83",
+      "id": "v39",
       "de": "Löffel",
       "en": "spoon",
       "pos": "noun",
       "article": "der",
       "fa": "قاشق",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-L%C3%B6ffel.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-L%C3%B6ffel.ogg",
+      "exampleDe": "Kannst du Löffel mitbringen?",
+      "exampleEn": "Can you bring spoons?",
+      "exampleFa": "میتونی قاشق بیاری؟"
     },
     {
-      "id": "v84",
-      "de": "Mal",
-      "en": "modal particle (just / once)",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هربار، هر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Mal.ogg"
-    },
-    {
-      "id": "v85",
+      "id": "v40",
       "de": "Messer",
       "en": "knife",
       "pos": "noun",
       "article": "das",
       "fa": "چاقو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-Messer.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-Messer.ogg",
+      "exampleDe": "Also Gabeln und Messer habe ich genug, aber Suppenlöffel nicht.",
+      "exampleEn": "So I have enough forks and knives, but no soup spoons.",
+      "exampleFa": "بنابراین من به اندازه کافی چنگال و چاقو دارم، اما قاشق سوپ خوری ندارم."
     },
     {
-      "id": "v86",
+      "id": "v41",
       "de": "Mittagessen",
       "en": "lunch",
       "pos": "noun",
       "article": "das",
       "fa": "ناهار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Mittagessen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Mittagessen.ogg",
+      "exampleDe": "Du musst das Mittagessen machen.",
+      "exampleEn": "You have to make lunch.",
+      "exampleFa": "باید ناهار درست کنی"
     },
     {
-      "id": "v87",
-      "de": "Montag",
-      "en": "monday",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دوشنبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Montag.ogg"
-    },
-    {
-      "id": "v88",
-      "de": "Nachbar",
-      "en": "neighbour",
-      "pos": "noun",
-      "article": "der",
-      "fa": "همسایه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-Nachbar.ogg"
-    },
-    {
-      "id": "v89",
+      "id": "v42",
       "de": "Nachspeise",
       "en": "dessert",
       "pos": "noun",
@@ -836,34 +466,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Nachspeise.ogg"
     },
     {
-      "id": "v90",
+      "id": "v43",
       "de": "Nachtisch",
       "en": "dessert",
       "pos": "noun",
       "article": "der",
       "fa": "دسر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Nachtisch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Nachtisch.ogg",
+      "exampleDe": "Bitte, nehmen Sie doch noch etwas Nachtisch!",
+      "exampleEn": "Please have some dessert!",
+      "exampleFa": "لطفا کمی دسر بخورید!"
     },
     {
-      "id": "v91",
-      "de": "Nichts",
-      "en": "nothing",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هیچ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-Nichts.ogg"
-    },
-    {
-      "id": "v92",
-      "de": "Nomen",
-      "en": "noun",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اسم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Nomen.ogg"
-    },
-    {
-      "id": "v93",
+      "id": "v44",
       "de": "Nusstorte",
       "en": "Nut cake",
       "pos": "noun",
@@ -872,7 +487,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/De-Nusstorte.ogg"
     },
     {
-      "id": "v94",
+      "id": "v45",
       "de": "Obstsalat",
       "en": "fruit salad",
       "pos": "noun",
@@ -881,51 +496,39 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-Obstsalat.ogg"
     },
     {
-      "id": "v95",
+      "id": "v46",
       "de": "Palatschinke",
       "en": "pancakes",
       "pos": "noun",
       "article": "die",
-      "fa": "پنکیک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-Palatschinke.ogg"
+      "fa": "پنکیک ، der Pfannkuchen",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-Palatschinke.ogg",
+      "exampleDe": "Und seine Palatschinken haben uns beiden auch sehr gut geschmeckt.",
+      "exampleEn": "And we both really enjoyed his pancakes.",
+      "exampleFa": "و ما هر دو واقعا از پنکیک او لذت بردیم."
     },
     {
-      "id": "v96",
+      "id": "v47",
       "de": "Paradeiser",
       "en": "tomato",
       "pos": "noun",
       "article": "der",
-      "fa": "گوجه فرنگی"
+      "fa": "گوجه فرنگی die Tomate"
     },
     {
-      "id": "v97",
-      "de": "Partner",
-      "en": "partner",
-      "pos": "noun",
-      "article": "der",
-      "fa": "شریک؛ همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Partner.ogg"
-    },
-    {
-      "id": "v98",
+      "id": "v48",
       "de": "Party",
       "en": "party",
       "pos": "noun",
       "article": "die",
       "fa": "جشن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Party.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Party.ogg",
+      "exampleDe": "So eine Party mit Kollegen ist eine tolle Idee.",
+      "exampleEn": "A party like this with colleagues is a great idea.",
+      "exampleFa": "یک مهمانی مانند این با همکاران ایده خوبی است."
     },
     {
-      "id": "v99",
-      "de": "Person",
-      "en": "person",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شخص",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Person.ogg"
-    },
-    {
-      "id": "v100",
+      "id": "v49",
       "de": "Pfannkuchen",
       "en": "pancake",
       "pos": "noun",
@@ -934,16 +537,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/De-Pfannkuchen.ogg"
     },
     {
-      "id": "v101",
-      "de": "Pizza",
-      "en": "pizza",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پیتزا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Pizza.ogg"
-    },
-    {
-      "id": "v102",
+      "id": "v50",
       "de": "Prise",
       "en": "prize",
       "pos": "noun",
@@ -952,59 +546,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Prise.ogg"
     },
     {
-      "id": "v103",
-      "de": "Punkt",
-      "en": "point",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نقطه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Punkt.ogg"
-    },
-    {
-      "id": "v104",
+      "id": "v51",
       "de": "Rechnung",
       "en": "bill",
       "pos": "noun",
       "article": "die",
       "fa": "صورت حساب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-Rechnung.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-Rechnung.ogg",
+      "exampleDe": "Und dann die Rechnung.",
+      "exampleEn": "And then the bill.",
+      "exampleFa": "و سپس صورت حساب."
     },
     {
-      "id": "v105",
-      "de": "Redemittel",
-      "en": "useful phrases",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عبارات آماده گفتار"
-    },
-    {
-      "id": "v106",
-      "de": "Regel",
-      "en": "rule",
-      "pos": "noun",
-      "article": "die",
-      "fa": "قاعده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Regel.ogg"
-    },
-    {
-      "id": "v107",
-      "de": "Reis",
-      "en": "rice",
-      "pos": "noun",
-      "article": "der",
-      "fa": "برنج",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Reis.ogg"
-    },
-    {
-      "id": "v108",
+      "id": "v52",
       "de": "reservieren",
       "en": "to reserve",
       "pos": "noun",
       "article": "das",
-      "fa": "رزرو کردن"
+      "fa": "رزرو کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-reservieren.ogg",
+      "exampleDe": "Auf welchen Namen wollen Sie reservieren?",
+      "exampleEn": "Which name do you want to reserve under?",
+      "exampleFa": "با کدام نام می خواهید رزرو کنید؟"
     },
     {
-      "id": "v109",
+      "id": "v53",
       "de": "Rest",
       "en": "rest",
       "pos": "noun",
@@ -1013,25 +579,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/De-Rest.ogg"
     },
     {
-      "id": "v110",
-      "de": "Restaurant",
-      "en": "restaurant",
-      "pos": "noun",
-      "article": "das",
-      "fa": "رستوران",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Restaurant.ogg"
-    },
-    {
-      "id": "v111",
+      "id": "v54",
       "de": "Rezept",
       "en": "prescription",
       "pos": "noun",
       "article": "das",
       "fa": "دستور پخت، نسخه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-Rezept.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-Rezept.ogg",
+      "exampleDe": "Ja klar, den hab’ ich mitgebracht, ein ganz einfaches Rezept.",
+      "exampleEn": "Yes, of course, I brought it with me, a very simple recipe.",
+      "exampleFa": "بله، البته، من آن را با خودم آوردم، یک دستور بسیار ساده."
     },
     {
-      "id": "v112",
+      "id": "v55",
       "de": "Rind",
       "en": "beef",
       "pos": "noun",
@@ -1040,33 +600,15 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/De-Rind.ogg"
     },
     {
-      "id": "v113",
+      "id": "v56",
       "de": "Rösterdäpfel",
       "en": "Roasted apples",
       "pos": "noun",
       "article": "die",
-      "fa": "سیب زمینی سرخ شده"
+      "fa": "سیب زمینی سرخ شده die Bratkartoffeln"
     },
     {
-      "id": "v114",
-      "de": "Saft",
-      "en": "juice",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آبمیوه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Saft.ogg"
-    },
-    {
-      "id": "v115",
-      "de": "Salat",
-      "en": "salad",
-      "pos": "noun",
-      "article": "der",
-      "fa": "سالاد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-Salat.ogg"
-    },
-    {
-      "id": "v116",
+      "id": "v57",
       "de": "Sauce",
       "en": "sauce",
       "pos": "noun",
@@ -1075,7 +617,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Sauce.ogg"
     },
     {
-      "id": "v117",
+      "id": "v58",
       "de": "Schlagobers",
       "en": "whipped cream",
       "pos": "noun",
@@ -1083,7 +625,7 @@
       "fa": "همزده خامه A"
     },
     {
-      "id": "v118",
+      "id": "v59",
       "de": "Schlagsahne",
       "en": "whipped cream",
       "pos": "noun",
@@ -1092,16 +634,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Schlagsahne.ogg"
     },
     {
-      "id": "v119",
-      "de": "Schreiben",
-      "en": "to write",
-      "pos": "noun",
-      "article": "das",
-      "fa": "نوشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Schreiben.ogg"
-    },
-    {
-      "id": "v120",
+      "id": "v60",
       "de": "Schweinefleisch",
       "en": "pork",
       "pos": "noun",
@@ -1110,7 +643,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-Schweinefleisch.ogg"
     },
     {
-      "id": "v121",
+      "id": "v61",
       "de": "Schweinsbraten",
       "en": "Roast pork",
       "pos": "noun",
@@ -1119,16 +652,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-Schweinsbraten.ogg"
     },
     {
-      "id": "v122",
+      "id": "v62",
       "de": "Serviette",
       "en": "napkin",
       "pos": "noun",
       "article": "die",
       "fa": "دستمال سفره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-Serviette.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-Serviette.ogg",
+      "exampleDe": "Da brauchen wir aber keine Teller, wir nehmen Servietten.",
+      "exampleEn": "But we don't need plates, we use napkins.",
+      "exampleFa": "اما ما به بشقاب نیاز نداریم، از دستمال استفاده می کنیم."
     },
     {
-      "id": "v123",
+      "id": "v63",
       "de": "Speisekarte",
       "en": "menu",
       "pos": "noun",
@@ -1137,70 +673,67 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-Speisekarte.ogg"
     },
     {
-      "id": "v124",
-      "de": "Stück",
-      "en": "piece",
-      "pos": "noun",
-      "article": "das",
-      "fa": "قطعه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-St%C3%BCck.ogg"
-    },
-    {
-      "id": "v125",
+      "id": "v64",
       "de": "Suppe",
       "en": "soup",
       "pos": "noun",
       "article": "die",
       "fa": "سوپ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Suppe.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Suppe.ogg",
+      "exampleDe": "Wer mag noch Suppe?",
+      "exampleEn": "Who else likes soup?",
+      "exampleFa": "چه کسی دیگر سوپ دوست دارد؟"
     },
     {
-      "id": "v126",
+      "id": "v65",
       "de": "Suppenlöffel",
       "en": "soup spoon",
       "pos": "noun",
       "article": "der",
       "fa": "قاشق سوپ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Suppenl%C3%B6ffel.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Suppenl%C3%B6ffel.ogg",
+      "exampleDe": "Also Gabeln und Messer habe ich genug, aber Suppenlöffel nicht.",
+      "exampleEn": "So I have enough forks and knives, but no soup spoons.",
+      "exampleFa": "بنابراین من به اندازه کافی چنگال و چاقو دارم، اما قاشق سوپ خوری ندارم."
     },
     {
-      "id": "v127",
+      "id": "v66",
       "de": "Suppenteller",
       "en": "Soup plate",
       "pos": "noun",
       "article": "der",
       "fa": "بشقاب سوپ خوری",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Suppenteller.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Suppenteller.ogg",
+      "exampleDe": "Ja, ja, Suppenteller und Essteller habe ich für zwölf Personen.",
+      "exampleEn": "Yes, yes, I have soup plates and dinner plates for twelve people.",
+      "exampleFa": "بله، بله، من بشقاب سوپ و بشقاب شام برای دوازده نفر دارم."
     },
     {
-      "id": "v128",
+      "id": "v67",
       "de": "Suppentopf",
       "en": "Stock pot",
       "pos": "noun",
       "article": "der",
       "fa": "قابلمه سوپ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Suppentopf.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Suppentopf.ogg",
+      "exampleDe": "Also, so einen richtig großen Suppentopf habe ich leider auch nicht.",
+      "exampleEn": "Well, unfortunately I don't have a really big soup pot either.",
+      "exampleFa": "خب، متأسفانه من یک قابلمه واقعا بزرگ هم ندارم."
     },
     {
-      "id": "v129",
-      "de": "Tabelle",
-      "en": "table",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جدول",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Tabelle.ogg"
-    },
-    {
-      "id": "v130",
+      "id": "v68",
       "de": "Tafelspitz",
       "en": "tafelspitz",
       "pos": "noun",
       "article": "der",
       "fa": "گوشت آب پز و سبزیجات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-Tafelspitz.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-Tafelspitz.ogg",
+      "exampleDe": "Und was ist Tafelspitz?",
+      "exampleEn": "And what is boiled beef?",
+      "exampleFa": "و گوشت گاو آب پز چیست؟"
     },
     {
-      "id": "v131",
+      "id": "v69",
       "de": "Tasse",
       "en": "cup",
       "pos": "noun",
@@ -1209,97 +742,55 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Tasse.ogg"
     },
     {
-      "id": "v132",
+      "id": "v70",
       "de": "Tee",
       "en": "tea",
       "pos": "noun",
       "article": "der",
       "fa": "چای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Tee.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Tee.ogg",
+      "exampleDe": "Naja, nicht so am liebsten trinke ich Tee mit Zitrone, aber das passt hier nicht.",
+      "exampleEn": "Well, I don't really like drinking tea with lemon, but that doesn't work here.",
+      "exampleFa": "خوب، من واقعاً دوست ندارم چای با لیمو بنوشم، اما اینجا کار نمی کند."
     },
     {
-      "id": "v133",
-      "de": "Teil",
-      "en": "part",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قسمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Teil.ogg"
-    },
-    {
-      "id": "v134",
-      "de": "Telefongespräch",
-      "en": "Telephone conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگوی تلفنی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Telefongespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v135",
+      "id": "v71",
       "de": "Teller",
       "en": "plate",
       "pos": "noun",
       "article": "der",
       "fa": "بشقاب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-Teller.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-Teller.ogg",
+      "exampleDe": "Wo ist nur mein Teller?",
+      "exampleEn": "Where is my plate?",
+      "exampleFa": "بشقاب من کجاست؟"
     },
     {
-      "id": "v136",
-      "de": "Thema",
-      "en": "theme",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عنوان. مطلب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Thema.ogg"
-    },
-    {
-      "id": "v137",
-      "de": "Tisch",
-      "en": "table",
-      "pos": "noun",
-      "article": "der",
-      "fa": "میز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-Tisch.ogg"
-    },
-    {
-      "id": "v138",
-      "de": "Tomate",
-      "en": "tomato",
-      "pos": "noun",
-      "article": "die",
-      "fa": "گوجه فرنگی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Tomate.ogg"
-    },
-    {
-      "id": "v139",
+      "id": "v72",
       "de": "Topf",
       "en": "pot",
       "pos": "noun",
       "article": "der",
       "fa": "قابلمه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/De-Topf.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/De-Topf.ogg",
+      "exampleDe": "Und ich will eine Suppe kochen, aber ich habe nur einen kleinen Topf.",
+      "exampleEn": "And I want to make soup, but I only have a small pot.",
+      "exampleFa": "و من می خواهم سوپ درست کنم، اما فقط یک قابلمه کوچک دارم."
     },
     {
-      "id": "v140",
-      "de": "Treffen",
-      "en": "to meet",
-      "pos": "noun",
-      "article": "das",
-      "fa": "ملاقات؛ قرار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Treffen.ogg"
-    },
-    {
-      "id": "v141",
+      "id": "v73",
       "de": "Trinken",
       "en": "to drink",
       "pos": "noun",
       "article": "das",
       "fa": "نوشیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-Trinken.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-Trinken.ogg",
+      "exampleDe": "Ja klar, und zu trinken?",
+      "exampleEn": "Sure, and to drink?",
+      "exampleFa": "مطمئنا، و برای نوشیدن؟"
     },
     {
-      "id": "v142",
+      "id": "v74",
       "de": "Trinkgeld",
       "en": "tip",
       "pos": "noun",
@@ -1308,16 +799,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-Trinkgeld.ogg"
     },
     {
-      "id": "v143",
-      "de": "Umgebung",
-      "en": "vicinity",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مجاورت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Umgebung.ogg"
-    },
-    {
-      "id": "v144",
+      "id": "v75",
       "de": "Vanillesauce",
       "en": "Vanilla sauce",
       "pos": "noun",
@@ -1326,25 +808,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-Vanillesauce.ogg"
     },
     {
-      "id": "v145",
-      "de": "Vorbereitung",
-      "en": "preparation",
-      "pos": "noun",
-      "article": "die",
-      "fa": "آماده کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Vorbereitung.ogg"
-    },
-    {
-      "id": "v146",
-      "de": "Vorschlag",
-      "en": "suggestion",
-      "pos": "noun",
-      "article": "der",
-      "fa": "پیشنهاد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Vorschlag.ogg"
-    },
-    {
-      "id": "v147",
+      "id": "v76",
       "de": "Vorspeise",
       "en": "starter / appetizer",
       "pos": "noun",
@@ -1353,16 +817,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-Vorspeise.ogg"
     },
     {
-      "id": "v148",
-      "de": "Wasser",
-      "en": "water",
-      "pos": "noun",
-      "article": "das",
-      "fa": "آب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-Wasser.ogg"
-    },
-    {
-      "id": "v149",
+      "id": "v77",
       "de": "Wasserglas",
       "en": "Water glass",
       "pos": "noun",
@@ -1371,34 +826,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-Wasserglas.ogg"
     },
     {
-      "id": "v150",
+      "id": "v78",
       "de": "Weihnachtsfeiertag",
       "en": "Christmas Day",
       "pos": "noun",
       "article": "der",
       "fa": "تعطیل عمومی به خاطر میلاد مسیح",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-Weihnachtsfeiertag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-Weihnachtsfeiertag.ogg",
+      "exampleDe": "Weihnachtsfeiertag kommt immer unsere andere Tochter mit der Familie zu uns, und am zweiten Feiertag besucht uns meine Cousine mit ihrem Mann.",
+      "exampleEn": "Our other daughter always comes to visit us with the family on Christmas Day, and on the second holiday my cousin visits us with her husband.",
+      "exampleFa": "دختر دیگر ما همیشه در روز کریسمس با خانواده به دیدن ما می آید و در تعطیلات دوم پسر عمویم با شوهرش به دیدن ما می آید."
     },
     {
-      "id": "v151",
-      "de": "Weihnachtsfest",
-      "en": "Christmas festival",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عید میلاد عیسی مسیح",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-Weihnachtsfest.ogg"
-    },
-    {
-      "id": "v152",
-      "de": "Wein",
-      "en": "wine",
-      "pos": "noun",
-      "article": "der",
-      "fa": "شراب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Wein.ogg"
-    },
-    {
-      "id": "v153",
+      "id": "v79",
       "de": "Weinglas",
       "en": "wine glass",
       "pos": "noun",
@@ -1407,7 +847,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Weinglas.ogg"
     },
     {
-      "id": "v154",
+      "id": "v80",
       "de": "Wiener Schnitzel",
       "en": "Wiener Schnitzel",
       "pos": "noun",
@@ -1416,16 +856,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Wiener.ogg"
     },
     {
-      "id": "v155",
-      "de": "Wort",
-      "en": "word",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کلمه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Wort.ogg"
-    },
-    {
-      "id": "v156",
+      "id": "v81",
       "de": "Zanderfilet",
       "en": "Pike perch fillet",
       "pos": "noun",
@@ -1434,34 +865,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/De-Zanderfilet.ogg"
     },
     {
-      "id": "v157",
-      "de": "Zeit",
-      "en": "time",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زمان؛ وقت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Zeit.ogg"
-    },
-    {
-      "id": "v158",
-      "de": "Zettel",
-      "en": "note",
-      "pos": "noun",
-      "article": "der",
-      "fa": "توجه داشته باشید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Zettel.ogg"
-    },
-    {
-      "id": "v159",
+      "id": "v82",
       "de": "Zitrone",
       "en": "lemon",
       "pos": "noun",
       "article": "die",
       "fa": "لیمو ترش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-Zitrone.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-Zitrone.ogg",
+      "exampleDe": "Naja, nicht so am liebsten trinke ich Tee mit Zitrone, aber das passt hier nicht.",
+      "exampleEn": "Well, I don't really like drinking tea with lemon, but that doesn't work here.",
+      "exampleFa": "خوب، من واقعاً دوست ندارم چای با لیمو بنوشم، اما اینجا کار نمی کند."
     },
     {
-      "id": "v160",
+      "id": "v83",
       "de": "Zubereitung",
       "en": "preparation",
       "pos": "noun",
@@ -1470,16 +886,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/De-Zubereitung.ogg"
     },
     {
-      "id": "v161",
-      "de": "Zusammensetzung",
-      "en": "composition",
-      "pos": "noun",
-      "article": "die",
-      "fa": "ترکیب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-Zusammensetzung.ogg"
-    },
-    {
-      "id": "v162",
+      "id": "v84",
       "de": "Zutat",
       "en": "ingredient",
       "pos": "noun",
@@ -1488,7 +895,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Zutat.ogg"
     },
     {
-      "id": "v163",
+      "id": "v85",
       "de": "Öl",
       "en": "oil",
       "pos": "noun",
@@ -1497,47 +904,34 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/De-%C3%96l.ogg"
     },
     {
-      "id": "v164",
+      "id": "v86",
       "de": "ablehnen",
       "en": "to refuse",
       "pos": "verb",
-      "fa": "رد کردن",
+      "fa": "رد کردن، قبول نکردن er lehnt ab-lehnte ab-hat abgelehnt",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-ablehnen.ogg"
     },
     {
-      "id": "v165",
-      "de": "absagen",
-      "en": "to cancel / decline",
-      "pos": "verb",
-      "fa": "رد کردن، کنسل کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-absagen.ogg"
-    },
-    {
-      "id": "v166",
+      "id": "v87",
       "de": "anbraten",
       "en": "to sauté",
       "pos": "verb",
-      "fa": "تفت دادن، سرخ کردن",
+      "fa": "تفت دادن، سرخ کردن er brät an",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/De-anbraten.ogg"
     },
     {
-      "id": "v167",
-      "de": "ausdrücken",
-      "en": "to express",
-      "pos": "verb",
-      "fa": "بیان کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-ausdr%C3%BCcken.ogg"
-    },
-    {
-      "id": "v168",
+      "id": "v88",
       "de": "ausprobieren",
       "en": "to try out",
       "pos": "verb",
       "fa": "آزمایش کردن، امتحان کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-ausprobieren.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-ausprobieren.ogg",
+      "exampleDe": "Ich habe gehofft, dass ich sehr viel lernen und ausprobieren kann.",
+      "exampleEn": "I hoped that I would be able to learn and try out a lot.",
+      "exampleFa": "امیدوارم بتوانم چیزهای زیادی یاد بگیرم و تلاش کنم."
     },
     {
-      "id": "v169",
+      "id": "v89",
       "de": "auswählen",
       "en": "choose",
       "pos": "verb",
@@ -1545,111 +939,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-ausw%C3%A4hlen.ogg"
     },
     {
-      "id": "v170",
-      "de": "beantworten",
-      "en": "answer",
-      "pos": "verb",
-      "fa": "جواب دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-beantworten.ogg"
-    },
-    {
-      "id": "v171",
-      "de": "berichten",
-      "en": "report",
-      "pos": "verb",
-      "fa": "گزارش، خبر دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De-berichten.ogg"
-    },
-    {
-      "id": "v172",
+      "id": "v90",
       "de": "bestellen",
       "en": "to order",
       "pos": "verb",
-      "fa": "سفارش دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De-bestellen.ogg"
+      "fa": "سفارش دادن er bestellt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De-bestellen.ogg",
+      "exampleDe": "Wollen Sie schon bestellen?",
+      "exampleEn": "Do you want to order yet?",
+      "exampleFa": "آیا هنوز می خواهید سفارش دهید؟"
     },
     {
-      "id": "v173",
-      "de": "bezahlen",
-      "en": "to pay for",
-      "pos": "verb",
-      "fa": "پرداخت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-bezahlen.ogg"
-    },
-    {
-      "id": "v174",
-      "de": "bilden",
-      "en": "form",
-      "pos": "verb",
-      "fa": "تشکیل دادن، ساختن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-bilden.ogg"
-    },
-    {
-      "id": "v175",
-      "de": "bitten",
-      "en": "ask",
-      "pos": "verb",
-      "fa": "خواهش کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-bitten.ogg"
-    },
-    {
-      "id": "v176",
-      "de": "bringen",
-      "en": "to bring",
-      "pos": "verb",
-      "fa": "آوردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-bringen.ogg"
-    },
-    {
-      "id": "v177",
+      "id": "v91",
       "de": "drinnen",
       "en": "inside",
       "pos": "verb",
-      "fa": "داخل و بیرون",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/De-drinnen.ogg"
+      "fa": "draußen داخل و بیرون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/De-drinnen.ogg",
+      "exampleDe": "Ja, gern, wollen Sie lieber drinnen oder draußen sitzen?",
+      "exampleEn": "Yes, of course, would you rather sit inside or outside?",
+      "exampleFa": "بله، البته، ترجیح می دهید داخل بنشینید یا بیرون؟"
     },
     {
-      "id": "v178",
-      "de": "einladen",
-      "en": "to invite",
-      "pos": "verb",
-      "fa": "دعوت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-einladen.ogg"
-    },
-    {
-      "id": "v179",
-      "de": "ergänzen",
-      "en": "to complete / fill in",
-      "pos": "verb",
-      "fa": "تکمیل کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-erg%C3%A4nzen.ogg"
-    },
-    {
-      "id": "v180",
-      "de": "erreichen",
-      "en": "to reach",
-      "pos": "verb",
-      "fa": "دسترسی پیدا کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-erreichen.ogg"
-    },
-    {
-      "id": "v181",
-      "de": "eröffnen",
-      "en": "to open",
-      "pos": "verb",
-      "fa": "بازگشایی کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-er%C3%B6ffnen.ogg"
-    },
-    {
-      "id": "v182",
-      "de": "formulieren",
-      "en": "formulate",
-      "pos": "verb",
-      "fa": "فرمول‌بندی کردن؛ بیان کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-formulieren.ogg"
-    },
-    {
-      "id": "v183",
+      "id": "v92",
       "de": "gewinnen",
       "en": "to win",
       "pos": "verb",
@@ -1657,39 +969,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-gewinnen.ogg"
     },
     {
-      "id": "v184",
-      "de": "hören",
-      "en": "to hear",
-      "pos": "verb",
-      "fa": "شنیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-h%C3%B6ren.ogg"
-    },
-    {
-      "id": "v185",
-      "de": "meinen",
-      "en": "mean",
-      "pos": "verb",
-      "fa": "فکر کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-meinen.ogg"
-    },
-    {
-      "id": "v186",
-      "de": "mögen",
-      "en": "to like",
-      "pos": "verb",
-      "fa": "علاقه داشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-m%C3%B6gen.ogg"
-    },
-    {
-      "id": "v187",
-      "de": "nehmen",
-      "en": "to take",
-      "pos": "verb",
-      "fa": "گرفتن، برداشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-nehmen.ogg"
-    },
-    {
-      "id": "v188",
+      "id": "v93",
       "de": "plaudern",
       "en": "to chat",
       "pos": "verb",
@@ -1697,15 +977,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/De-plaudern.ogg"
     },
     {
-      "id": "v189",
-      "de": "probieren",
-      "en": "to try",
-      "pos": "verb",
-      "fa": "سعی کردن، چشیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-probieren.ogg"
-    },
-    {
-      "id": "v190",
+      "id": "v94",
       "de": "pürieren",
       "en": "to puree",
       "pos": "verb",
@@ -1713,55 +985,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-p%C3%BCrieren.ogg"
     },
     {
-      "id": "v191",
-      "de": "raten",
-      "en": "guess",
-      "pos": "verb",
-      "fa": "حدس زدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-raten.ogg"
-    },
-    {
-      "id": "v192",
-      "de": "regeln",
-      "en": "regulate",
-      "pos": "verb",
-      "fa": "مرتب کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-regeln.ogg"
-    },
-    {
-      "id": "v193",
-      "de": "sagen",
-      "en": "to say",
-      "pos": "verb",
-      "fa": "گفتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-sagen.ogg"
-    },
-    {
-      "id": "v194",
-      "de": "sammeln",
-      "en": "to collect",
-      "pos": "verb",
-      "fa": "جمع کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-sammeln.ogg"
-    },
-    {
-      "id": "v195",
-      "de": "schließen",
-      "en": "to close",
-      "pos": "verb",
-      "fa": "بستن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/De-schlie%C3%9Fen.ogg"
-    },
-    {
-      "id": "v196",
-      "de": "schmecken",
-      "en": "to taste (be tasty)",
-      "pos": "verb",
-      "fa": "مزه دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/De-Schmecken.ogg"
-    },
-    {
-      "id": "v197",
+      "id": "v95",
       "de": "schälen",
       "en": "to peel",
       "pos": "verb",
@@ -1769,7 +993,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-sch%C3%A4len.ogg"
     },
     {
-      "id": "v198",
+      "id": "v96",
       "de": "servieren",
       "en": "serve",
       "pos": "verb",
@@ -1777,94 +1001,26 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-servieren.ogg"
     },
     {
-      "id": "v199",
-      "de": "suchen",
-      "en": "to look for",
-      "pos": "verb",
-      "fa": "جستجو کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-suchen.ogg"
-    },
-    {
-      "id": "v200",
+      "id": "v97",
       "de": "umstoßen",
       "en": "to knock over",
       "pos": "verb",
-      "fa": "نقض کردن، هل دادن و زمین زدن",
+      "fa": "نقض کردن، هل دادن و زمین زدن er stößt um",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-umsto%C3%9Fen.ogg"
     },
     {
-      "id": "v201",
-      "de": "verbringen",
-      "en": "to spend (time)",
-      "pos": "verb",
-      "fa": "سپری کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-verbringen.ogg"
-    },
-    {
-      "id": "v202",
-      "de": "Vergleichen",
-      "en": "to compare",
-      "pos": "verb",
-      "fa": "مقایسه کردن"
-    },
-    {
-      "id": "v203",
+      "id": "v98",
       "de": "verschicken",
       "en": "to send",
       "pos": "verb",
       "fa": "فرستادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/De-verschicken.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/De-verschicken.ogg",
+      "exampleDe": "Dann verschicke ich gleich die Einladungsmails.",
+      "exampleEn": "Then I'll send the invitation emails straight away.",
+      "exampleFa": "سپس ایمیل های دعوت را فوراً ارسال می کنم."
     },
     {
-      "id": "v204",
-      "de": "verschieden",
-      "en": "different",
-      "pos": "verb",
-      "fa": "متنوع، گوناگون",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-verschieden.ogg"
-    },
-    {
-      "id": "v205",
-      "de": "verstehen",
-      "en": "understand",
-      "pos": "verb",
-      "fa": "فهمیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-verstehen.ogg"
-    },
-    {
-      "id": "v206",
-      "de": "verwenden",
-      "en": "to use",
-      "pos": "verb",
-      "fa": "به کار بردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-verwenden.ogg"
-    },
-    {
-      "id": "v207",
-      "de": "wegwerfen",
-      "en": "to throw away",
-      "pos": "verb",
-      "fa": "دور انداختن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-wegwerfen.ogg"
-    },
-    {
-      "id": "v208",
-      "de": "Weihnachten",
-      "en": "christmas",
-      "pos": "verb",
-      "fa": "جشن میلاد مسیح",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Weihnachten.ogg"
-    },
-    {
-      "id": "v209",
-      "de": "wünschen",
-      "en": "to wish",
-      "pos": "verb",
-      "fa": "آرزو کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-w%C3%BCnschen.ogg"
-    },
-    {
-      "id": "v210",
+      "id": "v99",
       "de": "würfeln",
       "en": "to dice (food) or throw dice",
       "pos": "verb",
@@ -1872,7 +1028,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-w%C3%BCrfeln.ogg"
     },
     {
-      "id": "v211",
+      "id": "v100",
       "de": "würzen",
       "en": "to season",
       "pos": "verb",
@@ -1880,31 +1036,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-w%C3%BCrzen.ogg"
     },
     {
-      "id": "v212",
-      "de": "zahlen",
-      "en": "to pay",
-      "pos": "verb",
-      "fa": "پرداخت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-zahlen.ogg"
-    },
-    {
-      "id": "v213",
-      "de": "zusagen",
-      "en": "to accept (an invitation)",
-      "pos": "verb",
-      "fa": "قبول کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-zusagen.ogg"
-    },
-    {
-      "id": "v214",
-      "de": "zusammen",
-      "en": "together",
-      "pos": "verb",
-      "fa": "با هم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-zusammen.ogg"
-    },
-    {
-      "id": "v215",
+      "id": "v101",
       "de": "zustimmen",
       "en": "to agree",
       "pos": "verb",
@@ -1912,23 +1044,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-zustimmen.ogg"
     },
     {
-      "id": "v216",
-      "de": "alt",
-      "en": "old",
-      "pos": "other",
-      "fa": "قدیمی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-alt.ogg"
-    },
-    {
-      "id": "v217",
-      "de": "Apfel",
-      "en": "apple",
-      "pos": "other",
-      "fa": "اپل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-Apfel.ogg"
-    },
-    {
-      "id": "v218",
+      "id": "v102",
       "de": "Bitte bringen Sie …",
       "en": "Please bring …",
       "pos": "phrase",
@@ -1936,31 +1052,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Bitte.ogg"
     },
     {
-      "id": "v219",
-      "de": "dann",
-      "en": "then",
-      "pos": "other",
-      "fa": "بعد، بعدا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-dann.ogg"
-    },
-    {
-      "id": "v220",
-      "de": "denn",
-      "en": "because / for",
-      "pos": "other",
-      "fa": "چونکه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-denn.ogg"
-    },
-    {
-      "id": "v221",
-      "de": "doch",
-      "en": "modal particle (do / after all)",
-      "pos": "other",
-      "fa": "اما، البته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-doch.ogg"
-    },
-    {
-      "id": "v222",
+      "id": "v103",
       "de": "durstig",
       "en": "thirsty",
       "pos": "adjective",
@@ -1968,7 +1060,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-durstig.ogg"
     },
     {
-      "id": "v223",
+      "id": "v104",
       "de": "ein leckerer Salat",
       "en": "a tasty salad",
       "pos": "phrase",
@@ -1976,7 +1068,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-ein.ogg"
     },
     {
-      "id": "v224",
+      "id": "v105",
       "de": "eine kleine Party",
       "en": "a small party",
       "pos": "phrase",
@@ -1984,15 +1076,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/De-eine.ogg"
     },
     {
-      "id": "v225",
-      "de": "ernst",
-      "en": "serious",
-      "pos": "other",
-      "fa": "بطور جدی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-ernst.ogg"
-    },
-    {
-      "id": "v226",
+      "id": "v106",
       "de": "Esslöffel",
       "en": "tablespoon",
       "pos": "other",
@@ -2000,39 +1084,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/De-Essl%C3%B6ffel.ogg"
     },
     {
-      "id": "v227",
-      "de": "ganz",
-      "en": "quite",
-      "pos": "other",
-      "fa": "کاملاً؛ تمام",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-ganz.ogg"
-    },
-    {
-      "id": "v228",
-      "de": "gelb",
-      "en": "yellow",
-      "pos": "other",
-      "fa": "زرد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-gelb.ogg"
-    },
-    {
-      "id": "v229",
+      "id": "v107",
       "de": "geöffnet",
       "en": "open",
       "pos": "other",
-      "fa": "باز و بسته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-ge%C3%B6ffnet.ogg"
+      "fa": "geschlossen باز و بسته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-ge%C3%B6ffnet.ogg",
+      "exampleDe": "Mit dem werden die Türen geöffnet und die Arbeitszeit kontrolliert.",
+      "exampleEn": "This is used to open the doors and control working hours.",
+      "exampleFa": "این برای باز کردن درها و کنترل ساعات کار استفاده می شود."
     },
     {
-      "id": "v230",
-      "de": "gleich",
-      "en": "even",
-      "pos": "other",
-      "fa": "الان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-gleich.ogg"
-    },
-    {
-      "id": "v231",
+      "id": "v108",
       "de": "Guten Appetit!",
       "en": "Enjoy your meal!",
       "pos": "phrase",
@@ -2040,15 +1103,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Guten.ogg"
     },
     {
-      "id": "v232",
-      "de": "hoch",
-      "en": "high",
-      "pos": "other",
-      "fa": "بالا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-hoch.ogg"
-    },
-    {
-      "id": "v233",
+      "id": "v109",
       "de": "hungrig",
       "en": "hungry",
       "pos": "adjective",
@@ -2056,7 +1111,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/De-hungrig.ogg"
     },
     {
-      "id": "v234",
+      "id": "v110",
       "de": "Ich hätte gern …",
       "en": "I would like …",
       "pos": "phrase",
@@ -2064,31 +1119,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Ich.ogg"
     },
     {
-      "id": "v235",
-      "de": "immer",
-      "en": "always",
-      "pos": "other",
-      "fa": "همیشه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-immer.ogg"
-    },
-    {
-      "id": "v236",
-      "de": "in der Regel",
-      "en": "usually",
-      "pos": "phrase",
-      "fa": "معمولا، به صورت منظم؟",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De-in.ogg"
-    },
-    {
-      "id": "v237",
-      "de": "klein",
-      "en": "small",
-      "pos": "other",
-      "fa": "کوچک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-klein.ogg"
-    },
-    {
-      "id": "v238",
+      "id": "v111",
       "de": "köstlich",
       "en": "delicious",
       "pos": "other",
@@ -2096,47 +1127,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-k%C3%B6stlich.ogg"
     },
     {
-      "id": "v239",
+      "id": "v112",
       "de": "lecker",
       "en": "delicious",
       "pos": "adjective",
       "fa": "خوشمزه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-lecker.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-lecker.ogg",
+      "exampleDe": "Die Suppe ist sehr lecker!",
+      "exampleEn": "The soup is very tasty!",
+      "exampleFa": "سوپ خیلی خوشمزه است!"
     },
     {
-      "id": "v240",
-      "de": "natürlich",
-      "en": "naturally",
-      "pos": "other",
-      "fa": "البته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-nat%C3%BCrlich.ogg"
-    },
-    {
-      "id": "v241",
-      "de": "nebenan",
-      "en": "next door",
-      "pos": "other",
-      "fa": "در همسایگی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-nebenan.ogg"
-    },
-    {
-      "id": "v242",
-      "de": "neu",
-      "en": "new",
-      "pos": "other",
-      "fa": "جدید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-neu.ogg"
-    },
-    {
-      "id": "v243",
-      "de": "nur",
-      "en": "only",
-      "pos": "other",
-      "fa": "صرفا، فقط",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-nur.ogg"
-    },
-    {
-      "id": "v244",
+      "id": "v113",
       "de": "pro Stück",
       "en": "apiece",
       "pos": "phrase",
@@ -2144,14 +1146,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-pro.ogg"
     },
     {
-      "id": "v245",
-      "de": "schriftlich",
-      "en": "in written form",
-      "pos": "other",
-      "fa": "مکتوب"
-    },
-    {
-      "id": "v246",
+      "id": "v114",
       "de": "Teelöffel",
       "en": "teaspoon",
       "pos": "other",
@@ -2159,15 +1154,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Teel%C3%B6ffel.ogg"
     },
     {
-      "id": "v247",
+      "id": "v115",
       "de": "vegetarisch",
       "en": "vegetarian",
       "pos": "adjective",
       "fa": "گیاهخواری",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-vegetarisch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-vegetarisch.ogg",
+      "exampleDe": "Warum vegetarisch?",
+      "exampleEn": "Why vegetarian?",
+      "exampleFa": "چرا گیاهخواری؟"
     },
     {
-      "id": "v248",
+      "id": "v116",
       "de": "von nebenan",
       "en": "from next door",
       "pos": "phrase",
@@ -2175,52 +1173,12 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-von.ogg"
     },
     {
-      "id": "v249",
-      "de": "weiß",
-      "en": "white",
-      "pos": "other",
-      "fa": "سفید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-wei%C3%9F.ogg"
-    },
-    {
-      "id": "v250",
-      "de": "wenig",
-      "en": "few",
-      "pos": "other",
-      "fa": "کم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-wenig.ogg"
-    },
-    {
-      "id": "v251",
-      "de": "wieder",
-      "en": "again",
-      "pos": "other",
-      "fa": "دوباره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-wieder.ogg"
-    },
-    {
-      "id": "v252",
-      "de": "zuerst",
-      "en": "first",
-      "pos": "other",
-      "fa": "اول",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-zuerst.ogg"
-    },
-    {
-      "id": "v253",
+      "id": "v117",
       "de": "zusammengesetzt",
       "en": "compound (word)",
       "pos": "adjective",
       "fa": "تشکیل شده است",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-zusammengesetzt.ogg"
-    },
-    {
-      "id": "v254",
-      "de": "über",
-      "en": "about / over",
-      "pos": "other",
-      "fa": "بالای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-%C3%BCber.ogg"
     }
   ],
   "grammar": [

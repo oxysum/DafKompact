@@ -4,33 +4,861 @@
   "number": 27,
   "titleDe": "Geschichten und Gesichter Berlins",
   "titleEn": "Berlin's stories and faces",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Geschichten und Gesichter Berlins“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Berlin's stories and faces” in the course book",
-      "fa": "اهداف یادگیری «داستان‌ها و چهره‌های برلین» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Tour durch Berlin nachverfolgen",
+      "en": "Follow a tour through Berlin",
+      "fa": "دنبال کردن تور در برلین"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Erraten, wann jemand was gemacht hat",
+      "en": "Guess when someone did what",
+      "fa": "حدس زدن که کسی چه زمانی چه کاری کرده"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Text über die Geschichte Berlins erfassen; Geschichte der Heimatstadt vorstellen",
+      "en": "Grasp a text on Berlin’s history; present your hometown’s history",
+      "fa": "درک متن تاریخ برلین؛ معرفی تاریخ شهر خود"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "Sich über ein Thema anhand von Fotos austauschen",
+      "en": "Discuss a topic using photos",
+      "fa": "گفتگو درباره یک موضوع با کمک عکس‌ها"
+    },
+    {
+      "de": "Erzählung verstehen; eigene Geschichte und Texte über Lieblingsorte verfassen",
+      "en": "Understand a story; write your own story and texts about favorite places",
+      "fa": "فهم داستان؛ نوشتن داستان خود و متن درباره مکان‌های محبوب"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Einwohner",
+      "en": "Resident",
+      "pos": "noun",
+      "article": "der",
+      "fa": "ساکن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/De-Einwohner.ogg"
+    },
+    {
+      "id": "v2",
+      "de": "Hauptfigur",
+      "en": "Main character",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نقش اصلی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-Hauptfigur.ogg"
+    },
+    {
+      "id": "v3",
+      "de": "Jahrhundert",
+      "en": "century",
+      "pos": "noun",
+      "article": "das",
+      "fa": "صده، قرن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Jahrhundert.ogg"
+    },
+    {
+      "id": "v4",
+      "de": "Netz",
+      "en": "network",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/De-Netz.ogg",
+      "exampleDe": "Zwiebeln, das Netz, heute für 57 Cent, und das Bund Karotten, 500 Gramm, für 1,09 Euro.",
+      "exampleEn": "Onions, the net, today for 57 cents, and the bunch of carrots, 500 grams, for 1.09 euros.",
+      "exampleFa": "پیاز، تور، امروز 57 سنت، و دسته هویج، 500 گرم، 1.09 یورو."
+    },
+    {
+      "id": "v5",
+      "de": "Ruhe",
+      "en": "quiet",
+      "pos": "noun",
+      "article": "die",
+      "fa": "آرامش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Ruhe.ogg",
+      "exampleDe": "Lass mich in Ruhe!",
+      "exampleEn": "Leave me alone!",
+      "exampleFa": "مرا تنها بگذار!"
+    },
+    {
+      "id": "v6",
+      "de": "Schicksal",
+      "en": "Fate",
+      "pos": "noun",
+      "article": "das",
+      "fa": "بخت و اقبال",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-Schicksal.ogg"
+    },
+    {
+      "id": "v7",
+      "de": "Schriftsteller",
+      "en": "writer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نویسنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-Schriftsteller.ogg"
+    },
+    {
+      "id": "v8",
+      "de": "Schriftstellerin",
+      "en": "writer",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نویسنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-Schriftstellerin.ogg"
+    },
+    {
+      "id": "v9",
+      "de": "Zeitraum",
+      "en": "Period",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/De-Zeitraum.ogg"
+    },
+    {
+      "id": "v10",
+      "de": "umbauen",
+      "en": "rebuild",
+      "pos": "verb",
+      "fa": "اصلاح کردن، مودیفای کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De-umbauen.ogg"
+    },
+    {
+      "id": "v11",
+      "de": "damals",
+      "en": "at that time",
+      "pos": "other",
+      "fa": "در آن زمان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-damals.ogg",
+      "exampleDe": "Wo hast du eigentlich damals gewohnt?",
+      "exampleEn": "Where did you actually live back then?",
+      "exampleFa": "واقعاً آن موقع کجا زندگی می کردید؟"
+    },
+    {
+      "id": "v12",
+      "de": "etwa",
+      "en": "approximately",
+      "pos": "other",
+      "fa": "حدوداً",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-etwa.ogg",
+      "exampleDe": "Das Wetter in Zürich ist regnerisch bei etwa 18 Grad.",
+      "exampleEn": "The weather in Zurich is rainy at around 18 degrees.",
+      "exampleFa": "هوای زوریخ در حدود 18 درجه بارانی است."
+    },
+    {
+      "id": "v13",
+      "de": "Fünftel",
+      "en": "fifth",
+      "pos": "other",
+      "fa": "یک پنجم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-F%C3%BCnftel.ogg"
+    },
+    {
+      "id": "v14",
+      "de": "gleichzeitig",
+      "en": "at the same time",
+      "pos": "other",
+      "fa": "همزمان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-gleichzeitig.ogg",
+      "exampleDe": "Ich wollte ausweichen und hab’ gleichzeitig eine Vollbremsung gemacht, aber es hat nichts genützt.",
+      "exampleEn": "I wanted to swerve and at the same time slammed on the brakes, but it was no use.",
+      "exampleFa": "می خواستم منحرف شوم و در عین حال به ترمز زدم، اما فایده ای نداشت."
+    },
+    {
+      "id": "v15",
+      "de": "nur",
+      "en": "nur",
+      "pos": "other",
+      "fa": "صرفا، فقط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-nur.ogg",
+      "exampleDe": "Früher konnte ja deine Ur-Oma nur zu uns kommen.",
+      "exampleEn": "In the past, your great-grandma could only come to us.",
+      "exampleFa": "در گذشته، مادربزرگ شما فقط می توانست پیش ما بیاید."
+    },
+    {
+      "id": "v16",
+      "de": "Stadt",
+      "en": "Stadt",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-Stadt.ogg",
+      "exampleDe": "Das ist ja am anderen Ende der Stadt.",
+      "exampleEn": "That's at the other end of town.",
+      "exampleFa": "آن طرف شهر است."
+    },
+    {
+      "id": "v17",
+      "de": "über",
+      "en": "über",
+      "pos": "other",
+      "fa": "بالای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-%C3%BCber.ogg",
+      "exampleDe": "Na ja, über Geld?",
+      "exampleEn": "Well, about money?",
+      "exampleFa": "خوب، در مورد پول؟"
+    },
+    {
+      "id": "v18",
+      "de": "Foto",
+      "en": "Foto",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Foto.ogg",
+      "exampleDe": "Möchtest du die Fotos vom alten Ostberlin mal sehen?",
+      "exampleEn": "Would you like to see the photos of old East Berlin?",
+      "exampleFa": "آیا دوست دارید عکس های برلین شرقی قدیمی را ببینید؟"
+    },
+    {
+      "id": "v19",
+      "de": "Geschichte",
+      "en": "Geschichte",
+      "pos": "noun",
+      "article": "die",
+      "fa": "داستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Geschichte.ogg",
+      "exampleDe": "Ich habe Ihre Webseite genau angeschaut: Und ich kenne jetzt die Geschichte Ihrer Firma.",
+      "exampleEn": "I took a close look at your website: And I now know the history of your company.",
+      "exampleFa": "من به وب سایت شما نگاهی دقیق انداختم: و اکنون تاریخچه شرکت شما را می دانم."
+    },
+    {
+      "id": "v20",
+      "de": "Thema",
+      "en": "Thema",
+      "pos": "noun",
+      "article": "das",
+      "fa": "عنوان. مطلب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Thema.ogg",
+      "exampleDe": "Ich interessiere mich für Filme und möchte wissen, ob es auch Führungen zum Thema „Film“ gibt.",
+      "exampleEn": "I am interested in films and would like to know whether there are also guided tours on the subject of film.",
+      "exampleFa": "من به فیلم ها علاقه مند هستم و می خواهم بدانم که آیا تورهایی با راهنما با موضوع فیلم نیز وجود دارد؟"
+    },
+    {
+      "id": "v21",
+      "de": "dort",
+      "en": "dort",
+      "pos": "other",
+      "fa": "آنجا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-dort.ogg",
+      "exampleDe": "Sie war so glücklich, dass sie sie endlich mal dort besuchen konnte.",
+      "exampleEn": "She was so happy that she could finally visit them there.",
+      "exampleFa": "او خیلی خوشحال بود که بالاخره توانست در آنجا به دیدار آنها برود."
+    },
+    {
+      "id": "v22",
+      "de": "König",
+      "en": "king",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پادشاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-K%C3%B6nig.ogg",
+      "exampleDe": "Da spielt „König der Löwen“.",
+      "exampleEn": "“The Lion King” is playing there.",
+      "exampleFa": "\"شیر شاه\" در آنجا پخش می شود."
+    },
+    {
+      "id": "v23",
+      "de": "Bild",
+      "en": "Bild",
+      "pos": "noun",
+      "article": "das",
+      "fa": "شکل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-Bild.ogg",
+      "exampleDe": "Paul Klee hat für dieses Bild den Titel …",
+      "exampleEn": "Paul Klee titled this picture...",
+      "exampleFa": "پل کلی این عکس را ..."
+    },
+    {
+      "id": "v24",
+      "de": "perfekt",
+      "en": "perfekt",
+      "pos": "other",
+      "fa": "بی عیب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-Perfekt.ogg",
+      "exampleDe": "Sie sprechen ja perfekt Deutsch.",
+      "exampleEn": "You speak perfect German.",
+      "exampleFa": "شما آلمانی کامل صحبت می کنید."
+    },
+    {
+      "id": "v25",
+      "de": "Gespräch",
+      "en": "Gespräch",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Gespr%C3%A4ch.ogg",
+      "exampleDe": "Viel Spaß noch in Köln und danke für das Gespräch.",
+      "exampleEn": "Have fun in Cologne and thank you for the conversation.",
+      "exampleFa": "در کلن خوش بگذرانید و از صحبت شما متشکرم."
+    },
+    {
+      "id": "v26",
+      "de": "dann",
+      "en": "dann",
+      "pos": "other",
+      "fa": "بعد، بعدا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-dann.ogg",
+      "exampleDe": "Tschüss dann.",
+      "exampleEn": "Bye then.",
+      "exampleFa": "پس خداحافظ"
+    },
+    {
+      "id": "v27",
+      "de": "wenig",
+      "en": "wenig",
+      "pos": "other",
+      "fa": "کم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-wenig.ogg",
+      "exampleDe": "Ich hab’ auch nur wenig.",
+      "exampleEn": "I also only have a little.",
+      "exampleFa": "من هم فقط کمی دارم."
+    },
+    {
+      "id": "v28",
+      "de": "Verkäufer",
+      "en": "salesperson",
+      "pos": "noun",
+      "article": "der",
+      "fa": "فروشنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/De-Verk%C3%A4ufer.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Vater",
+      "en": "father",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پدر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Vater.ogg",
+      "exampleDe": "Ist das dein Vater?",
+      "exampleEn": "Is that your father?",
+      "exampleFa": "اون پدرت هست؟"
+    },
+    {
+      "id": "v30",
+      "de": "Restaurant",
+      "en": "Restaurant",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Restaurant.ogg",
+      "exampleDe": "Hier gibt’s viele kleine Geschäfte und Restaurants.",
+      "exampleEn": "There are many small shops and restaurants here.",
+      "exampleFa": "مغازه ها و رستوران های کوچک زیادی در اینجا وجود دارد."
+    },
+    {
+      "id": "v31",
+      "de": "Nichts",
+      "en": "Nichts",
+      "pos": "noun",
+      "article": "das",
+      "fa": "هیچ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-Nichts.ogg",
+      "exampleDe": "Nichts frei.",
+      "exampleEn": "Nothing free.",
+      "exampleFa": "هیچ چیز رایگان."
+    },
+    {
+      "id": "v32",
+      "de": "Markt",
+      "en": "market",
+      "pos": "noun",
+      "article": "der",
+      "fa": "فروشگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Markt.ogg"
+    },
+    {
+      "id": "v33",
+      "de": "ganz",
+      "en": "ganz",
+      "pos": "other",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-ganz.ogg",
+      "exampleDe": "Deine Mama war ganz überrascht, weil sie ja am Tag davor erst ihr Visum für einen Besuch bei ihrer Oma in Düsseldorf bekommen hatte.",
+      "exampleEn": "Your mom was completely surprised because she had just gotten her visa to visit her grandma in Düsseldorf the day before.",
+      "exampleFa": "مادر شما کاملاً متعجب شده بود زیرا روز قبل ویزا برای دیدار مادربزرگش در دوسلدورف گرفته بود."
+    },
+    {
+      "id": "v34",
+      "de": "erkennen",
+      "en": "erkennen",
+      "pos": "verb",
+      "fa": "شناختن er erkennt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-erkennen.ogg"
+    },
+    {
+      "id": "v35",
+      "de": "stattfinden",
+      "en": "to take place",
+      "pos": "verb",
+      "fa": "برگذار شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-stattfinden.ogg"
+    },
+    {
+      "id": "v36",
+      "de": "selbst",
+      "en": "selbst",
+      "pos": "other",
+      "fa": "خود، شخص",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/De-selbst.ogg",
+      "exampleDe": "Haben Sie selbst noch Fragen?",
+      "exampleEn": "Do you have any questions of your own?",
+      "exampleFa": "آیا از خودتان سوالی دارید؟"
+    },
+    {
+      "id": "v37",
+      "de": "sagen",
+      "en": "sagen",
+      "pos": "verb",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-sagen.ogg",
+      "exampleDe": "Sag es mir sofort!",
+      "exampleEn": "Tell me immediately!",
+      "exampleFa": "فورا به من بگو!"
+    },
+    {
+      "id": "v38",
+      "de": "Sache",
+      "en": "matter",
+      "pos": "noun",
+      "article": "die",
+      "fa": "چیز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Sache.ogg",
+      "exampleDe": "Eine Sache möchte ich noch wissen.",
+      "exampleEn": "I would like to know one more thing.",
+      "exampleFa": "من می خواهم یک چیز دیگر بدانم."
+    },
+    {
+      "id": "v39",
+      "de": "regnen",
+      "en": "to rain",
+      "pos": "verb",
+      "fa": "باران باریدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-regnen.ogg"
+    },
+    {
+      "id": "v40",
+      "de": "Platz",
+      "en": "Platz",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مکان، میدان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Platz.ogg",
+      "exampleDe": "Da ist Platz und das passt.",
+      "exampleEn": "There is space and it fits.",
+      "exampleFa": "فضا وجود دارد و مناسب است."
+    },
+    {
+      "id": "v41",
+      "de": "Meinung",
+      "en": "Meinung",
+      "pos": "noun",
+      "article": "die",
+      "fa": "عقیده ، نظر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-Meinung.ogg",
+      "exampleDe": "Meiner Meinung nach wäre das die beste Variante.",
+      "exampleEn": "In my opinion that would be the best option.",
+      "exampleFa": "به نظر من این بهترین گزینه خواهد بود."
+    },
+    {
+      "id": "v42",
+      "de": "Ereignis",
+      "en": "event",
+      "pos": "noun",
+      "article": "das",
+      "fa": "پیش آمد، رخداد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-Ereignis.ogg"
+    },
+    {
+      "id": "v43",
+      "de": "Ende",
+      "en": "Ende",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Ende.ogg",
+      "exampleDe": "Das ist ja am anderen Ende der Stadt.",
+      "exampleEn": "That's at the other end of town.",
+      "exampleFa": "آن طرف شهر است."
+    },
+    {
+      "id": "v44",
+      "de": "drücken",
+      "en": "drücken",
+      "pos": "verb",
+      "fa": "hat gedrückt فشار دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/De-dr%C3%BCcken.ogg",
+      "exampleDe": "Paul drück’ mal den Knopf hier.",
+      "exampleEn": "Paul, press the button here.",
+      "exampleFa": "پل، دکمه را در اینجا فشار دهید."
+    },
+    {
+      "id": "v45",
+      "de": "Bahnhof",
+      "en": "train station",
+      "pos": "noun",
+      "article": "der",
+      "fa": "ایسگاه قطار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Bahnhof.ogg",
+      "exampleDe": "Aber ich verstehe nur Bahnhof.",
+      "exampleEn": "But I only understand train station.",
+      "exampleFa": "اما من فقط ایستگاه قطار را می فهمم."
+    },
+    {
+      "id": "v46",
+      "de": "Woche",
+      "en": "Woche",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-Woche.ogg",
+      "exampleDe": "Seit einer Woche.",
+      "exampleEn": "For a week.",
+      "exampleFa": "به مدت یک هفته"
+    },
+    {
+      "id": "v47",
+      "de": "wirken",
+      "en": "works",
+      "pos": "verb",
+      "fa": "به نظر رسیدن er wirkt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-wirken.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Winter",
+      "en": "winter",
+      "pos": "noun",
+      "article": "der",
+      "fa": "زمستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-Winter.ogg",
+      "exampleDe": "Ach, das ist im Winter bestimmt traumhaft schön!",
+      "exampleEn": "Oh, that must be absolutely beautiful in winter!",
+      "exampleFa": "اوه، این باید در زمستان کاملاً زیبا باشد!"
+    },
+    {
+      "id": "v49",
+      "de": "weiß",
+      "en": "weiß",
+      "pos": "other",
+      "fa": "سفید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-wei%C3%9F.ogg",
+      "exampleDe": "Ja, ich weiß.",
+      "exampleEn": "Yes I know.",
+      "exampleFa": "بله می دانم."
+    },
+    {
+      "id": "v50",
+      "de": "Ware",
+      "en": "goods",
+      "pos": "noun",
+      "article": "die",
+      "fa": "محصول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Ware.ogg",
+      "exampleDe": "Puh, das waren echt andere Zeiten.",
+      "exampleEn": "Phew, those were really different times.",
+      "exampleFa": "وای، آن زمان‌ها واقعاً زمان‌های متفاوتی بودند."
+    },
+    {
+      "id": "v51",
+      "de": "Wand",
+      "en": "wall",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دیوار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/De-Wand.ogg",
+      "exampleDe": "Am besten an die Wand rechts, neben die Tür.",
+      "exampleEn": "It's best to put it on the wall on the right, next to the door.",
+      "exampleFa": "بهتر است آن را روی دیوار سمت راست، کنار در قرار دهید."
+    },
+    {
+      "id": "v52",
+      "de": "vielfältig",
+      "en": "diverse",
+      "pos": "other",
+      "fa": "متنوع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/De-vielf%C3%A4ltig.ogg"
+    },
+    {
+      "id": "v53",
+      "de": "versuchen",
+      "en": "to try",
+      "pos": "verb",
+      "fa": "سعی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-versuchen.ogg",
+      "exampleDe": "Versuchen Sie es doch mal.",
+      "exampleEn": "Give it a try.",
+      "exampleFa": "آن را امتحان کنید."
+    },
+    {
+      "id": "v54",
+      "de": "verbringen",
+      "en": "to spend (time)",
+      "pos": "verb",
+      "fa": "سپری کردن er verbringt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-verbringen.ogg",
+      "exampleDe": "Also ich meine, wie verbringen wir Heiligabend?",
+      "exampleEn": "So I mean, how do we spend Christmas Eve?",
+      "exampleFa": "پس منظورم این است که شب کریسمس را چگونه بگذرانیم؟"
+    },
+    {
+      "id": "v55",
+      "de": "Urlaub",
+      "en": "Urlaub",
+      "pos": "noun",
+      "article": "der",
+      "fa": "تعطیلات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Urlaub.ogg",
+      "exampleDe": "Andere fahren in Urlaub.",
+      "exampleEn": "Others go on vacation.",
+      "exampleFa": "دیگران به تعطیلات می روند."
+    },
+    {
+      "id": "v56",
+      "de": "unterwegs",
+      "en": "on the way",
+      "pos": "other",
+      "fa": "بیرون، در جاده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-unterwegs.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "türkis",
+      "en": "turquoise",
+      "pos": "other",
+      "fa": "فیروزه ای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-t%C3%BCrkis.ogg"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Plusquamperfekt Aktiv und Passiv",
+      "titleEn": "Past perfect active and passive",
+      "explanationEn": "Active: hatte/war + Partizip II — After something earlier in the past. Passive: war/waren + Partizip II + worden — Die Mauer war 1961 gebaut worden (context of later past narration).",
+      "patterns": [
+        "hatte … gemacht",
+        "war … geworden / gegangen",
+        "war … worden (Passiv)"
+      ],
+      "examples": [
+        {
+          "de": "Nachdem er angekommen war, besuchte er das Brandenburger Tor.",
+          "en": "After he had arrived, he visited the Brandenburg Gate.",
+          "fa": "بعد از آنکه رسیده بود، از دروازه براندنبورگ دیدن کرد."
+        },
+        {
+          "de": "Die Mauer war schon gefallen, bevor ich Berlin sah.",
+          "en": "The Wall had already fallen before I saw Berlin.",
+          "fa": "دیوار قبلاً فروریخته بود، قبل از آنکه برلین را ببینم."
+        }
+      ],
+      "titleFa": "ماضی بعید فعال و مجهول"
+    },
+    {
+      "id": "g2",
+      "titleDe": "nachdem / bevor / während",
+      "titleEn": "after / before / while",
+      "explanationEn": "nachdem + Plusquamperfekt (earlier action) → main clause Perfekt/Präteritum. bevor + Präsens/Präteritum for later action. während for simultaneous actions (Gleichzeitigkeit).",
+      "patterns": [
+        "Nachdem … Plq., …",
+        "Bevor … , …",
+        "Während … , …"
+      ],
+      "examples": [
+        {
+          "de": "Nachdem wir das Museum besichtigt hatten, gingen wir essen.",
+          "en": "After we had visited the museum, we went to eat.",
+          "fa": "بعد از آنکه موزه را دیده بودیم، رفتیم غذا بخوریم."
+        },
+        {
+          "de": "Bevor die Führung begann, kauften wir Tickets.",
+          "en": "Before the tour began, we bought tickets.",
+          "fa": "قبل از شروع تور، بلیت خریدیم."
+        },
+        {
+          "de": "Während er fotografierte, erzählte die Guide die Geschichte.",
+          "en": "While he was taking photos, the guide told the story.",
+          "fa": "در حالی که عکس می‌گرفت، راهنما تاریخ را تعریف می‌کرد."
+        }
+      ],
+      "titleFa": "nachdem / bevor / während"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "Plusquamperfekt",
+      "promptEn": "Past perfect",
+      "content": "Er ___ die Ausstellung schon gesehen, bevor wir kamen.",
+      "answer": "hatte",
+      "grammarId": "g1",
+      "options": [
+        "hatte",
+        "hat",
+        "hatte gewesen"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "Passiv Plq.",
+      "promptEn": "Passive plq.",
+      "content": "Das Denkmal ___ 1989 eingeweiht worden.",
+      "answer": "war",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "nachdem",
+      "promptEn": "after",
+      "content": "___ wir angekommen waren, begann die Tour.",
+      "answer": "Nachdem",
+      "grammarId": "g2",
+      "options": [
+        "Nachdem",
+        "Bevor",
+        "Während"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "bevor",
+      "promptEn": "before",
+      "content": "___ du gehst, schau noch die East Side Gallery an.",
+      "answer": "Bevor",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "während",
+      "promptEn": "while",
+      "content": "Während | sie | erzählte | , | machten | wir | Notizen | .",
+      "answer": "Während sie erzählte, machten wir Notizen.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Plq. Verb",
+      "promptEn": "Plq. verb",
+      "content": "Sie ___ schon nach Berlin gezogen, als ich sie traf.",
+      "answer": "war",
+      "grammarId": "g1",
+      "options": [
+        "war",
+        "ist",
+        "wurde"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Nachdem er die Geschichte ___ , stellte er Fragen. (lesen)",
+      "answer": "gelesen hatte",
+      "options": [
+        "gelesen hatte",
+        "gelesen hat",
+        "lesen hatte"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Die Brücke ___ schon gebaut worden, bevor der Krieg endete.",
+      "answer": "war",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "___ wir fotografierten, erklärte der Guide die Fassade.",
+      "answer": "Während",
+      "options": [
+        "Während",
+        "Nachdem",
+        "Bevor"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: ___ die Nacht kam, war die Stadt noch hell.",
+      "answer": "Bevor",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Sie ___ den Roman schon gelesen, als der Film startete.",
+      "answer": "hatte",
+      "options": [
+        "hatte",
+        "hat",
+        "war"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: Nachdem wir gegessen ___ , gingen wir weiter.",
+      "answer": "hatten",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„die Woche“ means…",
+      "answer": "Woche",
+      "options": [
+        "Meinung",
+        "Restaurant",
+        "Woche"
+      ],
+      "vocabId": "v46"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“Restaurant”:",
+      "answer": "das Restaurant",
+      "options": [
+        "das Restaurant",
+        "die Meinung",
+        "die Woche"
+      ],
+      "vocabId": "v30"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„die Meinung“ means…",
+      "answer": "Meinung",
+      "options": [
+        "Restaurant",
+        "Woche",
+        "Meinung"
+      ],
+      "vocabId": "v41"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“Geschichte”:",
+      "answer": "die Geschichte",
+      "options": [
+        "die Geschichte",
+        "die Woche",
+        "das Restaurant"
+      ],
+      "vocabId": "v19"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t49",

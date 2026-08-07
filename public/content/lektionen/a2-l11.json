@@ -30,15 +30,6 @@
   "vocab": [
     {
       "id": "v1",
-      "de": "Abitur",
-      "en": "high school diploma",
-      "pos": "noun",
-      "article": "das",
-      "fa": "دیپلم",
-      "audioUrl": "/audio/vocab/abitur.mp3"
-    },
-    {
-      "id": "v2",
       "de": "Abschlusstest",
       "en": "Final test",
       "pos": "noun",
@@ -46,25 +37,19 @@
       "fa": "امتحان نهایی"
     },
     {
-      "id": "v3",
+      "id": "v2",
       "de": "Akademie",
       "en": "academy",
       "pos": "noun",
       "article": "die",
       "fa": "آکادمی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Akademie.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Akademie.ogg",
+      "exampleDe": "Bei der WAV-Akademie in Tübingen.",
+      "exampleEn": "At the WAV Academy in Tübingen.",
+      "exampleFa": "در آکادمی WAV در توبینگن."
     },
     {
-      "id": "v4",
-      "de": "Alltag",
-      "en": "everyday life",
-      "pos": "noun",
-      "article": "der",
-      "fa": "روزمره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Alltag.ogg"
-    },
-    {
-      "id": "v5",
+      "id": "v3",
       "de": "Altpapier",
       "en": "Waste paper",
       "pos": "noun",
@@ -73,16 +58,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Altpapier.ogg"
     },
     {
-      "id": "v6",
-      "de": "Anfang",
-      "en": "beginning",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آغاز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Anfang.ogg"
-    },
-    {
-      "id": "v7",
+      "id": "v4",
       "de": "Anfangszeitpunkt",
       "en": "Start time",
       "pos": "noun",
@@ -90,88 +66,19 @@
       "fa": "زمان آغاز"
     },
     {
-      "id": "v8",
-      "de": "Angst",
-      "en": "fear",
-      "pos": "noun",
-      "article": "die",
-      "fa": "ترس و هراس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-Angst.ogg"
-    },
-    {
-      "id": "v9",
-      "de": "Antwort",
-      "en": "answer",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پاسخ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Antwort.ogg"
-    },
-    {
-      "id": "v10",
-      "de": "Artikel",
-      "en": "article",
-      "pos": "noun",
-      "article": "der",
-      "fa": "حرف تعریف؛ مقاله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Artikel.ogg"
-    },
-    {
-      "id": "v11",
-      "de": "Arzt",
-      "en": "doctor",
-      "pos": "noun",
-      "article": "der",
-      "fa": "پزشک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Arzt.ogg"
-    },
-    {
-      "id": "v12",
-      "de": "Aschermittwoch",
-      "en": "Ash Wednesday",
-      "pos": "noun",
-      "article": "der",
-      "fa": "چهارشنبه خاکستر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Aschermittwoch.ogg"
-    },
-    {
-      "id": "v13",
-      "de": "Auge",
-      "en": "eye",
-      "pos": "noun",
-      "article": "das",
-      "fa": "چشم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-Auge.ogg"
-    },
-    {
-      "id": "v14",
-      "de": "Ausland",
-      "en": "abroad",
-      "pos": "noun",
-      "article": "das",
-      "fa": "خارج از کشور",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Ausland.ogg"
-    },
-    {
-      "id": "v15",
+      "id": "v5",
       "de": "Auslandserfahrung",
       "en": "Foreign experience",
       "pos": "noun",
       "article": "die",
       "fa": "تجربه اقامت در خارج از کشور",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-Auslandserfahrung.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-Auslandserfahrung.ogg",
+      "exampleDe": "Ich möchte nämlich später für eine internationale Organisation arbeiten und da braucht man unbedingt Auslandserfahrung.",
+      "exampleEn": "I would like to work for an international organization later on and you definitely need international experience.",
+      "exampleFa": "من می خواهم بعداً برای یک سازمان بین المللی کار کنم و شما قطعاً به تجربه بین المللی نیاز دارید."
     },
     {
-      "id": "v16",
-      "de": "Bad",
-      "en": "bathroom / bath",
-      "pos": "noun",
-      "article": "das",
-      "fa": "حمام",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Bad.ogg"
-    },
-    {
-      "id": "v17",
+      "id": "v6",
       "de": "Bankschalter",
       "en": "bank counter",
       "pos": "noun",
@@ -180,7 +87,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/De-Bankschalter.ogg"
     },
     {
-      "id": "v18",
+      "id": "v7",
       "de": "Bargeld",
       "en": "cash",
       "pos": "noun",
@@ -189,34 +96,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-Bargeld.ogg"
     },
     {
-      "id": "v19",
-      "de": "Beratung",
-      "en": "advice",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مشاوره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/De-Beratung.ogg"
-    },
-    {
-      "id": "v20",
-      "de": "Besuch",
-      "en": "visit",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دیدار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Besuch.ogg"
-    },
-    {
-      "id": "v21",
-      "de": "Besucher",
-      "en": "visitor",
-      "pos": "noun",
-      "article": "der",
-      "fa": "بازدید کننده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/De-Besucher.ogg"
-    },
-    {
-      "id": "v22",
+      "id": "v8",
       "de": "Bibliothek",
       "en": "library",
       "pos": "noun",
@@ -225,52 +105,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Bibliothek.ogg"
     },
     {
-      "id": "v23",
-      "de": "Bild",
-      "en": "picture / painting",
-      "pos": "noun",
-      "article": "das",
-      "fa": "شکل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-Bild.ogg"
-    },
-    {
-      "id": "v24",
-      "de": "Bitte",
-      "en": "please; request",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خواهش؛ لطفاً",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Bitte.ogg"
-    },
-    {
-      "id": "v25",
-      "de": "Blick",
-      "en": "look; view",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نگاه؛ چشم‌انداز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Blick.ogg"
-    },
-    {
-      "id": "v26",
-      "de": "Buch",
-      "en": "book",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کتاب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Buch.ogg"
-    },
-    {
-      "id": "v27",
-      "de": "Bürger",
-      "en": "citizens",
-      "pos": "noun",
-      "article": "der",
-      "fa": "شهروند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-B%C3%BCrger.ogg"
-    },
-    {
-      "id": "v28",
+      "id": "v9",
       "de": "Bürgerin",
       "en": "citizen",
       "pos": "noun",
@@ -279,61 +114,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-B%C3%BCrgerin.ogg"
     },
     {
-      "id": "v29",
-      "de": "Büro",
-      "en": "office",
-      "pos": "noun",
-      "article": "das",
-      "fa": "دفتر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/De-B%C3%BCro.ogg"
-    },
-    {
-      "id": "v30",
-      "de": "Dialekt",
-      "en": "dialect",
-      "pos": "noun",
-      "article": "der",
-      "fa": "eو گویش، لهجه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Dialekt.ogg"
-    },
-    {
-      "id": "v31",
-      "de": "Dom",
-      "en": "cathedral",
-      "pos": "noun",
-      "article": "der",
-      "fa": "کلیسای جامع",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-Dom.ogg"
-    },
-    {
-      "id": "v32",
-      "de": "Ei",
-      "en": "egg",
-      "pos": "noun",
-      "article": "das",
-      "fa": "تخم‌مرغ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/De-Ei.ogg"
-    },
-    {
-      "id": "v33",
-      "de": "Ende",
-      "en": "ending",
-      "pos": "noun",
-      "article": "das",
-      "fa": "پایان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Ende.ogg"
-    },
-    {
-      "id": "v34",
-      "de": "Endung",
-      "en": "ending (grammar)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پایان (دستوری)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-Endung.ogg"
-    },
-    {
-      "id": "v35",
+      "id": "v10",
       "de": "Endzeitpunkt",
       "en": "end time",
       "pos": "noun",
@@ -341,25 +122,7 @@
       "fa": "زمان پایان"
     },
     {
-      "id": "v36",
-      "de": "Erfahrung",
-      "en": "experience",
-      "pos": "noun",
-      "article": "die",
-      "fa": "تجربه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-Erfahrung.ogg"
-    },
-    {
-      "id": "v37",
-      "de": "Essen",
-      "en": "food; to eat",
-      "pos": "noun",
-      "article": "das",
-      "fa": "غذا؛ خوردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Essen.ogg"
-    },
-    {
-      "id": "v38",
+      "id": "v11",
       "de": "Export",
       "en": "export",
       "pos": "noun",
@@ -368,34 +131,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/De-Export.ogg"
     },
     {
-      "id": "v39",
+      "id": "v12",
       "de": "Fach",
       "en": "Academic subject",
       "pos": "noun",
       "article": "das",
       "fa": "رشته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-Fach.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-Fach.ogg",
+      "exampleDe": "Na, das ist doch ein interessantes Fach!",
+      "exampleEn": "Well, that's an interesting subject!",
+      "exampleFa": "خب موضوع جالبی است!"
     },
     {
-      "id": "v40",
-      "de": "Firma",
-      "en": "company",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شرکت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-Firma.ogg"
-    },
-    {
-      "id": "v41",
-      "de": "Fremdsprache",
-      "en": "Foreign language",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زبان بیگانه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-Fremdsprache.ogg"
-    },
-    {
-      "id": "v42",
+      "id": "v13",
       "de": "Freundschaft",
       "en": "friendship",
       "pos": "noun",
@@ -404,7 +152,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-Freundschaft.ogg"
     },
     {
-      "id": "v43",
+      "id": "v14",
       "de": "Färbung",
       "en": "coloring",
       "pos": "noun",
@@ -413,16 +161,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-F%C3%A4rbung.ogg"
     },
     {
-      "id": "v44",
-      "de": "Geburtstag",
-      "en": "birthday",
-      "pos": "noun",
-      "article": "der",
-      "fa": "روز تولد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-Geburtstag.ogg"
-    },
-    {
-      "id": "v45",
+      "id": "v15",
       "de": "Gebühr",
       "en": "fee",
       "pos": "noun",
@@ -431,16 +170,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/De-Geb%C3%BChr.ogg"
     },
     {
-      "id": "v46",
-      "de": "Geschenk",
-      "en": "gift / present",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هدیه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-Geschenk.ogg"
-    },
-    {
-      "id": "v47",
+      "id": "v16",
       "de": "Geschirrspüler",
       "en": "dishwasher",
       "pos": "noun",
@@ -449,70 +179,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-Geschirrsp%C3%BCler.ogg"
     },
     {
-      "id": "v48",
-      "de": "Gespräch",
-      "en": "conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Gespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v49",
-      "de": "Girokonto",
-      "en": "checking account",
-      "pos": "noun",
-      "article": "das",
-      "fa": "حساب جاری",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-Girokonto.ogg"
-    },
-    {
-      "id": "v50",
-      "de": "GmbH",
-      "en": "Ltd (GmbH)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شرکت با مسئولیت محدود (آلمانی)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-GmbH.ogg"
-    },
-    {
-      "id": "v51",
-      "de": "Grammatik",
-      "en": "grammar",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دستور زبان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Grammatik.ogg"
-    },
-    {
-      "id": "v52",
-      "de": "Grund",
-      "en": "reason",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دلیل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-Grund.ogg"
-    },
-    {
-      "id": "v53",
-      "de": "Gruppe",
-      "en": "group",
-      "pos": "noun",
-      "article": "die",
-      "fa": "گروه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-Gruppe.ogg"
-    },
-    {
-      "id": "v54",
-      "de": "Gruß",
-      "en": "greeting",
-      "pos": "noun",
-      "article": "der",
-      "fa": "درود",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Gru%C3%9F.ogg"
-    },
-    {
-      "id": "v55",
+      "id": "v17",
       "de": "Haustür",
       "en": "Front door",
       "pos": "noun",
@@ -521,16 +188,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Haust%C3%BCr.ogg"
     },
     {
-      "id": "v56",
-      "de": "Heimat",
-      "en": "home country / hometown",
-      "pos": "noun",
-      "article": "die",
-      "fa": "وطن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Heimat.ogg"
-    },
-    {
-      "id": "v57",
+      "id": "v18",
       "de": "Heizkosten",
       "en": "Heating costs",
       "pos": "noun",
@@ -539,34 +197,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-Heizkosten.ogg"
     },
     {
-      "id": "v58",
-      "de": "Hochdeutsch",
-      "en": "High German",
-      "pos": "noun",
-      "article": "das",
-      "fa": "زبان آلمانی استاندارد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-Hochdeutsch.ogg"
-    },
-    {
-      "id": "v59",
-      "de": "Hochschule",
-      "en": "college",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دانشگاه، مرکز آموزش عالی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Hochschule.ogg"
-    },
-    {
-      "id": "v60",
-      "de": "Hotel",
-      "en": "hotel",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هتل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/De-Hotel.ogg"
-    },
-    {
-      "id": "v61",
+      "id": "v19",
       "de": "Häufigkeit",
       "en": "frequency",
       "pos": "noun",
@@ -575,25 +206,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-H%C3%A4ufigkeit.ogg"
     },
     {
-      "id": "v62",
-      "de": "Höhepunkt",
-      "en": "climax",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نقطه اوج",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/De-H%C3%B6hepunkt.ogg"
-    },
-    {
-      "id": "v63",
-      "de": "Interview",
-      "en": "interview",
-      "pos": "noun",
-      "article": "das",
-      "fa": "مصاحبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-Interview.ogg"
-    },
-    {
-      "id": "v64",
+      "id": "v20",
       "de": "Jahresputz",
       "en": "Annual cleaning",
       "pos": "noun",
@@ -601,7 +214,7 @@
       "fa": "خانه تکانی"
     },
     {
-      "id": "v65",
+      "id": "v21",
       "de": "Jahreszeit",
       "en": "season",
       "pos": "noun",
@@ -610,34 +223,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-Jahreszeit.ogg"
     },
     {
-      "id": "v66",
-      "de": "Juni",
-      "en": "june",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ژوئن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-Juni.ogg"
-    },
-    {
-      "id": "v67",
-      "de": "Karneval",
-      "en": "carnival",
-      "pos": "noun",
-      "article": "der",
-      "fa": "کارنوال",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-Karneval.ogg"
-    },
-    {
-      "id": "v68",
-      "de": "Karte",
-      "en": "card",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نقشه؛ کارت؛ منو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-Karte.ogg"
-    },
-    {
-      "id": "v69",
+      "id": "v22",
       "de": "Klub",
       "en": "club",
       "pos": "noun",
@@ -646,25 +232,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-Klub.ogg"
     },
     {
-      "id": "v70",
+      "id": "v23",
       "de": "Kneipe",
       "en": "bar",
       "pos": "noun",
       "article": "die",
       "fa": "میکده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-Kneipe.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-Kneipe.ogg",
+      "exampleDe": "Zu dem Kneipen- und Musik-Festival „Isle of Music“ kommt jährlich vor allem ein jüngeres Publikum.",
+      "exampleEn": "A younger audience in particular comes to the “Isle of Music” pub and music festival every year.",
+      "exampleFa": "به‌ویژه مخاطبان جوان‌تری هر سال به میخانه و جشنواره موسیقی «Isle of Music» می‌آیند."
     },
     {
-      "id": "v71",
-      "de": "Kollegin",
-      "en": "colleague",
-      "pos": "noun",
-      "article": "die",
-      "fa": "همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Kollegin.ogg"
-    },
-    {
-      "id": "v72",
+      "id": "v24",
       "de": "Komma",
       "en": "comma",
       "pos": "noun",
@@ -673,16 +253,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Komma.ogg"
     },
     {
-      "id": "v73",
-      "de": "Kommunikation",
-      "en": "communication",
-      "pos": "noun",
-      "article": "die",
-      "fa": "ارتباطات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Kommunikation.ogg"
-    },
-    {
-      "id": "v74",
+      "id": "v25",
       "de": "Kommunikationsmittel",
       "en": "means of communication",
       "pos": "noun",
@@ -691,88 +262,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Kommunikationsmittel.ogg"
     },
     {
-      "id": "v75",
-      "de": "Konto",
-      "en": "account",
-      "pos": "noun",
-      "article": "das",
-      "fa": "حساب بانکی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-Konto.ogg"
-    },
-    {
-      "id": "v76",
-      "de": "Kunde",
-      "en": "customer",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مشتری مذکر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-Kunde.ogg"
-    },
-    {
-      "id": "v77",
-      "de": "Kurs",
-      "en": "course",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دوره؛ کلاس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Kurs.ogg"
-    },
-    {
-      "id": "v78",
-      "de": "Kursbuch",
-      "en": "course book",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کتاب دوره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Kursbuch.ogg"
-    },
-    {
-      "id": "v79",
-      "de": "Küche",
-      "en": "kitchen",
-      "pos": "noun",
-      "article": "die",
-      "fa": "آشپزخانه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/De-K%C3%BCche.ogg"
-    },
-    {
-      "id": "v80",
-      "de": "Laut",
-      "en": "loud",
-      "pos": "noun",
-      "article": "der",
-      "fa": "بلند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-Laut.ogg"
-    },
-    {
-      "id": "v81",
-      "de": "Leben",
-      "en": "to live (be alive)",
-      "pos": "noun",
-      "article": "das",
-      "fa": "زندگی؛ زنده بودن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Leben.ogg"
-    },
-    {
-      "id": "v82",
-      "de": "Leute",
-      "en": "people",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مردم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Leute.ogg"
-    },
-    {
-      "id": "v83",
-      "de": "Liste",
-      "en": "list",
-      "pos": "noun",
-      "article": "die",
-      "fa": "فهرست",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Liste.ogg"
-    },
-    {
-      "id": "v84",
+      "id": "v26",
       "de": "Literatur",
       "en": "literature",
       "pos": "noun",
@@ -781,34 +271,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Literatur.ogg"
     },
     {
-      "id": "v85",
-      "de": "Mal",
-      "en": "modal particle (just / once)",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هربار، هر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Mal.ogg"
-    },
-    {
-      "id": "v86",
-      "de": "Meinung",
-      "en": "opinion",
-      "pos": "noun",
-      "article": "die",
-      "fa": "عقیده، نظر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-Meinung.ogg"
-    },
-    {
-      "id": "v87",
-      "de": "Mitbewohner",
-      "en": "flatmate",
-      "pos": "noun",
-      "article": "der",
-      "fa": "هم اتاق",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/De-Mitbewohner.ogg"
-    },
-    {
-      "id": "v88",
+      "id": "v27",
       "de": "Mitbewohnerin",
       "en": "flatmate (f)",
       "pos": "noun",
@@ -817,70 +280,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-Mitbewohnerin.ogg"
     },
     {
-      "id": "v89",
-      "de": "Moment",
-      "en": "moment",
-      "pos": "noun",
-      "article": "der",
-      "fa": "لحظه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-Moment.ogg"
-    },
-    {
-      "id": "v90",
+      "id": "v28",
       "de": "Monat",
       "en": "month",
       "pos": "noun",
       "article": "der",
       "fa": "ماه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-Monat.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-Monat.ogg",
+      "exampleDe": "Ja, als Praktikantin erhalten Sie 600 Euro im Monat.",
+      "exampleEn": "Yes, as an intern you receive 600 euros per month.",
+      "exampleFa": "بله، شما به عنوان یک کارآموز 600 یورو در ماه دریافت می کنید."
     },
     {
-      "id": "v91",
-      "de": "Morgen",
-      "en": "morning; tomorrow",
-      "pos": "noun",
-      "article": "der",
-      "fa": "صبح؛ فردا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Morgen.ogg"
-    },
-    {
-      "id": "v92",
-      "de": "Müll",
-      "en": "garbage",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آشغال",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-M%C3%BCll.ogg"
-    },
-    {
-      "id": "v93",
-      "de": "Nachricht",
-      "en": "message",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خبر پیام",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-Nachricht.ogg"
-    },
-    {
-      "id": "v94",
-      "de": "Nomen",
-      "en": "noun",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اسم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Nomen.ogg"
-    },
-    {
-      "id": "v95",
-      "de": "November",
-      "en": "november",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نوامبر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-November.ogg"
-    },
-    {
-      "id": "v96",
+      "id": "v29",
       "de": "Numerus Clausus",
       "en": "Numerus Clausus",
       "pos": "noun",
@@ -889,70 +301,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Numerus.ogg"
     },
     {
-      "id": "v97",
+      "id": "v30",
       "de": "Nähe",
       "en": "vicinity",
       "pos": "noun",
       "article": "die",
       "fa": "مجاورت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-N%C3%A4he.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-N%C3%A4he.ogg",
+      "exampleDe": "Gibt es nicht auch Berge in der Nähe von Wien?",
+      "exampleEn": "Aren't there also mountains near Vienna?",
+      "exampleFa": "آیا کوه هایی در نزدیکی وین هم وجود ندارد؟"
     },
     {
-      "id": "v98",
-      "de": "Paar",
-      "en": "couple",
-      "pos": "noun",
-      "article": "das",
-      "fa": "جفت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-Paar.ogg"
-    },
-    {
-      "id": "v99",
-      "de": "Partner",
-      "en": "partner",
-      "pos": "noun",
-      "article": "der",
-      "fa": "شریک؛ همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Partner.ogg"
-    },
-    {
-      "id": "v100",
-      "de": "Pause",
-      "en": "break",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مکث",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-Pause.ogg"
-    },
-    {
-      "id": "v101",
-      "de": "Person",
-      "en": "person",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شخص",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Person.ogg"
-    },
-    {
-      "id": "v102",
-      "de": "Platz",
-      "en": "square / place",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مکان، میدان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Platz.ogg"
-    },
-    {
-      "id": "v103",
-      "de": "Problem",
-      "en": "problem",
-      "pos": "noun",
-      "article": "das",
-      "fa": "مشکل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/De-Problem.ogg"
-    },
-    {
-      "id": "v104",
+      "id": "v31",
       "de": "Putzmittel",
       "en": "Cleaning supplies",
       "pos": "noun",
@@ -961,7 +322,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/De-Putzmittel.ogg"
     },
     {
-      "id": "v105",
+      "id": "v32",
       "de": "Radiointerview",
       "en": "radio interview",
       "pos": "noun",
@@ -970,69 +331,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Radiointerview.ogg"
     },
     {
-      "id": "v106",
-      "de": "Redemittel",
-      "en": "useful phrases",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عبارات آماده گفتار"
-    },
-    {
-      "id": "v107",
-      "de": "Regel",
-      "en": "rule",
-      "pos": "noun",
-      "article": "die",
-      "fa": "قاعده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Regel.ogg"
-    },
-    {
-      "id": "v108",
-      "de": "Reihenfolge",
-      "en": "series",
-      "pos": "noun",
-      "article": "die",
-      "fa": "ترتیب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Reihenfolge.ogg"
-    },
-    {
-      "id": "v109",
-      "de": "Reise",
-      "en": "trip",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سفر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Reise.ogg"
-    },
-    {
-      "id": "v110",
+      "id": "v33",
       "de": "Rosenmontagszug",
       "en": "Rose Monday procession",
       "pos": "noun",
       "article": "der",
       "fa": "راهپیمایی روز دوشنبه سرخ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Rosenmontagszug.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Rosenmontagszug.ogg",
+      "exampleDe": "Und den Rosenmontagszug möchte ich natürlich auch sehen.",
+      "exampleEn": "And of course I also want to see the Rose Monday procession.",
+      "exampleFa": "و البته من هم می خواهم راهپیمایی روز دوشنبه را ببینم."
     },
     {
-      "id": "v111",
+      "id": "v34",
       "de": "Ruf",
       "en": "call",
       "pos": "noun",
       "article": "der",
-      "fa": "شهرت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Ruf.ogg"
+      "fa": "der شهرت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Ruf.ogg",
+      "exampleDe": "Weil die Uni einen guten Ruf hat.",
+      "exampleEn": "Because the university has a good reputation.",
+      "exampleFa": "چون دانشگاه از شهرت خوبی برخوردار است."
     },
     {
-      "id": "v112",
-      "de": "Ruhe",
-      "en": "quiet",
-      "pos": "noun",
-      "article": "die",
-      "fa": "آرامش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Ruhe.ogg"
-    },
-    {
-      "id": "v113",
+      "id": "v35",
       "de": "Sammlung",
       "en": "collection",
       "pos": "noun",
@@ -1041,69 +364,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Sammlung.ogg"
     },
     {
-      "id": "v114",
-      "de": "Satz",
-      "en": "sentence",
-      "pos": "noun",
-      "article": "der",
-      "fa": "جمله"
-    },
-    {
-      "id": "v115",
-      "de": "Schreiben",
-      "en": "to write",
-      "pos": "noun",
-      "article": "das",
-      "fa": "نوشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Schreiben.ogg"
-    },
-    {
-      "id": "v116",
-      "de": "Schwester",
-      "en": "sister",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خواهر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Schwester.ogg"
-    },
-    {
-      "id": "v117",
-      "de": "Sehenswürdigkeit",
-      "en": "sight / attraction",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جای دیدنی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/De-Sehensw%C3%BCrdigkeit.ogg"
-    },
-    {
-      "id": "v118",
-      "de": "Semester",
-      "en": "semester",
-      "pos": "noun",
-      "article": "das",
-      "fa": "ترم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/De-Semester.ogg"
-    },
-    {
-      "id": "v119",
-      "de": "Sommer",
-      "en": "summer",
-      "pos": "noun",
-      "article": "der",
-      "fa": "تابستان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-Sommer.ogg"
-    },
-    {
-      "id": "v120",
+      "id": "v36",
       "de": "Sprache",
       "en": "language",
       "pos": "noun",
       "article": "die",
       "fa": "زبان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-Sprache.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-Sprache.ogg",
+      "exampleDe": "Und in Deutschland habe ich wenigstens keine Probleme mit der Sprache.",
+      "exampleEn": "And in Germany at least I don't have any problems with the language.",
+      "exampleFa": "و حداقل در آلمان من با زبان مشکلی ندارم."
     },
     {
-      "id": "v121",
+      "id": "v37",
       "de": "Spülmittel",
       "en": "Dishwashing liquid",
       "pos": "noun",
@@ -1112,16 +385,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/De-Sp%C3%BClmittel.ogg"
     },
     {
-      "id": "v122",
-      "de": "Stadt",
-      "en": "city",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شهر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-Stadt.ogg"
-    },
-    {
-      "id": "v123",
+      "id": "v38",
       "de": "Stadtsparkasse",
       "en": "City Savings Bank",
       "pos": "noun",
@@ -1130,16 +394,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/De-Stadtsparkasse.ogg"
     },
     {
-      "id": "v124",
-      "de": "Student",
-      "en": "student (male)",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دانشجو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Student.ogg"
-    },
-    {
-      "id": "v125",
+      "id": "v39",
       "de": "Studiengebühr",
       "en": "Tuition fee",
       "pos": "noun",
@@ -1148,106 +403,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Studiengeb%C3%BChr.ogg"
     },
     {
-      "id": "v126",
+      "id": "v40",
       "de": "Studierende",
       "en": "students",
       "pos": "noun",
       "article": "der",
       "fa": "دانشجو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/De-Studierende.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/De-Studierende.ogg",
+      "exampleDe": "2 Millionen Studierenden in Deutschland studieren zurzeit ca.",
+      "exampleEn": "Approximately 2 million students in Germany are currently studying.",
+      "exampleFa": "در حال حاضر حدود 2 میلیون دانشجو در آلمان در حال تحصیل هستند."
     },
     {
-      "id": "v127",
-      "de": "Studium",
-      "en": "studies",
-      "pos": "noun",
-      "article": "das",
-      "fa": "دانشگاه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-Studium.ogg"
-    },
-    {
-      "id": "v128",
-      "de": "Subjekt",
-      "en": "subject",
-      "pos": "noun",
-      "article": "das",
-      "fa": "موضوع",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-Subjekt.ogg"
-    },
-    {
-      "id": "v129",
-      "de": "Suche",
-      "en": "search",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جستجو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Suche.ogg"
-    },
-    {
-      "id": "v130",
-      "de": "Tabelle",
-      "en": "table",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جدول",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Tabelle.ogg"
-    },
-    {
-      "id": "v131",
-      "de": "Tageszeit",
-      "en": "Time of day",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زمان روز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Tageszeit.ogg"
-    },
-    {
-      "id": "v132",
-      "de": "Teil",
-      "en": "part",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قسمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Teil.ogg"
-    },
-    {
-      "id": "v133",
-      "de": "Termin",
-      "en": "appointment",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قرار ملاقات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Termin.ogg"
-    },
-    {
-      "id": "v134",
-      "de": "Text",
-      "en": "text",
-      "pos": "noun",
-      "article": "der",
-      "fa": "متن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-Text.ogg"
-    },
-    {
-      "id": "v135",
-      "de": "Thema",
-      "en": "theme",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عنوان. مطلب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Thema.ogg"
-    },
-    {
-      "id": "v136",
+      "id": "v41",
       "de": "Tourist",
       "en": "tourist",
       "pos": "noun",
       "article": "der",
       "fa": "توریست",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-Tourist.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-Tourist.ogg",
+      "exampleDe": "Na ja, ich war mit Ingrid schon mal in Köln, aber nur als Tourist, da hab’ ich den Dom gesehen, den Rhein und die Kölner Altstadt.",
+      "exampleEn": "Well, I've been to Cologne with Ingrid before, but only as a tourist, so I saw the cathedral, the Rhine and Cologne's old town.",
+      "exampleFa": "خوب، من قبلاً با اینگرید به کلن رفته بودم، اما فقط به عنوان یک توریست، بنابراین کلیسای جامع، راین و شهر قدیمی کلن را دیدم."
     },
     {
-      "id": "v137",
+      "id": "v42",
       "de": "Touristin",
       "en": "tourist",
       "pos": "noun",
@@ -1256,43 +436,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-Touristin.ogg"
     },
     {
-      "id": "v138",
+      "id": "v43",
       "de": "Tradition",
       "en": "tradition",
       "pos": "noun",
       "article": "die",
       "fa": "سنت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Tradition.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Tradition.ogg",
+      "exampleDe": "Wissen Sie, Gänsebraten mit Klößen und Rotkohl ist Tradition bei uns an Heiligabend.",
+      "exampleEn": "You know, roast goose with dumplings and red cabbage is our tradition on Christmas Eve.",
+      "exampleFa": "می دانید، غاز کباب شده با کوفته و کلم قرمز سنت ما در شب کریسمس است."
     },
     {
-      "id": "v139",
-      "de": "Typ",
-      "en": "type",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مدل، تایپ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-Typ.ogg"
-    },
-    {
-      "id": "v140",
-      "de": "Uhrzeit",
-      "en": "time of day (clock time)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زمان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-Uhrzeit.ogg"
-    },
-    {
-      "id": "v141",
-      "de": "Umgangssprache",
-      "en": "Colloquial language",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زبان محاوره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Umgangssprache.ogg"
-    },
-    {
-      "id": "v142",
+      "id": "v44",
       "de": "Umzug",
       "en": "relocation",
       "pos": "noun",
@@ -1301,34 +457,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Umzug.ogg"
     },
     {
-      "id": "v143",
-      "de": "Universität",
-      "en": "university",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دانشگاه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Universit%C3%A4t.ogg"
-    },
-    {
-      "id": "v144",
+      "id": "v45",
       "de": "Unterschied",
       "en": "difference",
       "pos": "noun",
       "article": "der",
       "fa": "تفاوت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-Unterschied.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-Unterschied.ogg",
+      "exampleDe": "Hm, und was ist der Unterschied zu einer Pension?",
+      "exampleEn": "Hm, and what's the difference to a pension?",
+      "exampleFa": "هوم، و چه تفاوتی با حقوق بازنشستگی دارد؟"
     },
     {
-      "id": "v145",
-      "de": "Verb",
-      "en": "verb",
-      "pos": "noun",
-      "article": "das",
-      "fa": "فعل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/De-Verb.ogg"
-    },
-    {
-      "id": "v146",
+      "id": "v46",
       "de": "Vergleich",
       "en": "comparison",
       "pos": "noun",
@@ -1337,16 +478,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Vergleich.ogg"
     },
     {
-      "id": "v147",
-      "de": "Verzeihung",
-      "en": "forgiveness",
-      "pos": "noun",
-      "article": "die",
-      "fa": "بخشش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-Verzeihung.ogg"
-    },
-    {
-      "id": "v148",
+      "id": "v47",
       "de": "Vorlesung",
       "en": "lecture",
       "pos": "noun",
@@ -1355,52 +487,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-Vorlesung.ogg"
     },
     {
-      "id": "v149",
-      "de": "Vormittag",
-      "en": "morning (before noon)",
-      "pos": "noun",
-      "article": "der",
-      "fa": "اواخر صبح",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Vormittag.ogg"
-    },
-    {
-      "id": "v150",
-      "de": "Weg",
-      "en": "way / path",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مسیر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Weg.ogg"
-    },
-    {
-      "id": "v151",
+      "id": "v48",
       "de": "Werbung",
       "en": "advertising",
       "pos": "noun",
       "article": "die",
       "fa": "تبلیغات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Werbung.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Werbung.ogg",
+      "exampleDe": "Die Marketingabteilung macht die Werbung.",
+      "exampleEn": "The marketing department does the advertising.",
+      "exampleFa": "بخش بازاریابی تبلیغات را انجام می دهد."
     },
     {
-      "id": "v152",
+      "id": "v49",
       "de": "WG",
       "en": "shared flat",
       "pos": "noun",
       "article": "die",
       "fa": "خانه مشترک (WG)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-WG.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-WG.ogg",
+      "exampleDe": "Ja, und du suchst auch einen Platz in einer WG?",
+      "exampleEn": "Yes, and are you also looking for a place in a shared apartment?",
+      "exampleFa": "بله، و آیا شما نیز به دنبال مکانی در یک آپارتمان مشترک هستید؟"
     },
     {
-      "id": "v153",
-      "de": "Winter",
-      "en": "winter",
-      "pos": "noun",
-      "article": "der",
-      "fa": "زمستان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-Winter.ogg"
-    },
-    {
-      "id": "v154",
+      "id": "v50",
       "de": "Wintersemester",
       "en": "Winter semester",
       "pos": "noun",
@@ -1409,151 +520,74 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/De-Wintersemester.ogg"
     },
     {
-      "id": "v155",
+      "id": "v51",
       "de": "Witz",
       "en": "joke",
       "pos": "noun",
       "article": "der",
       "fa": "لطیفه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-Witz.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-Witz.ogg",
+      "exampleDe": "Fred, übersetz doch mal den Witz.",
+      "exampleEn": "Fred, please translate the joke.",
+      "exampleFa": "فرد، لطفا جوک را ترجمه کنید."
     },
     {
-      "id": "v156",
-      "de": "Woche",
-      "en": "week",
-      "pos": "noun",
-      "article": "die",
-      "fa": "هفته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-Woche.ogg"
-    },
-    {
-      "id": "v157",
-      "de": "Wohnheim",
-      "en": "dorm",
-      "pos": "noun",
-      "article": "das",
-      "fa": "خانه دانشجویی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Wohnheim.ogg"
-    },
-    {
-      "id": "v158",
-      "de": "Wohnzimmer",
-      "en": "Living room",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اتاق نشیمن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Wohnzimmer.ogg"
-    },
-    {
-      "id": "v159",
-      "de": "Wort",
-      "en": "word",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کلمه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Wort.ogg"
-    },
-    {
-      "id": "v160",
-      "de": "Zeit",
-      "en": "time",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زمان؛ وقت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Zeit.ogg"
-    },
-    {
-      "id": "v161",
-      "de": "Zeitpunkt",
-      "en": "time",
-      "pos": "noun",
-      "article": "der",
-      "fa": "زمان مشخص",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-Zeitpunkt.ogg"
-    },
-    {
-      "id": "v162",
-      "de": "Zug",
-      "en": "train",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قطار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Zug.ogg"
-    },
-    {
-      "id": "v163",
+      "id": "v52",
       "de": "Zugezogene",
       "en": "newcomers",
       "pos": "noun",
       "article": "der",
-      "fa": "مهاجر"
+      "fa": "مهاجر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-zugezogene.ogg"
     },
     {
-      "id": "v164",
-      "de": "abheben",
-      "en": "to withdraw",
-      "pos": "verb",
-      "fa": "بلند کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/De-abheben.ogg"
-    },
-    {
-      "id": "v165",
+      "id": "v53",
       "de": "abschließen",
       "en": "complete",
       "pos": "verb",
-      "fa": "قفل کردن، جدا کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-abschlie%C3%9Fen.ogg"
+      "fa": "قفل کردن، جدا کردن er schließt ab",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-abschlie%C3%9Fen.ogg",
+      "exampleDe": "Natürlich möchte ich zuerst einmal mein BachelorStudium abschließen.",
+      "exampleEn": "Of course, I would like to complete my bachelor's degree first.",
+      "exampleFa": "البته دوست دارم اول لیسانس را تمام کنم."
     },
     {
-      "id": "v166",
+      "id": "v54",
       "de": "absolvieren",
       "en": "complete",
       "pos": "verb",
-      "fa": "به پایان رساندن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-absolvieren.ogg"
+      "fa": "به پایان رساندن er absolviert",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-absolvieren.ogg",
+      "exampleDe": "Neben dem Studium habe ich noch einen Fortbildungskurs „Methoden der Projektarbeit“ absolviert.",
+      "exampleEn": "In addition to my studies, I also completed a training course “Methods of Project Work”.",
+      "exampleFa": "علاوه بر تحصیل، دوره آموزشی \"روشهای کار پروژه\" را نیز گذراندم."
     },
     {
-      "id": "v167",
+      "id": "v55",
       "de": "abwaschen",
       "en": "wash off",
       "pos": "verb",
-      "fa": "شستن ظروف",
+      "fa": "شستن ظروف er wäscht ab",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-abwaschen.ogg"
     },
     {
-      "id": "v168",
+      "id": "v56",
       "de": "anbieten",
       "en": "offer",
       "pos": "verb",
-      "fa": "ارائه دادن",
+      "fa": "ارائه دادن er bietet an",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-anbieten.ogg"
     },
     {
-      "id": "v169",
-      "de": "anlegen",
-      "en": "invest",
-      "pos": "verb",
-      "fa": "سرمایه گذاری کنید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-anlegen.ogg"
-    },
-    {
-      "id": "v170",
-      "de": "anmachen",
-      "en": "to turn on",
-      "pos": "verb",
-      "fa": "روشن کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-anmachen.ogg"
-    },
-    {
-      "id": "v171",
+      "id": "v57",
       "de": "aufräumen",
       "en": "to tidy up",
       "pos": "verb",
-      "fa": "تمیز کردن ! !",
+      "fa": "تمیز کردن räume auf! räumt auf! hat aufgeräumt",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-aufr%C3%A4umen.ogg"
     },
     {
-      "id": "v172",
+      "id": "v58",
       "de": "aufschließen",
       "en": "unlock",
       "pos": "verb",
@@ -1561,237 +595,69 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-aufschlie%C3%9Fen.ogg"
     },
     {
-      "id": "v173",
+      "id": "v59",
       "de": "ausmachen",
       "en": "to turn off",
       "pos": "verb",
-      "fa": "خاموش کردن",
+      "fa": "خاموش کردن، # anmachen",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/De-ausmachen.ogg"
     },
     {
-      "id": "v174",
-      "de": "beantworten",
-      "en": "answer",
-      "pos": "verb",
-      "fa": "جواب دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-beantworten.ogg"
-    },
-    {
-      "id": "v175",
-      "de": "beraten",
-      "en": "advise",
-      "pos": "verb",
-      "fa": "مشورت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-beraten.ogg"
-    },
-    {
-      "id": "v176",
-      "de": "bezahlen",
-      "en": "to pay for",
-      "pos": "verb",
-      "fa": "پرداخت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-bezahlen.ogg"
-    },
-    {
-      "id": "v177",
+      "id": "v60",
       "de": "einräumen",
       "en": "to load",
       "pos": "verb",
-      "fa": "چیدن داخل؛ جا دادن",
+      "fa": "نظم بخشیدن &lt، ausräumen برطرف شدن",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-einr%C3%A4umen.ogg"
     },
     {
-      "id": "v178",
+      "id": "v61",
       "de": "entsorgen",
       "en": "dispose",
       "pos": "verb",
-      "fa": "دور انداختن",
+      "fa": "دور انداختن er entsorgt",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-entsorgen.ogg"
     },
     {
-      "id": "v179",
-      "de": "ergänzen",
-      "en": "to complete / fill in",
-      "pos": "verb",
-      "fa": "تکمیل کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-erg%C3%A4nzen.ogg"
-    },
-    {
-      "id": "v180",
-      "de": "erkennen",
-      "en": "recognize",
-      "pos": "verb",
-      "fa": "شناختن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-erkennen.ogg"
-    },
-    {
-      "id": "v181",
-      "de": "erklären",
-      "en": "to explain",
-      "pos": "verb",
-      "fa": "توضیح دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-erkl%C3%A4ren.ogg"
-    },
-    {
-      "id": "v182",
-      "de": "erzählen",
-      "en": "to tell",
-      "pos": "verb",
-      "fa": "تعریف کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/De-erz%C3%A4hlen.ogg"
-    },
-    {
-      "id": "v183",
-      "de": "eröffnen",
-      "en": "to open",
-      "pos": "verb",
-      "fa": "بازگشایی کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-er%C3%B6ffnen.ogg"
-    },
-    {
-      "id": "v184",
-      "de": "helfen",
-      "en": "to help",
-      "pos": "verb",
-      "fa": "کمک کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-helfen.ogg"
-    },
-    {
-      "id": "v185",
+      "id": "v62",
       "de": "husten",
       "en": "cough",
       "pos": "verb",
-      "fa": "سرفه",
+      "fa": "سرفه کردن er hustet",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-Husten.ogg"
     },
     {
-      "id": "v186",
-      "de": "hören",
-      "en": "to hear",
-      "pos": "verb",
-      "fa": "شنیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-h%C3%B6ren.ogg"
-    },
-    {
-      "id": "v187",
-      "de": "inzwischen",
-      "en": "in the meantime",
-      "pos": "verb",
-      "fa": "در این بین",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-inzwischen.ogg"
-    },
-    {
-      "id": "v188",
+      "id": "v63",
       "de": "klagen",
       "en": "complain",
       "pos": "verb",
-      "fa": "گله و شکایت کردن",
+      "fa": "گله و شکایت کردن er klagt",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-klagen.ogg"
     },
     {
-      "id": "v189",
-      "de": "kosten",
-      "en": "to cost",
-      "pos": "verb",
-      "fa": "قیمت داشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-kosten.ogg"
-    },
-    {
-      "id": "v190",
-      "de": "meinen",
-      "en": "mean",
-      "pos": "verb",
-      "fa": "فکر کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-meinen.ogg"
-    },
-    {
-      "id": "v191",
+      "id": "v64",
       "de": "mitlachen",
       "en": "laugh along",
       "pos": "verb",
       "fa": "خندیدن"
     },
     {
-      "id": "v192",
-      "de": "nachfragen",
-      "en": "to inquire",
-      "pos": "verb",
-      "fa": "سوال کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-nachfragen.ogg"
-    },
-    {
-      "id": "v193",
-      "de": "nehmen",
-      "en": "to take",
-      "pos": "verb",
-      "fa": "گرفتن، برداشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-nehmen.ogg"
-    },
-    {
-      "id": "v194",
-      "de": "nennen",
-      "en": "to name",
-      "pos": "verb",
-      "fa": "اسم گذاشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-nennen.ogg"
-    },
-    {
-      "id": "v195",
-      "de": "oben",
-      "en": "above",
-      "pos": "verb",
-      "fa": "بالا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-oben.ogg"
-    },
-    {
-      "id": "v196",
+      "id": "v65",
       "de": "putzen",
       "en": "to clean",
       "pos": "verb",
-      "fa": "تمیز کردن",
+      "fa": "تمیز کردن er putzt",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-putzen.ogg"
     },
     {
-      "id": "v197",
+      "id": "v66",
       "de": "rausbringen",
       "en": "bring out",
       "pos": "verb",
-      "fa": "بیرون بردن"
+      "fa": "بیرون بردن er bringt raus"
     },
     {
-      "id": "v198",
-      "de": "regeln",
-      "en": "regulate",
-      "pos": "verb",
-      "fa": "مرتب کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-regeln.ogg"
-    },
-    {
-      "id": "v199",
-      "de": "sagen",
-      "en": "to say",
-      "pos": "verb",
-      "fa": "گفتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-sagen.ogg"
-    },
-    {
-      "id": "v200",
-      "de": "sammeln",
-      "en": "to collect",
-      "pos": "verb",
-      "fa": "جمع کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-sammeln.ogg"
-    },
-    {
-      "id": "v201",
-      "de": "schließen",
-      "en": "to close",
-      "pos": "verb",
-      "fa": "بستن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/De-schlie%C3%9Fen.ogg"
-    },
-    {
-      "id": "v202",
+      "id": "v67",
       "de": "sich erinnern",
       "en": "to remember",
       "pos": "verb",
@@ -1799,7 +665,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-sich.ogg"
     },
     {
-      "id": "v203",
+      "id": "v68",
       "de": "sich freuen",
       "en": "to look forward / be glad",
       "pos": "verb",
@@ -1807,7 +673,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-sich.ogg"
     },
     {
-      "id": "v204",
+      "id": "v69",
       "de": "sich fühlen",
       "en": "to feel",
       "pos": "verb",
@@ -1815,7 +681,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-sich.ogg"
     },
     {
-      "id": "v205",
+      "id": "v70",
       "de": "sich gewöhnen an",
       "en": "to get used to",
       "pos": "verb",
@@ -1823,23 +689,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-sich.ogg"
     },
     {
-      "id": "v206",
-      "de": "sitzen",
-      "en": "to sit",
-      "pos": "verb",
-      "fa": "نشستن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-sitzen.ogg"
-    },
-    {
-      "id": "v207",
-      "de": "sondern",
-      "en": "rather",
-      "pos": "verb",
-      "fa": "بلکه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-sondern.ogg"
-    },
-    {
-      "id": "v208",
+      "id": "v71",
       "de": "spülen",
       "en": "to do dishes",
       "pos": "verb",
@@ -1847,94 +697,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/De-sp%C3%BClen.ogg"
     },
     {
-      "id": "v209",
-      "de": "stehen",
-      "en": "to stand",
-      "pos": "verb",
-      "fa": "ایستادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-stehen.ogg"
-    },
-    {
-      "id": "v210",
-      "de": "studieren",
-      "en": "to study",
-      "pos": "verb",
-      "fa": "تحصیل کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-studieren.ogg"
-    },
-    {
-      "id": "v211",
+      "id": "v72",
       "de": "verbessern",
       "en": "improve",
       "pos": "verb",
-      "fa": "بهبود بخشیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-verbessern.ogg"
+      "fa": "بهبود بخشیدن er verbessert",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-verbessern.ogg",
+      "exampleDe": "So können sie am besten ihre Sprachkenntnisse verbessern.",
+      "exampleEn": "This is the best way for them to improve their language skills.",
+      "exampleFa": "این بهترین راه برای آنها برای بهبود مهارت های زبانی است."
     },
     {
-      "id": "v212",
-      "de": "vereinbaren",
-      "en": "agree",
-      "pos": "verb",
-      "fa": "موافق",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/De-vereinbaren.ogg"
-    },
-    {
-      "id": "v213",
-      "de": "Vergleichen",
-      "en": "to compare",
-      "pos": "verb",
-      "fa": "مقایسه کردن"
-    },
-    {
-      "id": "v214",
-      "de": "vermissen",
-      "en": "to miss",
-      "pos": "verb",
-      "fa": "دلتنگ شدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/De-vermissen.ogg"
-    },
-    {
-      "id": "v215",
-      "de": "verstehen",
-      "en": "understand",
-      "pos": "verb",
-      "fa": "فهمیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-verstehen.ogg"
-    },
-    {
-      "id": "v216",
-      "de": "verwenden",
-      "en": "to use",
-      "pos": "verb",
-      "fa": "به کار بردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-verwenden.ogg"
-    },
-    {
-      "id": "v217",
-      "de": "Wissen",
-      "en": "to know (a fact)",
-      "pos": "verb",
-      "fa": "دانستن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Wissen.ogg"
-    },
-    {
-      "id": "v218",
-      "de": "wohnen",
-      "en": "to live (reside)",
-      "pos": "verb",
-      "fa": "زندگی کردن؛ سکونت داشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De-wohnen.ogg"
-    },
-    {
-      "id": "v219",
-      "de": "zusammen",
-      "en": "together",
-      "pos": "verb",
-      "fa": "با هم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-zusammen.ogg"
-    },
-    {
-      "id": "v220",
+      "id": "v73",
       "de": "abwechselnd",
       "en": "alternately",
       "pos": "other",
@@ -1942,7 +716,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-abwechselnd.ogg"
     },
     {
-      "id": "v221",
+      "id": "v74",
       "de": "aktuell",
       "en": "current",
       "pos": "other",
@@ -1950,23 +724,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-aktuell.ogg"
     },
     {
-      "id": "v222",
-      "de": "am Ende",
-      "en": "at the end",
-      "pos": "phrase",
-      "fa": "در پایان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-am.ogg"
-    },
-    {
-      "id": "v223",
-      "de": "an der Uni",
-      "en": "at the university",
-      "pos": "phrase",
-      "fa": "در دانشگاه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-an.ogg"
-    },
-    {
-      "id": "v224",
+      "id": "v75",
       "de": "ausländisch",
       "en": "foreign",
       "pos": "other",
@@ -1974,23 +732,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-ausl%C3%A4ndisch.ogg"
     },
     {
-      "id": "v225",
-      "de": "außerdem",
-      "en": "aside from that",
-      "pos": "other",
-      "fa": "علاوه بر این",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-au%C3%9Ferdem.ogg"
-    },
-    {
-      "id": "v226",
-      "de": "bald",
-      "en": "soon",
-      "pos": "other",
-      "fa": "به زودی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-bald.ogg"
-    },
-    {
-      "id": "v227",
+      "id": "v76",
       "de": "bedeutend",
       "en": "significant",
       "pos": "other",
@@ -1998,111 +740,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-bedeutend.ogg"
     },
     {
-      "id": "v228",
-      "de": "beliebt",
-      "en": "popular",
-      "pos": "other",
-      "fa": "محبوب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-beliebt.ogg"
-    },
-    {
-      "id": "v229",
-      "de": "besonders",
-      "en": "particularly",
-      "pos": "other",
-      "fa": "مخصوصا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-besonders.ogg"
-    },
-    {
-      "id": "v230",
-      "de": "da",
-      "en": "there",
-      "pos": "other",
-      "fa": "آنجا، آنوقت، چون",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-da.ogg"
-    },
-    {
-      "id": "v231",
-      "de": "dann",
-      "en": "then",
-      "pos": "other",
-      "fa": "بعد، بعدا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-dann.ogg"
-    },
-    {
-      "id": "v232",
+      "id": "v77",
       "de": "Das stimmt",
       "en": "That's correct",
       "pos": "other",
       "fa": "این درست است",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-stimmt.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-stimmt.ogg",
+      "exampleDe": "Hm, ich rufe an, weil ich in Köln studieren will, und du lebst ja jetzt in Köln, stimmt’s?",
+      "exampleEn": "Hmm, I'm calling because I want to study in Cologne, and you live in Cologne now, right?",
+      "exampleFa": "هوم، من زنگ می زنم چون می خواهم در کلن تحصیل کنم، و شما الان در کلن زندگی می کنید، درست است؟"
     },
     {
-      "id": "v233",
+      "id": "v78",
       "de": "dass",
       "en": "that",
       "pos": "other",
       "fa": "که",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-dass.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-dass.ogg",
+      "exampleDe": "Ja, genau, da kann man nicht wissen, dass das ein Semmel mit Käse und Senf ist.",
+      "exampleEn": "Yes, exactly, you wouldn't know that it's a roll with cheese and mustard.",
+      "exampleFa": "بله، دقیقا، نمی دانید که این یک رول با پنیر و خردل است."
     },
     {
-      "id": "v234",
-      "de": "davon",
-      "en": "of that",
-      "pos": "other",
-      "fa": "از آن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-davon.ogg"
-    },
-    {
-      "id": "v235",
-      "de": "denn",
-      "en": "because / for",
-      "pos": "other",
-      "fa": "چونکه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-denn.ogg"
-    },
-    {
-      "id": "v236",
-      "de": "deshalb",
-      "en": "therefore",
-      "pos": "adverb",
-      "fa": "به همین دلیل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-deshalb.ogg"
-    },
-    {
-      "id": "v237",
-      "de": "deutlich",
-      "en": "clearly",
-      "pos": "other",
-      "fa": "روشن، واضح",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-deutlich.ogg"
-    },
-    {
-      "id": "v238",
-      "de": "direkt",
-      "en": "direct",
-      "pos": "other",
-      "fa": "مستقیم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-direkt.ogg"
-    },
-    {
-      "id": "v239",
-      "de": "doch",
-      "en": "modal particle (do / after all)",
-      "pos": "other",
-      "fa": "اما، البته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-doch.ogg"
-    },
-    {
-      "id": "v240",
-      "de": "dort",
-      "en": "there",
-      "pos": "other",
-      "fa": "آنجا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-dort.ogg"
-    },
-    {
-      "id": "v241",
+      "id": "v79",
       "de": "dran sein",
       "en": "be on it",
       "pos": "phrase",
@@ -2110,15 +770,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-dran.ogg"
     },
     {
-      "id": "v242",
-      "de": "eigene",
-      "en": "own",
-      "pos": "other",
-      "fa": "یکی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-eigene.ogg"
-    },
-    {
-      "id": "v243",
+      "id": "v80",
       "de": "ein lebendiger Dialekt",
       "en": "a living dialect",
       "pos": "phrase",
@@ -2126,7 +778,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-ein.ogg"
     },
     {
-      "id": "v244",
+      "id": "v81",
       "de": "eine eigene Literatur",
       "en": "a literature of its own",
       "pos": "phrase",
@@ -2134,15 +786,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/De-eine.ogg"
     },
     {
-      "id": "v245",
-      "de": "eingerichtet",
-      "en": "furnished",
-      "pos": "other",
-      "fa": "چیده شده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-eingerichtet.ogg"
-    },
-    {
-      "id": "v246",
+      "id": "v82",
       "de": "einsam",
       "en": "lonely",
       "pos": "other",
@@ -2150,31 +794,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-einsam.ogg"
     },
     {
-      "id": "v247",
-      "de": "ernst",
-      "en": "serious",
-      "pos": "other",
-      "fa": "بطور جدی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-ernst.ogg"
-    },
-    {
-      "id": "v248",
-      "de": "etwa",
-      "en": "approximately",
-      "pos": "other",
-      "fa": "حدوداً",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-etwa.ogg"
-    },
-    {
-      "id": "v249",
+      "id": "v83",
       "de": "extra",
       "en": "extra",
       "pos": "other",
       "fa": "جداگانه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-extra.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-extra.ogg",
+      "exampleDe": "Den musst du extra waschen.",
+      "exampleEn": "You have to wash it separately.",
+      "exampleFa": "شما باید آن را جداگانه بشویید."
     },
     {
-      "id": "v250",
+      "id": "v84",
       "de": "fremd",
       "en": "foreign/strange",
       "pos": "adjective",
@@ -2182,7 +813,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-fremd.ogg"
     },
     {
-      "id": "v251",
+      "id": "v85",
       "de": "fremd fühlen",
       "en": "feel foreign",
       "pos": "phrase",
@@ -2190,15 +821,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-fremd.ogg"
     },
     {
-      "id": "v252",
-      "de": "freundlich",
-      "en": "friendly",
-      "pos": "other",
-      "fa": "دلپذیر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-freundlich.ogg"
-    },
-    {
-      "id": "v253",
+      "id": "v86",
       "de": "frustrierend",
       "en": "frustrating",
       "pos": "other",
@@ -2206,15 +829,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-frustrierend.ogg"
     },
     {
-      "id": "v254",
-      "de": "ganz",
-      "en": "quite",
-      "pos": "other",
-      "fa": "کاملاً؛ تمام",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-ganz.ogg"
-    },
-    {
-      "id": "v255",
+      "id": "v87",
       "de": "ganz anders",
       "en": "completely different",
       "pos": "phrase",
@@ -2222,7 +837,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-ganz.ogg"
     },
     {
-      "id": "v256",
+      "id": "v88",
       "de": "ganz schön anstrengend",
       "en": "pretty tiring",
       "pos": "phrase",
@@ -2230,55 +845,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-ganz.ogg"
     },
     {
-      "id": "v257",
-      "de": "genauer",
-      "en": "more precise",
-      "pos": "other",
-      "fa": "دقیق تر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-genauer.ogg"
-    },
-    {
-      "id": "v258",
-      "de": "genug",
-      "en": "enough",
-      "pos": "other",
-      "fa": "کافی، بس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-genug.ogg"
-    },
-    {
-      "id": "v259",
-      "de": "gibt es",
-      "en": "there is",
-      "pos": "phrase",
-      "fa": "وجود دارد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-gibt.ogg"
-    },
-    {
-      "id": "v260",
-      "de": "günstig",
-      "en": "cheap",
-      "pos": "other",
-      "fa": "مناسب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-g%C3%BCnstig.ogg"
-    },
-    {
-      "id": "v261",
-      "de": "herzlich",
-      "en": "heartfelt",
-      "pos": "other",
-      "fa": "از صمیم قلب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-herzlich.ogg"
-    },
-    {
-      "id": "v262",
-      "de": "hoch",
-      "en": "high",
-      "pos": "other",
-      "fa": "بالا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-hoch.ogg"
-    },
-    {
-      "id": "v263",
+      "id": "v89",
       "de": "Ich bin neu hier.",
       "en": "I am new here.",
       "pos": "phrase",
@@ -2286,39 +853,26 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Ich.ogg"
     },
     {
-      "id": "v264",
-      "de": "immer",
-      "en": "always",
-      "pos": "other",
-      "fa": "همیشه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-immer.ogg"
-    },
-    {
-      "id": "v265",
-      "de": "in der Nähe",
-      "en": "close by",
-      "pos": "phrase",
-      "fa": "در نزدیکی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De-in.ogg"
-    },
-    {
-      "id": "v266",
+      "id": "v90",
       "de": "kennen lernen",
       "en": "get to know",
       "pos": "phrase",
-      "fa": "آشنا شدن",
+      "fa": "آشنا شدن er lernt kennen",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-kennen.ogg"
     },
     {
-      "id": "v267",
+      "id": "v91",
       "de": "knapp",
       "en": "meager",
       "pos": "other",
       "fa": "نزدیک به",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/De-knapp.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/De-knapp.ogg",
+      "exampleDe": "1,9 Kilo, knapp unter zwei Kilo, also noch ein Päckchen.",
+      "exampleEn": "1.9 kilos, just under two kilos, so another package.",
+      "exampleFa": "1.9 کیلو، فقط زیر دو کیلو، پس یک بسته دیگر."
     },
     {
-      "id": "v268",
+      "id": "v92",
       "de": "kostenfrei",
       "en": "free of charge",
       "pos": "other",
@@ -2326,47 +880,40 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-kostenfrei.ogg"
     },
     {
-      "id": "v269",
+      "id": "v93",
       "de": "kostenlos",
       "en": "for free",
       "pos": "other",
       "fa": "به صورت رایگان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-kostenlos.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-kostenlos.ogg",
+      "exampleDe": "Ja, kostenlos!",
+      "exampleEn": "Yes, free!",
+      "exampleFa": "بله، رایگان!"
     },
     {
-      "id": "v270",
-      "de": "kurzfristig",
-      "en": "short term",
-      "pos": "other",
-      "fa": "کوتاه مدت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/De-kurzfristig.ogg"
-    },
-    {
-      "id": "v271",
+      "id": "v94",
       "de": "Köln",
       "en": "Cologne",
       "pos": "other",
       "fa": "کلن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-K%C3%B6ln.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-K%C3%B6ln.ogg",
+      "exampleDe": "Köln ist eine super Stadt!",
+      "exampleEn": "Cologne is a great city!",
+      "exampleFa": "کلن شهر بزرگی است!"
     },
     {
-      "id": "v272",
+      "id": "v95",
       "de": "Kölsch",
       "en": "Kölsch (Cologne dialect/beer)",
       "pos": "other",
       "fa": "کلن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-K%C3%B6lsch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-K%C3%B6lsch.ogg",
+      "exampleDe": "Ein Kölsch bitte.",
+      "exampleEn": "A Kölsch please.",
+      "exampleFa": "یک کلش لطفا."
     },
     {
-      "id": "v273",
-      "de": "manchmal",
-      "en": "sometimes",
-      "pos": "other",
-      "fa": "گاهی اوقات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/De-manchmal.ogg"
-    },
-    {
-      "id": "v274",
+      "id": "v96",
       "de": "mit Leib und Seele",
       "en": "with body and soul",
       "pos": "phrase",
@@ -2374,39 +921,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-mit.ogg"
     },
     {
-      "id": "v275",
+      "id": "v97",
       "de": "nach",
       "en": "after / to",
       "pos": "other",
       "fa": "بعد از",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-nach.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-nach.ogg",
+      "exampleDe": "Ich glaube, ich geh jetzt lieber nach Hause.",
+      "exampleEn": "I think I'd better go home now.",
+      "exampleFa": "فکر کنم الان برم خونه بهتره"
     },
     {
-      "id": "v276",
-      "de": "nah",
-      "en": "near",
-      "pos": "other",
-      "fa": "نزدیک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De-nah.ogg"
-    },
-    {
-      "id": "v277",
-      "de": "neu",
-      "en": "new",
-      "pos": "other",
-      "fa": "جدید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-neu.ogg"
-    },
-    {
-      "id": "v278",
-      "de": "nur",
-      "en": "only",
-      "pos": "other",
-      "fa": "صرفا، فقط",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-nur.ogg"
-    },
-    {
-      "id": "v279",
+      "id": "v98",
       "de": "pro Monat",
       "en": "per month",
       "pos": "phrase",
@@ -2414,7 +940,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-pro.ogg"
     },
     {
-      "id": "v280",
+      "id": "v99",
       "de": "rau",
       "en": "rough",
       "pos": "other",
@@ -2422,15 +948,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-rau.ogg"
     },
     {
-      "id": "v281",
-      "de": "seit",
-      "en": "since / for",
-      "pos": "other",
-      "fa": "از آنجایی که",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-seit.ogg"
-    },
-    {
-      "id": "v282",
+      "id": "v100",
       "de": "sich an die Regeln halten",
       "en": "stick to the rules",
       "pos": "phrase",
@@ -2438,31 +956,26 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-sich.ogg"
     },
     {
-      "id": "v283",
+      "id": "v101",
       "de": "sich merken",
       "en": "to remember",
       "pos": "phrase",
-      "fa": "به خاطر سپردن",
+      "fa": "به خاطر سپردن er merkt sich",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-sich.ogg"
     },
     {
-      "id": "v284",
+      "id": "v102",
       "de": "Tatsache",
       "en": "fact",
       "pos": "other",
       "fa": "حقیقت، واقعیت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Tatsache.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Tatsache.ogg",
+      "exampleDe": "Oder noch besser du schaust auf der Webseite „Tatsachen über Deutschland“ nach, da kannst du dich wirklich gut informieren.",
+      "exampleEn": "Or even better, you can take a look at the “Facts about Germany” website, where you can get really good information.",
+      "exampleFa": "یا حتی بهتر از آن، می‌توانید نگاهی به وب‌سایت «حقایق درباره آلمان» بیندازید، جایی که می‌توانید اطلاعات بسیار خوبی به دست آورید."
     },
     {
-      "id": "v285",
-      "de": "total",
-      "en": "total",
-      "pos": "other",
-      "fa": "کاملا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-total.ogg"
-    },
-    {
-      "id": "v286",
+      "id": "v103",
       "de": "typische Lieder",
       "en": "typical songs",
       "pos": "phrase",
@@ -2470,39 +983,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-typische.ogg"
     },
     {
-      "id": "v287",
-      "de": "täglich",
-      "en": "daily",
-      "pos": "other",
-      "fa": "روزانه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/De-t%C3%A4glich.ogg"
-    },
-    {
-      "id": "v288",
-      "de": "unbedingt",
-      "en": "absolutely",
-      "pos": "other",
-      "fa": "حتما",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/De-unbedingt.ogg"
-    },
-    {
-      "id": "v289",
-      "de": "vor",
-      "en": "before / in front of",
-      "pos": "other",
-      "fa": "قبل از",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-vor.ogg"
-    },
-    {
-      "id": "v290",
-      "de": "vor allem",
-      "en": "above all",
-      "pos": "phrase",
-      "fa": "مخصوصا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-vor.ogg"
-    },
-    {
-      "id": "v291",
+      "id": "v104",
       "de": "vorbei sein",
       "en": "be over",
       "pos": "phrase",
@@ -2510,47 +991,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-vorbei.ogg"
     },
     {
-      "id": "v292",
+      "id": "v105",
       "de": "vorne",
       "en": "in front",
       "pos": "other",
       "fa": "پیش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/De-vorne.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/De-vorne.ogg",
+      "exampleDe": "Da vorne ist die Kasse.",
+      "exampleEn": "The cash register is in front.",
+      "exampleFa": "صندوق در جلو است."
     },
     {
-      "id": "v293",
+      "id": "v106",
       "de": "weil",
       "en": "because",
       "pos": "other",
       "fa": "چون",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-weil.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-weil.ogg",
+      "exampleDe": "Weil die Uni einen guten Ruf hat.",
+      "exampleEn": "Because the university has a good reputation.",
+      "exampleFa": "چون دانشگاه از شهرت خوبی برخوردار است."
     },
     {
-      "id": "v294",
-      "de": "weltweit",
-      "en": "worldwide",
-      "pos": "other",
-      "fa": "در تمام کشورهای جهان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-weltweit.ogg"
-    },
-    {
-      "id": "v295",
-      "de": "wenig",
-      "en": "few",
-      "pos": "other",
-      "fa": "کم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-wenig.ogg"
-    },
-    {
-      "id": "v296",
-      "de": "wieder",
-      "en": "again",
-      "pos": "other",
-      "fa": "دوباره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-wieder.ogg"
-    },
-    {
-      "id": "v297",
+      "id": "v107",
       "de": "zum Vergleich",
       "en": "for comparison",
       "pos": "phrase",
@@ -2558,20 +1021,12 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-zum.ogg"
     },
     {
-      "id": "v298",
+      "id": "v108",
       "de": "ähnlich",
       "en": "similar",
       "pos": "other",
       "fa": "یکسان، مانند",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-%C3%A4hnlich.ogg"
-    },
-    {
-      "id": "v299",
-      "de": "über",
-      "en": "about / over",
-      "pos": "other",
-      "fa": "بالای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-%C3%BCber.ogg"
     }
   ],
   "grammar": [

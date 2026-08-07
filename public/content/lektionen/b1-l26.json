@@ -4,33 +4,1092 @@
   "number": 26,
   "titleDe": "Auf nach Dresden!",
   "titleEn": "Off to Dresden!",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Auf nach Dresden!“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Off to Dresden!” in the course book",
-      "fa": "اهداف یادگیری «به سمت درسدن!» را در کتاب دوره بخوانید و بفهمید"
+      "de": "E-Mail über die neue Umgebung verstehen",
+      "en": "Understand an email about a new environment",
+      "fa": "فهم ایمیل درباره محیط جدید"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Arbeitsvertrag verstehen und ergänzen; über Arbeitsverträge in der Heimat sprechen",
+      "en": "Understand and complete a work contract; talk about contracts at home",
+      "fa": "فهم و تکمیل قرارداد کار؛ صحبت درباره قرارداد در کشور خود"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Ausführlich über sich Auskunft geben (erster Arbeitstag)",
+      "en": "Give detailed information about yourself (first day at work)",
+      "fa": "ارائه اطلاعات مفصل درباره خود (روز اول کار)"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "Kleinanzeigen verstehen und selbst schreiben",
+      "en": "Understand and write classified ads",
+      "fa": "فهم و نوشتن آگهی‌های کوتاه"
+    },
+    {
+      "de": "Zeitungsartikel über den Standort Dresden zusammenfassen; Text über Zukunftsträume schreiben",
+      "en": "Summarize an article on Dresden as a business location; write about future dreams",
+      "fa": "خلاصه مقاله درباره درسدن؛ نوشتن درباره رویاهای آینده"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Anspruch",
+      "en": "Claim",
+      "pos": "noun",
+      "article": "der",
+      "fa": "حق، مطالبه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Anspruch.ogg"
+    },
+    {
+      "id": "v2",
+      "de": "Antrag",
+      "en": "Application",
+      "pos": "noun",
+      "article": "der",
+      "fa": "درخواست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/De-Antrag.ogg"
+    },
+    {
+      "id": "v3",
+      "de": "Arbeitgeber",
+      "en": "Employer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کارفرما",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-Arbeitgeber.ogg"
+    },
+    {
+      "id": "v4",
+      "de": "Arbeitgeberin",
+      "en": "employer",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کارفرما",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-Arbeitgeberin.ogg"
+    },
+    {
+      "id": "v5",
+      "de": "Arbeitnehmer",
+      "en": "workers",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کارمند",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Arbeitnehmer.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Arbeitnehmerin",
+      "en": "employee",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کارمند",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-Arbeitnehmerin.ogg"
+    },
+    {
+      "id": "v7",
+      "de": "Arbeitsstelle",
+      "en": "workplace",
+      "pos": "noun",
+      "article": "die",
+      "fa": "موقعیت کار، محل کار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-Arbeitsstelle.ogg"
+    },
+    {
+      "id": "v8",
+      "de": "Arbeitsverhältnis",
+      "en": "employment relationship",
+      "pos": "noun",
+      "article": "das",
+      "fa": "رابطه کاری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-Arbeitsverh%C3%A4ltnis.ogg"
+    },
+    {
+      "id": "v9",
+      "de": "Beschäftigte",
+      "en": "employees",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مشغول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-Besch%C3%A4ftigte.ogg"
+    },
+    {
+      "id": "v10",
+      "de": "Brett",
+      "en": "board",
+      "pos": "noun",
+      "article": "das",
+      "fa": "تخته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-Brett.ogg"
+    },
+    {
+      "id": "v11",
+      "de": "Brille",
+      "en": "Glasses",
+      "pos": "noun",
+      "article": "die",
+      "fa": "عینک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Brille.ogg"
+    },
+    {
+      "id": "v12",
+      "de": "Büro",
+      "en": "office",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/De-B%C3%BCro.ogg",
+      "exampleDe": "Gehen wir doch in mein Büro.",
+      "exampleEn": "Let's go to my office.",
+      "exampleFa": "بیا بریم دفتر من"
+    },
+    {
+      "id": "v13",
+      "de": "Chip",
+      "en": "chip",
+      "pos": "noun",
+      "article": "der",
+      "fa": "تراشه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Chip.ogg",
+      "exampleDe": "Hier in Dresden gibt es ja solche Hochtechnologie-Firmen, die Chips produzieren.",
+      "exampleEn": "Here in Dresden there are such high-tech companies that produce chips.",
+      "exampleFa": "در درسدن چنین شرکت هایی با فناوری پیشرفته وجود دارند که تراشه ها را تولید می کنند."
+    },
+    {
+      "id": "v14",
+      "de": "Chips",
+      "en": "Chips",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-Chips.ogg",
+      "exampleDe": "Hier in Dresden gibt es ja solche Hochtechnologie-Firmen, die Chips produzieren.",
+      "exampleEn": "Here in Dresden there are such high-tech companies that produce chips.",
+      "exampleFa": "در درسدن چنین شرکت هایی با فناوری پیشرفته وجود دارند که تراشه ها را تولید می کنند."
+    },
+    {
+      "id": "v15",
+      "de": "Dampfer",
+      "en": "Mute",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کشتی بخار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Dampfer.ogg"
+    },
+    {
+      "id": "v16",
+      "de": "Diplom",
+      "en": "diploma",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-Diplom.ogg"
+    },
+    {
+      "id": "v17",
+      "de": "Einvernehmen",
+      "en": "agreement",
+      "pos": "noun",
+      "article": "das",
+      "fa": "توافق im Einvernehmen mit+D",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Einvernehmen.ogg"
+    },
+    {
+      "id": "v18",
+      "de": "Elektronik",
+      "en": "electronics",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-Elektronik.ogg"
+    },
+    {
+      "id": "v19",
+      "de": "Freiluftkino",
+      "en": "Outdoor cinema",
+      "pos": "noun",
+      "article": "das",
+      "fa": "سینمای فضای باز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-Freiluftkino.ogg"
+    },
+    {
+      "id": "v20",
+      "de": "Frist",
+      "en": "deadline",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مهلت، مدت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Frist.ogg"
+    },
+    {
+      "id": "v21",
+      "de": "Gehalt",
+      "en": "salary",
+      "pos": "noun",
+      "article": "das",
+      "fa": "مطالب، حقوق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Gehalt.ogg",
+      "exampleDe": "Ich bekomme mein Gehalt und muss meine Miete überweisen und so.",
+      "exampleEn": "I get my salary and have to pay my rent and stuff.",
+      "exampleFa": "حقوقم را می گیرم و باید کرایه خانه و چیزهایم را بدهم."
+    },
+    {
+      "id": "v22",
+      "de": "Geschäftsführung",
+      "en": "Management",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مدیریت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-Gesch%C3%A4ftsf%C3%BChrung.ogg"
+    },
+    {
+      "id": "v23",
+      "de": "Geschäftsleitung",
+      "en": "management",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مدیریت ارشد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-Gesch%C3%A4ftsleitung.ogg"
+    },
+    {
+      "id": "v24",
+      "de": "Halbleiter",
+      "en": "semiconductor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نیم رسانا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/De-Halbleiter.ogg"
+    },
+    {
+      "id": "v25",
+      "de": "Herkunft",
+      "en": "Origin",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مبدا، سرچشمه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Herkunft.ogg"
+    },
+    {
+      "id": "v26",
+      "de": "Hersteller",
+      "en": "Manufacturer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "تولید کننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Hersteller.ogg"
+    },
+    {
+      "id": "v27",
+      "de": "Infobrett",
+      "en": "Information board",
+      "pos": "noun",
+      "article": "das",
+      "fa": "بورد اطلاعات"
+    },
+    {
+      "id": "v28",
+      "de": "Informationstechnik",
+      "en": "Information technology",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-Informationstechnik.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Institut",
+      "en": "Institute",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-Institut.ogg"
+    },
+    {
+      "id": "v30",
+      "de": "Intranet",
+      "en": "intranet",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-Intranet.ogg",
+      "exampleDe": "Ich habe mir auch schon das Intranet zeigen lassen und auch, wo dort alle wichtigen Informationen für die Mitarbeiter sind.",
+      "exampleEn": "I've already had the intranet shown to me and where all the important information for employees is located.",
+      "exampleFa": "من قبلاً اینترانت را به من نشان داده ام و تمام اطلاعات مهم برای کارمندان در آن قرار دارد."
+    },
+    {
+      "id": "v31",
+      "de": "Konsum",
+      "en": "consumption",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مصرف",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-Konsum.ogg"
+    },
+    {
+      "id": "v32",
+      "de": "Kooperation",
+      "en": "cooperation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "همکاری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-Kooperation.ogg"
+    },
+    {
+      "id": "v33",
+      "de": "Kraft",
+      "en": "Power",
+      "pos": "noun",
+      "article": "die",
+      "fa": "توان، نیرو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-Kraft.ogg",
+      "exampleDe": "Toll, dazu braucht man sicherlich viel Kraft, oder?",
+      "exampleEn": "Great, that definitely takes a lot of strength, right?",
+      "exampleFa": "عالی، قطعاً قدرت زیادی می‌طلبد، درست است؟"
+    },
+    {
+      "id": "v34",
+      "de": "Kündigung",
+      "en": "Termination",
+      "pos": "noun",
+      "article": "die",
+      "fa": "، فسخ ،اخراج، استعفا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/De-K%C3%BCndigung.ogg"
+    },
+    {
+      "id": "v35",
+      "de": "Kündigungsfrist",
+      "en": "Notice period",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مهلت فسخ قرارداد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-K%C3%BCndigungsfrist.ogg"
+    },
+    {
+      "id": "v36",
+      "de": "Kürze",
+      "en": "Brevity",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کوتاهی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-K%C3%BCrze.ogg",
+      "exampleDe": "In Kürze verlassen wir unsere Reiseflughöhe und beginnen mit dem Landeanflug auf unseren Zielflughafen Zürich-Kloten, den wir in etwa 20 Minuten erreichen.",
+      "exampleEn": "We will shortly leave our cruising altitude and begin our landing approach to our destination airport, Zurich-Kloten, which we will reach in about 20 minutes.",
+      "exampleFa": "ما به زودی ارتفاع سفر خود را ترک خواهیم کرد و مسیر فرود خود را به سمت فرودگاه مقصد خود، زوریخ-کلوتن آغاز خواهیم کرد، که در عرض 20 دقیقه به آن خواهیم رسید."
+    },
+    {
+      "id": "v37",
+      "de": "Laptop",
+      "en": "laptop",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/De-Laptop.ogg"
+    },
+    {
+      "id": "v38",
+      "de": "Layout",
+      "en": "layout",
+      "pos": "noun",
+      "article": "das",
+      "fa": "طرح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/De-Layout.ogg"
+    },
+    {
+      "id": "v39",
+      "de": "Lesebrille",
+      "en": "Reading glasses",
+      "pos": "noun",
+      "article": "die",
+      "fa": "عینک مطالعه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-Lesebrille.ogg"
+    },
+    {
+      "id": "v40",
+      "de": "Lohn",
+      "en": "Salary",
+      "pos": "noun",
+      "article": "der",
+      "fa": "حقوق، دستمزد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Lohn.ogg"
+    },
+    {
+      "id": "v41",
+      "de": "Mikroelektronik",
+      "en": "microelectronics",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-Mikroelektronik.ogg",
+      "exampleDe": "200 Firmen, die alle auf dem Gebiet der Mikroelektronik tätig sind.",
+      "exampleEn": "200 companies, all active in the field of microelectronics.",
+      "exampleFa": "200 شرکت که همگی در زمینه میکروالکترونیک فعال هستند."
+    },
+    {
+      "id": "v42",
+      "de": "Mikrosystemtechnik",
+      "en": "Microsystems technology",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Mikrosystemtechnik.ogg"
+    },
+    {
+      "id": "v43",
+      "de": "Muttersprachler",
+      "en": "native speaker",
+      "pos": "noun",
+      "article": "der",
+      "fa": "به زبان مادری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Muttersprachler.ogg"
+    },
+    {
+      "id": "v44",
+      "de": "Muttersprachlerin",
+      "en": "native speaker",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-Muttersprachlerin.ogg"
+    },
+    {
+      "id": "v45",
+      "de": "Nachfrage",
+      "en": "demand",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پرس و جو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-Nachfrage.ogg",
+      "exampleDe": "Und sonst kann man ja einfach nachfragen.",
+      "exampleEn": "Otherwise you can just ask.",
+      "exampleFa": "در غیر این صورت فقط می توانید بپرسید."
+    },
+    {
+      "id": "v46",
+      "de": "Paragraph",
+      "en": "paragraph",
+      "pos": "noun",
+      "article": "der",
+      "fa": "بند",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-Paragraph.ogg"
+    },
+    {
+      "id": "v47",
+      "de": "Passwort",
+      "en": "password",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-Passwort.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Physiker",
+      "en": "physicist",
+      "pos": "noun",
+      "article": "der",
+      "fa": "فیزیکدان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Physiker.ogg"
+    },
+    {
+      "id": "v49",
+      "de": "Physikerin",
+      "en": "physicist",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-Physikerin.ogg"
+    },
+    {
+      "id": "v50",
+      "de": "Satzzeichen",
+      "en": "Punctuation marks",
+      "pos": "noun",
+      "article": "das",
+      "fa": "علایم نقطه گذاری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-Satzzeichen.ogg"
+    },
+    {
+      "id": "v51",
+      "de": "Schloss",
+      "en": "palace/castle",
+      "pos": "noun",
+      "article": "das",
+      "fa": "قلعه، قفل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Schloss.ogg",
+      "exampleDe": "Die vielen anderen Ausstellungen im Schloss habe ich aber noch nicht besuchen können.",
+      "exampleEn": "But I haven't been able to visit the many other exhibitions in the castle yet.",
+      "exampleFa": "اما من هنوز موفق به بازدید از بسیاری از نمایشگاه های دیگر در قلعه نشده ام."
+    },
+    {
+      "id": "v52",
+      "de": "Sekretariat",
+      "en": "Secretariat",
+      "pos": "noun",
+      "article": "das",
+      "fa": "دفترخانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Sekretariat.ogg"
+    },
+    {
+      "id": "v53",
+      "de": "Silizium",
+      "en": "silicon",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-Silizium.ogg"
+    },
+    {
+      "id": "v54",
+      "de": "Siliziumscheibe",
+      "en": "Silicon disk",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دیسک سیلیسوم"
+    },
+    {
+      "id": "v55",
+      "de": "Spitzname",
+      "en": "Nickname",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نام مستعار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-Spitzname.ogg"
+    },
+    {
+      "id": "v56",
+      "de": "Standort",
+      "en": "Location",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مکان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-Standort.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "Technologie",
+      "en": "technology",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-Technologie.ogg"
+    },
+    {
+      "id": "v58",
+      "de": "Tour",
+      "en": "tour",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سیاحت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Tour.ogg"
+    },
+    {
+      "id": "v59",
+      "de": "Tätigkeit",
+      "en": "Task",
+      "pos": "noun",
+      "article": "die",
+      "fa": "فعالیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-T%C3%A4tigkeit.ogg",
+      "exampleDe": "Und welche Tätigkeit fanden Sie besonders interessant?",
+      "exampleEn": "And what activity did you find particularly interesting?",
+      "exampleFa": "و چه فعالیتی برای شما جالب بود؟"
+    },
+    {
+      "id": "v60",
+      "de": "Umgebung",
+      "en": "Vicinity",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Umgebung.ogg",
+      "exampleDe": "So habe ich Dresden und seine Umgebung kennenlernen können.",
+      "exampleEn": "This is how I was able to get to know Dresden and its surroundings.",
+      "exampleFa": "اینگونه توانستم درسدن و اطراف آن را بشناسم."
+    },
+    {
+      "id": "v61",
+      "de": "Urlaubsantrag",
+      "en": "Vacation request",
+      "pos": "noun",
+      "article": "der",
+      "fa": "درخواست مرخصی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Urlaubsantrag.ogg",
+      "exampleDe": "Ich habe noch eine Frage, muss ich dafür Ihnen den Urlaubsantrag geben oder bekommt den die Personalabteilung?",
+      "exampleEn": "I have another question: Do I have to give you the vacation application or does the HR department get it?",
+      "exampleFa": "من یک سوال دیگر دارم: آیا باید درخواست تعطیلات را به شما بدهم یا بخش منابع انسانی آن را دریافت می کند؟"
+    },
+    {
+      "id": "v62",
+      "de": "Verhältnis",
+      "en": "Relationship",
+      "pos": "noun",
+      "article": "das",
+      "fa": "رابطه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Verh%C3%A4ltnis.ogg"
+    },
+    {
+      "id": "v63",
+      "de": "Verwaltung",
+      "en": "Administration",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مدیریت، اداره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/De-Verwaltung.ogg"
+    },
+    {
+      "id": "v64",
+      "de": "Wafer",
+      "en": "wafers",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-Wafer.ogg"
+    },
+    {
+      "id": "v65",
+      "de": "Wanderung",
+      "en": "Hike",
+      "pos": "noun",
+      "article": "die",
+      "fa": "راهپیمایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-Wanderung.ogg"
+    },
+    {
+      "id": "v66",
+      "de": "Wartung",
+      "en": "maintenance",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نگهداری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-Wartung.ogg"
+    },
+    {
+      "id": "v67",
+      "de": "Welt",
+      "en": "World",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جهان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Welt.ogg",
+      "exampleDe": "Ihre Kunden kommen übrigens aus der ganzen Welt.",
+      "exampleEn": "By the way, your customers come from all over the world.",
+      "exampleFa": "به هر حال، مشتریان شما از سراسر جهان می آیند."
+    },
+    {
+      "id": "v68",
+      "de": "auszahlen",
+      "en": "pay out",
+      "pos": "verb",
+      "fa": "پرداخت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-auszahlen.ogg"
+    },
+    {
+      "id": "v69",
+      "de": "durchlesen",
+      "en": "read through",
+      "pos": "verb",
+      "fa": "خواندن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/De-durchlesen.ogg"
+    },
+    {
+      "id": "v70",
+      "de": "enthalten",
+      "en": "contain",
+      "pos": "verb",
+      "fa": "در بر داشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-enthalten.ogg"
+    },
+    {
+      "id": "v71",
+      "de": "erfolgen",
+      "en": "take place",
+      "pos": "verb",
+      "fa": "نتیجه دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-erfolgen.ogg",
+      "exampleDe": "Viel Erfolg und tschüss.",
+      "exampleEn": "Good luck and goodbye.",
+      "exampleFa": "موفق باشید و خداحافظ."
+    },
+    {
+      "id": "v72",
+      "de": "hochmodern",
+      "en": "ultra-modern",
+      "pos": "verb",
+      "fa": "خیلی مدرن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-hochmodern.ogg"
+    },
+    {
+      "id": "v73",
+      "de": "kündigen",
+      "en": "quit",
+      "pos": "verb",
+      "fa": "اخراج کردن er kündigt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-k%C3%BCndigen.ogg"
+    },
+    {
+      "id": "v74",
+      "de": "lassen",
+      "en": "let",
+      "pos": "verb",
+      "fa": "به جا گذاشتن er lässt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-lassen.ogg",
+      "exampleDe": "Lassen Sie sich dort die Daten geben.",
+      "exampleEn": "Get the data there.",
+      "exampleFa": "داده ها را از آنجا دریافت کنید."
+    },
+    {
+      "id": "v75",
+      "de": "nachstellen",
+      "en": "recreate",
+      "pos": "verb",
+      "fa": "دوباره تنظیم کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-nachstellen.ogg"
+    },
+    {
+      "id": "v76",
+      "de": "qualifizieren",
+      "en": "qualify",
+      "pos": "verb",
+      "fa": "آموزش دیدن، لایق شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-qualifizieren.ogg"
+    },
+    {
+      "id": "v77",
+      "de": "testen",
+      "en": "test",
+      "pos": "verb",
+      "fa": "تست کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-testen.ogg",
+      "exampleDe": "Auf jeden Fall wird von allen deutschen Hochschulen der Test „Deutsch als Fremdsprache“, kurz TestDaF, anerkannt.",
+      "exampleEn": "In any case, the “German as a Foreign Language” test, or TestDaF for short, is recognized by all German universities.",
+      "exampleFa": "در هر صورت، آزمون «آلمانی به عنوان زبان خارجی» یا به اختصار TestDaF توسط تمامی دانشگاه های آلمان به رسمیت شناخته می شود."
+    },
+    {
+      "id": "v78",
+      "de": "verdecken",
+      "en": "cover up",
+      "pos": "verb",
+      "fa": "پنهان کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/De-verdecken.ogg"
+    },
+    {
+      "id": "v79",
+      "de": "zerstören",
+      "en": "destroy",
+      "pos": "verb",
+      "fa": "از بین بردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-zerst%C3%B6ren.ogg"
+    },
+    {
+      "id": "v80",
+      "de": "zukommen",
+      "en": "come",
+      "pos": "verb",
+      "fa": "نزدیکتر شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-zukommen.ogg",
+      "exampleDe": "Den bekomme ich, aber Sie müssen ihn dann noch der Personalabteilung zukommen lassen.",
+      "exampleEn": "I'll get it, but you'll have to send it to HR.",
+      "exampleFa": "من آن را دریافت می کنم، اما شما باید آن را به HR بفرستید."
+    },
+    {
+      "id": "v81",
+      "de": "zulassen",
+      "en": "allow",
+      "pos": "verb",
+      "fa": "اجازه دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-zulassen.ogg"
+    },
+    {
+      "id": "v82",
+      "de": "berufstätig sein",
+      "en": "be employed",
+      "pos": "phrase",
+      "fa": "شاغل بودن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-berufst%C3%A4tig.ogg"
+    },
+    {
+      "id": "v83",
+      "de": "denkbar",
+      "en": "conceivable",
+      "pos": "other",
+      "fa": "قابل تصور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/De-denkbar.ogg"
+    },
+    {
+      "id": "v84",
+      "de": "im Folgenden",
+      "en": "hereinafter",
+      "pos": "phrase",
+      "fa": "ازین پس، در زیر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-im.ogg"
+    },
+    {
+      "id": "v85",
+      "de": "in der Nähe",
+      "en": "close by",
+      "pos": "phrase",
+      "fa": "در نزدیکی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De-in.ogg"
+    },
+    {
+      "id": "v86",
+      "de": "individuell",
+      "en": "individually",
+      "pos": "other",
+      "fa": "شخصی، فردی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/De-individuell.ogg"
+    },
+    {
+      "id": "v87",
+      "de": "komplett",
+      "en": "completely",
+      "pos": "other",
+      "fa": "کامل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-komplett.ogg",
+      "exampleDe": "Aber sie ist noch nicht komplett.",
+      "exampleEn": "But it's not complete yet.",
+      "exampleFa": "اما هنوز کامل نشده است."
+    },
+    {
+      "id": "v88",
+      "de": "Krieg",
+      "en": "War",
+      "pos": "other",
+      "fa": "جنگ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-Krieg.ogg",
+      "exampleDe": "Ich krieg dich!",
+      "exampleEn": "I'll get you!",
+      "exampleFa": "من تو را می گیرم!"
+    },
+    {
+      "id": "v89",
+      "de": "sich vorstellen",
+      "en": "to introduce oneself",
+      "pos": "phrase",
+      "fa": "خود را معرفی کردن er stellt sich vor",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-sich.ogg"
+    },
+    {
+      "id": "v90",
+      "de": "winzig",
+      "en": "tiny",
+      "pos": "other",
+      "fa": "کوچک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-winzig.ogg"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "lassen + Verb",
+      "titleEn": "lassen + verb",
+      "explanationEn": "(sich) lassen + Infinitiv: cause/allow something to be done — Ich lasse mein Auto reparieren. Reflexive: Das lässt sich ändern (can be changed). Perfekt: hat … lassen (double infinitive at end): Ich habe mir die Haare schneiden lassen.",
+      "patterns": [
+        "lassen + Inf.",
+        "sich lassen + Inf.",
+        "hat … Inf. lassen"
+      ],
+      "examples": [
+        {
+          "de": "Ich lasse mir den Vertrag erklären.",
+          "en": "I have the contract explained to me.",
+          "fa": "قرارداد را برایم توضیح می‌دهند (می‌گذارم توضیح دهند)."
+        },
+        {
+          "de": "Das Problem hat sich lösen lassen.",
+          "en": "The problem could be solved.",
+          "fa": "مشکل قابل حل بوده است."
+        }
+      ],
+      "titleFa": "lassen + فعل"
+    },
+    {
+      "id": "g2",
+      "titleDe": "Modalverben im Perfekt",
+      "titleEn": "Modal verbs in the perfect",
+      "explanationEn": "With a second verb: double infinitive — hat … arbeiten müssen / können / wollen / sollen / dürfen / mögen. Without second verb: normal Partizip — hat gemusst. Word order: … hat nach Dresden fahren müssen.",
+      "patterns": [
+        "hat … Inf. müssen",
+        "hat … Inf. können",
+        "hat gemusst (ohne 2. Verb)"
+      ],
+      "examples": [
+        {
+          "de": "Am ersten Tag habe ich früh aufstehen müssen.",
+          "en": "On the first day I had to get up early.",
+          "fa": "روز اول مجبور بودم زود بیدار شوم."
+        },
+        {
+          "de": "Sie hat die Stelle bekommen wollen.",
+          "en": "She wanted to get the job.",
+          "fa": "او می‌خواست آن شغل را بگیرد."
+        }
+      ],
+      "titleFa": "افعال وجهی در Perfekt"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "lassen",
+      "promptEn": "lassen",
+      "content": "Ich ___ mir die Schlüsselkopie machen.",
+      "answer": "lasse",
+      "grammarId": "g1",
+      "options": [
+        "lasse",
+        "lasse zu",
+        "lasse mich"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "Perfekt lassen",
+      "promptEn": "lassen perfect",
+      "content": "Ich habe die Wohnung renovieren ___.",
+      "answer": "lassen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Modal Perfekt",
+      "promptEn": "Modal perfect",
+      "content": "Er hat länger bleiben ___.",
+      "answer": "müssen",
+      "grammarId": "g2",
+      "options": [
+        "müssen",
+        "gemusst",
+        "musste"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "können Perfekt",
+      "promptEn": "können perfect",
+      "content": "Wir haben den Vertrag nicht ändern ___.",
+      "answer": "können",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Doppelinfinitiv",
+      "promptEn": "Double infinitive",
+      "content": "Sie | hat | nach | Dresden | ziehen | wollen | .",
+      "answer": "Sie hat nach Dresden ziehen wollen.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "sich lassen",
+      "promptEn": "sich lassen",
+      "content": "Der Fehler ___ sich leicht korrigieren.",
+      "answer": "lässt",
+      "grammarId": "g1",
+      "options": [
+        "lässt",
+        "lässt zu",
+        "hat lassen"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Kannst du dir die Adresse ___ ?",
+      "answer": "geben lassen",
+      "options": [
+        "geben lassen",
+        "lassen geben",
+        "gegeben lassen"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Ich habe mein Büro streichen ___.",
+      "answer": "lassen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "Am Montag habe ich Überstunden machen ___.",
+      "answer": "müssen",
+      "options": [
+        "müssen",
+        "gemusst",
+        "musste"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Sie hat nicht länger bleiben ___.",
+      "answer": "dürfen",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Das lässt ___ nicht ändern.",
+      "answer": "sich",
+      "options": [
+        "sich",
+        "ihn",
+        "man"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: Er hat die Firma wechseln ___.",
+      "answer": "wollen",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„die Elektronik“ means…",
+      "answer": "electronics",
+      "options": [
+        "electronics",
+        "Task",
+        "cooperation"
+      ],
+      "vocabId": "v18"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“cooperation”:",
+      "answer": "die Kooperation",
+      "options": [
+        "die Elektronik",
+        "die Kooperation",
+        "die Tätigkeit"
+      ],
+      "vocabId": "v32"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„die Tätigkeit“ means…",
+      "answer": "Task",
+      "options": [
+        "Task",
+        "electronics",
+        "cooperation"
+      ],
+      "vocabId": "v59"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“management”:",
+      "answer": "die Geschäftsleitung",
+      "options": [
+        "die Geschäftsleitung",
+        "die Kooperation",
+        "die Elektronik"
+      ],
+      "vocabId": "v23"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t45",

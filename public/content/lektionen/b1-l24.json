@@ -4,33 +4,1422 @@
   "number": 24,
   "titleDe": "Mit der Natur arbeiten",
   "titleEn": "Working with nature",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Mit der Natur arbeiten“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Working with nature” in the course book",
-      "fa": "اهداف یادگیری «کار با طبیعت» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Anhand von Informationstexten und Anzeigen herausfinden, was zu einer Person passt",
+      "en": "Use info texts and ads to find what suits a person",
+      "fa": "با متون و آگهی‌ها بفهمید چه چیزی به فرد می‌خورد"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "E-Mail mit Bitten um Informationen schreiben",
+      "en": "Write an email requesting information",
+      "fa": "نوشتن ایمیل برای درخواست اطلاعات"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Bewerbungsmail verstehen und selbst schreiben",
+      "en": "Understand and write an application email",
+      "fa": "فهم و نوشتن ایمیل درخواست کار/داوطلبی"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "Notizen zu einer Präsentation über Freiwilligeneinsatz machen",
+      "en": "Take notes on a presentation about volunteering",
+      "fa": "یادداشت از ارائه درباره کار داوطلبانه"
+    },
+    {
+      "de": "Von einem Freiwilligeneinsatz oder Arbeitserfahrungen schriftlich berichten",
+      "en": "Write about volunteering or work experience",
+      "fa": "گزارش کتبی از کار داوطلبانه یا تجربه کاری"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Acker",
+      "en": "field",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مزرعه؛ زمین زراعتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Acker.ogg"
+    },
+    {
+      "id": "v2",
+      "de": "Ackerbau",
+      "en": "agriculture",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کشت و زرع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-Ackerbau.ogg"
+    },
+    {
+      "id": "v3",
+      "de": "Aktivität",
+      "en": "activity",
+      "pos": "noun",
+      "article": "die",
+      "fa": "فعالیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-Aktivit%C3%A4t.ogg"
+    },
+    {
+      "id": "v4",
+      "de": "Alp",
+      "en": "Alp",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کوه های آلپ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-Alp.ogg",
+      "exampleDe": "Und deshalb möchte ich gern in den Bergen arbeiten, zum Beispiel auf einer Alp, so auf 1.500 m.",
+      "exampleEn": "And that's why I would like to work in the mountains, for example on an alp at an altitude of 1,500 m.",
+      "exampleFa": "و به همین دلیل است که من دوست دارم در کوهستان کار کنم، به عنوان مثال در کوهستانی در ارتفاع 1500 متری."
+    },
+    {
+      "id": "v5",
+      "de": "Anbau",
+      "en": "Cultivation",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کشت، زراعت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Anbau.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Anfrage",
+      "en": "Inquiry",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تقاضا، سوال",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-Anfrage.ogg"
+    },
+    {
+      "id": "v7",
+      "de": "Aspekt",
+      "en": "aspect",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دیدگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Aspekt.ogg"
+    },
+    {
+      "id": "v8",
+      "de": "Bauer",
+      "en": "farmer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کشاورز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Bauer.ogg",
+      "exampleDe": "Aha, Sie haben also nicht nur als Bauer gearbeitet, sondern auch in der Vermarktung der Produkte.",
+      "exampleEn": "Aha, so you not only worked as a farmer, but also in marketing the products.",
+      "exampleFa": "آها، پس شما نه تنها به عنوان یک کشاورز، بلکه در بازاریابی محصولات نیز کار می کردید."
+    },
+    {
+      "id": "v9",
+      "de": "Bauernhof",
+      "en": "Farm yard",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مزرعه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-Bauernhof.ogg",
+      "exampleDe": "Na, dann ist vielleicht ein Bauernhof das Beste.",
+      "exampleEn": "Well, then maybe a farm is best.",
+      "exampleFa": "خوب، پس شاید مزرعه بهترین باشد."
+    },
+    {
+      "id": "v10",
+      "de": "Betreuer",
+      "en": "Supervisor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مراقب، مسئول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Betreuer.ogg"
+    },
+    {
+      "id": "v11",
+      "de": "Betreuerin",
+      "en": "carer",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مراقب، مسئول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-Betreuerin.ogg"
+    },
+    {
+      "id": "v12",
+      "de": "Betreuung",
+      "en": "Care",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نگهداری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Betreuung.ogg"
+    },
+    {
+      "id": "v13",
+      "de": "Bewerbung",
+      "en": "application",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تقاضای کار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/De-Bewerbung.ogg",
+      "exampleDe": "Ja, wir haben Ihre Bewerbung bekommen.",
+      "exampleEn": "Yes, we have received your application.",
+      "exampleFa": "بله، ما درخواست شما را دریافت کرده ایم."
+    },
+    {
+      "id": "v14",
+      "de": "Bezahlung",
+      "en": "pay",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دستمزد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Bezahlung.ogg",
+      "exampleDe": "Denn dieser Job war nicht so toll: Schlechte Arbeitsbedingungen, schlechte Bezahlung und da hatte ich auch keine Zukunftsperspektive.",
+      "exampleEn": "Because this job wasn't that great: bad working conditions, bad pay and I had no prospects for the future.",
+      "exampleFa": "چون این شغل آنقدرها هم عالی نبود: شرایط کاری بد، حقوق بد و هیچ چشم اندازی برای آینده نداشتم."
+    },
+    {
+      "id": "v15",
+      "de": "Bulle",
+      "en": "Bull",
+      "pos": "noun",
+      "article": "der",
+      "fa": "گاو نر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-Bulle.ogg"
+    },
+    {
+      "id": "v16",
+      "de": "Bäuerin",
+      "en": "Farmer's wife",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کشاورز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-B%C3%A4uerin.ogg"
+    },
+    {
+      "id": "v17",
+      "de": "Dünger",
+      "en": "fertilizer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کود",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/De-D%C3%BCnger.ogg"
+    },
+    {
+      "id": "v18",
+      "de": "Einsatz",
+      "en": "Mission",
+      "pos": "noun",
+      "article": "der",
+      "fa": "استفاده، سرمایه اولیه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/De-Einsatz.ogg",
+      "exampleDe": "Also, mein Einsatz war ein voller Erfolg!",
+      "exampleEn": "So, my mission was a complete success!",
+      "exampleFa": "بنابراین، ماموریت من با موفقیت کامل بود!"
+    },
+    {
+      "id": "v19",
+      "de": "Entschluss",
+      "en": "decision",
+      "pos": "noun",
+      "article": "der",
+      "fa": "اراده ، تصمیم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Entschluss.ogg"
+    },
+    {
+      "id": "v20",
+      "de": "Erfahrung",
+      "en": "experience",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تجربه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-Erfahrung.ogg",
+      "exampleDe": "Wirklich eine tolle Erfahrung.",
+      "exampleEn": "Really a great experience.",
+      "exampleFa": "واقعا یک تجربه عالی."
+    },
+    {
+      "id": "v21",
+      "de": "Erwartung",
+      "en": "Expectation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "انتظار، توقع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-Erwartung.ogg"
+    },
+    {
+      "id": "v22",
+      "de": "Esel",
+      "en": "Donkey",
+      "pos": "noun",
+      "article": "der",
+      "fa": "خر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Esel.ogg"
+    },
+    {
+      "id": "v23",
+      "de": "Fachfrau",
+      "en": "Specialist",
+      "pos": "noun",
+      "article": "die",
+      "fa": "متخصص زن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-Fachfrau.ogg"
+    },
+    {
+      "id": "v24",
+      "de": "Fachmann",
+      "en": "Professional",
+      "pos": "noun",
+      "article": "der",
+      "fa": "متخصص",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-Fachmann.ogg"
+    },
+    {
+      "id": "v25",
+      "de": "Fernsicht",
+      "en": "Distant view",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دورنگری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Fernsicht.ogg"
+    },
+    {
+      "id": "v26",
+      "de": "Forst",
+      "en": "Forest",
+      "pos": "noun",
+      "article": "der",
+      "fa": "جنگل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/De-Forst.ogg"
+    },
+    {
+      "id": "v27",
+      "de": "Gras",
+      "en": "grass",
+      "pos": "noun",
+      "article": "das",
+      "fa": "علف چمن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Gras.ogg"
+    },
+    {
+      "id": "v28",
+      "de": "Gärtnerei",
+      "en": "Gardening",
+      "pos": "noun",
+      "article": "die",
+      "fa": "باغداری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-G%C3%A4rtnerei.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Hahn",
+      "en": "Faucet",
+      "pos": "noun",
+      "article": "der",
+      "fa": "خروس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Hahn.ogg",
+      "exampleDe": "Zum Beispiel „Halve Hahn“?",
+      "exampleEn": "For example “Halve Hahn”?",
+      "exampleFa": "به عنوان مثال \"Halve Hahn\"؟"
+    },
+    {
+      "id": "v30",
+      "de": "Handarbeit",
+      "en": "Handcrafted",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کار دست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-Handarbeit.ogg"
+    },
+    {
+      "id": "v31",
+      "de": "Helfer",
+      "en": "helper",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مددکار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Helfer.ogg"
+    },
+    {
+      "id": "v32",
+      "de": "Helferin",
+      "en": "Helper",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مددکار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Helferin.ogg"
+    },
+    {
+      "id": "v33",
+      "de": "Henne",
+      "en": "hen",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مرغ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-Henne.ogg"
+    },
+    {
+      "id": "v34",
+      "de": "Heu",
+      "en": "hay",
+      "pos": "noun",
+      "article": "das",
+      "fa": "علف خشک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/De-Heu.ogg"
+    },
+    {
+      "id": "v35",
+      "de": "Heuen",
+      "en": "Hay",
+      "pos": "noun",
+      "article": "das",
+      "fa": "یونجه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-heuen.ogg",
+      "exampleDe": "Ein herrliches Wetter heute Morgen und der Blick auf den See, eine tolle Kulisse für unseren heutigen Erfahrungsaustausch.",
+      "exampleEn": "Beautiful weather this morning and the view of the lake, a great backdrop for our exchange of experiences today.",
+      "exampleFa": "هوای زیبا امروز صبح و منظره دریاچه، پس زمینه ای عالی برای تبادل تجربیات امروز ما."
+    },
+    {
+      "id": "v36",
+      "de": "Hof",
+      "en": "yard",
+      "pos": "noun",
+      "article": "der",
+      "fa": "، مزرعه، حیاط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-Hof.ogg",
+      "exampleDe": "Die blieben fast immer zwei Wochen auf dem Hof.",
+      "exampleEn": "They almost always stayed on the farm for two weeks.",
+      "exampleFa": "آنها تقریباً همیشه دو هفته در مزرعه می ماندند."
+    },
+    {
+      "id": "v37",
+      "de": "Hütte",
+      "en": "hut",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کلبه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-H%C3%BCtte.ogg"
+    },
+    {
+      "id": "v38",
+      "de": "Kalb",
+      "en": "Calf",
+      "pos": "noun",
+      "article": "das",
+      "fa": "گوساله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-Kalb.ogg"
+    },
+    {
+      "id": "v39",
+      "de": "Kondition",
+      "en": "condition",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شرایط ، وضعیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/De-Kondition.ogg",
+      "exampleDe": "Es war super, aber ich habe jetzt Muskelkater, denn ich habe noch keine Kondition.",
+      "exampleEn": "It was great, but my muscles are sore now because I don't have any fitness yet.",
+      "exampleFa": "خیلی خوب بود اما الان عضلاتم درد می کند چون هنوز آمادگی جسمانی ندارم."
+    },
+    {
+      "id": "v40",
+      "de": "Kuh",
+      "en": "Cow",
+      "pos": "noun",
+      "article": "die",
+      "fa": "گاو ماده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/De-Kuh.ogg"
+    },
+    {
+      "id": "v41",
+      "de": "Kätzchen",
+      "en": "kitten",
+      "pos": "noun",
+      "article": "das",
+      "fa": "بچه گربه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-K%C3%A4tzchen.ogg"
+    },
+    {
+      "id": "v42",
+      "de": "Kücken",
+      "en": "Chick",
+      "pos": "noun",
+      "article": "das",
+      "fa": "A جوجه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-K%C3%BCcken.ogg"
+    },
+    {
+      "id": "v43",
+      "de": "Küken",
+      "en": "chick",
+      "pos": "noun",
+      "article": "das",
+      "fa": "جوجه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-K%C3%BCken.ogg"
+    },
+    {
+      "id": "v44",
+      "de": "Landbau",
+      "en": "Agriculture",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کشاورزی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Landbau.ogg"
+    },
+    {
+      "id": "v45",
+      "de": "Landwirt",
+      "en": "farmer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کشاورز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-Landwirt.ogg",
+      "exampleDe": "Ich hab’ schon überlegt, ein Praktikum bei einem Landwirt zu machen.",
+      "exampleEn": "I was already thinking about doing an internship with a farmer.",
+      "exampleFa": "از قبل به این فکر می کردم که با یک کشاورز کارآموزی کنم."
+    },
+    {
+      "id": "v46",
+      "de": "Landwirtin",
+      "en": "Farmer",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کشاورز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Landwirtin.ogg"
+    },
+    {
+      "id": "v47",
+      "de": "Lebensart",
+      "en": "way of life",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سبک زندگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Lebensart.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Liste",
+      "en": "list",
+      "pos": "noun",
+      "article": "die",
+      "fa": "فهرست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Liste.ogg",
+      "exampleDe": "Hier ist eine Liste.",
+      "exampleEn": "Here is a list.",
+      "exampleFa": "در اینجا یک لیست است."
+    },
+    {
+      "id": "v49",
+      "de": "Mitglied",
+      "en": "Member",
+      "pos": "noun",
+      "article": "das",
+      "fa": "عضو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-Mitglied.ogg"
+    },
+    {
+      "id": "v50",
+      "de": "Organisation",
+      "en": "organization",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ساختار، سازمان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-Organisation.ogg",
+      "exampleDe": "Ich möchte nämlich später für eine internationale Organisation arbeiten und da braucht man unbedingt Auslandserfahrung.",
+      "exampleEn": "I would like to work for an international organization later on and you definitely need international experience.",
+      "exampleFa": "من می خواهم بعداً برای یک سازمان بین المللی کار کنم و شما قطعاً به تجربه بین المللی نیاز دارید."
+    },
+    {
+      "id": "v51",
+      "de": "Projekt",
+      "en": "project",
+      "pos": "noun",
+      "article": "das",
+      "fa": "پروژه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-Projekt.ogg",
+      "exampleDe": "In dem einen Artikel über das Bergwaldprojekt geht es doch um ein ökologisches Projekt zum Schutz des Bergwalds.",
+      "exampleEn": "One article about the mountain forest project is about an ecological project to protect the mountain forest.",
+      "exampleFa": "یک مقاله در مورد پروژه جنگل کوهستان در مورد یک پروژه اکولوژیکی برای حفاظت از جنگل کوهستانی است."
+    },
+    {
+      "id": "v52",
+      "de": "Quark",
+      "en": "quark",
+      "pos": "noun",
+      "article": "der",
+      "fa": "خامه ترش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-Quark.ogg",
+      "exampleDe": "Ja, ja, Topfen ist Quark.",
+      "exampleEn": "Yes, yes, curd is quark.",
+      "exampleFa": "بله، بله، کشک کوارک است."
+    },
+    {
+      "id": "v53",
+      "de": "Renovation",
+      "en": "renovation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نوسازی"
+    },
+    {
+      "id": "v54",
+      "de": "Renovierung",
+      "en": "renovation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نوسازی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-Renovierung.ogg"
+    },
+    {
+      "id": "v55",
+      "de": "Schaf",
+      "en": "sheep",
+      "pos": "noun",
+      "article": "das",
+      "fa": "گوسفند",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Schaf.ogg"
+    },
+    {
+      "id": "v56",
+      "de": "Scheune",
+      "en": "barn",
+      "pos": "noun",
+      "article": "die",
+      "fa": "انبار کاه و جو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/De-Scheune.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "Schädlingsmittel",
+      "en": "Pesticides",
+      "pos": "noun",
+      "article": "der",
+      "fa": "امکان آفت"
+    },
+    {
+      "id": "v58",
+      "de": "Stall",
+      "en": "stall",
+      "pos": "noun",
+      "article": "der",
+      "fa": "اسطبل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Stall.ogg"
+    },
+    {
+      "id": "v59",
+      "de": "Stiftung",
+      "en": "Foundation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بنیاد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/De-Stiftung.ogg"
+    },
+    {
+      "id": "v60",
+      "de": "Taschengeld",
+      "en": "Pocket money",
+      "pos": "noun",
+      "article": "das",
+      "fa": "پول تو جیبی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-Taschengeld.ogg",
+      "exampleDe": "Sie haben mir ja schon mitgeteilt, dass Sie kein Taschengeld zahlen.",
+      "exampleEn": "You've already told me that you don't pay pocket money.",
+      "exampleFa": "قبلاً به من گفتی که پول تو جیبی نمی پردازی."
+    },
+    {
+      "id": "v61",
+      "de": "Tier",
+      "en": "animal",
+      "pos": "noun",
+      "article": "das",
+      "fa": "حیوان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/De-Tier.ogg"
+    },
+    {
+      "id": "v62",
+      "de": "Tierhaltung",
+      "en": "Animal husbandry",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نگهداری حیوانات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Tierhaltung.ogg"
+    },
+    {
+      "id": "v63",
+      "de": "Tierzucht",
+      "en": "Animal breeding",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دامپروری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-Tierzucht.ogg"
+    },
+    {
+      "id": "v64",
+      "de": "Umweltschutz",
+      "en": "Environmental protection",
+      "pos": "noun",
+      "article": "der",
+      "fa": "حفاظت از محیط زیست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-Umweltschutz.ogg",
+      "exampleDe": "Ich würd’ schon gern was für den Umweltschutz tun.",
+      "exampleEn": "I would like to do something to protect the environment.",
+      "exampleFa": "من دوست دارم برای حفظ محیط زیست کاری انجام دهم."
+    },
+    {
+      "id": "v65",
+      "de": "Unterbringung",
+      "en": "Accommodation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جا، مسکن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-Unterbringung.ogg"
+    },
+    {
+      "id": "v66",
+      "de": "Verarbeitung",
+      "en": "processing",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بازاریابی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Verarbeitung.ogg"
+    },
+    {
+      "id": "v67",
+      "de": "Verpflegung",
+      "en": "board/meals",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تغذیه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-Verpflegung.ogg",
+      "exampleDe": "Ein bisschen hab’ ich gespart und bei Ihnen brauche ich doch praktisch kein Geld, denn Sie sorgen doch für Unterkunft und Verpflegung, oder?",
+      "exampleEn": "I've saved a bit and I practically don't need any money from you because you provide accommodation and food, right?",
+      "exampleFa": "من کمی پس انداز کرده ام و عملاً به هیچ پولی از شما نیاز ندارم زیرا شما محل اقامت و غذا می دهید، درست است؟"
+    },
+    {
+      "id": "v68",
+      "de": "Vollwertkost",
+      "en": "Whole Foods",
+      "pos": "noun",
+      "article": "die",
+      "fa": "غذاهای کامل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/De-Vollwertkost.ogg"
+    },
+    {
+      "id": "v69",
+      "de": "Vorbild",
+      "en": "Example",
+      "pos": "noun",
+      "article": "das",
+      "fa": "سرمشق، الگو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-Vorbild.ogg",
+      "exampleDe": "Die Familie Egger, bei der ich war, ist für mich wirklich ein leuchtendes Vorbild, wie man mit diesen Problemen umgeht und wie man das Leben positiv betrachtet.",
+      "exampleEn": "The Egger family I was with is really a shining example to me of how to deal with these problems and how to look at life positively.",
+      "exampleFa": "خانواده ایگر که من با آنها بودم واقعاً برای من مثال درخشانی از نحوه برخورد با این مشکلات و نحوه نگاه مثبت به زندگی است."
+    },
+    {
+      "id": "v70",
+      "de": "Vorkenntnisse",
+      "en": "Prior knowledge",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دانش قبلی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Vorkenntnisse.ogg"
+    },
+    {
+      "id": "v71",
+      "de": "Wald",
+      "en": "Forest",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Wald.ogg",
+      "exampleDe": "Aber vielleicht wäre auch Arbeiten im Wald interessant.",
+      "exampleEn": "But perhaps working in the forest would also be interesting.",
+      "exampleFa": "اما شاید کار در جنگل نیز جالب باشد."
+    },
+    {
+      "id": "v72",
+      "de": "Weide",
+      "en": "pasture",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مرتع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/De-Weide.ogg",
+      "exampleDe": "Ich habe alles Mögliche gemacht: mit den Tieren, auf der Weide, auf dem Feld, im Garten, auf dem Hof usw.",
+      "exampleEn": "I did everything possible: with the animals, in the pasture, in the field, in the garden, on the farm, etc.",
+      "exampleFa": "من هر کاری که ممکن بود انجام دادم: با حیوانات، در مرتع، در مزرعه، در باغ، در مزرعه و غیره."
+    },
+    {
+      "id": "v73",
+      "de": "Ziege",
+      "en": "Goat",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Ziege.ogg"
+    },
+    {
+      "id": "v74",
+      "de": "Zivildienst",
+      "en": "Community service",
+      "pos": "noun",
+      "article": "der",
+      "fa": "خدمات اجتماعی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/De-Zivildienst.ogg"
+    },
+    {
+      "id": "v75",
+      "de": "Zusammenarbeit",
+      "en": "Cooperation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "همکاری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-Zusammenarbeit.ogg"
+    },
+    {
+      "id": "v76",
+      "de": "Zusammenhang",
+      "en": "Connection",
+      "pos": "noun",
+      "article": "der",
+      "fa": "رابطه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-Zusammenhang.ogg"
+    },
+    {
+      "id": "v77",
+      "de": "Ökologie",
+      "en": "ecology",
+      "pos": "noun",
+      "article": "die",
+      "fa": "محیط زیست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-%C3%96kologie.ogg",
+      "exampleDe": "Aber, also ich fände es schon gut, Leute kennenzulernen, die sich für Ökologie interessieren.",
+      "exampleEn": "But, I think it would be good to get to know people who are interested in ecology.",
+      "exampleFa": "اما، من فکر می کنم خوب است که با افرادی که به اکولوژی علاقه مند هستند آشنا شویم."
+    },
+    {
+      "id": "v78",
+      "de": "anbauen",
+      "en": "grow",
+      "pos": "verb",
+      "fa": "کاشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-anbauen.ogg"
+    },
+    {
+      "id": "v79",
+      "de": "ausmisten",
+      "en": "clear out",
+      "pos": "verb",
+      "fa": "طویله را تمیز کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-ausmisten.ogg"
+    },
+    {
+      "id": "v80",
+      "de": "bedenken",
+      "en": "consider",
+      "pos": "verb",
+      "fa": "فکر کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-bedenken.ogg"
+    },
+    {
+      "id": "v81",
+      "de": "bellen",
+      "en": "bay",
+      "pos": "verb",
+      "fa": "واق واق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-bellen.ogg"
+    },
+    {
+      "id": "v82",
+      "de": "betreuen",
+      "en": "look after",
+      "pos": "verb",
+      "fa": "مراقب بودن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-betreuen.ogg"
+    },
+    {
+      "id": "v83",
+      "de": "beurteilen",
+      "en": "judge",
+      "pos": "verb",
+      "fa": "داوری کردن، ارزیابی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-beurteilen.ogg"
+    },
+    {
+      "id": "v84",
+      "de": "bewerten",
+      "en": "evaluate",
+      "pos": "verb",
+      "fa": "ارزیابی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-bewerten.ogg"
+    },
+    {
+      "id": "v85",
+      "de": "blöken",
+      "en": "bleat",
+      "pos": "verb",
+      "fa": "بع بع کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-bl%C3%B6ken.ogg"
+    },
+    {
+      "id": "v86",
+      "de": "durchstreichen",
+      "en": "cross out",
+      "pos": "verb",
+      "fa": "خط زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-durchstreichen.ogg"
+    },
+    {
+      "id": "v87",
+      "de": "erhalten",
+      "en": "to receive",
+      "pos": "verb",
+      "fa": "حفاظت کردن، دریافت کردن، نگهداری کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/De-erhalten.ogg",
+      "exampleDe": "Sie erhalten einen Werksausweis.",
+      "exampleEn": "Like",
+      "exampleFa": "اضافه کاری چطور؟ آیا اجازه دارم اضافه کار کنم؟"
+    },
+    {
+      "id": "v88",
+      "de": "ernten",
+      "en": "harvest",
+      "pos": "verb",
+      "fa": "برداشت محصول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/De-ernten.ogg"
+    },
+    {
+      "id": "v89",
+      "de": "erwerben",
+      "en": "acquire",
+      "pos": "verb",
+      "fa": "بدست آوردن، تهیه کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-erwerben.ogg"
+    },
+    {
+      "id": "v90",
+      "de": "fressen",
+      "en": "eat",
+      "pos": "verb",
+      "fa": "غذا خوردن حیوانات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-fressen.ogg"
+    },
+    {
+      "id": "v91",
+      "de": "Freundschaft schließen",
+      "en": "to make friends",
+      "pos": "verb",
+      "fa": "دوست شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-Freundschaft.ogg"
+    },
+    {
+      "id": "v92",
+      "de": "frieren",
+      "en": "freeze",
+      "pos": "verb",
+      "fa": "یخ زدن، سرد بودن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-frieren.ogg"
+    },
+    {
+      "id": "v93",
+      "de": "füttern",
+      "en": "feed",
+      "pos": "verb",
+      "fa": "غذا دادن به حیوانات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-f%C3%BCttern.ogg"
+    },
+    {
+      "id": "v94",
+      "de": "gackern",
+      "en": "cackle",
+      "pos": "verb",
+      "fa": "قد قد کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-gackern.ogg"
+    },
+    {
+      "id": "v95",
+      "de": "grunzen",
+      "en": "grunt",
+      "pos": "verb",
+      "fa": "خرخر کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-grunzen.ogg"
+    },
+    {
+      "id": "v96",
+      "de": "krähen",
+      "en": "crow",
+      "pos": "verb",
+      "fa": "قوقولی قوقو کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/De-kr%C3%A4hen.ogg"
+    },
+    {
+      "id": "v97",
+      "de": "leuchten",
+      "en": "shine",
+      "pos": "verb",
+      "fa": "تابیدن، نور دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-leuchten.ogg",
+      "exampleDe": "Die Adern leuchten!!",
+      "exampleEn": "The veins glow!!",
+      "exampleFa": "رگ ها می درخشند!!"
+    },
+    {
+      "id": "v98",
+      "de": "meckern",
+      "en": "complain",
+      "pos": "verb",
+      "fa": "بع بع کردن، غرغر کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-meckern.ogg"
+    },
+    {
+      "id": "v99",
+      "de": "miauen",
+      "en": "meow",
+      "pos": "verb",
+      "fa": "صدای گربه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-miauen.ogg"
+    },
+    {
+      "id": "v100",
+      "de": "mitarbeiten",
+      "en": "collaborate",
+      "pos": "verb",
+      "fa": "همکاری کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-mitarbeiten.ogg"
+    },
+    {
+      "id": "v101",
+      "de": "mitmachen",
+      "en": "to participate",
+      "pos": "verb",
+      "fa": "با دیگران انجام دادن، شرکت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-mitmachen.ogg",
+      "exampleDe": "Jan hat beim Frühstück zu mir gesagt: „Ich finde es ganz toll, dass du heute mitmachst.",
+      "exampleEn": "Jan said to me at breakfast: “I think it’s really great that you’re joining us today.",
+      "exampleFa": "جان هنگام صبحانه به من گفت: «فکر می‌کنم خیلی خوب است که امروز به ما ملحق شدی."
+    },
+    {
+      "id": "v102",
+      "de": "muhen",
+      "en": "low",
+      "pos": "verb",
+      "fa": "صدای گاو در اوردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-muhen.ogg"
+    },
+    {
+      "id": "v103",
+      "de": "pflegen",
+      "en": "maintain",
+      "pos": "verb",
+      "fa": "مراقبت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/De-pflegen.ogg"
+    },
+    {
+      "id": "v104",
+      "de": "schweigen",
+      "en": "be silent",
+      "pos": "verb",
+      "fa": "ساکت بودن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-schweigen.ogg"
+    },
+    {
+      "id": "v105",
+      "de": "unterbringen",
+      "en": "accommodate",
+      "pos": "verb",
+      "fa": "جا دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-unterbringen.ogg"
+    },
+    {
+      "id": "v106",
+      "de": "verarbeiten",
+      "en": "process",
+      "pos": "verb",
+      "fa": "مورد کار قرار دادن، پرداختن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-verarbeiten.ogg"
+    },
+    {
+      "id": "v107",
+      "de": "vermarkten",
+      "en": "market",
+      "pos": "verb",
+      "fa": "بازاریابی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-vermarkten.ogg"
+    },
+    {
+      "id": "v108",
+      "de": "verpflegen",
+      "en": "cater",
+      "pos": "verb",
+      "fa": "تغذیه کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/De-verpflegen.ogg"
+    },
+    {
+      "id": "v109",
+      "de": "wiehern",
+      "en": "neigh",
+      "pos": "verb",
+      "fa": "شیهه کشیدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-wiehern.ogg"
+    },
+    {
+      "id": "v110",
+      "de": "zubereiten",
+      "en": "to prepare (food)",
+      "pos": "verb",
+      "fa": "پختن، آماده کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-zubereiten.ogg"
+    },
+    {
+      "id": "v111",
+      "de": "zusenden",
+      "en": "send",
+      "pos": "verb",
+      "fa": "ارسال و عزام کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-zusenden.ogg",
+      "exampleDe": "Wir können Ihnen ein Formular zusenden.",
+      "exampleEn": "We can send you a form.",
+      "exampleFa": "ما می توانیم برای شما یک فرم ارسال کنیم."
+    },
+    {
+      "id": "v112",
+      "de": "biologisch",
+      "en": "biological",
+      "pos": "other",
+      "fa": "بدون مواد شیمیایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-biologisch.ogg"
+    },
+    {
+      "id": "v113",
+      "de": "dankbar",
+      "en": "thankful",
+      "pos": "other",
+      "fa": "سپاسگزار، شاکر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-dankbar.ogg"
+    },
+    {
+      "id": "v114",
+      "de": "einwöchig",
+      "en": "one week",
+      "pos": "other",
+      "fa": "یه هفته ای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-einw%C3%B6chig.ogg"
+    },
+    {
+      "id": "v115",
+      "de": "freiwillig",
+      "en": "voluntarily",
+      "pos": "other",
+      "fa": "دلخواه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/De-freiwillig.ogg"
+    },
+    {
+      "id": "v116",
+      "de": "Freiwilligeneinsatz",
+      "en": "Volunteering",
+      "pos": "other",
+      "fa": "استفاده داوطلبانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/De-Freiwilligeneinsatz.ogg"
+    },
+    {
+      "id": "v117",
+      "de": "gemeinnützig",
+      "en": "non-profit",
+      "pos": "other",
+      "fa": "عام المنفعه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-gemeinn%C3%BCtzig.ogg"
+    },
+    {
+      "id": "v118",
+      "de": "gewohnt sein",
+      "en": "be used to",
+      "pos": "phrase",
+      "fa": "عادی ، متداول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-gewohnt.ogg"
+    },
+    {
+      "id": "v119",
+      "de": "giftig",
+      "en": "poisonous",
+      "pos": "other",
+      "fa": "سمی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-giftig.ogg"
+    },
+    {
+      "id": "v120",
+      "de": "künstlich",
+      "en": "artificially",
+      "pos": "other",
+      "fa": "مصنوعی، ساختگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-k%C3%BCnstlich.ogg"
+    },
+    {
+      "id": "v121",
+      "de": "Landwirtschaft",
+      "en": "agriculture",
+      "pos": "other",
+      "fa": "کشاورزی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-Landwirtschaft.ogg",
+      "exampleDe": "Na ja, du weißt ja, dass ich gern Landwirtschaft oder so was studieren würde.",
+      "exampleEn": "Well, you know I'd like to study agriculture or something like that.",
+      "exampleFa": "خوب، می دانید که من دوست دارم کشاورزی یا چیزی شبیه به آن بخوانم."
+    },
+    {
+      "id": "v122",
+      "de": "möglichst",
+      "en": "possible",
+      "pos": "other",
+      "fa": "حتی المقدور، تا حد ممکن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/De-m%C3%B6glichst.ogg"
+    },
+    {
+      "id": "v123",
+      "de": "steil",
+      "en": "steep",
+      "pos": "other",
+      "fa": "شیب دار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-steil.ogg"
+    },
+    {
+      "id": "v124",
+      "de": "ökologisch",
+      "en": "ecologically",
+      "pos": "other",
+      "fa": "سازگار با محیط زیست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-%C3%B6kologisch.ogg"
+    },
+    {
+      "id": "v125",
+      "de": "ökonomisch",
+      "en": "economically",
+      "pos": "other",
+      "fa": "اقتصادی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-%C3%B6konomisch.ogg"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Finalsätze: damit / um … zu",
+      "titleEn": "Purpose clauses: damit / um … zu",
+      "explanationEn": "Same subject → um … zu + Infinitiv: Ich spare, um zu reisen. Different subjects → damit + Nebensatz: Ich erkläre es langsam, damit du es verstehst. Also zum/zur + Nomen: zum Lernen.",
+      "patterns": [
+        "um … zu + Inf.",
+        "damit + Nebensatz",
+        "zum / zur + Nomen"
+      ],
+      "examples": [
+        {
+          "de": "Ich melde mich an, um auf dem Biohof zu arbeiten.",
+          "en": "I sign up in order to work on the organic farm.",
+          "fa": "ثبت‌نام می‌کنم تا در مزرعه ارگانیک کار کنم."
+        },
+        {
+          "de": "Wir erklären alles, damit die Freiwilligen sich zurechtfinden.",
+          "en": "We explain everything so that the volunteers can find their way.",
+          "fa": "همه‌چیز را توضیح می‌دهیم تا داوطلبان راه بیفتند."
+        }
+      ],
+      "titleFa": "جملات هدف: damit / um … zu"
+    },
+    {
+      "id": "g2",
+      "titleDe": "wo(r)- / da(r)- Pronomen; Partizip Präsens als Adjektiv",
+      "titleEn": "wo(r)- / da(r)- pronouns; present participle as adjective",
+      "explanationEn": "Questions: Worauf wartest du? Womit arbeitest du? Statements: Ich warte darauf. Ich arbeite damit. Partizip I as adjective: die arbeitenden Studenten, das fließende Wasser (often -d + ending).",
+      "patterns": [
+        "Worauf … ? / darauf",
+        "Womit … ? / damit",
+        "die lachenden Kinder"
+      ],
+      "examples": [
+        {
+          "de": "Worauf freust du dich? — Ich freue mich darauf, auf der Alp zu sein.",
+          "en": "What are you looking forward to? — I’m looking forward to being on the alp.",
+          "fa": "به چه چیزی خوشحال می‌شوی؟ — به بودن روی آلپ."
+        },
+        {
+          "de": "Die blühenden Wiesen sind im Sommer wunderschön.",
+          "en": "The blooming meadows are beautiful in summer.",
+          "fa": "چمنزارهای گل‌دار در تابستان زیبا هستند."
+        }
+      ],
+      "titleFa": "ضمایر wo(r)-/da(r)-؛ اسم فاعل به‌عنوان صفت"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "um … zu",
+      "promptEn": "um … zu",
+      "content": "Sie lernt Deutsch, ___ später in der Schweiz zu arbeiten.",
+      "answer": "um",
+      "grammarId": "g1",
+      "options": [
+        "um",
+        "damit",
+        "weil"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "damit",
+      "promptEn": "damit",
+      "content": "Ich schreibe langsam, ___ du alles verstehst.",
+      "answer": "damit",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "worauf",
+      "promptEn": "worauf",
+      "content": "___ wartest du?",
+      "answer": "Worauf",
+      "grammarId": "g2",
+      "options": [
+        "Worauf",
+        "Darauf",
+        "Wofür"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "darauf",
+      "promptEn": "darauf",
+      "content": "Ich freue mich ___, Natur zu erleben.",
+      "answer": "darauf",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Finalsatz",
+      "promptEn": "Purpose",
+      "content": "Er | spart | Geld | , | um | später | zu | reisen | .",
+      "answer": "Er spart Geld, um später zu reisen.",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Partizip I",
+      "promptEn": "Pres. participle",
+      "content": "Die ___ Kühe stehen auf der Weide.",
+      "answer": "grasenden",
+      "grammarId": "g2",
+      "options": [
+        "grasenden",
+        "gegrasten",
+        "grasen"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Ich fahre auf die Alp, ___ dort zu helfen.",
+      "answer": "um",
+      "options": [
+        "um",
+        "damit",
+        "weil"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Er spricht laut, ___ alle ihn hören.",
+      "answer": "damit",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "___ interessierst du dich?",
+      "answer": "Wofür",
+      "options": [
+        "Wofür",
+        "Dafür",
+        "Womit"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Ich träume ___ , auf einem Biohof zu leben.",
+      "answer": "davon",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Wir treffen uns zum ___ .",
+      "answer": "Arbeiten",
+      "options": [
+        "Arbeiten",
+        "arbeiten zu",
+        "Arbeitens"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: ___ arbeitest du auf dem Hof? — Mit den Tieren.",
+      "answer": "Womit",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„der Wald“ means…",
+      "answer": "Forest",
+      "options": [
+        "Pocket money",
+        "application",
+        "Forest"
+      ],
+      "vocabId": "v71"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“Pocket money”:",
+      "answer": "das Taschengeld",
+      "options": [
+        "die Bewerbung",
+        "der Wald",
+        "das Taschengeld"
+      ],
+      "vocabId": "v60"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„die Bewerbung“ means…",
+      "answer": "application",
+      "options": [
+        "Forest",
+        "Pocket money",
+        "application"
+      ],
+      "vocabId": "v13"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“Animal husbandry”:",
+      "answer": "die Tierhaltung",
+      "options": [
+        "die Tierhaltung",
+        "der Wald",
+        "das Taschengeld"
+      ],
+      "vocabId": "v62"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t35",

@@ -4,33 +4,1134 @@
   "number": 22,
   "titleDe": "Ab die Post",
   "titleEn": "Off to the post office",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Ab die Post“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Off to the post office” in the course book",
-      "fa": "اهداف یادگیری «برو پست!» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Paketschein ausfüllen",
+      "en": "Fill in a parcel form",
+      "fa": "پر کردن فرم بسته پستی"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Gespräch auf der Post verstehen und nachspielen",
+      "en": "Understand and role-play a post-office conversation",
+      "fa": "فهم و اجرای مکالمه در پست"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Sich bei der Post mündlich und schriftlich beschweren",
+      "en": "Complain at the post office orally and in writing",
+      "fa": "شکایت شفاهی و کتبی در پست"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "E-Mail lesen und unterscheiden, was Realität oder Möglichkeit ist; Antwort schreiben",
+      "en": "Read an email and distinguish reality vs possibility; write a reply",
+      "fa": "خواندن ایمیل و تشخیص واقعیت از امکان؛ نوشتن پاسخ"
+    },
+    {
+      "de": "Ratschläge verstehen und geben; Beitrag in einem Internetforum schreiben",
+      "en": "Understand and give advice; write a forum post",
+      "fa": "فهم و دادن توصیه؛ نوشتن مطلب در انجمن آنلاین"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Abgabe",
+      "en": "levy",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تحویل جنس",
+      "audioUrl": "/audio/vocab/abgabe.mp3"
+    },
+    {
+      "id": "v2",
+      "de": "Absender",
+      "en": "Sender",
+      "pos": "noun",
+      "article": "der",
+      "fa": "فرستنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Absender.ogg",
+      "exampleDe": "Mal sehen, ja, Absender Markus Frey, richtig?",
+      "exampleEn": "Let's see, yes, sender Markus Frey, right?",
+      "exampleFa": "بیایید ببینیم، بله، فرستنده مارکوس فری، درست است؟"
+    },
+    {
+      "id": "v3",
+      "de": "Amt",
+      "en": "Government office",
+      "pos": "noun",
+      "article": "das",
+      "fa": "اداره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Amt.ogg"
+    },
+    {
+      "id": "v4",
+      "de": "Anbieter",
+      "en": "Provider",
+      "pos": "noun",
+      "article": "der",
+      "fa": "فروشنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-Anbieter.ogg"
+    },
+    {
+      "id": "v5",
+      "de": "Apparat",
+      "en": "apparatus",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دستگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-Apparat.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Brief",
+      "en": "letter",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نامه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Brief.ogg",
+      "exampleDe": "Ja, ein Brief von einer Bank.",
+      "exampleEn": "Yes, a letter from a bank.",
+      "exampleFa": "بله نامه از بانک"
+    },
+    {
+      "id": "v7",
+      "de": "Briefkasten",
+      "en": "Mailbox",
+      "pos": "noun",
+      "article": "der",
+      "fa": "صندوق پست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Briefkasten.ogg",
+      "exampleDe": "Es genügt aber, den Brief mit dem Hinweis „falsch zugestellt“ in einen Briefkasten zu werfen.",
+      "exampleEn": "However, it is sufficient to put the letter in a mailbox with the note “misdelivered”.",
+      "exampleFa": "با این حال، کافی است نامه را در صندوق پستی با یادداشت \"اشتباه تحویل داده شده\" قرار دهید."
+    },
+    {
+      "id": "v8",
+      "de": "Briefmarke",
+      "en": "Postage stamp",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تمبر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-Briefmarke.ogg",
+      "exampleDe": "Gut, das wäre dann alles: das Päckchen, die Briefmarken und das Einschreiben.",
+      "exampleEn": "Well, that would be everything: the package, the stamps and the registered mail.",
+      "exampleFa": "خوب، این همه چیز خواهد بود: بسته، تمبر و نامه ثبت شده."
+    },
+    {
+      "id": "v9",
+      "de": "Briefsendung",
+      "en": "Postal mail",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ارسال نامه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/De-Briefsendung.ogg"
+    },
+    {
+      "id": "v10",
+      "de": "Briefträger",
+      "en": "Postman",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پستچی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-Brieftr%C3%A4ger.ogg",
+      "exampleDe": "Gut, ich spreche mit dem zuständigen Briefträger.",
+      "exampleEn": "Okay, I'll talk to the postman in charge.",
+      "exampleFa": "باشه با پستچی مسئول صحبت میکنم"
+    },
+    {
+      "id": "v11",
+      "de": "Briefträgerin",
+      "en": "postwoman",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پستچی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-Brieftr%C3%A4gerin.ogg"
+    },
+    {
+      "id": "v12",
+      "de": "Briefumschlag",
+      "en": "Envelope",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پاکت نامه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Briefumschlag.ogg"
+    },
+    {
+      "id": "v13",
+      "de": "Einschreiben",
+      "en": "Registered mail",
+      "pos": "noun",
+      "article": "das",
+      "fa": "ثبت نام کردن، نامه سفرشی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-Einschreiben.ogg",
+      "exampleDe": "Und dann möchte ich diesen Brief noch als Einschreiben verschicken.",
+      "exampleEn": "And then I would like to send this letter as registered mail.",
+      "exampleFa": "و سپس من می خواهم این نامه را به عنوان پست سفارشی ارسال کنم."
+    },
+    {
+      "id": "v14",
+      "de": "Einwohnermeldeamt",
+      "en": "Residents' Registration Office",
+      "pos": "noun",
+      "article": "das",
+      "fa": "یک منطقه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-Einwohnermeldeamt.ogg"
+    },
+    {
+      "id": "v15",
+      "de": "Empfänger",
+      "en": "Recipient",
+      "pos": "noun",
+      "article": "der",
+      "fa": "گیرنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-Empf%C3%A4nger.ogg",
+      "exampleDe": "Gut, der Empfänger in Kanada ist vollständig ausgefüllt.",
+      "exampleEn": "Good, the recipient in Canada is completely filled out.",
+      "exampleFa": "خوب، دریافت کننده در کانادا کاملاً پر شده است."
+    },
+    {
+      "id": "v16",
+      "de": "Erklärung",
+      "en": "Explanation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اعلام ، توضیح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-Erkl%C3%A4rung.ogg"
+    },
+    {
+      "id": "v17",
+      "de": "Folge",
+      "en": "Consequence",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نتیجه، پیامد، حاصل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Folge.ogg"
+    },
+    {
+      "id": "v18",
+      "de": "Garantie",
+      "en": "guarantee",
+      "pos": "noun",
+      "article": "die",
+      "fa": "گارانتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/De-Garantie.ogg"
+    },
+    {
+      "id": "v19",
+      "de": "Haustier",
+      "en": "pet",
+      "pos": "noun",
+      "article": "das",
+      "fa": "حیوان خانگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Haustier.ogg"
+    },
+    {
+      "id": "v20",
+      "de": "Highschool",
+      "en": "High school",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دبیرستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Highschool.ogg"
+    },
+    {
+      "id": "v21",
+      "de": "Hund",
+      "en": "Dog",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Hund.ogg"
+    },
+    {
+      "id": "v22",
+      "de": "Hündin",
+      "en": "bitch",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-H%C3%BCndin.ogg"
+    },
+    {
+      "id": "v23",
+      "de": "Inland",
+      "en": "inland",
+      "pos": "noun",
+      "article": "das",
+      "fa": "داخل کشور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-Inland.ogg",
+      "exampleDe": "Die für die Standardbriefe Inland zu 55 Cent?",
+      "exampleEn": "Those for standard domestic letters at 55 cents?",
+      "exampleFa": "آنهایی که برای حروف استاندارد داخلی 55 سنت هستند؟"
+    },
+    {
+      "id": "v24",
+      "de": "Internetforum",
+      "en": "Internet forum",
+      "pos": "noun",
+      "article": "das",
+      "fa": "انجمن اینترنتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Internetforum.ogg"
+    },
+    {
+      "id": "v25",
+      "de": "Kater",
+      "en": "Hangover",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-Kater.ogg"
+    },
+    {
+      "id": "v26",
+      "de": "Katze",
+      "en": "Cat",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-Katze.ogg"
+    },
+    {
+      "id": "v27",
+      "de": "Kloster",
+      "en": "monastery",
+      "pos": "noun",
+      "article": "das",
+      "fa": "صومعه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/De-Kloster.ogg"
+    },
+    {
+      "id": "v28",
+      "de": "Luftpost",
+      "en": "Airmail",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پست هوایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Luftpost.ogg",
+      "exampleDe": "Wenn es schneller gehen soll, können Sie es als Premium-Päckchen, also nach Kanada per Luftpost aufgeben, dann sind es 10 bis 15 Werktage.",
+      "exampleEn": "If you want it to go faster, you can send it as a premium package, i.e. to Canada by airmail, then it will take 10 to 15 business days.",
+      "exampleFa": "اگر می‌خواهید سریع‌تر پیش برود، می‌توانید آن را به عنوان یک بسته پریمیوم، یعنی از طریق پست هوایی به کانادا ارسال کنید، سپس 10 تا 15 روز کاری طول می‌کشد."
+    },
+    {
+      "id": "v29",
+      "de": "Mitteilung",
+      "en": "notice",
+      "pos": "noun",
+      "article": "die",
+      "fa": "آگهی ؛اطلاعیه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-Mitteilung.ogg"
+    },
+    {
+      "id": "v30",
+      "de": "Nachforschungsauftrag",
+      "en": "Research assignment",
+      "pos": "noun",
+      "article": "der",
+      "fa": "ماموریت بررسی",
+      "exampleDe": "Also, wenn das Päckchen eine Woche nach der normalen Zeit noch nicht angekommen ist, können Sie einen Nachforschungsauftrag ausfüllen.",
+      "exampleEn": "So, if the package has not arrived a week after the normal time, you can fill out an inquiry request.",
+      "exampleFa": "بنابراین، اگر بسته یک هفته پس از زمان عادی نرسیده است، می توانید درخواست استعلام را تکمیل کنید."
+    },
+    {
+      "id": "v31",
+      "de": "Nonne",
+      "en": "nun",
+      "pos": "noun",
+      "article": "die",
+      "fa": "راهبه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-Nonne.ogg"
+    },
+    {
+      "id": "v32",
+      "de": "Paketsendung",
+      "en": "Parcel shipment",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ارسال بسته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Paketsendung.ogg"
+    },
+    {
+      "id": "v33",
+      "de": "Panne",
+      "en": "glitch",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اشکال، خرابی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/De-Panne.ogg"
+    },
+    {
+      "id": "v34",
+      "de": "Porto",
+      "en": "postage",
+      "pos": "noun",
+      "article": "das",
+      "fa": "هزینه پستی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Porto.ogg",
+      "exampleDe": "Das normale Porto plus die Einschreibegebühr von 2,05 Euro.",
+      "exampleEn": "The normal postage plus the registration fee of 2.05 euros.",
+      "exampleFa": "هزینه پست عادی به اضافه هزینه ثبت نام 2.05 یورو."
+    },
+    {
+      "id": "v35",
+      "de": "Postamt",
+      "en": "Post Office",
+      "pos": "noun",
+      "article": "das",
+      "fa": "اداره پست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Postamt.ogg"
+    },
+    {
+      "id": "v36",
+      "de": "Postbote",
+      "en": "postman",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پستچی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Postbote.ogg"
+    },
+    {
+      "id": "v37",
+      "de": "Postbotin",
+      "en": "Postwoman",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پستچی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-Postbotin.ogg"
+    },
+    {
+      "id": "v38",
+      "de": "Postkarte",
+      "en": "postcard",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کارت پستال",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Postkarte.ogg"
+    },
+    {
+      "id": "v39",
+      "de": "Postkasten",
+      "en": "Postbox",
+      "pos": "noun",
+      "article": "der",
+      "fa": "صندوق پست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Postkasten.ogg"
+    },
+    {
+      "id": "v40",
+      "de": "Preisausschreiben",
+      "en": "competition",
+      "pos": "noun",
+      "article": "das",
+      "fa": "مسابقه، رقابت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Preisausschreiben.ogg"
+    },
+    {
+      "id": "v41",
+      "de": "Päckchen",
+      "en": "parcel",
+      "pos": "noun",
+      "article": "das",
+      "fa": "بسته کوچک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-P%C3%A4ckchen.ogg",
+      "exampleDe": "Das Päckchen?",
+      "exampleEn": "The package?",
+      "exampleFa": "بسته؟"
+    },
+    {
+      "id": "v42",
+      "de": "Reklamation",
+      "en": "complaint",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شکایت، اعتراض",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Reklamation.ogg"
+    },
+    {
+      "id": "v43",
+      "de": "Schnecke",
+      "en": "Snail",
+      "pos": "noun",
+      "article": "die",
+      "fa": "حلزون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-Schnecke.ogg"
+    },
+    {
+      "id": "v44",
+      "de": "Schwester",
+      "en": "sister",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Schwester.ogg",
+      "exampleDe": "Ich bin gerade auf der Post und fülle das Formular für das Paket für meine Schwester aus.",
+      "exampleEn": "I'm at the post office right now filling out the form for the package for my sister.",
+      "exampleFa": "من الان در اداره پست هستم و فرم بسته را برای خواهرم پر می کنم."
+    },
+    {
+      "id": "v45",
+      "de": "Sendung",
+      "en": "Broadcast",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ارسال، بسته پستی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Sendung.ogg",
+      "exampleDe": "Liebe Hörer und Hörerinnen, ich begrüße Sie zu unserer Sendung „Leute in Dresden“.",
+      "exampleEn": "Dear listeners, I welcome you to our program “People in Dresden”.",
+      "exampleFa": "شنوندگان عزیز، من به شما به برنامه ما \"مردم درسدن\" خوش آمد می گویم."
+    },
+    {
+      "id": "v46",
+      "de": "Status",
+      "en": "status",
+      "pos": "noun",
+      "article": "das",
+      "fa": "وضعیت، رتبه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-Status.ogg"
+    },
+    {
+      "id": "v47",
+      "de": "Stempel",
+      "en": "Rubber stamp",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مهر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-Stempel.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Stofftier",
+      "en": "stuffed animal",
+      "pos": "noun",
+      "article": "das",
+      "fa": "حیوان پارچه ای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-Stofftier.ogg",
+      "exampleDe": "Und vergiss nicht das Stofftier für Marie.",
+      "exampleEn": "And don't forget the stuffed animal for Marie.",
+      "exampleFa": "و حیوان عروسکی را برای ماری فراموش نکنید."
+    },
+    {
+      "id": "v49",
+      "de": "Telefonbuch",
+      "en": "Phone book",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-Telefonbuch.ogg"
+    },
+    {
+      "id": "v50",
+      "de": "Untertitel",
+      "en": "Subtitles",
+      "pos": "noun",
+      "article": "der",
+      "fa": "زیرنویس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-Untertitel.ogg"
+    },
+    {
+      "id": "v51",
+      "de": "Unzustellbarkeit",
+      "en": "Undeliverable",
+      "pos": "noun",
+      "article": "die"
+    },
+    {
+      "id": "v52",
+      "de": "Verlag",
+      "en": "Publisher",
+      "pos": "noun",
+      "article": "der",
+      "fa": "انتشاراتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/De-Verlag.ogg"
+    },
+    {
+      "id": "v53",
+      "de": "Verlobte",
+      "en": "Fiancée",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نامزد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/De-Verlobte.ogg"
+    },
+    {
+      "id": "v54",
+      "de": "Werktag",
+      "en": "working day",
+      "pos": "noun",
+      "article": "der",
+      "fa": "روز کاری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Werktag.ogg"
+    },
+    {
+      "id": "v55",
+      "de": "Wert",
+      "en": "Value",
+      "pos": "noun",
+      "article": "der",
+      "fa": "قیمت ، ارزش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/De-Wert.ogg",
+      "exampleDe": "Und dann muss ich noch ausfüllen, wie viel das wert ist und wie viel es wiegt, was im Paket drin ist.",
+      "exampleEn": "And then I have to fill out how much it's worth and how much it weighs, which is in the package.",
+      "exampleFa": "و بعد باید پر کنم که چقدر می ارزد و چقدر وزن دارد که داخل بسته بندی است."
+    },
+    {
+      "id": "v56",
+      "de": "Währung",
+      "en": "currency",
+      "pos": "noun",
+      "article": "die",
+      "fa": "واحد پول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-W%C3%A4hrung.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "Zoll",
+      "en": "Customs",
+      "pos": "noun",
+      "article": "der",
+      "fa": "گمرک اینچ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Zoll.ogg",
+      "exampleDe": "Das verlangt leider der Zoll, die wollen ganz genau wissen, was der Paketinhalt ist.",
+      "exampleEn": "Unfortunately, this is required by customs, they want to know exactly what the package contents are.",
+      "exampleFa": "متأسفانه گمرک این کار را الزامی می کند، آنها می خواهند بدانند که محتویات بسته دقیقاً چیست."
+    },
+    {
+      "id": "v58",
+      "de": "Zustellung",
+      "en": "delivery",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تحویل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/De-Zustellung.ogg"
+    },
+    {
+      "id": "v59",
+      "de": "abschicken",
+      "en": "send",
+      "pos": "verb",
+      "fa": "فرستادن. ارسال کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-abschicken.ogg"
+    },
+    {
+      "id": "v60",
+      "de": "abstempeln",
+      "en": "stamp",
+      "pos": "verb",
+      "fa": "مهر زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-abstempeln.ogg"
+    },
+    {
+      "id": "v61",
+      "de": "auffordern",
+      "en": "request",
+      "pos": "verb",
+      "fa": "دعوت کردن، درخواست کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-auffordern.ogg"
+    },
+    {
+      "id": "v62",
+      "de": "ausfüllen",
+      "en": "to fill out",
+      "pos": "verb",
+      "fa": "پر کردن فرم er füllt aus",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-ausf%C3%BCllen.ogg",
+      "exampleDe": "Dann müssen Sie bitte noch einen Paketschein ausfüllen.",
+      "exampleEn": "Then you must fill out a parcel label.",
+      "exampleFa": "سپس باید یک برچسب بسته را پر کنید."
+    },
+    {
+      "id": "v63",
+      "de": "betreffen",
+      "en": "regarding",
+      "pos": "verb",
+      "fa": "ربط داشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-betreffen.ogg"
+    },
+    {
+      "id": "v64",
+      "de": "einpacken",
+      "en": "pack up",
+      "pos": "verb",
+      "fa": "بسته بندی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-einpacken.ogg"
+    },
+    {
+      "id": "v65",
+      "de": "herausfinden",
+      "en": "find out",
+      "pos": "verb",
+      "fa": "کشف کردن پیدا کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-herausfinden.ogg"
+    },
+    {
+      "id": "v66",
+      "de": "kleben",
+      "en": "stick",
+      "pos": "verb",
+      "fa": "چسباندن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/De-kleben.ogg"
+    },
+    {
+      "id": "v67",
+      "de": "löschen",
+      "en": "delete",
+      "pos": "verb",
+      "fa": "حذف کردن خاموش کردن آتش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-l%C3%B6schen.ogg"
+    },
+    {
+      "id": "v68",
+      "de": "nachforschen",
+      "en": "investigate",
+      "pos": "verb",
+      "fa": "تحقیق کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-nachforschen.ogg"
+    },
+    {
+      "id": "v69",
+      "de": "nachschauen",
+      "en": "to check",
+      "pos": "verb",
+      "fa": "سرکشی کردن. بازرسی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-nachschauen.ogg",
+      "exampleDe": "Moment mal, da muss ich nachschauen.",
+      "exampleEn": "Wait a minute, I have to take a look.",
+      "exampleFa": "یه لحظه صبر کن باید یه نگاهی بندازم"
+    },
+    {
+      "id": "v70",
+      "de": "packen",
+      "en": "pack",
+      "pos": "verb",
+      "fa": "بستن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-packen.ogg"
+    },
+    {
+      "id": "v71",
+      "de": "realisieren",
+      "en": "realize",
+      "pos": "verb",
+      "fa": "به انجام رساندن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-realisieren.ogg"
+    },
+    {
+      "id": "v72",
+      "de": "verfolgen",
+      "en": "track",
+      "pos": "verb",
+      "fa": "پیگیری کردن، تعقیب کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-verfolgen.ogg"
+    },
+    {
+      "id": "v73",
+      "de": "verreisen",
+      "en": "travel",
+      "pos": "verb",
+      "fa": "مسافرت رفتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-verreisen.ogg"
+    },
+    {
+      "id": "v74",
+      "de": "versprechen",
+      "en": "promise",
+      "pos": "verb",
+      "fa": "قول دادن، وعده دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-versprechen.ogg"
+    },
+    {
+      "id": "v75",
+      "de": "wegwerfen",
+      "en": "to throw away",
+      "pos": "verb",
+      "fa": "دور انداختن er wirft weg",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-wegwerfen.ogg"
+    },
+    {
+      "id": "v76",
+      "de": "zurückbringen",
+      "en": "bring back",
+      "pos": "verb",
+      "fa": "پس آوردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-zur%C3%BCckbringen.ogg"
+    },
+    {
+      "id": "v77",
+      "de": "zustellen",
+      "en": "deliver",
+      "pos": "verb",
+      "fa": "مسدود کردن، تحویل دادن به",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-zustellen.ogg",
+      "exampleDe": "Fürs Zustellen sind ja schließlich Sie zuständig!",
+      "exampleEn": "After all, you are responsible for delivery!",
+      "exampleFa": "پس از همه، شما مسئول تحویل هستید!"
+    },
+    {
+      "id": "v78",
+      "de": "übersteigen",
+      "en": "exceed",
+      "pos": "verb",
+      "fa": "تجاوز کردن از یه مقدار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-%C3%BCbersteigen.ogg"
+    },
+    {
+      "id": "v79",
+      "de": "emotional",
+      "en": "emotionally",
+      "pos": "other",
+      "fa": "احساسی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-emotional.ogg"
+    },
+    {
+      "id": "v80",
+      "de": "fair",
+      "en": "fair",
+      "pos": "other",
+      "fa": "عادلانه unfair",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-fair.ogg"
+    },
+    {
+      "id": "v81",
+      "de": "in ordnung sein",
+      "en": "be okay",
+      "pos": "phrase",
+      "fa": "خوب بود",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De-in.ogg"
+    },
+    {
+      "id": "v82",
+      "de": "irgend",
+      "en": "any",
+      "pos": "other",
+      "fa": "هر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-irgend.ogg"
+    },
+    {
+      "id": "v83",
+      "de": "korrekt",
+      "en": "correctly",
+      "pos": "other",
+      "fa": "درست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-korrekt.ogg"
+    },
+    {
+      "id": "v84",
+      "de": "neutral",
+      "en": "neutral",
+      "pos": "other",
+      "fa": "بی طرف، خنثی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-neutral.ogg"
+    },
+    {
+      "id": "v85",
+      "de": "nirgends",
+      "en": "nowhere",
+      "pos": "other",
+      "fa": "در هیچ جا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-nirgends.ogg"
+    },
+    {
+      "id": "v86",
+      "de": "nirgendwoher",
+      "en": "nowhere",
+      "pos": "other",
+      "fa": "هیچ جا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-nirgendwoher.ogg"
+    },
+    {
+      "id": "v87",
+      "de": "nirgendwohin",
+      "en": "nowhere",
+      "pos": "other",
+      "fa": "هیچ جا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-nirgendwohin.ogg"
+    },
+    {
+      "id": "v88",
+      "de": "optimistisch",
+      "en": "optimistic",
+      "pos": "other",
+      "fa": "خوش بین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-optimistisch.ogg"
+    },
+    {
+      "id": "v89",
+      "de": "ordentlich",
+      "en": "orderly",
+      "pos": "other",
+      "fa": "مرتب unordentlich",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-ordentlich.ogg"
+    },
+    {
+      "id": "v90",
+      "de": "pünktlich",
+      "en": "punctual",
+      "pos": "other",
+      "fa": "وقت شناس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-p%C3%BCnktlich.ogg"
+    },
+    {
+      "id": "v91",
+      "de": "real",
+      "en": "real",
+      "pos": "other",
+      "fa": "واقعی irreal",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-real.ogg"
+    },
+    {
+      "id": "v92",
+      "de": "solche",
+      "en": "such",
+      "pos": "other",
+      "fa": "از جمله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/De-solche.ogg",
+      "exampleDe": "In der nächsten Stunde sprechen wir über solche Personen.",
+      "exampleEn": "In the next hour we will talk about such people.",
+      "exampleFa": "در یک ساعت آینده در مورد چنین افرادی صحبت خواهیم کرد."
+    },
+    {
+      "id": "v93",
+      "de": "tot",
+      "en": "dead",
+      "pos": "other",
+      "fa": "مرده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-tot.ogg",
+      "exampleDe": "Vielleicht ist Klaas auch schon tot!",
+      "exampleEn": "Maybe Klaas is already dead!",
+      "exampleFa": "شاید کلااس قبلا مرده باشد!"
+    },
+    {
+      "id": "v94",
+      "de": "weltweit",
+      "en": "worldwide",
+      "pos": "other",
+      "fa": "در تمام کشورهای جهان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-weltweit.ogg",
+      "exampleDe": "Also 13,90 Euro für das Päckchen weltweit normal und dazu kommen noch einmal 13,90 Euro für den Premium-Service, zusammen also 27,80 Euro.",
+      "exampleEn": "So 13.90 euros for the package is normal worldwide and there is another 13.90 euros for the premium service, for a total of 27.80 euros.",
+      "exampleFa": "بنابراین 13.90 یورو برای بسته در سراسر جهان عادی است و 13.90 یورو دیگر برای خدمات پرمیوم وجود دارد که در مجموع 27.80 یورو است."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Indefinitartikel und -pronomen mit irgend-",
+      "titleEn": "Indefinite irgend- words",
+      "explanationEn": "irgend- forms mean “some/any unspecified”: irgendjemand, irgendetwas, irgendwo, irgendwann, irgendwie, irgendein(e). They often appear in questions, offers, and vague statements.",
+      "patterns": [
+        "irgendwo / irgendwann",
+        "irgendetwas / irgendjemand",
+        "irgendein Paket"
+      ],
+      "examples": [
+        {
+          "de": "Hast du irgendwo Briefmarken gesehen?",
+          "en": "Have you seen stamps anywhere?",
+          "fa": "آیا تمبر جایی دیده‌ای؟"
+        },
+        {
+          "de": "Irgendein Kunde hat sich beschwert.",
+          "en": "Some customer complained.",
+          "fa": "یکی از مشتریان شکایت کرده است."
+        }
+      ],
+      "titleFa": "کلمات نامعین با irgend-"
+    },
+    {
+      "id": "g2",
+      "titleDe": "Konjunktiv II; irreale Konditionalsätze",
+      "titleEn": "Subjunctive II; unreal conditionals",
+      "explanationEn": "Konjunktiv II (würde + Inf. / wäre, hätte, könnte, müsste…): polite or unreal. Irreal conditionals: Wenn ich Zeit hätte, würde ich … / Hätte ich Zeit, würde ich … (without wenn, verb first).",
+      "patterns": [
+        "Wenn ich … hätte, würde ich …",
+        "Hätte ich … , würde ich …",
+        "Ich würde …"
+      ],
+      "examples": [
+        {
+          "de": "Wenn das Paket früher ankäme, wäre ich froh.",
+          "en": "If the parcel arrived earlier, I would be glad.",
+          "fa": "اگر بسته زودتر می‌رسید، خوشحال می‌شدم."
+        },
+        {
+          "de": "Hätte ich die Adresse richtig geschrieben, wäre der Brief angekommen.",
+          "en": "Had I written the address correctly, the letter would have arrived.",
+          "fa": "اگر آدرس را درست نوشته بودم، نامه می‌رسید."
+        }
+      ],
+      "titleFa": "وجه التزامی دوم؛ شرطی غیرواقعی"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "irgendwo",
+      "promptEn": "irgendwo",
+      "content": "Ich habe die Quittung ___ gelassen.",
+      "answer": "irgendwo",
+      "grammarId": "g1",
+      "options": [
+        "irgendwo",
+        "nirgendswo",
+        "überallwo"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "irgend-",
+      "promptEn": "irgend-",
+      "content": "___ hat an der Tür geklingelt. (jemand unbestimmt)",
+      "answer": "Irgendjemand",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Konj. II",
+      "promptEn": "Subj. II",
+      "content": "Ich ___ gerne ein Päckchen schicken.",
+      "answer": "würde",
+      "grammarId": "g2",
+      "options": [
+        "würde",
+        "werde",
+        "wurde"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "Konditional",
+      "promptEn": "Conditional",
+      "content": "Wenn ich mehr Geld ___, würde ich Expressporto nehmen. (haben)",
+      "answer": "hätte",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "ohne wenn",
+      "promptEn": "without wenn",
+      "content": "Hätte | ich | Zeit | , | würde | ich | zur | Post | gehen | .",
+      "answer": "Hätte ich Zeit, würde ich zur Post gehen.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "irgendein",
+      "promptEn": "irgendein",
+      "content": "___ Formular reicht für den Versand.",
+      "answer": "Irgendein",
+      "grammarId": "g1",
+      "options": [
+        "Irgendein",
+        "Irgendeine",
+        "Irgendwas"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Kannst du ___ helfen?",
+      "answer": "irgendwie",
+      "options": [
+        "irgendwie",
+        "nirgendwo",
+        "irgendwann"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Ruf mich ___ an, wenn du Zeit hast. (zu irgendeiner Zeit)",
+      "answer": "irgendwann",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "Wenn die Adresse falsch ___, käme das Paket nicht an.",
+      "answer": "wäre",
+      "options": [
+        "wäre",
+        "ist",
+        "war"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Ich ___ dir raten, eine Sendungsnummer zu verlangen. (können → Konj. II)",
+      "answer": "könnte",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "___ ich früher gekommen, hätte ich die Schlange vermieden.",
+      "answer": "Wäre",
+      "options": [
+        "Wäre",
+        "War",
+        "Bin"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: Hast du ___ gehört? (etwas Unbestimmtes)",
+      "answer": "irgendetwas",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„das Inland“ means…",
+      "answer": "inland",
+      "options": [
+        "working day",
+        "inland",
+        "delivery"
+      ],
+      "vocabId": "v23"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“working day”:",
+      "answer": "der Werktag",
+      "options": [
+        "die Zustellung",
+        "das Inland",
+        "der Werktag"
+      ],
+      "vocabId": "v54"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„die Zustellung“ means…",
+      "answer": "delivery",
+      "options": [
+        "delivery",
+        "inland",
+        "working day"
+      ],
+      "vocabId": "v58"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“pet”:",
+      "answer": "das Haustier",
+      "options": [
+        "das Inland",
+        "der Werktag",
+        "das Haustier"
+      ],
+      "vocabId": "v19"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t17",

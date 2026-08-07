@@ -4,33 +4,1464 @@
   "number": 23,
   "titleDe": "Studium in Deutschland",
   "titleEn": "Studying in Germany",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Studium in Deutschland“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Studying in Germany” in the course book",
-      "fa": "اهداف یادگیری «تحصیل در آلمان» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Notizen zu Informationstexten und einem Vortrag über das Hochschulsystem machen",
+      "en": "Take notes on texts and a talk about the higher-education system",
+      "fa": "یادداشت از متون و سخنرانی درباره نظام دانشگاهی"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Einen Hochschultyp im Heimatland beschreiben",
+      "en": "Describe a type of higher education in your home country",
+      "fa": "توصیف یک نوع مؤسسه آموزش عالی در کشور خود"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Wichtige persönliche Entscheidungen begründen",
+      "en": "Give reasons for important personal decisions",
+      "fa": "دلیل‌آوردن برای تصمیم‌های شخصی مهم"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "In einer E-Mail Ratschlag für den passenden Hochschultyp geben",
+      "en": "Advise on a suitable type of university in an email",
+      "fa": "توصیه نوع مناسب دانشگاه در ایمیل"
+    },
+    {
+      "de": "Ungewöhnliche Biografien verstehen; Kurzbiografie schreiben und vorstellen",
+      "en": "Understand unusual biographies; write and present a short bio",
+      "fa": "فهم زندگی‌نامه‌های غیرمعمول؛ نوشتن و ارائه بیوگرافی کوتاه"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Allgemeine",
+      "en": "General",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نکات کلی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-allgemeine.ogg",
+      "exampleDe": "Ich bin bei der Allgemeinen Ortskrankenkasse.",
+      "exampleEn": "I am with the general local health insurance company.",
+      "exampleFa": "من با شرکت عمومی بیمه درمانی محلی هستم."
+    },
+    {
+      "id": "v2",
+      "de": "allgemeine Hochschulreife",
+      "en": "General University Entrance Qualification",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ورودی کالج عمومی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-allgemeine.ogg"
+    },
+    {
+      "id": "v3",
+      "de": "Analytiker",
+      "en": "analyst",
+      "pos": "noun",
+      "article": "der",
+      "fa": "تحلیل گر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-Analytiker.ogg"
+    },
+    {
+      "id": "v4",
+      "de": "Analytikerin",
+      "en": "Analyst",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تحلیل گر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Analytikerin.ogg"
+    },
+    {
+      "id": "v5",
+      "de": "Anglistik",
+      "en": "English studies",
+      "pos": "noun",
+      "article": "die",
+      "fa": "زبان انگلیسی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Anglistik.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Aufnahmeprüfung",
+      "en": "Entrance exam",
+      "pos": "noun",
+      "article": "die",
+      "fa": "امتحان ورودی کنکور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-Aufnahmepr%C3%BCfung.ogg",
+      "exampleDe": "Deshalb bereite ich mich intensiv auf die Aufnahmeprüfung in Leipzig vor.",
+      "exampleEn": "That's why I'm preparing intensively for the entrance exam in Leipzig.",
+      "exampleFa": "به همین دلیل به طور فشرده برای کنکور لایپزیگ آماده می شوم."
+    },
+    {
+      "id": "v7",
+      "de": "Auszeichnung",
+      "en": "award",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جایزه، نمره ممتاز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Auszeichnung.ogg"
+    },
+    {
+      "id": "v8",
+      "de": "Bachelor",
+      "en": "Bachelor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "لیسانس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-Bachelor.ogg"
+    },
+    {
+      "id": "v9",
+      "de": "Begabung",
+      "en": "talent",
+      "pos": "noun",
+      "article": "die",
+      "fa": "استعداد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Begabung.ogg"
+    },
+    {
+      "id": "v10",
+      "de": "Berufsleben",
+      "en": "professional life",
+      "pos": "noun",
+      "article": "das",
+      "fa": "زندگی حرفه ای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Berufsleben.ogg",
+      "exampleDe": "Insgesamt ist das Studium an einer FH so aufgebaut, dass es auf einen schnellen Einstieg ins Berufsleben vorbereitet.",
+      "exampleEn": "Overall, studying at a university of applied sciences is structured in such a way that it prepares you for a quick entry into professional life.",
+      "exampleFa": "به طور کلی، تحصیل در دانشگاه علمی کاربردی به گونه ای است که شما را برای ورود سریع به زندگی حرفه ای آماده می کند."
+    },
+    {
+      "id": "v11",
+      "de": "Besonderheit",
+      "en": "Special feature",
+      "pos": "noun",
+      "article": "die",
+      "fa": "خصوصیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-Besonderheit.ogg"
+    },
+    {
+      "id": "v12",
+      "de": "Betriebswirtschaft",
+      "en": "Business Administration",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مدیریت کسب و کار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Betriebswirtschaft.ogg",
+      "exampleDe": "Sie wurde 1961 gegründet und dort kann man Architektur und Betriebswirtschaft studieren.",
+      "exampleEn": "It was founded in 1961 and you can study architecture and business administration there.",
+      "exampleFa": "در سال 1961 تاسیس شد و شما می توانید معماری و مدیریت بازرگانی را در آنجا تحصیل کنید."
+    },
+    {
+      "id": "v13",
+      "de": "Buchhändler",
+      "en": "Bookseller",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کتاب فروش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Buchh%C3%A4ndler.ogg"
+    },
+    {
+      "id": "v14",
+      "de": "Buchhändlerin",
+      "en": "Bookseller",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کتاب فروش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Buchh%C3%A4ndlerin.ogg"
+    },
+    {
+      "id": "v15",
+      "de": "Bühne",
+      "en": "stage",
+      "pos": "noun",
+      "article": "die",
+      "fa": "صحنه نمایش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-B%C3%BChne.ogg"
+    },
+    {
+      "id": "v16",
+      "de": "Dolmetscherin",
+      "en": "Interpreter",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مترجم همزمان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-Dolmetscherin.ogg"
+    },
+    {
+      "id": "v17",
+      "de": "Dozent",
+      "en": "Lecturer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مدرس معلم دانشگاه بدون مدرک پروفسوری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-Dozent.ogg"
+    },
+    {
+      "id": "v18",
+      "de": "Dozentin",
+      "en": "lecturer",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مدرس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Dozentin.ogg"
+    },
+    {
+      "id": "v19",
+      "de": "Drehbuch",
+      "en": "script",
+      "pos": "noun",
+      "article": "das",
+      "fa": "فیلمنامه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-Drehbuch.ogg"
+    },
+    {
+      "id": "v20",
+      "de": "Eignungsprüfung",
+      "en": "Aptitude test",
+      "pos": "noun",
+      "article": "die",
+      "fa": "آزمون تعیین سطح استعداد یابی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Eignungspr%C3%BCfung.ogg"
+    },
+    {
+      "id": "v21",
+      "de": "Facharzt",
+      "en": "Specialist",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پزشک متخصص در für Psychiatrie",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-Facharzt.ogg"
+    },
+    {
+      "id": "v22",
+      "de": "Fachhochschule",
+      "en": "University of Applied Sciences",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مدرسه عالی ، دانشکده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-Fachhochschule.ogg",
+      "exampleDe": "30 % an einer Fachhochschule.",
+      "exampleEn": "30% at a technical college.",
+      "exampleFa": "30 درصد در دانشکده فنی."
+    },
+    {
+      "id": "v23",
+      "de": "Fachhochschulreife",
+      "en": "University entrance qualification",
+      "pos": "noun",
+      "article": "die",
+      "fa": "رشته ورودی کالج",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/De-Fachhochschulreife.ogg"
+    },
+    {
+      "id": "v24",
+      "de": "Fernfahrer",
+      "en": "Long-distance driver",
+      "pos": "noun",
+      "article": "der",
+      "fa": "راننده کامیون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Fernfahrer.ogg"
+    },
+    {
+      "id": "v25",
+      "de": "Fernfahrerin",
+      "en": "Long-distance driver",
+      "pos": "noun",
+      "article": "die",
+      "fa": "راننده کامیون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-Fernfahrerin.ogg"
+    },
+    {
+      "id": "v26",
+      "de": "Forschung",
+      "en": "Research",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تحقیق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Forschung.ogg"
+    },
+    {
+      "id": "v27",
+      "de": "Fähigkeit",
+      "en": "Capability",
+      "pos": "noun",
+      "article": "die",
+      "fa": "استعداد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-F%C3%A4higkeit.ogg"
+    },
+    {
+      "id": "v28",
+      "de": "Förderschule",
+      "en": "special school",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مدرسه استثنایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-F%C3%B6rderschule.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Germanistik",
+      "en": "German studies",
+      "pos": "noun",
+      "article": "die",
+      "fa": "زبان آلمانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/De-Germanistik.ogg"
+    },
+    {
+      "id": "v30",
+      "de": "Gesang",
+      "en": "singing",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Gesang.ogg"
+    },
+    {
+      "id": "v31",
+      "de": "Gestaltung",
+      "en": "Design",
+      "pos": "noun",
+      "article": "die",
+      "fa": "آرایش، شکل گیری ، ساخت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Gestaltung.ogg"
+    },
+    {
+      "id": "v32",
+      "de": "Heimatland",
+      "en": "homeland",
+      "pos": "noun",
+      "article": "das",
+      "fa": "وطن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Heimatland.ogg"
+    },
+    {
+      "id": "v33",
+      "de": "Hitze",
+      "en": "heat",
+      "pos": "noun",
+      "article": "die",
+      "fa": "حرارت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-Hitze.ogg"
+    },
+    {
+      "id": "v34",
+      "de": "Hochschule",
+      "en": "college",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دانشگاه، مرکز آموزش عالی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Hochschule.ogg",
+      "exampleDe": "An privaten Hochschulen studieren aber nur knapp 5 % aller Studenten.",
+      "exampleEn": "However, only just under 5% of all students study at private universities.",
+      "exampleFa": "با این حال، تنها کمتر از 5 درصد از کل دانشجویان در دانشگاه های خصوصی تحصیل می کنند."
+    },
+    {
+      "id": "v35",
+      "de": "Hochschulreife",
+      "en": "University entrance qualification",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ورودی کالج",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Hochschulreife.ogg"
+    },
+    {
+      "id": "v36",
+      "de": "Höhepunkt",
+      "en": "climax",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نقطه اوج",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/De-H%C3%B6hepunkt.ogg"
+    },
+    {
+      "id": "v37",
+      "de": "Informatik",
+      "en": "Computer Science",
+      "pos": "noun",
+      "article": "die",
+      "fa": "علوم کامپیوتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-Informatik.ogg",
+      "exampleDe": "Duale Studiengänge gibt es besonders in den Bereichen Technik, Informatik, Wirtschaft und Sozialwesen.",
+      "exampleEn": "There are dual study programs particularly in the areas of technology, computer science, business and social work.",
+      "exampleFa": "برنامه های مطالعاتی دوگانه به ویژه در زمینه های فناوری، علوم کامپیوتر، تجارت و مددکاری اجتماعی وجود دارد."
+    },
+    {
+      "id": "v38",
+      "de": "Ingenieur",
+      "en": "engineer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مهندس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-Ingenieur.ogg",
+      "exampleDe": "An einer TU liegt der Schwerpunkt auf ingenieur- und naturwissenschaftlichen Studiengängen.",
+      "exampleEn": "At a TU, the focus is on engineering and natural science courses.",
+      "exampleFa": "در TU، تمرکز بر رشته های مهندسی و علوم طبیعی است."
+    },
+    {
+      "id": "v39",
+      "de": "Ingenieurin",
+      "en": "engineer",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مهندس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-Ingenieurin.ogg"
+    },
+    {
+      "id": "v40",
+      "de": "Ingenieurwissenschaft",
+      "en": "Engineering Science",
+      "pos": "noun",
+      "article": "die",
+      "fa": "علوم مهندسی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-Ingenieurwissenschaft.ogg"
+    },
+    {
+      "id": "v41",
+      "de": "Instrument",
+      "en": "instrument",
+      "pos": "noun",
+      "article": "das",
+      "fa": "آلت موسیقی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Instrument.ogg",
+      "exampleDe": "Aber hier: Man darf nur zwei Stunden am Tag ein Instrument spielen.",
+      "exampleEn": "But here: You can only play an instrument for two hours a day.",
+      "exampleFa": "اما اینجا: روزی فقط دو ساعت می توانید ساز بزنید."
+    },
+    {
+      "id": "v42",
+      "de": "Internat",
+      "en": "boarding school",
+      "pos": "noun",
+      "article": "das",
+      "fa": "مدرسه شبانه روزی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-Internat.ogg"
+    },
+    {
+      "id": "v43",
+      "de": "Jugend",
+      "en": "youth",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جوانان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Jugend.ogg"
+    },
+    {
+      "id": "v44",
+      "de": "Junge",
+      "en": "Boy",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-Junge.ogg",
+      "exampleDe": "Es war eine junge Dame.",
+      "exampleEn": "It was a young lady.",
+      "exampleFa": "یک خانم جوان بود."
+    },
+    {
+      "id": "v45",
+      "de": "Jura",
+      "en": "Law",
+      "pos": "noun",
+      "article": "der",
+      "fa": "حقوق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Jura.ogg"
+    },
+    {
+      "id": "v46",
+      "de": "Kabarett",
+      "en": "cabaret",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Kabarett.ogg"
+    },
+    {
+      "id": "v47",
+      "de": "Kabarettist",
+      "en": "cabaret artist",
+      "pos": "noun",
+      "article": "der",
+      "fa": "هنرمند کاباره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-Kabarettist.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Kabarettistin",
+      "en": "Cabaret artist",
+      "pos": "noun",
+      "article": "die",
+      "fa": "هنرمند کاباره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-Kabarettistin.ogg"
+    },
+    {
+      "id": "v49",
+      "de": "Kandidatin",
+      "en": "candidate",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کاندیدا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Kandidatin.ogg"
+    },
+    {
+      "id": "v50",
+      "de": "Karriere",
+      "en": "career",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شغل موفق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-Karriere.ogg",
+      "exampleDe": "„Karriere mal anders“.",
+      "exampleEn": "“Career with a difference”.",
+      "exampleFa": "\"کار با تفاوت\"."
+    },
+    {
+      "id": "v51",
+      "de": "Kombination",
+      "en": "combination",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ترکیب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Kombination.ogg",
+      "exampleDe": "Und genau diese Kombination aus verschiedenen Sportmöglichkeiten, Natur pur und Entspannung finden Sie am Bodensee.",
+      "exampleEn": "And it is exactly this combination of various sports options, pure nature and relaxation that you will find at Lake Constance.",
+      "exampleFa": "و دقیقاً این ترکیبی از گزینه های مختلف ورزشی، طبیعت ناب و آرامش است که در دریاچه کنستانس خواهید یافت."
+    },
+    {
+      "id": "v52",
+      "de": "Kompass",
+      "en": "compass",
+      "pos": "noun",
+      "article": "der",
+      "fa": "قطب نما",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-Kompass.ogg"
+    },
+    {
+      "id": "v53",
+      "de": "Konservatorium",
+      "en": "conservatory",
+      "pos": "noun",
+      "article": "das",
+      "fa": "هنرستان، هنرهای زیبا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Konservatorium.ogg"
+    },
+    {
+      "id": "v54",
+      "de": "Lebensweg",
+      "en": "life path",
+      "pos": "noun",
+      "article": "der",
+      "fa": "سفر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Lebensweg.ogg"
+    },
+    {
+      "id": "v55",
+      "de": "Lehre",
+      "en": "Teach",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کارآموزی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/De-Lehre.ogg",
+      "exampleDe": "Wahrscheinlich mache ich eine Lehre.",
+      "exampleEn": "I'll probably do an apprenticeship.",
+      "exampleFa": "احتمالاً شاگردی می کنم."
+    },
+    {
+      "id": "v56",
+      "de": "Leidenschaft",
+      "en": "Passion",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اشتیاق، شور و شوق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Leidenschaft.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "Master",
+      "en": "master",
+      "pos": "noun",
+      "article": "der",
+      "fa": "فوق لیسانس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/De-Master.ogg",
+      "exampleDe": "Vielleicht mache ich noch den Master in Chemie.",
+      "exampleEn": "Maybe I'll get a master's degree in chemistry.",
+      "exampleFa": "شاید فوق لیسانس شیمی بگیرم."
+    },
+    {
+      "id": "v58",
+      "de": "Mathematik",
+      "en": "mathematics",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ریاضی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Mathematik.ogg"
+    },
+    {
+      "id": "v59",
+      "de": "Medizin",
+      "en": "medicine",
+      "pos": "noun",
+      "article": "die",
+      "fa": "طب، پزشکی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-Medizin.ogg",
+      "exampleDe": "Die Fernuniversität ist keine Volluniversität, dort kann man nämlich nicht alle Fächer studieren, zum Beispiel nicht Medizin.",
+      "exampleEn": "The distance learning university is not a comprehensive university, as you cannot study all subjects there, for example medicine.",
+      "exampleFa": "دانشگاه آموزش از راه دور یک دانشگاه جامع نیست، زیرا شما نمی توانید همه دروس را در آنجا مطالعه کنید، مثلا پزشکی."
+    },
+    {
+      "id": "v60",
+      "de": "Mehrzahl",
+      "en": "plural",
+      "pos": "noun",
+      "article": "das",
+      "fa": "اکثریت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-Mehrzahl.ogg"
+    },
+    {
+      "id": "v61",
+      "de": "Meister",
+      "en": "Master",
+      "pos": "noun",
+      "article": "der",
+      "fa": "استاد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-Meister.ogg"
+    },
+    {
+      "id": "v62",
+      "de": "Meistertitel",
+      "en": "Master title",
+      "pos": "noun",
+      "article": "der",
+      "fa": "عنوان قهرمانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-Meistertitel.ogg"
+    },
+    {
+      "id": "v63",
+      "de": "Naturwissenschaft",
+      "en": "Natural science",
+      "pos": "noun",
+      "article": "die",
+      "fa": "علوم طبیعی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/De-Naturwissenschaft.ogg"
+    },
+    {
+      "id": "v64",
+      "de": "Oberarzt",
+      "en": "Senior physician",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-Oberarzt.ogg"
+    },
+    {
+      "id": "v65",
+      "de": "Orchester",
+      "en": "orchestra",
+      "pos": "noun",
+      "article": "das",
+      "fa": "ارکستر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-Orchester.ogg"
+    },
+    {
+      "id": "v66",
+      "de": "Oskar",
+      "en": "Oscar",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Oskar.ogg"
+    },
+    {
+      "id": "v67",
+      "de": "Phase",
+      "en": "phase",
+      "pos": "noun",
+      "article": "die",
+      "fa": "فاز، قسمت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Phase.ogg"
+    },
+    {
+      "id": "v68",
+      "de": "Praktiker",
+      "en": "practitioner",
+      "pos": "noun",
+      "article": "der",
+      "fa": "شاغل، کارگر"
+    },
+    {
+      "id": "v69",
+      "de": "Promotion",
+      "en": "promotion",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پیشرفت اخذ مدرک دکتری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-Promotion.ogg"
+    },
+    {
+      "id": "v70",
+      "de": "Präsenzphase",
+      "en": "Presence phase",
+      "pos": "noun",
+      "article": "die",
+      "fa": "فاز حاضر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/De-Pr%C3%A4senzphase.ogg",
+      "exampleDe": "Es gibt aber auch Präsenzphasen.",
+      "exampleEn": "But there are also presence phases.",
+      "exampleFa": "اما مراحل حضور نیز وجود دارد."
+    },
+    {
+      "id": "v71",
+      "de": "Psychologie",
+      "en": "psychology",
+      "pos": "noun",
+      "article": "die",
+      "fa": "روانشناسی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Psychologie.ogg"
+    },
+    {
+      "id": "v72",
+      "de": "Pädagogik",
+      "en": "Pedagogy",
+      "pos": "noun",
+      "article": "die",
+      "fa": "آموزش و پرورش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-P%C3%A4dagogik.ogg"
+    },
+    {
+      "id": "v73",
+      "de": "Realschule",
+      "en": "secondary school",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مدرسه متوسطه بین Hauptschule و Gymnasium سن 10 تا 16 سال",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Realschule.ogg"
+    },
+    {
+      "id": "v74",
+      "de": "Rechtswissenschaft",
+      "en": "Jurisprudence",
+      "pos": "noun",
+      "article": "die",
+      "fa": "علوم حقوق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-Rechtswissenschaft.ogg"
+    },
+    {
+      "id": "v75",
+      "de": "Regelstudienzeit",
+      "en": "Standard period of study",
+      "pos": "noun",
+      "article": "die",
+      "fa": "زمان تحصیل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-Regelstudienzeit.ogg"
+    },
+    {
+      "id": "v76",
+      "de": "Regieassistent",
+      "en": "Assistant director",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دستیار کارگردان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-Regieassistent.ogg"
+    },
+    {
+      "id": "v77",
+      "de": "Regieassistentin",
+      "en": "Assistant director",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دستیار کارگردان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Regieassistentin.ogg"
+    },
+    {
+      "id": "v78",
+      "de": "Reifeprüfung",
+      "en": "Matriculation exam",
+      "pos": "noun",
+      "article": "die",
+      "fa": "امتحان نهایی دبیرستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-Reifepr%C3%BCfung.ogg"
+    },
+    {
+      "id": "v79",
+      "de": "Schüleraustausch",
+      "en": "Student exchange",
+      "pos": "noun",
+      "article": "der",
+      "fa": "تبادل دانشجو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-Sch%C3%BCleraustausch.ogg"
+    },
+    {
+      "id": "v80",
+      "de": "Semester",
+      "en": "semester",
+      "pos": "noun",
+      "article": "das",
+      "fa": "ترم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/De-Semester.ogg",
+      "exampleDe": "Ja, also ich bin mir ganz sicher, dass ich ein Semester oder sogar ein ganzes Jahr im Ausland studieren will.",
+      "exampleEn": "Yes, I am quite sure that I want to study abroad for a semester or even a whole year.",
+      "exampleFa": "بله، من کاملا مطمئن هستم که می خواهم یک ترم یا حتی یک سال کامل در خارج از کشور تحصیل کنم."
+    },
+    {
+      "id": "v81",
+      "de": "Sozialwesen",
+      "en": "Social Welfare",
+      "pos": "noun",
+      "article": "das",
+      "fa": "فعالیت خدمات اجتماعی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/De-Sozialwesen.ogg",
+      "exampleDe": "Duale Studiengänge gibt es besonders in den Bereichen Technik, Informatik, Wirtschaft und Sozialwesen.",
+      "exampleEn": "There are dual study programs particularly in the areas of technology, computer science, business and social work.",
+      "exampleFa": "برنامه های مطالعاتی دوگانه به ویژه در زمینه های فناوری، علوم کامپیوتر، تجارت و مددکاری اجتماعی وجود دارد."
+    },
+    {
+      "id": "v82",
+      "de": "Sozialwissenschaft",
+      "en": "Social science",
+      "pos": "noun",
+      "article": "die",
+      "fa": "علوم اجتماعی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Sozialwissenschaft.ogg"
+    },
+    {
+      "id": "v83",
+      "de": "Spedition",
+      "en": "Shipping company",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ترابری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/De-Spedition.ogg"
+    },
+    {
+      "id": "v84",
+      "de": "Spektrum",
+      "en": "spectrum",
+      "pos": "noun",
+      "article": "das",
+      "fa": "طیف",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-Spektrum.ogg"
+    },
+    {
+      "id": "v85",
+      "de": "Technik",
+      "en": "Technology",
+      "pos": "noun",
+      "article": "die",
+      "fa": "فن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Technik.ogg",
+      "exampleDe": "Duale Studiengänge gibt es besonders in den Bereichen Technik, Informatik, Wirtschaft und Sozialwesen.",
+      "exampleEn": "There are dual study programs particularly in the areas of technology, computer science, business and social work.",
+      "exampleFa": "برنامه های مطالعاتی دوگانه به ویژه در زمینه های فناوری، علوم کامپیوتر، تجارت و مددکاری اجتماعی وجود دارد."
+    },
+    {
+      "id": "v86",
+      "de": "Theologie",
+      "en": "theology",
+      "pos": "noun",
+      "article": "die",
+      "fa": "الهیات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-Theologie.ogg"
+    },
+    {
+      "id": "v87",
+      "de": "Theorie",
+      "en": "theory",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-Theorie.ogg",
+      "exampleDe": "Die Theorie lernen die Studenten an der Hochschule und die Praxis in einem Unternehmen.",
+      "exampleEn": "The students learn the theory at the university and the practice in a company.",
+      "exampleFa": "دانش آموزان تئوری را در دانشگاه و تمرین را در یک شرکت یاد می گیرند."
+    },
+    {
+      "id": "v88",
+      "de": "Transport",
+      "en": "transport",
+      "pos": "noun",
+      "article": "der",
+      "fa": "حمل و نقل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Transport.ogg"
+    },
+    {
+      "id": "v89",
+      "de": "Transporteur",
+      "en": "Transporter",
+      "pos": "noun",
+      "article": "der",
+      "fa": "حمل و نقل گران",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Transporteur.ogg"
+    },
+    {
+      "id": "v90",
+      "de": "Universität",
+      "en": "university",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دانشگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Universit%C3%A4t.ogg",
+      "exampleDe": "An einer Universität dagegen steht das wissenschaftliche Arbeiten im Vordergrund.",
+      "exampleEn": "At a university, on the other hand, the focus is on academic work.",
+      "exampleFa": "از سوی دیگر، در یک دانشگاه، تمرکز بر کار آکادمیک است."
+    },
+    {
+      "id": "v91",
+      "de": "Voraussetzung",
+      "en": "Requirement",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شرط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Voraussetzung.ogg"
+    },
+    {
+      "id": "v92",
+      "de": "Vortrag",
+      "en": "Speech",
+      "pos": "noun",
+      "article": "der",
+      "fa": "سخنرانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-Vortrag.ogg"
+    },
+    {
+      "id": "v93",
+      "de": "Wirtschaftsinformatik",
+      "en": "Business informatics",
+      "pos": "noun",
+      "article": "die",
+      "fa": "علوم تجاری کامپیوتری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-Wirtschaftsinformatik.ogg"
+    },
+    {
+      "id": "v94",
+      "de": "Wirtschaftswissenschaft",
+      "en": "Economics",
+      "pos": "noun",
+      "article": "die",
+      "fa": "علوم اقتصاد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Wirtschaftswissenschaft.ogg"
+    },
+    {
+      "id": "v95",
+      "de": "Wissenschaft",
+      "en": "Science",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دانش، علم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Wissenschaft.ogg"
+    },
+    {
+      "id": "v96",
+      "de": "Zulassungsbedingung",
+      "en": "Condition of admission",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شرایط ورود",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Zulassungsbedingung.ogg"
+    },
+    {
+      "id": "v97",
+      "de": "auftreten",
+      "en": "appear",
+      "pos": "verb",
+      "fa": "رخ دادن، رفتار کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-auftreten.ogg"
+    },
+    {
+      "id": "v98",
+      "de": "aufwachsen",
+      "en": "grow up",
+      "pos": "verb",
+      "fa": "رشد کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-aufwachsen.ogg"
+    },
+    {
+      "id": "v99",
+      "de": "existieren",
+      "en": "exist",
+      "pos": "verb",
+      "fa": "وجود داشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-existieren.ogg"
+    },
+    {
+      "id": "v100",
+      "de": "hospitieren",
+      "en": "sit in",
+      "pos": "verb",
+      "fa": "تحت نظارت کار کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-hospitieren.ogg",
+      "exampleDe": "Entweder man hospitiert als „assistant teacher“ an einer Schule oder man macht ein Praktikum.",
+      "exampleEn": "Either you sit in on a school as an “assistant teacher” or you do an internship.",
+      "exampleFa": "یا به عنوان «دستیار معلم» در مدرسه می نشینید یا دوره کارآموزی می گذرانید."
+    },
+    {
+      "id": "v101",
+      "de": "kombinieren",
+      "en": "combine",
+      "pos": "verb",
+      "fa": "ترکیب کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-kombinieren.ogg"
+    },
+    {
+      "id": "v102",
+      "de": "nachweisen",
+      "en": "prove",
+      "pos": "verb",
+      "fa": "ثابت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-nachweisen.ogg",
+      "exampleDe": "Am besten man erkundigt sich bei der Hochschule direkt, welcher Nachweis der Deutschkenntnisse akzeptiert wird.",
+      "exampleEn": "It is best to ask the university directly which proof of German language skills will be accepted.",
+      "exampleFa": "بهتر است مستقیماً از دانشگاه بپرسید که کدام مدرک مهارت زبان آلمانی پذیرفته می شود."
+    },
+    {
+      "id": "v103",
+      "de": "raten",
+      "en": "guess",
+      "pos": "verb",
+      "fa": "حدس زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-raten.ogg",
+      "exampleDe": "Ich brauche einen Rat.",
+      "exampleEn": "I need some advice.",
+      "exampleFa": "من به مشاوره نیاز دارم"
+    },
+    {
+      "id": "v104",
+      "de": "umwandeln",
+      "en": "convert",
+      "pos": "verb",
+      "fa": "تبدیل کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-umwandeln.ogg"
+    },
+    {
+      "id": "v105",
+      "de": "an der Uni",
+      "en": "at the university",
+      "pos": "phrase",
+      "fa": "در دانشگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-an.ogg"
+    },
+    {
+      "id": "v106",
+      "de": "anerkannt",
+      "en": "recognized",
+      "pos": "other",
+      "fa": "رسمی، تایید شده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-anerkannt.ogg",
+      "exampleDe": "Auf jeden Fall wird von allen deutschen Hochschulen der Test „Deutsch als Fremdsprache“, kurz TestDaF, anerkannt.",
+      "exampleEn": "In any case, the “German as a Foreign Language” test, or TestDaF for short, is recognized by all German universities.",
+      "exampleFa": "در هر صورت، آزمون «آلمانی به عنوان زبان خارجی» یا به اختصار TestDaF توسط تمامی دانشگاه های آلمان به رسمیت شناخته می شود."
+    },
+    {
+      "id": "v107",
+      "de": "auf diese Weise",
+      "en": "in this way",
+      "pos": "phrase",
+      "fa": "به این معنی؟",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-Aufarbeitung.ogg"
+    },
+    {
+      "id": "v108",
+      "de": "Aus dem Ausland",
+      "en": "From abroad",
+      "pos": "other",
+      "fa": "از خارج از کشور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-Aus.ogg"
+    },
+    {
+      "id": "v109",
+      "de": "bloß",
+      "en": "just",
+      "pos": "other",
+      "fa": "برهنه، تنها",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-blo%C3%9F.ogg"
+    },
+    {
+      "id": "v110",
+      "de": "dual",
+      "en": "dual",
+      "pos": "other",
+      "fa": "دوگانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-dual.ogg"
+    },
+    {
+      "id": "v111",
+      "de": "fleißig",
+      "en": "diligent",
+      "pos": "other",
+      "fa": "زرنگ، ساعی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-flei%C3%9Fig.ogg",
+      "exampleDe": "Immerhin lernen Sie ja alle fleißig Deutsch.",
+      "exampleEn": "After all, you are all studying German diligently.",
+      "exampleFa": "از این گذشته، همه شما با پشتکار آلمانی را مطالعه می کنید."
+    },
+    {
+      "id": "v112",
+      "de": "gewöhnlich",
+      "en": "usually",
+      "pos": "other",
+      "fa": "معمول &lt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/De-gew%C3%B6hnlich.ogg"
+    },
+    {
+      "id": "v113",
+      "de": "in der Regel",
+      "en": "usually",
+      "pos": "phrase",
+      "fa": "معمولا، به صورت منظم؟",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De-in.ogg"
+    },
+    {
+      "id": "v114",
+      "de": "klassisch",
+      "en": "classic",
+      "pos": "other",
+      "fa": "رایج، کلاسیک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-klassisch.ogg"
+    },
+    {
+      "id": "v115",
+      "de": "künstlerisch",
+      "en": "artistic",
+      "pos": "other",
+      "fa": "هنری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/De-k%C3%BCnstlerisch.ogg"
+    },
+    {
+      "id": "v116",
+      "de": "nebenbei",
+      "en": "alongside",
+      "pos": "other",
+      "fa": "اتفاقاً، ضمناً",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-nebenbei.ogg"
+    },
+    {
+      "id": "v117",
+      "de": "praxisorientiert",
+      "en": "practice-oriented",
+      "pos": "other",
+      "fa": "عملی، با رویکرد عملی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-praxisorientiert.ogg",
+      "exampleDe": "Deshalb ist das Fachhochschulstudium stärker praxisorientiert als das Studium an einer Universität.",
+      "exampleEn": "That's why studying at a technical college is more practice-oriented than studying at a university.",
+      "exampleFa": "به همین دلیل تحصیل در دانشکده فنی بیشتر از تحصیل در دانشگاه جنبه عملی دارد."
+    },
+    {
+      "id": "v118",
+      "de": "pädagogisch",
+      "en": "educational",
+      "pos": "other",
+      "fa": "آموزشی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-p%C3%A4dagogisch.ogg"
+    },
+    {
+      "id": "v119",
+      "de": "schon immer",
+      "en": "always",
+      "pos": "phrase",
+      "fa": "همواره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-schon.ogg"
+    },
+    {
+      "id": "v120",
+      "de": "schwerpunktmäßig",
+      "en": "focused",
+      "pos": "other",
+      "fa": "کانون، تمرکز موضوع خاص",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/De-schwerpunktm%C3%A4%C3%9Fig.ogg"
+    },
+    {
+      "id": "v121",
+      "de": "schwierig",
+      "en": "difficult",
+      "pos": "other",
+      "fa": "دشوار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-schwierig.ogg",
+      "exampleDe": "Na ja, ohne Nummer ist das sicher schwierig!",
+      "exampleEn": "Well, it's definitely difficult without a number!",
+      "exampleFa": "خب قطعا بدون شماره سخته!"
+    },
+    {
+      "id": "v122",
+      "de": "selbstständig",
+      "en": "self-employed",
+      "pos": "other",
+      "fa": "مستقل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-selbstst%C3%A4ndig.ogg"
+    },
+    {
+      "id": "v123",
+      "de": "Stimmt s",
+      "en": "That's right",
+      "pos": "other",
+      "fa": "درست است؟",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-stimmt.ogg"
+    },
+    {
+      "id": "v124",
+      "de": "stressig",
+      "en": "stressful",
+      "pos": "other",
+      "fa": "استرس زا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-stressig.ogg"
+    },
+    {
+      "id": "v125",
+      "de": "ungeduldig",
+      "en": "impatient",
+      "pos": "other",
+      "fa": "بی حوصله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/De-ungeduldig.ogg",
+      "exampleDe": "Als Lehrer bin ich viel zu ungeduldig.",
+      "exampleEn": "As a teacher, I'm far too impatient.",
+      "exampleFa": "به عنوان یک معلم، من بیش از حد بی حوصله هستم."
+    },
+    {
+      "id": "v126",
+      "de": "wahr",
+      "en": "true",
+      "pos": "other",
+      "fa": "درست ، صحیح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-wahr.ogg",
+      "exampleDe": "Seltsam, nicht wahr?",
+      "exampleEn": "Strange, isn't it?",
+      "exampleFa": "عجیب است، اینطور نیست؟"
+    },
+    {
+      "id": "v127",
+      "de": "wesentlich",
+      "en": "significant",
+      "pos": "other",
+      "fa": "اساسی، اصلی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-wesentlich.ogg"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "wegen / nämlich; obwohl / trotzdem / zwar … aber",
+      "titleEn": "wegen / nämlich; although / still / admittedly … but",
+      "explanationEn": "wegen + Genitiv (wegen des Studiums); nämlich adds an explanation in a main clause. Concessive: obwohl + Nebensatz; trotzdem / dennoch in main clause; zwar … aber balances contrast.",
+      "patterns": [
+        "wegen des … / nämlich …",
+        "obwohl … , …",
+        "zwar … , aber …"
+      ],
+      "examples": [
+        {
+          "de": "Ich bleibe hier wegen des Studiums. Die Uni ist nämlich sehr gut.",
+          "en": "I stay here because of my studies. The uni is namely very good.",
+          "fa": "به‌خاطر تحصیل اینجا می‌مانم. دانشگاه واقعاً خیلی خوب است."
+        },
+        {
+          "de": "Obwohl das Studium schwer ist, mache ich weiter.",
+          "en": "Although studying is hard, I continue.",
+          "fa": "اگرچه تحصیل سخت است، ادامه می‌دهم."
+        },
+        {
+          "de": "Zwar ist die Miete hoch, aber die Stadt gefällt mir.",
+          "en": "The rent is high, but I like the city.",
+          "fa": "اجاره بالاست، اما شهر را دوست دارم."
+        }
+      ],
+      "titleFa": "wegen/nämlich؛ اگرچه/بااین‌حال/zwar…aber"
+    },
+    {
+      "id": "g2",
+      "titleDe": "Konjunktiv II: irreale Wunschsätze",
+      "titleEn": "Subjunctive II: unreal wishes",
+      "explanationEn": "Wishes contrary to reality: Wenn ich doch … hätte! / Hätte ich nur … ! / Ich wünschte, ich wäre … Particles doch / nur / bloß intensify the wish.",
+      "patterns": [
+        "Wenn ich doch … !",
+        "Hätte ich nur … !",
+        "Ich wünschte, …"
+      ],
+      "examples": [
+        {
+          "de": "Wenn ich doch mehr Zeit zum Lernen hätte!",
+          "en": "If only I had more time to study!",
+          "fa": "کاش وقت بیشتری برای درس خواندن داشتم!"
+        },
+        {
+          "de": "Wäre ich nur schon im Examen fertig!",
+          "en": "If only I had already finished the exam!",
+          "fa": "کاش امتحان را تمام کرده بودم!"
+        }
+      ],
+      "titleFa": "وجه التزامی دوم: جملات آرزو"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "wegen",
+      "promptEn": "wegen",
+      "content": "Sie wechselt die Uni ___ der besseren Betreuung.",
+      "answer": "wegen",
+      "grammarId": "g1",
+      "options": [
+        "wegen",
+        "obwohl",
+        "trotzdem"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "nämlich",
+      "promptEn": "nämlich",
+      "content": "Ich bleibe hier. Die Bibliothek ist ___ hervorragend.",
+      "answer": "nämlich",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "obwohl",
+      "promptEn": "obwohl",
+      "content": "___ er wenig Geld hat, studiert er in einer Großstadt.",
+      "answer": "Obwohl",
+      "grammarId": "g1",
+      "options": [
+        "Obwohl",
+        "Wegen",
+        "Nämlich"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "Wunsch",
+      "promptEn": "wish",
+      "content": "Wenn ich ___ ein Stipendium hätte! (Verstärkung)",
+      "answer": "doch",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "zwar … aber",
+      "promptEn": "zwar … aber",
+      "content": "Zwar | ist | das | Studium | anstrengend | , | aber | es | macht | Spaß | .",
+      "answer": "Zwar ist das Studium anstrengend, aber es macht Spaß.",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Wunschsatz",
+      "promptEn": "wish clause",
+      "content": "___ ich nur früher angefangen!",
+      "answer": "Hätte",
+      "grammarId": "g2",
+      "options": [
+        "Hätte",
+        "Habe",
+        "Hatte"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Er studiert Medizin ___ seines Interesses an Menschen.",
+      "answer": "wegen",
+      "options": [
+        "wegen",
+        "obwohl",
+        "trotzdem"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Ich brauche Ruhe. Morgen ist ___ die Prüfung.",
+      "answer": "nämlich",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "___ das Wohnheim teuer ist, bleibe ich dort.",
+      "answer": "Obwohl",
+      "options": [
+        "Obwohl",
+        "Wegen",
+        "Zwar"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Es regnet stark. ___ gehe ich zur Vorlesung.",
+      "answer": "Trotzdem",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Wenn ich ___ schon eingeschrieben wäre!",
+      "answer": "doch",
+      "options": [
+        "doch",
+        "also",
+        "nämlich"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: ___ ich nur bessere Noten!",
+      "answer": "Hätte",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„die Voraussetzung“ means…",
+      "answer": "Requirement",
+      "options": [
+        "university",
+        "practitioner",
+        "Requirement"
+      ],
+      "vocabId": "v91"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“practitioner”:",
+      "answer": "der Praktiker",
+      "options": [
+        "die Voraussetzung",
+        "der Praktiker",
+        "die Universität"
+      ],
+      "vocabId": "v68"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„die Universität“ means…",
+      "answer": "university",
+      "options": [
+        "Requirement",
+        "practitioner",
+        "university"
+      ],
+      "vocabId": "v90"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“Technology”:",
+      "answer": "die Technik",
+      "options": [
+        "die Technik",
+        "die Voraussetzung",
+        "der Praktiker"
+      ],
+      "vocabId": "v85"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t23",

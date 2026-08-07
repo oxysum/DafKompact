@@ -4,33 +4,1056 @@
   "number": 25,
   "titleDe": "Die Kunst, (keine) Fehler zu machen",
   "titleEn": "The art of (not) making mistakes",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Die Kunst, (keine) Fehler zu machen“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “The art of (not) making mistakes” in the course book",
-      "fa": "اهداف یادگیری «هنر (نکردن) اشتباه» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Sich über Begrüßungsformen in unterschiedlichen Ländern austauschen",
+      "en": "Exchange ideas about greeting customs in different countries",
+      "fa": "گفتگو درباره آداب سلام در کشورهای مختلف"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Anhand von Informationstexten Fragen zu Small Talk, Duzen/Siezen, Anrede und Schreibstil beantworten",
+      "en": "Answer questions on small talk, du/Sie, address forms and writing style from info texts",
+      "fa": "پاسخ به پرسش‌ها درباره اسمال‌تاک، تو/شما، خطاب و سبک نوشتار"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Small Talk in deutschsprachigen Ländern mit der Heimat vergleichen und einen Beispieldialog schreiben",
+      "en": "Compare small talk with your country and write a sample dialogue",
+      "fa": "مقایسه اسمال‌تاک با کشور خود و نوشتن دیالوگ نمونه"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "Text über Fehler verstehen; sich über den Umgang mit Fehlern in der Fremdsprache austauschen",
+      "en": "Understand a text about mistakes; discuss dealing with errors in a foreign language",
+      "fa": "فهم متن درباره اشتباه؛ گفتگو درباره برخورد با خطا در زبان خارجی"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Achtung",
+      "en": "Danger",
+      "pos": "noun",
+      "article": "die",
+      "fa": "احترام توجه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Achtung.ogg"
+    },
+    {
+      "id": "v2",
+      "de": "Alter",
+      "en": "Old",
+      "pos": "noun",
+      "article": "das",
+      "fa": "سن im alter von...",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Alter.ogg",
+      "exampleDe": "Und natürlich auch vom Alter.",
+      "exampleEn": "And of course also age.",
+      "exampleFa": "و البته سن."
+    },
+    {
+      "id": "v3",
+      "de": "Ausdruck",
+      "en": "Expression",
+      "pos": "noun",
+      "article": "der",
+      "fa": "عبارت، اصطلاح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-Ausdruck.ogg"
+    },
+    {
+      "id": "v4",
+      "de": "Begrüßung",
+      "en": "greeting",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سلام کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-Begr%C3%BC%C3%9Fung.ogg",
+      "exampleDe": "Die Form der Begrüßung hängt also sehr von der Situation und von den Leuten ab.",
+      "exampleEn": "The form of greeting depends very much on the situation and the people.",
+      "exampleFa": "شکل احوالپرسی بسیار به موقعیت و افراد بستگی دارد."
+    },
+    {
+      "id": "v5",
+      "de": "Blog",
+      "en": "Blog",
+      "pos": "noun",
+      "article": "das",
+      "fa": "بلگ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-Blog.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Chance",
+      "en": "chance",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شانس &lt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-Chance.ogg",
+      "exampleDe": "Und zuletzt sind Fehler, die du ja sowieso nicht machst, eine Chance für dich, eine Chance, etwas zu lernen.",
+      "exampleEn": "And finally, mistakes that you don't make anyway are an opportunity for you, a chance to learn something.",
+      "exampleFa": "و در نهایت، اشتباهاتی که به هر حال مرتکب نمی شوید برای شما فرصتی است، فرصتی برای یادگیری چیزی."
+    },
+    {
+      "id": "v7",
+      "de": "Chef",
+      "en": "Boss",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Chef.ogg",
+      "exampleDe": "Ich glaube, ich sage dem Chef, ich kann die Leitung nicht übernehmen.",
+      "exampleEn": "I think I'll tell the boss I can't take over.",
+      "exampleFa": "فکر می کنم به رئیس می گویم که نمی توانم مسئولیت را بر عهده بگیرم."
+    },
+    {
+      "id": "v8",
+      "de": "Distanz",
+      "en": "distance",
+      "pos": "noun",
+      "article": "die",
+      "fa": "فاصله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-Distanz.ogg"
+    },
+    {
+      "id": "v9",
+      "de": "Doktor",
+      "en": "doctor",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-Doktor.ogg",
+      "exampleDe": "Guten Tag Herr Doktor.",
+      "exampleEn": "Good afternoon, doctor.",
+      "exampleFa": "ظهر بخیر دکتر"
+    },
+    {
+      "id": "v10",
+      "de": "Doktorin",
+      "en": "Doctor",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Doktorin.ogg"
+    },
+    {
+      "id": "v11",
+      "de": "Fehler",
+      "en": "Mistake",
+      "pos": "noun",
+      "article": "der",
+      "fa": "اشتباه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Fehler.ogg",
+      "exampleDe": "Du und Fehler?",
+      "exampleEn": "You and mistakes?",
+      "exampleFa": "شما و اشتباهات؟"
+    },
+    {
+      "id": "v12",
+      "de": "Fortsetzung",
+      "en": "Continuation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ادامه، دنباله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/De-Fortsetzung.ogg"
+    },
+    {
+      "id": "v13",
+      "de": "Fremdsprache",
+      "en": "Foreign language",
+      "pos": "noun",
+      "article": "die",
+      "fa": "زبان بیگانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-Fremdsprache.ogg",
+      "exampleDe": "Auf jeden Fall wird von allen deutschen Hochschulen der Test „Deutsch als Fremdsprache“, kurz TestDaF, anerkannt.",
+      "exampleEn": "In any case, the “German as a Foreign Language” test, or TestDaF for short, is recognized by all German universities.",
+      "exampleFa": "در هر صورت، آزمون «آلمانی به عنوان زبان خارجی» یا به اختصار TestDaF توسط تمامی دانشگاه های آلمان به رسمیت شناخته می شود."
+    },
+    {
+      "id": "v14",
+      "de": "Gerät",
+      "en": "Device",
+      "pos": "noun",
+      "article": "das",
+      "fa": "دستگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-Ger%C3%A4t.ogg"
+    },
+    {
+      "id": "v15",
+      "de": "Geste",
+      "en": "gesture",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ایما اشاره"
+    },
+    {
+      "id": "v16",
+      "de": "Gruß",
+      "en": "greeting",
+      "pos": "noun",
+      "article": "der",
+      "fa": "درود",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Gru%C3%9F.ogg"
+    },
+    {
+      "id": "v17",
+      "de": "Handschlag",
+      "en": "Handshake",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دست دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Handschlag.ogg"
+    },
+    {
+      "id": "v18",
+      "de": "Korrektur",
+      "en": "correction",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تصحیح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-Korrektur.ogg"
+    },
+    {
+      "id": "v19",
+      "de": "Kälte",
+      "en": "cold",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سرما",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/De-K%C3%A4lte.ogg"
+    },
+    {
+      "id": "v20",
+      "de": "Leitung",
+      "en": "Line",
+      "pos": "noun",
+      "article": "die",
+      "fa": "خط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-Leitung.ogg",
+      "exampleDe": "Ich glaube, ich sage dem Chef, ich kann die Leitung nicht übernehmen.",
+      "exampleEn": "I think I'll tell the boss I can't take over.",
+      "exampleFa": "فکر می کنم به رئیس می گویم که نمی توانم مسئولیت را بر عهده بگیرم."
+    },
+    {
+      "id": "v21",
+      "de": "Lerner",
+      "en": "learner",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دانش آموز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Lerner.ogg"
+    },
+    {
+      "id": "v22",
+      "de": "Meeting",
+      "en": "meeting",
+      "pos": "noun",
+      "article": "das",
+      "fa": "جلسه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/De-Meeting.ogg",
+      "exampleDe": "Und sicher fehlen mir beim Meeting auch Wörter.",
+      "exampleEn": "And I'm sure I'm missing words at the meeting.",
+      "exampleFa": "و من مطمئن هستم که کلمات را در جلسه از دست داده ام."
+    },
+    {
+      "id": "v23",
+      "de": "Mut",
+      "en": "courage",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دلیری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-Mut2.oga"
+    },
+    {
+      "id": "v24",
+      "de": "Nicken",
+      "en": "Nod",
+      "pos": "noun",
+      "article": "das",
+      "fa": "با سر اشاره کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Nicken.ogg",
+      "exampleDe": "Sonst sage ich einfach nur „Hallo“, da reicht dann auch ein Nicken.",
+      "exampleEn": "Otherwise I just say “Hello” and a nod is enough.",
+      "exampleFa": "در غیر این صورت فقط می گویم \"سلام\" و تکان دادن سر کافی است."
+    },
+    {
+      "id": "v25",
+      "de": "Oberbegriff",
+      "en": "Generic term",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دسته بندی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/De-Oberbegriff.ogg"
+    },
+    {
+      "id": "v26",
+      "de": "Panik",
+      "en": "panic",
+      "pos": "noun",
+      "article": "die",
+      "fa": "هول، وحشت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-Panik.ogg",
+      "exampleDe": "Keine Panik, Paul!",
+      "exampleEn": "Don't panic, Paul!",
+      "exampleFa": "نترس، پل!"
+    },
+    {
+      "id": "v27",
+      "de": "Pause",
+      "en": "break",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-Pause.ogg",
+      "exampleDe": "Sollen wir nicht mal eine Pause machen?",
+      "exampleEn": "Shouldn't we take a break?",
+      "exampleFa": "آیا نباید استراحت کنیم؟"
+    },
+    {
+      "id": "v28",
+      "de": "Pech",
+      "en": "Bad luck",
+      "pos": "noun",
+      "article": "das",
+      "fa": "بدشانسی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-Pech.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Pfingsten",
+      "en": "Pentecost",
+      "pos": "noun",
+      "article": "das",
+      "fa": "عید پنجاهه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/De-Pfingsten.ogg"
+    },
+    {
+      "id": "v30",
+      "de": "Redewendung",
+      "en": "Idiom",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اصطلاح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Redewendung.ogg"
+    },
+    {
+      "id": "v31",
+      "de": "Respekt",
+      "en": "respect",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Respekt.ogg"
+    },
+    {
+      "id": "v32",
+      "de": "Schreibstil",
+      "en": "Writing style",
+      "pos": "noun",
+      "article": "der",
+      "fa": "سبک نگارش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Schreibstil.ogg"
+    },
+    {
+      "id": "v33",
+      "de": "Sekt",
+      "en": "sparkling wine",
+      "pos": "noun",
+      "article": "der",
+      "fa": "(Pl seltern) شراب گازدار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-Sekt.ogg"
+    },
+    {
+      "id": "v34",
+      "de": "Small Talk",
+      "en": "Small talk",
+      "pos": "noun",
+      "article": "der",
+      "fa": "حرف مفت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-small.ogg"
+    },
+    {
+      "id": "v35",
+      "de": "Strategie",
+      "en": "strategy",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-Strategie.ogg"
+    },
+    {
+      "id": "v36",
+      "de": "Struktur",
+      "en": "structure",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ساختار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-Struktur.ogg"
+    },
+    {
+      "id": "v37",
+      "de": "Tabu",
+      "en": "Taboo",
+      "pos": "noun",
+      "article": "das",
+      "fa": "تابو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-Tabu.ogg"
+    },
+    {
+      "id": "v38",
+      "de": "Trend",
+      "en": "trend",
+      "pos": "noun",
+      "article": "der",
+      "fa": "گرایش، روند",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Trend.ogg",
+      "exampleDe": "Der Bodensee liegt übrigens auch bei jüngeren Leuten voll im Trend.",
+      "exampleEn": "By the way, Lake Constance is also very popular with younger people.",
+      "exampleFa": "به هر حال، دریاچه کنستانس نیز در بین جوانان بسیار محبوب است."
+    },
+    {
+      "id": "v39",
+      "de": "Umarmung",
+      "en": "hug",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بغل کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/De-Umarmung.ogg"
+    },
+    {
+      "id": "v40",
+      "de": "Unterricht",
+      "en": "Instruction",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کلاس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/De-Unterricht.ogg",
+      "exampleDe": "Und wie der Name Fernuniversität schon sagt, findet der Unterricht nicht im Seminarraum oder Hörsaal statt.",
+      "exampleEn": "And as the name distance learning university suggests, classes do not take place in seminar rooms or lecture halls.",
+      "exampleFa": "و همانطور که از نام دانشگاه آموزش از راه دور پیداست، کلاس ها در اتاق های سمینار یا سالن های سخنرانی برگزار نمی شود."
+    },
+    {
+      "id": "v41",
+      "de": "Ursache",
+      "en": "Caused",
+      "pos": "noun",
+      "article": "die",
+      "fa": "باعث",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/De-Ursache.ogg"
+    },
+    {
+      "id": "v42",
+      "de": "Verständnis",
+      "en": "Understanding",
+      "pos": "noun",
+      "article": "das",
+      "fa": "درک. تفاهم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Verst%C3%A4ndnis.ogg",
+      "exampleDe": "Ich hoffe auf Ihr Verständnis.",
+      "exampleEn": "I hope for your understanding.",
+      "exampleFa": "من به درک شما امیدوارم."
+    },
+    {
+      "id": "v43",
+      "de": "Vorgesetzte",
+      "en": "Superiors",
+      "pos": "noun",
+      "article": "der",
+      "fa": "سرپرست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Vorgesetzte.ogg"
+    },
+    {
+      "id": "v44",
+      "de": "Wange",
+      "en": "cheek",
+      "pos": "noun",
+      "article": "die",
+      "fa": "لپ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Wange.ogg",
+      "exampleDe": "Ja, und sich auf die Wange küssen, das ist eher in den Familien zu sehen, es ist aber auch bei den Jugendlichen immer mehr in Mode.",
+      "exampleEn": "Yes, and kissing on the cheek is more common in families, but it is also becoming more and more fashionable among young people.",
+      "exampleFa": "بله، و بوسیدن گونه در خانواده ها بیشتر دیده می شود، اما در بین جوانان نیز روز به روز مد می شود."
+    },
+    {
+      "id": "v45",
+      "de": "Weblog",
+      "en": "Weblog",
+      "pos": "noun",
+      "article": "das",
+      "fa": "وبلاگ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Weblog.ogg"
+    },
+    {
+      "id": "v46",
+      "de": "Winken",
+      "en": "Wave",
+      "pos": "noun",
+      "article": "das",
+      "fa": "دست تکان دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-Winken.ogg"
+    },
+    {
+      "id": "v47",
+      "de": "Wörterbuch",
+      "en": "dictionary",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-W%C3%B6rterbuch.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Zuordnung",
+      "en": "Assignment",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ارتباط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/De-Zuordnung.ogg"
+    },
+    {
+      "id": "v49",
+      "de": "ansprechen",
+      "en": "address",
+      "pos": "verb",
+      "fa": "سر صحبت را باز کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-ansprechen.ogg"
+    },
+    {
+      "id": "v50",
+      "de": "bedeuten",
+      "en": "to mean",
+      "pos": "verb",
+      "fa": "معنی دادن er bedeutet",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-bedeuten.ogg"
+    },
+    {
+      "id": "v51",
+      "de": "begrüßen",
+      "en": "to greet",
+      "pos": "verb",
+      "fa": "سلام کردن er begrüßt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-begr%C3%BC%C3%9Fen.ogg",
+      "exampleDe": "Hm, du musst einfach schauen, wie sich deine Kollegen begrüßen oder deine Mitbewohner, deine Freunde.",
+      "exampleEn": "Hm, you just have to look at how your colleagues greet each other, or your roommates, your friends.",
+      "exampleFa": "هوم، شما فقط باید به نحوه احوالپرسی همکارانتان یا هم اتاقی ها و دوستانتان نگاه کنید."
+    },
+    {
+      "id": "v52",
+      "de": "leiten",
+      "en": "lead",
+      "pos": "verb",
+      "fa": "سرپرستی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-leiten.ogg",
+      "exampleDe": "Du, nächste Woche ich soll das Teammeeting leiten.",
+      "exampleEn": "You, next week I'm supposed to lead the team meeting.",
+      "exampleFa": "شما، هفته آینده من قرار است جلسه تیم را رهبری کنم."
+    },
+    {
+      "id": "v53",
+      "de": "nachschlagen",
+      "en": "look up",
+      "pos": "verb",
+      "fa": "نگاه کردن مراجعه کردن به",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-nachschlagen.ogg"
+    },
+    {
+      "id": "v54",
+      "de": "Pech haben",
+      "en": "be unlucky",
+      "pos": "verb",
+      "fa": "بدشانسی آوردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-Pech.ogg"
+    },
+    {
+      "id": "v55",
+      "de": "sichern",
+      "en": "secure",
+      "pos": "verb",
+      "fa": "حفظ کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-sichern.ogg",
+      "exampleDe": "Und sicher fehlen mir beim Meeting auch Wörter.",
+      "exampleEn": "And I'm sure I'm missing words at the meeting.",
+      "exampleFa": "و من مطمئن هستم که کلمات را در جلسه از دست داده ام."
+    },
+    {
+      "id": "v56",
+      "de": "siezen",
+      "en": "siezen",
+      "pos": "verb",
+      "fa": "تو خطاب کردن &lt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-siezen.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "trennen",
+      "en": "separate",
+      "pos": "verb",
+      "fa": "جدا کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-trennen.ogg",
+      "exampleDe": "Ähm, wir können die Schrankwand ja trennen: Der Schrank bleibt hier, aber wir stellen ihn links an die Wand.",
+      "exampleEn": "Um, we can separate the cupboard wall: The cupboard stays here, but we put it against the wall on the left.",
+      "exampleFa": "اوم، می‌توانیم دیوار کمد را جدا کنیم: کمد اینجا می‌ماند، اما ما آن را مقابل دیوار سمت چپ قرار می‌دهیم."
+    },
+    {
+      "id": "v58",
+      "de": "umarmen",
+      "en": "embrace",
+      "pos": "verb",
+      "fa": "بغل کردن er umarmt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-umarmen.ogg",
+      "exampleDe": "Na ja, und sich umarmen, das mache ich sehr oft, das weißt du ja.",
+      "exampleEn": "Well, and hugging, I do that a lot, you know that.",
+      "exampleFa": "خوب، و در آغوش گرفتن، من این کار را زیاد انجام می دهم، شما این را می دانید."
+    },
+    {
+      "id": "v59",
+      "de": "vergehen",
+      "en": "pass away",
+      "pos": "verb",
+      "fa": "عبور کردن، سپری کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-vergehen.ogg"
+    },
+    {
+      "id": "v60",
+      "de": "vermeiden",
+      "en": "avoid",
+      "pos": "verb",
+      "fa": "اجتناب کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-vermeiden.ogg"
+    },
+    {
+      "id": "v61",
+      "de": "üben",
+      "en": "practice",
+      "pos": "verb",
+      "fa": "تمرین کردن er übt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-%C3%BCben.ogg",
+      "exampleDe": "Da üben Sie das.",
+      "exampleEn": "Then you practice that.",
+      "exampleFa": "سپس شما آن را تمرین کنید."
+    },
+    {
+      "id": "v62",
+      "de": "übernehmen",
+      "en": "take over",
+      "pos": "verb",
+      "fa": "به عهده گرفتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-%C3%BCbernehmen.ogg",
+      "exampleDe": "Ich glaube, ich sage dem Chef, ich kann die Leitung nicht übernehmen.",
+      "exampleEn": "I think I'll tell the boss I can't take over.",
+      "exampleFa": "فکر می کنم به رئیس می گویم که نمی توانم مسئولیت را بر عهده بگیرم."
+    },
+    {
+      "id": "v63",
+      "de": "übertragen",
+      "en": "transmitted",
+      "pos": "verb",
+      "fa": "انتقال دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-%C3%BCbertragen.ogg"
+    },
+    {
+      "id": "v64",
+      "de": "akademisch",
+      "en": "academic",
+      "pos": "other",
+      "fa": "دانشگاهی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-akademisch.ogg"
+    },
+    {
+      "id": "v65",
+      "de": "blumig",
+      "en": "flowery",
+      "pos": "other",
+      "fa": "گل و بلبل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/De-blumig.ogg"
+    },
+    {
+      "id": "v66",
+      "de": "deprimiert",
+      "en": "depressed",
+      "pos": "other",
+      "fa": "افسرده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-deprimiert.ogg"
+    },
+    {
+      "id": "v67",
+      "de": "durcheinander",
+      "en": "mixed up",
+      "pos": "other",
+      "fa": "توسط همدیگر؟ قاطی شده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-durcheinander.ogg"
+    },
+    {
+      "id": "v68",
+      "de": "gegenseitig",
+      "en": "each other",
+      "pos": "other",
+      "fa": "دوطرفه، متقابل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-gegenseitig.ogg"
+    },
+    {
+      "id": "v69",
+      "de": "hochachtungsvoll",
+      "en": "respectfully",
+      "pos": "other",
+      "fa": "با احترام",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-hochachtungsvoll.ogg"
+    },
+    {
+      "id": "v70",
+      "de": "international",
+      "en": "international",
+      "pos": "other",
+      "fa": "بین المللی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-international.ogg",
+      "exampleDe": "Sie können aber auch beim Kundenservice International anrufen.",
+      "exampleEn": "You can also call International Customer Service.",
+      "exampleFa": "همچنین می توانید با خدمات مشتریان بین المللی تماس بگیرید."
+    },
+    {
+      "id": "v71",
+      "de": "komisch",
+      "en": "funny / strange",
+      "pos": "other",
+      "fa": "مضحک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-komisch.ogg",
+      "exampleDe": "Komisch geguckt?",
+      "exampleEn": "Looked funny?",
+      "exampleFa": "خنده دار به نظر می رسید؟"
+    },
+    {
+      "id": "v72",
+      "de": "kritisch",
+      "en": "critical",
+      "pos": "other",
+      "fa": "مهم خطرناک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-kritisch.ogg"
+    },
+    {
+      "id": "v73",
+      "de": "manchmal",
+      "en": "sometimes",
+      "pos": "other",
+      "fa": "گاهی اوقات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/De-manchmal.ogg",
+      "exampleDe": "Selbst für uns Deutsche ist das manchmal nicht einfach.",
+      "exampleEn": "Even for us Germans, this is sometimes not easy.",
+      "exampleFa": "حتی برای ما آلمانی ها، این گاهی اوقات آسان نیست."
+    },
+    {
+      "id": "v74",
+      "de": "müde",
+      "en": "tired",
+      "pos": "other",
+      "fa": "خسته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-m%C3%BCde.ogg",
+      "exampleDe": "Sie merken selbst, wenn Sie müde sind.",
+      "exampleEn": "You notice when you are tired.",
+      "exampleFa": "وقتی خسته می شوید متوجه می شوید."
+    },
+    {
+      "id": "v75",
+      "de": "normal",
+      "en": "normal",
+      "pos": "other",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-normal.ogg",
+      "exampleDe": "Das ist ganz normal.",
+      "exampleEn": "This is completely normal.",
+      "exampleFa": "این کاملا طبیعی است."
+    },
+    {
+      "id": "v76",
+      "de": "normalerweise",
+      "en": "normally",
+      "pos": "other",
+      "fa": "به طور معمول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-normalerweise.ogg",
+      "exampleDe": "Also, normalerweise arbeitet man ja 7,6 Stunden.",
+      "exampleEn": "So, normally you work 7.6 hours.",
+      "exampleFa": "بنابراین، به طور معمول شما 7.6 ساعت کار می کنید."
+    },
+    {
+      "id": "v77",
+      "de": "seltsam",
+      "en": "strange",
+      "pos": "other",
+      "fa": "عجیب و غریب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-seltsam.ogg",
+      "exampleDe": "Seltsam, nicht wahr?",
+      "exampleEn": "Strange, isn't it?",
+      "exampleFa": "عجیب است، اینطور نیست؟"
+    },
+    {
+      "id": "v78",
+      "de": "ungefähr",
+      "en": "approximately",
+      "pos": "other",
+      "fa": "حدوداً ، تقریباً",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-ungef%C3%A4hr.ogg",
+      "exampleDe": "Wie lange ungefähr?",
+      "exampleEn": "How long approximately?",
+      "exampleFa": "حدودا چه مدت؟"
+    },
+    {
+      "id": "v79",
+      "de": "vornehm",
+      "en": "posh",
+      "pos": "other",
+      "fa": "اصیل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-vornehm.ogg"
+    },
+    {
+      "id": "v80",
+      "de": "vorzüglich",
+      "en": "excellent",
+      "pos": "other",
+      "fa": "بسیار عالی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/De-vorz%C3%BCglich.ogg"
+    },
+    {
+      "id": "v81",
+      "de": "wie im Flug vergehen",
+      "en": "fly by",
+      "pos": "phrase",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Wie.ogg"
+    },
+    {
+      "id": "v82",
+      "de": "wörtlich",
+      "en": "literally",
+      "pos": "other",
+      "fa": "به معنای واقعی کلام"
+    },
+    {
+      "id": "v83",
+      "de": "überhaupt",
+      "en": "at all",
+      "pos": "other",
+      "fa": "اصلا، تماماً",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-%C3%BCberhaupt.ogg",
+      "exampleDe": "Das stimmt überhaupt nicht!",
+      "exampleEn": "That's not true at all!",
+      "exampleFa": "این اصلا درست نیست!"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Reziproke Reflexivpronomen",
+      "titleEn": "Reciprocal reflexive pronouns",
+      "explanationEn": "sich (einander) expresses mutual action: Sie grüßen sich. Wir verstehen uns gut. Optional einander for clarity: Sie helfen einander. Verb often reflexive: sich kennenlernen, sich streiten.",
+      "patterns": [
+        "Sie grüßen sich.",
+        "Wir verstehen uns.",
+        "Sie helfen einander."
+      ],
+      "examples": [
+        {
+          "de": "In Deutschland siezen sich Kollegen oft lange.",
+          "en": "In Germany colleagues often use Sie with each other for a long time.",
+          "fa": "در آلمان همکاران اغلب مدت‌ها به هم «شما» می‌گویند."
+        },
+        {
+          "de": "Die beiden Studenten helfen sich beim Lernen.",
+          "en": "The two students help each other with studying.",
+          "fa": "آن دو دانشجو هنگام درس به هم کمک می‌کنند."
+        }
+      ],
+      "titleFa": "ضمایر بازتابی متقابل"
+    },
+    {
+      "id": "g2",
+      "titleDe": "Konsekutive Sätze: also / sodass / so … dass",
+      "titleEn": "Consecutive clauses: so / so that / so … that",
+      "explanationEn": "also / folglich connect result in a main clause. sodass / so dass introduce a result subordinate clause. so + Adj./Adv. … dass intensifies: Er war so nervös, dass er stockte.",
+      "patterns": [
+        "… , also …",
+        "… , sodass …",
+        "so … , dass …"
+      ],
+      "examples": [
+        {
+          "de": "Ich habe den Namen falsch geschrieben, also musste ich mich entschuldigen.",
+          "en": "I wrote the name wrong, so I had to apologize.",
+          "fa": "اسم را اشتباه نوشتم، بنابراین باید عذرخواهی می‌کردم."
+        },
+        {
+          "de": "Er sprach so leise, dass niemand ihn verstand.",
+          "en": "He spoke so quietly that nobody understood him.",
+          "fa": "آن‌قدر آهسته حرف زد که کسی او را نفهمید."
+        }
+      ],
+      "titleFa": "جملات نتیجه‌ای: also / sodass / so … dass"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "reziprok",
+      "promptEn": "reciprocal",
+      "content": "Die Nachbarn grüßen ___ jeden Morgen.",
+      "answer": "sich",
+      "grammarId": "g1",
+      "options": [
+        "sich",
+        "ihn",
+        "euch"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "uns",
+      "promptEn": "uns",
+      "content": "Wir verstehen ___ sehr gut.",
+      "answer": "uns",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "also",
+      "promptEn": "so/therefore",
+      "content": "Du hast dich vertippt, ___ schreib die E-Mail noch einmal.",
+      "answer": "also",
+      "grammarId": "g2",
+      "options": [
+        "also",
+        "obwohl",
+        "damit"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "sodass",
+      "promptEn": "so that",
+      "content": "Sie übt jeden Tag, ___ sie weniger Fehler macht.",
+      "answer": "sodass",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "so … dass",
+      "promptEn": "so … that",
+      "content": "Er | war | so | aufgeregt | , | dass | er | stockte | .",
+      "answer": "Er war so aufgeregt, dass er stockte.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "einander",
+      "promptEn": "each other",
+      "content": "Die Gäste stellen ___ vor.",
+      "answer": "sich / einander",
+      "grammarId": "g1",
+      "options": [
+        "sich / einander",
+        "ihn",
+        "jemanden"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "In vielen Ländern umarmen ___ Freunde zur Begrüßung.",
+      "answer": "sich",
+      "options": [
+        "sich",
+        "ihn",
+        "man"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Kennt ihr ___ schon lange?",
+      "answer": "euch",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "Ich habe „Sie“ gesagt, ___ habe ich formal begrüßt.",
+      "answer": "also",
+      "options": [
+        "also",
+        "obwohl",
+        "damit"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Sie war ___ unsicher, ___ sie nichts sagte.",
+      "answer": "so … dass",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Wir schreiben ___ regelmäßig E-Mails.",
+      "answer": "uns",
+      "options": [
+        "uns",
+        "wir",
+        "unser"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: Er hat viele Fehler gemacht, ___ muss er den Text korrigieren.",
+      "answer": "also",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„das Nicken“ means…",
+      "answer": "Nod",
+      "options": [
+        "cold",
+        "Nod",
+        "structure"
+      ],
+      "vocabId": "v24"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“structure”:",
+      "answer": "die Struktur",
+      "options": [
+        "die Kälte",
+        "die Struktur",
+        "das Nicken"
+      ],
+      "vocabId": "v36"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„die Kälte“ means…",
+      "answer": "cold",
+      "options": [
+        "cold",
+        "Nod",
+        "structure"
+      ],
+      "vocabId": "v19"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“Wave”:",
+      "answer": "das Winken",
+      "options": [
+        "das Nicken",
+        "die Struktur",
+        "das Winken"
+      ],
+      "vocabId": "v46"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t43",

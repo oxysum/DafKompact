@@ -4,33 +4,1520 @@
   "number": 20,
   "titleDe": "Verkehrsunfall in der Innenstadt",
   "titleEn": "Traffic accident downtown",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Verkehrsunfall in der Innenstadt“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Traffic accident downtown” in the course book",
-      "fa": "اهداف یادگیری «تصادف رانندگی در مرکز شهر» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Zeitungsbericht und mündlichen Bericht über einen Verkehrsunfall verstehen und mit Bildinformationen abgleichen",
+      "en": "Understand a newspaper and oral accident report and match them with picture information",
+      "fa": "فهم گزارش روزنامه و شفاهی تصادف و تطبیق با اطلاعات تصویری"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Einen Verkehrsunfall schildern",
+      "en": "Describe a traffic accident",
+      "fa": "شرح دادن یک تصادف رانندگی"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Überraschung und Wut äußern",
+      "en": "Express surprise and anger",
+      "fa": "بیان تعجب و خشم"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "Schadensmeldung korrigieren und selbst formulieren",
+      "en": "Correct and write an insurance claim",
+      "fa": "تصحیح و نوشتن اعلام خسارت بیمه"
+    },
+    {
+      "de": "Über ein Liniendiagramm zu Verkehrsunfällen sprechen",
+      "en": "Talk about a line graph on traffic accidents",
+      "fa": "صحبت درباره نمودار خطی تصادفات"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Ampel",
+      "en": "Traffic light",
+      "pos": "noun",
+      "article": "die",
+      "fa": "چراغ راهنمایی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-Ampel.ogg",
+      "exampleDe": "Warum hat er denn nicht an der Ampel gewartet?",
+      "exampleEn": "Why didn't he wait at the traffic lights?",
+      "exampleFa": "چرا پشت چراغ راهنمایی منتظر نشد؟"
+    },
+    {
+      "id": "v2",
+      "de": "Angabe",
+      "en": "Information",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اعلان، اظهار، مشخصات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Angabe.ogg"
+    },
+    {
+      "id": "v3",
+      "de": "Anschrift",
+      "en": "Address",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نشانی ، آدرس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Anschrift.ogg"
+    },
+    {
+      "id": "v4",
+      "de": "Augenzeuge",
+      "en": "eyewitness",
+      "pos": "noun",
+      "article": "der",
+      "fa": "شاهد عینی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/De-Augenzeuge.ogg"
+    },
+    {
+      "id": "v5",
+      "de": "Aussage",
+      "en": "Statement",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اظهار، گواهی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-Aussage.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Beifahrer",
+      "en": "passenger",
+      "pos": "noun",
+      "article": "der",
+      "fa": "شاگرد راننده، نفر کنار راننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/De-Beifahrer.ogg",
+      "exampleDe": "Und meinen Freund, also meinen Beifahrer, haben sie auch ins Krankenhaus mitgenommen, weil er möglicherweise ein Schleudertrauma hat.",
+      "exampleEn": "And they also took my friend, my passenger, to the hospital because he might have whiplash.",
+      "exampleFa": "و آنها همچنین دوستم را که مسافرم بود به بیمارستان بردند زیرا ممکن بود شلاق بخورد."
+    },
+    {
+      "id": "v7",
+      "de": "Bein",
+      "en": "leg",
+      "pos": "noun",
+      "article": "das",
+      "fa": "پا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Bein.ogg"
+    },
+    {
+      "id": "v8",
+      "de": "Bremse",
+      "en": "brake",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ترمز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Bremse.ogg",
+      "exampleDe": "Durch das starke Bremsen bin ich auf die linke Fahrbahn geraten.",
+      "exampleEn": "Because of the hard braking I ended up in the left lane.",
+      "exampleFa": "به دلیل ترمز شدید من در لاین چپ قرار گرفتم."
+    },
+    {
+      "id": "v9",
+      "de": "Brücke",
+      "en": "Bridge",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Br%C3%BCcke.ogg",
+      "exampleDe": "Los jetzt, auf die Brücke!",
+      "exampleEn": "Come on, get on the bridge!",
+      "exampleFa": "بیا برو روی پل"
+    },
+    {
+      "id": "v10",
+      "de": "Diagramm",
+      "en": "diagram",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نمودار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/De-Diagramm.ogg"
+    },
+    {
+      "id": "v11",
+      "de": "Ehefrau",
+      "en": "Wife",
+      "pos": "noun",
+      "article": "die",
+      "fa": "زن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/De-Ehefrau.ogg"
+    },
+    {
+      "id": "v12",
+      "de": "Eisenbahn",
+      "en": "railroad",
+      "pos": "noun",
+      "article": "die",
+      "fa": "راه آهن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Eisenbahn.ogg"
+    },
+    {
+      "id": "v13",
+      "de": "Entwicklung",
+      "en": "Development",
+      "pos": "noun",
+      "article": "die",
+      "fa": "توسعه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-Entwicklung.ogg",
+      "exampleDe": "Ich weiß noch nicht genau, aber es gibt einen Dokumentarfilm über die wirtschaftliche Entwicklung von Indien.",
+      "exampleEn": "I don't know exactly yet, but there is a documentary about the economic development of India.",
+      "exampleFa": "هنوز دقیقاً نمی دانم، اما مستندی در مورد توسعه اقتصادی هند وجود دارد."
+    },
+    {
+      "id": "v14",
+      "de": "Erste Hilfe",
+      "en": "First aid",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کمک های اولیه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-erste.ogg"
+    },
+    {
+      "id": "v15",
+      "de": "Fahrbahn",
+      "en": "roadway",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جاده، راه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-Fahrbahn.ogg",
+      "exampleDe": "Durch das starke Bremsen bin ich auf die linke Fahrbahn geraten.",
+      "exampleEn": "Because of the hard braking I ended up in the left lane.",
+      "exampleFa": "به دلیل ترمز شدید من در لاین چپ قرار گرفتم."
+    },
+    {
+      "id": "v16",
+      "de": "Fahrer",
+      "en": "driver",
+      "pos": "noun",
+      "article": "der",
+      "fa": "راننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/De-Fahrer.ogg",
+      "exampleDe": "Der Fahrer des VW Golf ist Gott sei Dank nicht verletzt worden.",
+      "exampleEn": "Thank God the driver of the VW Golf was not injured.",
+      "exampleFa": "خدا را شکر راننده فولکس واگن گلف آسیبی ندید."
+    },
+    {
+      "id": "v17",
+      "de": "Fahrstil",
+      "en": "Driving style",
+      "pos": "noun",
+      "article": "der",
+      "fa": "سبک رانندگی؟",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Fahrstil.ogg"
+    },
+    {
+      "id": "v18",
+      "de": "Frechheit",
+      "en": "impudence",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بی حیایی، گستاخی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-Frechheit.ogg",
+      "exampleDe": "Das ist ja eine Frechheit!",
+      "exampleEn": "That's a disgrace!",
+      "exampleFa": "این مایه شرمساری است!"
+    },
+    {
+      "id": "v19",
+      "de": "Frontscheibe",
+      "en": "Windshield",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شیشه جلو",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Frontscheibe.ogg"
+    },
+    {
+      "id": "v20",
+      "de": "Geduld",
+      "en": "patience",
+      "pos": "noun",
+      "article": "die",
+      "fa": "صبر ، تحمل،",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De-Geduld.ogg",
+      "exampleDe": "Bitte haben Sie noch etwas Geduld, bis wir Sie mit dem nächsten freien Mitarbeiter verbinden.",
+      "exampleEn": "Please be patient until we connect you with the next available employee.",
+      "exampleFa": "لطفا تا زمانی که شما را با کارمند موجود بعدی وصل کنیم صبور باشید."
+    },
+    {
+      "id": "v21",
+      "de": "gegenfahrbahn",
+      "en": "oncoming lane",
+      "pos": "noun",
+      "article": "die",
+      "fa": "خط مقابل در جاده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Gegenfahrbahn.ogg"
+    },
+    {
+      "id": "v22",
+      "de": "Glück",
+      "en": "Luck",
+      "pos": "noun",
+      "article": "das",
+      "fa": "خوشبختی &lt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-Gl%C3%BCck.ogg",
+      "exampleDe": "Ja, ein Glück!",
+      "exampleEn": "Yes, lucky!",
+      "exampleFa": "بله، خوش شانس!"
+    },
+    {
+      "id": "v23",
+      "de": "Grafik",
+      "en": "graphic",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نمودار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-Grafik.ogg"
+    },
+    {
+      "id": "v24",
+      "de": "Großstadt",
+      "en": "Big city",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شهر بزرگ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-Gro%C3%9Fstadt.ogg"
+    },
+    {
+      "id": "v25",
+      "de": "Halskrause",
+      "en": "ruff",
+      "pos": "noun",
+      "article": "die",
+      "fa": "؟",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Halskrause.ogg",
+      "exampleDe": "Oh je, mit Halskrause.",
+      "exampleEn": "Oh dear, with a neck brace.",
+      "exampleFa": "اوه عزیزم با گردنبند."
+    },
+    {
+      "id": "v26",
+      "de": "Halswirbelsäule",
+      "en": "cervical spine",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ستون فقرات گردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Halswirbels%C3%A4ule.ogg",
+      "exampleDe": "Ich hab’ ein paar Prellungen, die tun weh, ja, und die Halswirbelsäule.",
+      "exampleEn": "I have a few bruises that hurt, yes, and my cervical spine.",
+      "exampleFa": "من چند کبودی دارم که درد دارد، بله، و ستون فقرات گردنم."
+    },
+    {
+      "id": "v27",
+      "de": "Haut",
+      "en": "skin",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پوست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Haut.ogg"
+    },
+    {
+      "id": "v28",
+      "de": "Heckscheibe",
+      "en": "rear window",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شیشه عقب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/De-Heckscheibe.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Innenstadt",
+      "en": "Downtown",
+      "pos": "noun",
+      "article": "die",
+      "fa": "داخل شهر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-Innenstadt.ogg"
+    },
+    {
+      "id": "v30",
+      "de": "Knall",
+      "en": "Bang",
+      "pos": "noun",
+      "article": "der",
+      "fa": "صدای برخورد و انفجار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Knall.ogg",
+      "exampleDe": "Ich habe nur noch einen lauten Knall gehört.",
+      "exampleEn": "All I heard was a loud bang.",
+      "exampleFa": "تنها چیزی که شنیدم صدای بلندی بود."
+    },
+    {
+      "id": "v31",
+      "de": "Kofferraum",
+      "en": "trunk",
+      "pos": "noun",
+      "article": "der",
+      "fa": "صندوق عقب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Kofferraum.ogg"
+    },
+    {
+      "id": "v32",
+      "de": "Kotflügel",
+      "en": "fender",
+      "pos": "noun",
+      "article": "der",
+      "fa": "گل گیر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Kotfl%C3%BCgel.ogg"
+    },
+    {
+      "id": "v33",
+      "de": "Krankenhaus",
+      "en": "hospital",
+      "pos": "noun",
+      "article": "das",
+      "fa": "بیمارستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-Krankenhaus.ogg",
+      "exampleDe": "Mein Nachbar ist sofort ins Krankenhaus gebracht worden.",
+      "exampleEn": "My neighbor was immediately taken to the hospital.",
+      "exampleFa": "همسایه ام بلافاصله به بیمارستان منتقل شد."
+    },
+    {
+      "id": "v34",
+      "de": "Kreuzung",
+      "en": "intersection",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تقاطع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-Kreuzung.ogg",
+      "exampleDe": "Und Ihr Mann wollte einfach noch schnell über die Kreuzung fahren.",
+      "exampleEn": "And your husband just wanted to drive quickly through the intersection.",
+      "exampleFa": "و شوهرت فقط می خواست با سرعت از تقاطع عبور کند."
+    },
+    {
+      "id": "v35",
+      "de": "Liniendiagramm",
+      "en": "Line chart",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نمودار خطی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-Liniendiagramm.ogg"
+    },
+    {
+      "id": "v36",
+      "de": "Motor",
+      "en": "Motor",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Motor.ogg"
+    },
+    {
+      "id": "v37",
+      "de": "Motorhaube",
+      "en": "bonnet",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کاپوت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Motorhaube.ogg"
+    },
+    {
+      "id": "v38",
+      "de": "Motorrad",
+      "en": "motorcycle",
+      "pos": "noun",
+      "article": "das",
+      "fa": "موتورسیلکلت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Motorrad.ogg"
+    },
+    {
+      "id": "v39",
+      "de": "Nachbar",
+      "en": "neighbour",
+      "pos": "noun",
+      "article": "der",
+      "fa": "همسایه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-Nachbar.ogg",
+      "exampleDe": "Mein Nachbar ist sofort ins Krankenhaus gebracht worden.",
+      "exampleEn": "My neighbor was immediately taken to the hospital.",
+      "exampleFa": "همسایه ام بلافاصله به بیمارستان منتقل شد."
+    },
+    {
+      "id": "v40",
+      "de": "Notarzt",
+      "en": "Emergency doctor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پزشک اورژانس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-Notarzt.ogg",
+      "exampleDe": "Wir sind alle vom Notarzt untersucht worden.",
+      "exampleEn": "We were all examined by the emergency doctor.",
+      "exampleFa": "همه ما توسط دکتر اورژانس معاینه شدیم."
+    },
+    {
+      "id": "v41",
+      "de": "Notfall",
+      "en": "emergency",
+      "pos": "noun",
+      "article": "der",
+      "fa": "موقعیت اورژانسی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Notfall.ogg"
+    },
+    {
+      "id": "v42",
+      "de": "Pfeil",
+      "en": "Arrow",
+      "pos": "noun",
+      "article": "der",
+      "fa": "فلش، تیر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Pfeil.ogg",
+      "exampleDe": "Aber die Ampel hat ja einen grünen Pfeil, deshalb kann man ja auch bei Gelb abbiegen.",
+      "exampleEn": "But the traffic light has a green arrow, so you can turn when it's yellow.",
+      "exampleFa": "اما چراغ راهنمایی یک فلش سبز دارد، بنابراین وقتی زرد است می توانید بچرخید."
+    },
+    {
+      "id": "v43",
+      "de": "Pkw",
+      "en": "car",
+      "pos": "noun",
+      "article": "der",
+      "fa": "اتومبیل شخصی Personenkraftwagen",
+      "exampleDe": "Also, die Fahrt mit dem PKW ist schon lang, aber ist wohl am praktischsten für Sie.",
+      "exampleEn": "So, the journey by car is long, but it is probably the most practical for you.",
+      "exampleFa": "بنابراین، سفر با ماشین طولانی است، اما احتمالاً برای شما کاربردی ترین است."
+    },
+    {
+      "id": "v44",
+      "de": "Polizistin",
+      "en": "policewoman",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/De-Polizistin.ogg"
+    },
+    {
+      "id": "v45",
+      "de": "Prellung",
+      "en": "bruise",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کوفتگی، ضرب دیدگی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-Prellung.ogg"
+    },
+    {
+      "id": "v46",
+      "de": "Presse",
+      "en": "press",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دستگاه پرس، مطبوعات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Presse.ogg"
+    },
+    {
+      "id": "v47",
+      "de": "Protokoll",
+      "en": "protocol",
+      "pos": "noun",
+      "article": "das",
+      "fa": "صورت جلسه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-Protokoll.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Prozess",
+      "en": "process",
+      "pos": "noun",
+      "article": "der",
+      "fa": "فرایند",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Prozess.ogg"
+    },
+    {
+      "id": "v49",
+      "de": "Reifen",
+      "en": "Tires",
+      "pos": "noun",
+      "article": "der",
+      "fa": "چرخ ماشین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-Reifen.ogg"
+    },
+    {
+      "id": "v50",
+      "de": "Rettungsdienst",
+      "en": "Emergency service",
+      "pos": "noun",
+      "article": "der",
+      "fa": "خدمات امداد و نجات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Rettungsdienst.ogg"
+    },
+    {
+      "id": "v51",
+      "de": "Rettungswagen",
+      "en": "Ambulance",
+      "pos": "noun",
+      "article": "der",
+      "fa": "آمبولانس امداد و نجات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Rettungswagen.ogg",
+      "exampleDe": "Tja, ich habe gleich den Rettungswagen gerufen.",
+      "exampleEn": "Well, I immediately called the ambulance.",
+      "exampleFa": "خوب، بلافاصله با آمبولانس تماس گرفتم."
+    },
+    {
+      "id": "v52",
+      "de": "Rippe",
+      "en": "rib",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-Rippe.ogg"
+    },
+    {
+      "id": "v53",
+      "de": "Sachschaden",
+      "en": "Property damage",
+      "pos": "noun",
+      "article": "der",
+      "fa": "خسارت مالی ، ضرر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Sachschaden.ogg"
+    },
+    {
+      "id": "v54",
+      "de": "Schaden",
+      "en": "Damage",
+      "pos": "noun",
+      "article": "der",
+      "fa": "ضرر و زیان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-schaden.ogg",
+      "exampleDe": "Schade, dass wir so wenig Zeit haben.",
+      "exampleEn": "It's a shame we have so little time.",
+      "exampleFa": "حیف که وقتمون کمه"
+    },
+    {
+      "id": "v55",
+      "de": "Schaufenster",
+      "en": "Shop window",
+      "pos": "noun",
+      "article": "das",
+      "fa": "ویترین مغازه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-Schaufenster.ogg"
+    },
+    {
+      "id": "v56",
+      "de": "Scheibe",
+      "en": "disc",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دیسک ، صفحه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Scheibe.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "Schilderung",
+      "en": "description",
+      "pos": "noun",
+      "article": "die",
+      "fa": "تعریف، شرح روایت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-Schilderung.ogg",
+      "exampleDe": "Ich stimme Herrn Jüngers Schilderung zu.",
+      "exampleEn": "I agree with Mr. Jünger's description.",
+      "exampleFa": "من با توضیحات آقای یونگر موافقم."
+    },
+    {
+      "id": "v58",
+      "de": "Schleudertrauma",
+      "en": "Whiplash",
+      "pos": "noun",
+      "article": "das",
+      "fa": "آسیب به گردن در اثر ترمز ناگهانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Schleudertrauma.ogg",
+      "exampleDe": "Ich hab’ ein Schleudertrauma, aber nicht schlimm!",
+      "exampleEn": "I have whiplash, but not bad!",
+      "exampleFa": "من شلاق دارم، اما بد نیست!"
+    },
+    {
+      "id": "v59",
+      "de": "Schlüsselbeinbruch",
+      "en": "Broken collarbone",
+      "pos": "noun",
+      "article": "der",
+      "fa": "ترقوه شکسته؟",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Schl%C3%BCsselbeinbruch.ogg"
+    },
+    {
+      "id": "v60",
+      "de": "Schuldige",
+      "en": "culprit",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مقصر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De-Schuldige.ogg"
+    },
+    {
+      "id": "v61",
+      "de": "Spezialverband",
+      "en": "Special association",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نوار ویژه"
+    },
+    {
+      "id": "v62",
+      "de": "Spritze",
+      "en": "Injection",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سرنگ، آمپول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Spritze.ogg"
+    },
+    {
+      "id": "v63",
+      "de": "Stoßstange",
+      "en": "bumper",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سپر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Sto%C3%9Fstange.ogg"
+    },
+    {
+      "id": "v64",
+      "de": "Strafe",
+      "en": "Penalty",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کیفر، مجازات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Strafe.ogg"
+    },
+    {
+      "id": "v65",
+      "de": "Streit",
+      "en": "Fight",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مشاجره، نزاع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Streit.ogg",
+      "exampleDe": "Vergessen wir den Streit!",
+      "exampleEn": "Let's forget the argument!",
+      "exampleFa": "بحث را فراموش کنیم!"
+    },
+    {
+      "id": "v66",
+      "de": "Sturz",
+      "en": "Fall",
+      "pos": "noun",
+      "article": "der",
+      "fa": "سقوط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-Sturz.ogg"
+    },
+    {
+      "id": "v67",
+      "de": "Taxi",
+      "en": "taxi",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Taxi.ogg",
+      "exampleDe": "Soll ich dir ein Taxi rufen?",
+      "exampleEn": "Should I call you a taxi?",
+      "exampleFa": "بهت زنگ بزنم تاکسی؟"
+    },
+    {
+      "id": "v68",
+      "de": "Titel",
+      "en": "title",
+      "pos": "noun",
+      "article": "der",
+      "fa": "عنون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Titel.ogg",
+      "exampleDe": "Paul Klee hat für dieses Bild den Titel …",
+      "exampleEn": "Paul Klee titled this picture...",
+      "exampleFa": "پل کلی این عکس را ..."
+    },
+    {
+      "id": "v69",
+      "de": "Totalschaden",
+      "en": "Total loss",
+      "pos": "noun",
+      "article": "der",
+      "fa": "ضرر کلی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Totalschaden.ogg"
+    },
+    {
+      "id": "v70",
+      "de": "Tote",
+      "en": "dead",
+      "pos": "noun",
+      "article": "der",
+      "fa": "جنازه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Tote.ogg"
+    },
+    {
+      "id": "v71",
+      "de": "Unfall",
+      "en": "Accident",
+      "pos": "noun",
+      "article": "der",
+      "fa": "سانحه، تصادف",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-Unfall.ogg",
+      "exampleDe": "Er ist schuld an dem Unfall!",
+      "exampleEn": "He is to blame for the accident!",
+      "exampleFa": "او مقصر تصادف است!"
+    },
+    {
+      "id": "v72",
+      "de": "Unfallhergang",
+      "en": "Course of the accident",
+      "pos": "noun",
+      "article": "der",
+      "fa": "حادثه اتفاق افتاده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/De-Unfallhergang.ogg"
+    },
+    {
+      "id": "v73",
+      "de": "Unfallstelle",
+      "en": "Accident site",
+      "pos": "noun",
+      "article": "die",
+      "fa": "محل تصادف",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/De-Unfallstelle.ogg"
+    },
+    {
+      "id": "v74",
+      "de": "Unsinn",
+      "en": "nonsense",
+      "pos": "noun",
+      "article": "der",
+      "fa": "چرت، مزخرف",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-Unsinn.ogg",
+      "exampleDe": "Das ist doch Unsinn!",
+      "exampleEn": "That's nonsense!",
+      "exampleFa": "این مزخرف است!"
+    },
+    {
+      "id": "v75",
+      "de": "Verband",
+      "en": "Association",
+      "pos": "noun",
+      "article": "der",
+      "fa": "باند زخم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-Verband.ogg"
+    },
+    {
+      "id": "v76",
+      "de": "Verletzte",
+      "en": "Injured",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مصدوم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/De-Verletzte.ogg"
+    },
+    {
+      "id": "v77",
+      "de": "verletzung",
+      "en": "injury",
+      "pos": "noun",
+      "article": "die",
+      "fa": "آسیب، جراحت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Verletzung.ogg"
+    },
+    {
+      "id": "v78",
+      "de": "Verrückte",
+      "en": "Crazy people",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دیوانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-Verr%C3%BCckte.ogg"
+    },
+    {
+      "id": "v79",
+      "de": "Versicherung",
+      "en": "Insurance",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بیمه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/De-Versicherung.ogg",
+      "exampleDe": "Und bei der Bank hat man mir gesagt, wenn ich keine Anzeige erstatte, bezahlt die Versicherung nicht.",
+      "exampleEn": "And I was told at the bank that if I don't report it, the insurance won't pay.",
+      "exampleFa": "و در بانک به من گفتند که اگر گزارش ندهم بیمه پرداخت نمی کند."
+    },
+    {
+      "id": "v80",
+      "de": "Vollbremsung",
+      "en": "Emergency braking",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ترمز کامل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-Vollbremsung.ogg",
+      "exampleDe": "Ich wollte ausweichen und hab’ gleichzeitig eine Vollbremsung gemacht, aber es hat nichts genützt.",
+      "exampleEn": "I wanted to swerve and at the same time slammed on the brakes, but it was no use.",
+      "exampleFa": "می خواستم منحرف شوم و در عین حال به ترمز زدم، اما فایده ای نداشت."
+    },
+    {
+      "id": "v81",
+      "de": "Zeuge",
+      "en": "Witness",
+      "pos": "noun",
+      "article": "der",
+      "fa": "شاهد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-Zeuge.ogg"
+    },
+    {
+      "id": "v82",
+      "de": "Zeugin",
+      "en": "witness",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شاهد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/De-Zeugin.ogg",
+      "exampleDe": "Hm, Frau Schneider, Sie waren Zeugin des Unfalls.",
+      "exampleEn": "Hmm, Ms. Schneider, you witnessed the accident.",
+      "exampleFa": "هوم، خانم اشنایدر، شما شاهد تصادف بودید."
+    },
+    {
+      "id": "v83",
+      "de": "Zusammenstoß",
+      "en": "collision",
+      "pos": "noun",
+      "article": "der",
+      "fa": "برخورد مشاجره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Zusammensto%C3%9F.ogg"
+    },
+    {
+      "id": "v84",
+      "de": "Zustand",
+      "en": "Condition",
+      "pos": "noun",
+      "article": "der",
+      "fa": "موقعیت، وضعیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-Zustand.ogg"
+    },
+    {
+      "id": "v85",
+      "de": "abbiegen",
+      "en": "to turn (off)",
+      "pos": "verb",
+      "fa": "چرخیدن، خاموش کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-abbiegen.ogg",
+      "exampleDe": "Aber die Ampel hat ja einen grünen Pfeil, deshalb kann man ja auch bei Gelb abbiegen.",
+      "exampleEn": "But the traffic light has a green arrow, so you can turn when it's yellow.",
+      "exampleFa": "اما چراغ راهنمایی یک فلش سبز دارد، بنابراین وقتی زرد است می توانید بچرخید."
+    },
+    {
+      "id": "v86",
+      "de": "ausweichen",
+      "en": "evade",
+      "pos": "verb",
+      "fa": "راه دادن، کنار رفتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-ausweichen.ogg",
+      "exampleDe": "Ich wollte ausweichen und hab’ gleichzeitig eine Vollbremsung gemacht, aber es hat nichts genützt.",
+      "exampleEn": "I wanted to swerve and at the same time slammed on the brakes, but it was no use.",
+      "exampleFa": "می خواستم منحرف شوم و در عین حال به ترمز زدم، اما فایده ای نداشت."
+    },
+    {
+      "id": "v87",
+      "de": "befahren",
+      "en": "drive on",
+      "pos": "verb",
+      "fa": "با وسیله نقلیه دارندن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-befahren.ogg"
+    },
+    {
+      "id": "v88",
+      "de": "befragen",
+      "en": "question",
+      "pos": "verb",
+      "fa": "جویا شدن، پرسیدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-befragen.ogg"
+    },
+    {
+      "id": "v89",
+      "de": "beobachten",
+      "en": "observe",
+      "pos": "verb",
+      "fa": "تحت نظر داشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-beobachten.ogg"
+    },
+    {
+      "id": "v90",
+      "de": "betrachten",
+      "en": "regard",
+      "pos": "verb",
+      "fa": "ملاحظه و بررسی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-betrachten.ogg",
+      "exampleDe": "Im Zug kann ich lesen und in Ruhe die Landschaft betrachten.",
+      "exampleEn": "On the train I can read and look at the landscape in peace.",
+      "exampleFa": "در قطار می توانم بخوانم و با آرامش به منظره نگاه کنم."
+    },
+    {
+      "id": "v91",
+      "de": "blinken",
+      "en": "flash",
+      "pos": "verb",
+      "fa": "چشمک زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-blinken.ogg",
+      "exampleDe": "Das Herz blinkt: an – aus – an – aus – an – aus …",
+      "exampleEn": "The heart flashes: on – off – on – off – on – off…",
+      "exampleFa": "قلب چشمک می زند: روشن – خاموش – روشن – خاموش – روشن – خاموش…"
+    },
+    {
+      "id": "v92",
+      "de": "bremsen",
+      "en": "brake",
+      "pos": "verb",
+      "fa": "ترمز کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-bremsen.ogg",
+      "exampleDe": "Durch das starke Bremsen bin ich auf die linke Fahrbahn geraten.",
+      "exampleEn": "Because of the hard braking I ended up in the left lane.",
+      "exampleFa": "به دلیل ترمز شدید من در لاین چپ قرار گرفتم."
+    },
+    {
+      "id": "v93",
+      "de": "diskutieren",
+      "en": "discuss",
+      "pos": "verb",
+      "fa": "مشاجره کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/De-diskutieren.ogg"
+    },
+    {
+      "id": "v94",
+      "de": "eindrücken",
+      "en": "press in",
+      "pos": "verb",
+      "fa": "فشار دادن، خرد کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-eindr%C3%BCcken.ogg"
+    },
+    {
+      "id": "v95",
+      "de": "entgegenkommen",
+      "en": "accommodate",
+      "pos": "verb",
+      "fa": "به سوی کسی آمدن، کوتاه آمدن لطف کردن، راضی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-entgegenkommen.ogg"
+    },
+    {
+      "id": "v96",
+      "de": "feststellen",
+      "en": "notice",
+      "pos": "verb",
+      "fa": "آشکار شدن، متوجه شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-feststellen.ogg"
+    },
+    {
+      "id": "v97",
+      "de": "gefallen",
+      "en": "to please / like (es gefällt mir)",
+      "pos": "verb",
+      "fa": "به کسی خوشایند بودن er gefällt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-gefallen.ogg",
+      "exampleDe": "Das wird dir sicher gefallen.",
+      "exampleEn": "You will definitely like this.",
+      "exampleFa": "شما قطعا این را دوست خواهید داشت."
+    },
+    {
+      "id": "v98",
+      "de": "handeln",
+      "en": "act",
+      "pos": "verb",
+      "fa": "تعامل کردن، اجرا کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-handeln.ogg"
+    },
+    {
+      "id": "v99",
+      "de": "interviewen",
+      "en": "interview",
+      "pos": "verb",
+      "fa": "مصاحبه کردن er interviewt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-interviewen.ogg",
+      "exampleDe": "Haben Sie vielen Dank für das Interview.",
+      "exampleEn": "Thank you very much for the interview.",
+      "exampleFa": "خیلی ممنون از مصاحبه"
+    },
+    {
+      "id": "v100",
+      "de": "kritisieren",
+      "en": "criticize",
+      "pos": "verb",
+      "fa": "سرزنش شدن، مورد نانتقاد قرار گرفتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-kritisieren.ogg"
+    },
+    {
+      "id": "v101",
+      "de": "liegen",
+      "en": "to lie (be lying)",
+      "pos": "verb",
+      "fa": "واقع بودن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-liegen.ogg",
+      "exampleDe": "Es liegt sehr zentral.",
+      "exampleEn": "It is very centrally located.",
+      "exampleFa": "بسیار در مرکز قرار دارد."
+    },
+    {
+      "id": "v102",
+      "de": "nähen",
+      "en": "sew",
+      "pos": "verb",
+      "fa": "دوختن، دوزندگی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-n%C3%A4hen.ogg",
+      "exampleDe": "Gibt es nicht auch Berge in der Nähe von Wien?",
+      "exampleEn": "Aren't there also mountains near Vienna?",
+      "exampleFa": "آیا کوه هایی در نزدیکی وین هم وجود ندارد؟"
+    },
+    {
+      "id": "v103",
+      "de": "nützen",
+      "en": "benefit",
+      "pos": "verb",
+      "fa": "استفاده کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/De-n%C3%BCtzen.ogg"
+    },
+    {
+      "id": "v104",
+      "de": "operieren",
+      "en": "operate",
+      "pos": "verb",
+      "fa": "عمل جراحی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/De-operieren.ogg"
+    },
+    {
+      "id": "v105",
+      "de": "schildern",
+      "en": "describe",
+      "pos": "verb",
+      "fa": "تشریح کردن، توصیف کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-schildern.ogg",
+      "exampleDe": "Herr Jünger, können Sie bitte den Unfall kurz schildern?",
+      "exampleEn": "Mr. Jünger, can you please briefly describe the accident?",
+      "exampleFa": "آقای یونگر، لطفاً به طور مختصر در مورد حادثه توضیح دهید؟"
+    },
+    {
+      "id": "v106",
+      "de": "schockieren",
+      "en": "shock",
+      "pos": "verb",
+      "fa": "شوکه شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-schockieren.ogg",
+      "exampleDe": "Ich bin noch ganz schockiert.",
+      "exampleEn": "I'm still in shock.",
+      "exampleFa": "من هنوز در شوک هستم."
+    },
+    {
+      "id": "v107",
+      "de": "staunen",
+      "en": "marvel",
+      "pos": "verb",
+      "fa": "تعجب کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-staunen.ogg"
+    },
+    {
+      "id": "v108",
+      "de": "vernehmen",
+      "en": "hear",
+      "pos": "verb",
+      "fa": "بازجویی و بازپرسی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/De-vernehmen.ogg"
+    },
+    {
+      "id": "v109",
+      "de": "versichern",
+      "en": "assure",
+      "pos": "verb",
+      "fa": "اطمینان دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-versichern.ogg",
+      "exampleDe": "Und wo sind Sie versichert?",
+      "exampleEn": "And where are you insured?",
+      "exampleFa": "و شما کجا بیمه هستید؟"
+    },
+    {
+      "id": "v110",
+      "de": "verursachen",
+      "en": "cause",
+      "pos": "verb",
+      "fa": "باعث شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-verursachen.ogg"
+    },
+    {
+      "id": "v111",
+      "de": "zerbrechen",
+      "en": "break",
+      "pos": "verb",
+      "fa": "شکستن، خرد شدن (روحی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-zerbrechen.ogg"
+    },
+    {
+      "id": "v112",
+      "de": "überholen",
+      "en": "overtake",
+      "pos": "verb",
+      "fa": "سبقت گرفتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-%C3%BCberholen.ogg"
+    },
+    {
+      "id": "v113",
+      "de": "überraschen",
+      "en": "surprise",
+      "pos": "verb",
+      "fa": "غافلگیر کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-%C3%BCberraschen.ogg",
+      "exampleDe": "Das überrascht mich jetzt aber!",
+      "exampleEn": "Now that surprises me!",
+      "exampleFa": "حالا که من را شگفت زده می کند!"
+    },
+    {
+      "id": "v114",
+      "de": "übersehen",
+      "en": "overlook",
+      "pos": "verb",
+      "fa": "نادیده گرفتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-%C3%BCbersehen.ogg"
+    },
+    {
+      "id": "v115",
+      "de": "erreichbar",
+      "en": "reachable",
+      "pos": "other",
+      "fa": "در دسترس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-erreichbar.ogg"
+    },
+    {
+      "id": "v116",
+      "de": "frech",
+      "en": "cheeky",
+      "pos": "other",
+      "fa": "گستاخ، رو دار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-frech.ogg"
+    },
+    {
+      "id": "v117",
+      "de": "gerade",
+      "en": "straight",
+      "pos": "other",
+      "fa": "رو راست، سر راست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/De-gerade.ogg",
+      "exampleDe": "Sie machen gerade noch ein paar Röntgenbilder.",
+      "exampleEn": "They're just taking some x-rays.",
+      "exampleFa": "آنها فقط کمی اشعه ایکس می گیرند."
+    },
+    {
+      "id": "v118",
+      "de": "kontinuierlich",
+      "en": "continuously",
+      "pos": "other",
+      "fa": "مداوم، پیوسته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-kontinuierlich.ogg"
+    },
+    {
+      "id": "v119",
+      "de": "reich",
+      "en": "rich",
+      "pos": "other",
+      "fa": "پولدار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/De-reich.ogg"
+    },
+    {
+      "id": "v120",
+      "de": "schuldig",
+      "en": "guilty",
+      "pos": "other",
+      "fa": "مقصر، مجرم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-schuldig.ogg"
+    },
+    {
+      "id": "v121",
+      "de": "sofort",
+      "en": "immediately",
+      "pos": "other",
+      "fa": "بلافاصله",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/De-sofort.ogg",
+      "exampleDe": "Mein Nachbar ist sofort ins Krankenhaus gebracht worden.",
+      "exampleEn": "My neighbor was immediately taken to the hospital.",
+      "exampleFa": "همسایه ام بلافاصله به بیمارستان منتقل شد."
+    },
+    {
+      "id": "v122",
+      "de": "unverschämt",
+      "en": "outrageous",
+      "pos": "other",
+      "fa": "گستاخانه، دریده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-unversch%C3%A4mt.ogg",
+      "exampleDe": "Sie sind richtig unverschämt!",
+      "exampleEn": "You are really rude!",
+      "exampleFa": "تو واقعا بی ادبی!"
+    },
+    {
+      "id": "v123",
+      "de": "verletzt",
+      "en": "injured",
+      "pos": "other",
+      "fa": "زخمی- مصدوم unverletzt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-verletzt.ogg",
+      "exampleDe": "Klaus ist verletzt und Sie sagen, er ist blöd!",
+      "exampleEn": "Klaus is hurt and you say he's stupid!",
+      "exampleFa": "کلاوس صدمه دیده و شما می گویید او احمق است!"
+    },
+    {
+      "id": "v124",
+      "de": "verrückt",
+      "en": "crazy",
+      "pos": "other",
+      "fa": "عجیب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/De-verr%C3%BCckt.ogg",
+      "exampleDe": "Ja, das ist verrückt.",
+      "exampleEn": "Yes, that's crazy.",
+      "exampleFa": "بله، این دیوانه است."
+    },
+    {
+      "id": "v125",
+      "de": "Wunde",
+      "en": "wound",
+      "pos": "other",
+      "fa": "زخم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-Wunde.ogg"
+    },
+    {
+      "id": "v126",
+      "de": "wütend",
+      "en": "angry",
+      "pos": "other",
+      "fa": "عصبانی، خشمگین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/De-w%C3%BCtend.ogg"
+    },
+    {
+      "id": "v127",
+      "de": "zum Glück",
+      "en": "Fortunately",
+      "pos": "phrase",
+      "fa": "موفق ، خوشبختانه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-zum.ogg"
+    },
+    {
+      "id": "v128",
+      "de": "ärztlich",
+      "en": "medical",
+      "pos": "other",
+      "fa": "پزشکی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-%C3%A4rztlich.ogg"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Passiv Perfekt",
+      "titleEn": "Passive perfect",
+      "explanationEn": "Form: ist/sind/war/waren + Partizip II + worden. Focus is on the result or completed action without naming the agent: Der Fahrer ist verletzt worden. Optional von/durch for the agent.",
+      "patterns": [
+        "ist … worden",
+        "sind … worden",
+        "wurde → ist … worden"
+      ],
+      "examples": [
+        {
+          "de": "Der Fußgänger ist angefahren worden.",
+          "en": "The pedestrian was hit (has been hit).",
+          "fa": "عابر پیاده مورد برخورد قرار گرفته است."
+        },
+        {
+          "de": "Die Ampel ist nicht beachtet worden.",
+          "en": "The traffic light was not observed.",
+          "fa": "چراغ راهنمایی رعایت نشده است."
+        }
+      ],
+      "titleFa": "مجهول در زمان کامل (Perfekt)",
+      "explanationFa": "ساختار: ist/sind + اسم مفعول + worden. تمرکز روی نتیجه عمل است."
+    },
+    {
+      "id": "g2",
+      "titleDe": "Passiv mit Modalverben; sein-Passiv; Partizip Perfekt als Adjektiv",
+      "titleEn": "Passive with modals; sein-passive; past participle as adjective",
+      "explanationEn": "Modal + Passiv: muss operiert werden / musste operiert werden. Sein-Passiv (Zustand): Die Straße ist gesperrt (result state). Partizip Perfekt as adjective: der verletzte Fahrer, die beschädigte Stoßstange.",
+      "patterns": [
+        "muss … werden",
+        "ist gesperrt (Zustand)",
+        "der verletzte …"
+      ],
+      "examples": [
+        {
+          "de": "Er muss nicht operiert werden.",
+          "en": "He does not have to be operated on.",
+          "fa": "او لازم نیست عمل شود."
+        },
+        {
+          "de": "Die Kreuzung ist gesperrt.",
+          "en": "The intersection is closed (blocked).",
+          "fa": "تقاطع بسته است."
+        },
+        {
+          "de": "Die beschädigte Stoßstange muss repariert werden.",
+          "en": "The damaged bumper must be repaired.",
+          "fa": "سپر آسیب‌دیده باید تعمیر شود."
+        }
+      ],
+      "titleFa": "مجهول با افعال وجهی؛ sein-Passiv؛ اسم مفعول به‌عنوان صفت"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "Passiv Perfekt",
+      "promptEn": "Passive perfect",
+      "content": "Der Zeuge ___ gehört ___.",
+      "answer": "ist … worden",
+      "grammarId": "g1",
+      "options": [
+        "ist … worden",
+        "wurde … werden",
+        "hat … worden"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "worden",
+      "promptEn": "worden",
+      "content": "Das Auto ist stark beschädigt ___.",
+      "answer": "worden",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Modal + Passiv",
+      "promptEn": "Modal + passive",
+      "content": "Der Patient ___ operiert werden.",
+      "answer": "muss",
+      "grammarId": "g2",
+      "options": [
+        "muss",
+        "ist",
+        "hat"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "sein-Passiv",
+      "promptEn": "sein-passive",
+      "content": "Die Straße ___ wegen des Unfalls gesperrt. (Zustand)",
+      "answer": "ist",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Satzordnung",
+      "promptEn": "Word order",
+      "content": "Der | Fahrer | ist | verletzt | worden | .",
+      "answer": "Der Fahrer ist verletzt worden.",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Partizip als Adj.",
+      "promptEn": "Participle as adj.",
+      "content": "Die ___ Ampel war rot.",
+      "answer": "beschädigte",
+      "grammarId": "g2",
+      "options": [
+        "beschädigte",
+        "beschädigt",
+        "beschädigen"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Das Opfer ___ ins Krankenhaus gebracht ___.",
+      "answer": "ist … worden",
+      "options": [
+        "ist … worden",
+        "wurde … werden",
+        "hat … worden"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Die Polizei ist gerufen ___.",
+      "answer": "worden",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "Er ___ nicht operiert werden.",
+      "answer": "muss",
+      "options": [
+        "muss",
+        "ist",
+        "wird"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Die Fahrbahn ___ blockiert. (Zustandspassiv)",
+      "answer": "ist",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Welches Partizip passt attributiv? der ___ Fußgänger",
+      "answer": "verletzte",
+      "options": [
+        "verletzte",
+        "verletzt",
+        "verletzen"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: Der Unfall ___ von mehreren Zeugen gesehen worden.",
+      "answer": "ist",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„die Spritze“ means…",
+      "answer": "Injection",
+      "options": [
+        "Injection",
+        "Whiplash",
+        "Emergency doctor"
+      ],
+      "vocabId": "v62"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“Whiplash”:",
+      "answer": "das Schleudertrauma",
+      "options": [
+        "die Spritze",
+        "der Notarzt",
+        "das Schleudertrauma"
+      ],
+      "vocabId": "v58"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„der Notarzt“ means…",
+      "answer": "Emergency doctor",
+      "options": [
+        "Whiplash",
+        "Injection",
+        "Emergency doctor"
+      ],
+      "vocabId": "v40"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“trunk”:",
+      "answer": "der Kofferraum",
+      "options": [
+        "der Kofferraum",
+        "das Schleudertrauma",
+        "die Spritze"
+      ],
+      "vocabId": "v31"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t01",

@@ -4,33 +4,984 @@
   "number": 30,
   "titleDe": "Hauptperson Deutsch",
   "titleEn": "German takes center stage",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Hauptperson Deutsch“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “German takes center stage” in the course book",
-      "fa": "اهداف یادگیری «شخصیت اصلی: آلمانی» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Sich austauschen, in welchen Ländern und Regionen Deutsch gesprochen wird",
+      "en": "Discuss in which countries and regions German is spoken",
+      "fa": "گفتگو درباره کشورهای و مناطقی که آلمانی در آن‌ها صحبت می‌شود"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Anhand von Fachartikeln einen Vortrag über die deutsche Sprache halten",
+      "en": "Give a talk on the German language based on specialist articles",
+      "fa": "ارائه سخنرانی درباره زبان آلمانی بر اساس مقالات تخصصی"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Artikel über Varietäten der deutschen Sprache verstehen; Varietäten (D, A, CH, Dialekte) unterscheiden",
+      "en": "Understand articles on German varieties; distinguish D/A/CH and dialects",
+      "fa": "فهم مقالات درباره گونه‌های آلمانی؛ تمایز آلمان/اتریش/سوئیس و گویش‌ها"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "Sich über Tipps beim Fremdsprachenlernen austauschen",
+      "en": "Exchange tips for learning foreign languages",
+      "fa": "گفتگو درباره نکات یادگیری زبان خارجی"
+    },
+    {
+      "de": "Geschichte über Erfahrungen und Ziele beim Lernen verfassen; kleine Texte und Gedichte selbst schreiben",
+      "en": "Write about learning experiences and goals; create short texts and poems",
+      "fa": "نوشتن درباره تجربه‌ها و اهداف یادگیری؛ نوشتن متون و شعر کوتاه"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Alm",
+      "en": "Alm",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مرتع کوهستانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-Alm.ogg"
+    },
+    {
+      "id": "v2",
+      "de": "Amtssprache",
+      "en": "Official language",
+      "pos": "noun",
+      "article": "die",
+      "fa": "زبان رسمی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Amtssprache.ogg"
+    },
+    {
+      "id": "v3",
+      "de": "Bezeichnung",
+      "en": "Designation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "عنوان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Bezeichnung.ogg"
+    },
+    {
+      "id": "v4",
+      "de": "Kiosk",
+      "en": "kiosk",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دکه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Kiosk.ogg"
+    },
+    {
+      "id": "v5",
+      "de": "Kommunikation",
+      "en": "communication",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ارتباطات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Kommunikation.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Reihe",
+      "en": "Row",
+      "pos": "noun",
+      "article": "die",
+      "fa": "صف، ردیف",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Reihe.ogg"
+    },
+    {
+      "id": "v7",
+      "de": "Spital",
+      "en": "hospital",
+      "pos": "noun",
+      "article": "das",
+      "fa": "بیمارستان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Spital.ogg",
+      "exampleDe": "Ich bin die Treppe hinunter gefallen und wurde gleich ins Spital gebracht.",
+      "exampleEn": "I fell down the stairs and was immediately taken to the hospital.",
+      "exampleFa": "از پله ها افتادم و بلافاصله به بیمارستان منتقل شدم."
+    },
+    {
+      "id": "v8",
+      "de": "Standard",
+      "en": "standard",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Standard.ogg"
+    },
+    {
+      "id": "v9",
+      "de": "Standardsprache",
+      "en": "Default language",
+      "pos": "noun",
+      "article": "die",
+      "fa": "زبان استاندارد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-Standardsprache.ogg"
+    },
+    {
+      "id": "v10",
+      "de": "Trockner",
+      "en": "dryer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "خشک کن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/De-Trockner.ogg"
+    },
+    {
+      "id": "v11",
+      "de": "Umgangssprache",
+      "en": "Colloquial language",
+      "pos": "noun",
+      "article": "die",
+      "fa": "زبان محاوره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Umgangssprache.ogg"
+    },
+    {
+      "id": "v12",
+      "de": "Zeile",
+      "en": "Line",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ردیف، خط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/De-Zeile.ogg"
+    },
+    {
+      "id": "v13",
+      "de": "auf dem Land",
+      "en": "in the country",
+      "pos": "phrase",
+      "fa": "در خارج از شهر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-Aufarbeitung.ogg"
+    },
+    {
+      "id": "v14",
+      "de": "außerhalb",
+      "en": "outside",
+      "pos": "other",
+      "fa": "بیرون از",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-au%C3%9Ferhalb.ogg",
+      "exampleDe": "Ja, aber es ist schon etwas außerhalb.",
+      "exampleEn": "Yes, but it's a bit outside.",
+      "exampleFa": "بله، اما کمی بیرون است."
+    },
+    {
+      "id": "v15",
+      "de": "regional",
+      "en": "regional",
+      "pos": "other",
+      "fa": "منطقه ای",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-regional.ogg"
+    },
+    {
+      "id": "v16",
+      "de": "sinnvoll",
+      "en": "sensible",
+      "pos": "other",
+      "fa": "معنی دار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-sinnvoll.ogg",
+      "exampleDe": "Aber das wäre ja auch gar nicht sinnvoll.",
+      "exampleEn": "But that wouldn't make sense at all.",
+      "exampleFa": "اما این به هیچ وجه منطقی نخواهد بود."
+    },
+    {
+      "id": "v17",
+      "de": "Dialekt",
+      "en": "dialect",
+      "pos": "noun",
+      "article": "der",
+      "fa": "eو گویش، لهجه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Dialekt.ogg"
+    },
+    {
+      "id": "v18",
+      "de": "Wort",
+      "en": "Wort",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Wort.ogg",
+      "exampleDe": "„mediondirekt“ ein Wort.",
+      "exampleEn": "“Mediondirekt” one word.",
+      "exampleFa": "\"Mediondirekt\" یک کلمه."
+    },
+    {
+      "id": "v19",
+      "de": "Text",
+      "en": "Text",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-Text.ogg",
+      "exampleDe": "Und man hat da eine tolle Mischung aus Text, Tanz und Musik.",
+      "exampleEn": "And you have a great mix of text, dance and music.",
+      "exampleFa": "و شما ترکیبی عالی از متن، رقص و موسیقی دارید."
+    },
+    {
+      "id": "v20",
+      "de": "Satz",
+      "en": "Satz",
+      "pos": "noun",
+      "article": "der"
+    },
+    {
+      "id": "v21",
+      "de": "denn",
+      "en": "denn",
+      "pos": "other",
+      "fa": "چونکه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-denn.ogg",
+      "exampleDe": "Warum denn net?",
+      "exampleEn": "Why not?",
+      "exampleFa": "چرا نه؟"
+    },
+    {
+      "id": "v22",
+      "de": "da",
+      "en": "da",
+      "pos": "other",
+      "fa": "آنجا، آنوقت، چون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-da.ogg",
+      "exampleDe": "Ist Leon da?",
+      "exampleEn": "Is Leon there?",
+      "exampleFa": "لئون اونجا هست؟"
+    },
+    {
+      "id": "v23",
+      "de": "Teil",
+      "en": "Teil",
+      "pos": "noun",
+      "article": "der",
+      "fa": "قسمت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Teil.ogg",
+      "exampleDe": "Sie ist ein Teil vom Mietvertrag.",
+      "exampleEn": "It is part of the rental agreement.",
+      "exampleFa": "بخشی از قرارداد اجاره است."
+    },
+    {
+      "id": "v24",
+      "de": "anderen",
+      "en": "anderen",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دیگران",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-anderen.ogg",
+      "exampleDe": "Eins nach dem anderen.",
+      "exampleEn": "One after another.",
+      "exampleFa": "یکی پس از دیگری."
+    },
+    {
+      "id": "v25",
+      "de": "Seite",
+      "en": "Seite",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-Seite.ogg",
+      "exampleDe": "So, das war’s jetzt von meiner Seite und wenn ihr jetzt Fragen habt, gerne.",
+      "exampleEn": "Well, that's it from my side and if you have any questions, feel free to do so.",
+      "exampleFa": "خوب، این از طرف من است و اگر سؤالی دارید، در صورت تمایل آن را انجام دهید."
+    },
+    {
+      "id": "v26",
+      "de": "Land",
+      "en": "Land",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-Land.ogg",
+      "exampleDe": "Du kommst ja vom Land.",
+      "exampleEn": "You come from the country.",
+      "exampleFa": "شما از کشور آمده اید."
+    },
+    {
+      "id": "v27",
+      "de": "häufig",
+      "en": "häufig",
+      "pos": "other",
+      "fa": "به دفعات",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-h%C3%A4ufig.ogg"
+    },
+    {
+      "id": "v28",
+      "de": "benutzen",
+      "en": "benutzen",
+      "pos": "verb",
+      "fa": "استفاده کردن er benutzt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-benutzen.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Bedeutung",
+      "en": "Bedeutung",
+      "pos": "noun",
+      "article": "die",
+      "fa": "معنی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Bedeutung.ogg"
+    },
+    {
+      "id": "v30",
+      "de": "Tisch",
+      "en": "Tisch",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-Tisch.ogg",
+      "exampleDe": "Nun gut, dann nehme ich den Tisch im Garten.",
+      "exampleEn": "Well, then I'll take the table in the garden.",
+      "exampleFa": "خب، پس من میز باغ را می گیرم."
+    },
+    {
+      "id": "v31",
+      "de": "studieren",
+      "en": "studieren",
+      "pos": "verb",
+      "fa": "تحصیل کردن er studiert",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-studieren.ogg",
+      "exampleDe": "Dort studieren zurzeit ca.",
+      "exampleEn": "Approximately",
+      "exampleFa": "تقریبا"
+    },
+    {
+      "id": "v32",
+      "de": "sammeln",
+      "en": "sammeln",
+      "pos": "verb",
+      "fa": "جمع آوری کردن er sammelt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-sammeln.ogg",
+      "exampleDe": "Also, man ist in der Schule und sammelt schon Berufserfahrung.",
+      "exampleEn": "So, you're in school and already gaining professional experience.",
+      "exampleFa": "بنابراین، شما در مدرسه هستید و در حال حاضر تجربه حرفه ای کسب کرده اید."
+    },
+    {
+      "id": "v33",
+      "de": "Januar",
+      "en": "january",
+      "pos": "noun",
+      "article": "der",
+      "fa": "ژانویه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-Januar.ogg"
+    },
+    {
+      "id": "v34",
+      "de": "helfen",
+      "en": "helfen",
+      "pos": "verb",
+      "fa": "کمک کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-helfen.ogg",
+      "exampleDe": "Soll ich helfen?",
+      "exampleEn": "Should I help?",
+      "exampleFa": "آیا باید کمک کنم؟"
+    },
+    {
+      "id": "v35",
+      "de": "Grund",
+      "en": "Grund",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دلیل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-Grund.ogg",
+      "exampleDe": "Ist Nele der Grund?",
+      "exampleEn": "Is Nele the reason?",
+      "exampleFa": "آیا نله دلیلش است؟"
+    },
+    {
+      "id": "v36",
+      "de": "Familie",
+      "en": "Familie",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Familie.ogg",
+      "exampleDe": "Ist das alles deine Familie?",
+      "exampleEn": "Is this all your family?",
+      "exampleFa": "این همه خانواده شماست؟"
+    },
+    {
+      "id": "v37",
+      "de": "dazu",
+      "en": "dazu",
+      "pos": "other",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-dazu.ogg",
+      "exampleDe": "So, haben Sie Fragen dazu?",
+      "exampleEn": "So, do you have any questions about that?",
+      "exampleFa": "بنابراین، آیا در مورد آن سؤالی دارید؟"
+    },
+    {
+      "id": "v38",
+      "de": "Bereich",
+      "en": "area",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شاخه، گروه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-Bereich.ogg",
+      "exampleDe": "Ich möchte was im sozialen Bereich machen, also eine Ausbildung, aber ich weiß nicht genau was.",
+      "exampleEn": "I want to do something in the social sector, i.e. an apprenticeship, but I don't know exactly what.",
+      "exampleFa": "من می خواهم در بخش اجتماعی کاری انجام دهم، یعنی کارآموزی، اما دقیقاً نمی دانم چه کاری."
+    },
+    {
+      "id": "v39",
+      "de": "öffnen",
+      "en": "to open",
+      "pos": "verb",
+      "fa": "باز کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-%C3%B6ffnen.ogg",
+      "exampleDe": "Öffne schon mal die Maschine.",
+      "exampleEn": "Open the machine now.",
+      "exampleFa": "اکنون دستگاه را باز کنید."
+    },
+    {
+      "id": "v40",
+      "de": "Zettel",
+      "en": "Zettel",
+      "pos": "noun",
+      "article": "der",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Zettel.ogg"
+    },
+    {
+      "id": "v41",
+      "de": "teilweise",
+      "en": "partially",
+      "pos": "other",
+      "fa": "تا حدی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-teilweise.ogg",
+      "exampleDe": "Ein duales Studium wird von speziellen dualen Hochschulen, Berufsakademien, Fachhochschulen oder teilweise auch von Universitäten angeboten.",
+      "exampleEn": "A dual course of study is offered by special dual universities, vocational academies, technical colleges or, in some cases, universities.",
+      "exampleFa": "دوره تحصیلی دوگانه توسط دانشگاه های دوگانه ویژه، آکادمی های حرفه ای، کالج های فنی یا در برخی موارد، دانشگاه ها ارائه می شود."
+    },
+    {
+      "id": "v42",
+      "de": "stellen",
+      "en": "stellen",
+      "pos": "verb",
+      "fa": "قرار دادن به صورت ایستاده er stellt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-stellen.ogg",
+      "exampleDe": "Darf ich ein paar Fragen stellen?",
+      "exampleEn": "May I ask a few questions?",
+      "exampleFa": "ممکن است چند سوال بپرسم؟"
+    },
+    {
+      "id": "v43",
+      "de": "Schule",
+      "en": "Schule",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Schule.ogg",
+      "exampleDe": "Ich denke, du hast genug von der Schule?",
+      "exampleEn": "I think you've had enough of school?",
+      "exampleFa": "فکر می کنم از مدرسه به اندازه کافی خسته شده اید؟"
+    },
+    {
+      "id": "v44",
+      "de": "Schlüssel",
+      "en": "key",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کلید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Schl%C3%BCssel.ogg",
+      "exampleDe": "Sind das Ihre Schlüssel, Fr.",
+      "exampleEn": "Are these your keys, Ms.",
+      "exampleFa": "اینها کلیدهای شما هستند خانم؟"
+    },
+    {
+      "id": "v45",
+      "de": "Reihenfolge",
+      "en": "Reihenfolge",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ترتیب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Reihenfolge.ogg"
+    },
+    {
+      "id": "v46",
+      "de": "Leute",
+      "en": "Leute",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Leute.ogg",
+      "exampleDe": "Da können Sie auch Leute kennenlernen.",
+      "exampleEn": "You can also meet people there.",
+      "exampleFa": "شما همچنین می توانید در آنجا با مردم ملاقات کنید."
+    },
+    {
+      "id": "v47",
+      "de": "Laut",
+      "en": "loud",
+      "pos": "noun",
+      "article": "der",
+      "fa": "بلند leise",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-Laut.ogg",
+      "exampleDe": "Säht en Köbes zem andern: „Aan dingem Desch litt ene Jass, dä laut am schnorkse es.",
+      "exampleEn": "Saw a Köbes zem other: “Aan dingem Desch suffered a Jass, that loudly it snorks.",
+      "exampleFa": "یک Köbes zem دیگر را دیدم: «Aan dingem Desch دچار یک Jass شد که با صدای بلند غواصی می‌کند."
+    },
+    {
+      "id": "v48",
+      "de": "Karte",
+      "en": "Karte",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بلیط",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-Karte.ogg",
+      "exampleDe": "Haben Sie Ihre EC-Karte?",
+      "exampleEn": "Do you have your debit card?",
+      "exampleFa": "آیا کارت نقدی خود را دارید؟"
+    },
+    {
+      "id": "v49",
+      "de": "Hochdeutsch",
+      "en": "High German",
+      "pos": "noun",
+      "article": "das",
+      "fa": "زبان آلمانی استاندارد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-Hochdeutsch.ogg",
+      "exampleDe": "Hochdeutsch: Wollen wir morgen ins Kino gehen?",
+      "exampleEn": "High German: Do we want to go to the cinema tomorrow?",
+      "exampleFa": "آلمانی بالا: آیا می خواهیم فردا به سینما برویم؟"
+    },
+    {
+      "id": "v50",
+      "de": "Heimat",
+      "en": "Heimat",
+      "pos": "noun",
+      "article": "die",
+      "fa": "وطن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Heimat.ogg",
+      "exampleDe": "Da kann sie ihre neue Heimat besser kennenlernen und da gibt es bestimmt auch Informationen über Erfurt.",
+      "exampleEn": "There she can get to know her new home better and there will definitely be information about Erfurt.",
+      "exampleFa": "در آنجا او می تواند خانه جدید خود را بهتر بشناسد و قطعاً اطلاعاتی در مورد ارفورت وجود خواهد داشت."
+    },
+    {
+      "id": "v51",
+      "de": "Haus",
+      "en": "Haus",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Haus.ogg",
+      "exampleDe": "Hier im Haus ist eine gute Physiotherapie-Praxis.",
+      "exampleEn": "There is a good physiotherapy practice here in the house.",
+      "exampleFa": "یک تمرین فیزیوتراپی خوبی در اینجا در خانه وجود دارد."
+    },
+    {
+      "id": "v52",
+      "de": "Fahrrad",
+      "en": "bicycle",
+      "pos": "noun",
+      "article": "das",
+      "fa": "دوچرخه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Fahrrad.ogg",
+      "exampleDe": "Wir haben sein Fahrrad repariert und sind weitergefahren.",
+      "exampleEn": "We fixed his bike and continued riding.",
+      "exampleFa": "دوچرخه اش را درست کردیم و به سواری ادامه دادیم."
+    },
+    {
+      "id": "v53",
+      "de": "Essen",
+      "en": "Essen",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Essen.ogg",
+      "exampleDe": "Gut, und zum Essen?",
+      "exampleEn": "Okay, what about food?",
+      "exampleFa": "خوب، غذا چطور؟"
+    },
+    {
+      "id": "v54",
+      "de": "beschreiben",
+      "en": "beschreiben",
+      "pos": "verb",
+      "fa": "تشریح کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-beschreiben.ogg",
+      "exampleDe": "Das kann ich dir gar nicht beschreiben.",
+      "exampleEn": "I can't even describe that to you.",
+      "exampleFa": "من حتی نمی توانم آن را برای شما توصیف کنم."
+    },
+    {
+      "id": "v55",
+      "de": "außerdem",
+      "en": "außerdem",
+      "pos": "other",
+      "fa": "علاوه بر این",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-au%C3%9Ferdem.ogg",
+      "exampleDe": "Außerdem muss man das ja nicht wissen, alle verstehen doch „Marmelade“!",
+      "exampleEn": "Besides, you don't have to know that, everyone understands \"jam\"!",
+      "exampleFa": "علاوه بر این، لازم نیست بدانید، همه \"جم\" را می فهمند!"
+    },
+    {
+      "id": "v56",
+      "de": "Arbeit",
+      "en": "Arbeit",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-Arbeit.ogg",
+      "exampleDe": "Entschuldige die Arbeit, bitte.",
+      "exampleEn": "Sorry about the work, please.",
+      "exampleFa": "بابت کار متاسفم لطفا"
+    },
+    {
+      "id": "v57",
+      "de": "äußern",
+      "en": "äußern",
+      "pos": "verb",
+      "fa": "بیان کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/De-%C3%A4u%C3%9Fern.ogg"
+    },
+    {
+      "id": "v58",
+      "de": "zuhören",
+      "en": "listen",
+      "pos": "verb",
+      "fa": "گوش کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-zuh%C3%B6ren.ogg",
+      "exampleDe": "Sie müssen gut zuhören können und viel erklären.",
+      "exampleEn": "You must be able to listen well and explain a lot.",
+      "exampleFa": "باید بتوانید خوب گوش کنید و خیلی توضیح دهید."
+    },
+    {
+      "id": "v59",
+      "de": "zuerst",
+      "en": "zuerst",
+      "pos": "other",
+      "fa": "اول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-zuerst.ogg",
+      "exampleDe": "Bitte lesen Sie sie zuerst einmal durch.",
+      "exampleEn": "Please read them first.",
+      "exampleFa": "لطفا اول آنها را بخوانید."
+    },
+    {
+      "id": "v60",
+      "de": "ziemlich",
+      "en": "quite",
+      "pos": "other",
+      "fa": "تا حد زیادی، واقعا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-ziemlich.ogg",
+      "exampleDe": "Also, ziemlich gut.",
+      "exampleEn": "So, pretty good.",
+      "exampleFa": "بنابراین، بسیار خوب است."
+    },
+    {
+      "id": "v61",
+      "de": "Zeitung",
+      "en": "newspaper",
+      "pos": "noun",
+      "article": "die",
+      "fa": "روزنامه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Zeitung.ogg",
+      "exampleDe": "Markus, leg doch bitte mal die Zeitung weg.",
+      "exampleEn": "Markus, please put the newspaper away.",
+      "exampleFa": "مارکوس، لطفا روزنامه را کنار بگذار."
+    },
+    {
+      "id": "v62",
+      "de": "Zeitschrift",
+      "en": "magazine",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مجله، روزنامه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Zeitschrift.ogg"
+    },
+    {
+      "id": "v63",
+      "de": "zeichnen",
+      "en": "to draw",
+      "pos": "verb",
+      "fa": "ترسیم کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-zeichnen.ogg"
+    },
+    {
+      "id": "v64",
+      "de": "Wind",
+      "en": "wind",
+      "pos": "noun",
+      "article": "der",
+      "fa": "باد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/De-Wind.ogg"
+    },
+    {
+      "id": "v65",
+      "de": "wiederholen",
+      "en": "repeat",
+      "pos": "verb",
+      "fa": "تکرار کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-wiederholen.ogg",
+      "exampleDe": "Kannst du das bitte wiederholen?",
+      "exampleEn": "Can you please repeat that?",
+      "exampleFa": "میشه لطفا تکرارش کنید؟"
+    },
+    {
+      "id": "v66",
+      "de": "Weg",
+      "en": "Weg",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مسیر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Weg.ogg",
+      "exampleDe": "Jetzt nichts wie weg!",
+      "exampleEn": "Now let's go!",
+      "exampleFa": "حالا بریم!"
+    },
+    {
+      "id": "v67",
+      "de": "vielleicht",
+      "en": "vielleicht",
+      "pos": "other",
+      "fa": "شاید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-vielleicht.ogg",
+      "exampleDe": "Vielleicht seit vier Wochen.",
+      "exampleEn": "Maybe for four weeks.",
+      "exampleFa": "شاید برای چهار هفته"
+    },
+    {
+      "id": "v68",
+      "de": "Verwenden",
+      "en": "Verwenden",
+      "pos": "verb",
+      "fa": "استفاده کردن er verwendet",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-verwenden.ogg"
+    },
+    {
+      "id": "v69",
+      "de": "Vergleichen",
+      "en": "Vergleichen",
+      "pos": "verb",
+      "fa": "مقایسه کردن er vergleicht-verglich-hat verglichen",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-vergleichen.ogg",
+      "exampleDe": "Jetzt vergleichen wir mal: Passen Ihre Antworten zu dem Beruf?",
+      "exampleEn": "Now let's compare: Do your answers match the job?",
+      "exampleFa": "حالا بیایید مقایسه کنیم: آیا پاسخ های شما با شغل مطابقت دارد؟"
+    },
+    {
+      "id": "v70",
+      "de": "verbinden",
+      "en": "connect",
+      "pos": "verb",
+      "fa": "باندپیچی کردن، پانسمان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-verbinden.ogg",
+      "exampleDe": "Bitte haben Sie noch etwas Geduld, bis wir Sie mit dem nächsten freien Mitarbeiter verbinden.",
+      "exampleEn": "Please be patient until we connect you with the next available employee.",
+      "exampleFa": "لطفا تا زمانی که شما را با کارمند موجود بعدی وصل کنیم صبور باشید."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Relativpronomen im Genitiv: dessen / deren",
+      "titleEn": "Relative pronouns in the genitive: dessen / deren",
+      "explanationEn": "dessen (masc./neut. antecedent), deren (fem./plural). The relative possessive stands before the noun it owns: der Autor, dessen Buch … ; die Region, deren Dialekt … ; die Länder, deren Sprachen …",
+      "patterns": [
+        "der Mann, dessen …",
+        "die Frau, deren …",
+        "die Länder, deren …"
+      ],
+      "examples": [
+        {
+          "de": "Das ist der Dialekt, dessen Geschichte ich untersuche.",
+          "en": "That is the dialect whose history I am researching.",
+          "fa": "این گویشی است که تاریخش را بررسی می‌کنم."
+        },
+        {
+          "de": "Österreich ist ein Land, dessen Varietäten ich kennenlernen möchte.",
+          "en": "Austria is a country whose varieties I would like to get to know.",
+          "fa": "اتریش کشوری است که گونه‌های زبانی‌اش را می‌خواهم بشناسم."
+        }
+      ],
+      "titleFa": "ضمایر نسبی در حالت اضافی: dessen / deren"
+    },
+    {
+      "id": "g2",
+      "titleDe": "Relativsätze mit Genitiv in Kontext",
+      "titleEn": "Genitive relative clauses in context",
+      "explanationEn": "Combine genitive relatives with prepositions and longer NPs: die Stadt, in deren Zentrum … ; der Kurs, mit dessen Hilfe … . Agreement depends on the antecedent, not on the following noun’s gender alone for dessen/deren choice.",
+      "patterns": [
+        "in deren Zentrum …",
+        "mit dessen Hilfe …",
+        "von deren Bedeutung …"
+      ],
+      "examples": [
+        {
+          "de": "Das ist die Sprache, von deren Vielfalt wir sprechen.",
+          "en": "That is the language of whose diversity we are speaking.",
+          "fa": "این زبانی است که درباره تنوع آن حرف می‌زنیم."
+        },
+        {
+          "de": "Die Schweiz ist ein Land, in dessen Regionen verschiedene Varietäten leben.",
+          "en": "Switzerland is a country in whose regions different varieties live.",
+          "fa": "سوئیس کشوری است که در مناطقش گونه‌های مختلف زنده‌اند."
+        }
+      ],
+      "titleFa": "جملات نسبی با Genitiv در بافت"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "dessen",
+      "promptEn": "dessen",
+      "content": "Der Linguist, ___ Buch ich lese, kommt aus Wien.",
+      "answer": "dessen",
+      "grammarId": "g1",
+      "options": [
+        "dessen",
+        "deren",
+        "dem"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "deren",
+      "promptEn": "deren",
+      "content": "Die Varietät, ___ Regeln ich lerne, ist Schweizerdeutsch.",
+      "answer": "deren",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Plural",
+      "promptEn": "plural",
+      "content": "Die Dialekte, ___ Unterschiede groß sind, faszinieren mich.",
+      "answer": "deren",
+      "grammarId": "g1",
+      "options": [
+        "deren",
+        "dessen",
+        "denen"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "in deren",
+      "promptEn": "in deren",
+      "content": "Die Stadt, in ___ Zentrum Deutsch gesprochen wird, liegt am Rhein.",
+      "answer": "deren",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "Relativ Gen.",
+      "promptEn": "Rel. gen.",
+      "content": "Das | ist | der | Kurs | , | mit | dessen | Hilfe | ich | lerne | .",
+      "answer": "Das ist der Kurs, mit dessen Hilfe ich lerne.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "Neutrum",
+      "promptEn": "neuter",
+      "content": "Das Land, ___ Sprache ich studiere, ist Deutschland.",
+      "answer": "dessen",
+      "grammarId": "g1",
+      "options": [
+        "dessen",
+        "deren",
+        "das"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Die Autorin, ___ Gedichte wir lesen, lebt in Berlin.",
+      "answer": "deren",
+      "options": [
+        "deren",
+        "dessen",
+        "der"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Der Dialekt, ___ Melodie mir gefällt, ist bayrisch.",
+      "answer": "dessen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "Die Länder, ___ Amtssprache Deutsch ist, liegen in Europa.",
+      "answer": "deren",
+      "options": [
+        "deren",
+        "dessen",
+        "denen"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Das Wörterbuch, mit ___ Hilfe ich übersetze, ist neu.",
+      "answer": "dessen",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Die Region, von ___ Kultur er erzählt, ist Tirol.",
+      "answer": "deren",
+      "options": [
+        "deren",
+        "dessen",
+        "der"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: Das Gedicht, ___ Reime einfach sind, schreibe ich selbst.",
+      "answer": "dessen",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„der Satz“ means…",
+      "answer": "Satz",
+      "options": [
+        "Satz",
+        "Karte",
+        "loud"
+      ],
+      "vocabId": "v20"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“Karte”:",
+      "answer": "die Karte",
+      "options": [
+        "die Karte",
+        "der Satz",
+        "der Laut"
+      ],
+      "vocabId": "v48"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„der Laut“ means…",
+      "answer": "loud",
+      "options": [
+        "loud",
+        "Karte",
+        "Satz"
+      ],
+      "vocabId": "v47"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“Teil”:",
+      "answer": "der Teil",
+      "options": [
+        "der Teil",
+        "der Satz",
+        "die Karte"
+      ],
+      "vocabId": "v23"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t60",

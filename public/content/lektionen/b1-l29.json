@@ -4,33 +4,860 @@
   "number": 29,
   "titleDe": "Interessieren Sie sich für Politik?",
   "titleEn": "Are you interested in politics?",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Interessieren Sie sich für Politik?“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Are you interested in politics?” in the course book",
-      "fa": "اهداف یادگیری «به سیاست علاقه دارید؟» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Lexikon- und Fachartikel zum politischen System in Deutschland verstehen",
+      "en": "Understand encyclopedia and specialist articles on Germany’s political system",
+      "fa": "فهم مقالات دانشنامه‌ای درباره نظام سیاسی آلمان"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Handout über das politische System im Heimatland erstellen und Referat halten",
+      "en": "Create a handout on your country’s political system and give a talk",
+      "fa": "تهیه جزوه درباره نظام سیاسی کشور خود و ارائه سخنرانی"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Informationstexte zu Bundestagswahlen verstehen",
+      "en": "Understand information texts on federal elections",
+      "fa": "فهم متون اطلاعاتی درباره انتخابات بوندستاگ"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "Verstehen, warum jemand eine bestimmte Partei wählt; Wahlsystem der Heimat vorstellen",
+      "en": "Understand why someone votes for a party; present your country’s voting system",
+      "fa": "فهم دلیل رأی به یک حزب؛ معرفی نظام انتخاباتی کشور خود"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Abgeordnete",
+      "en": "MPs",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نماینده شورا ، مجلس",
+      "audioUrl": "/audio/vocab/abgeordnete.mp3"
+    },
+    {
+      "id": "v2",
+      "de": "Bund",
+      "en": "Federal",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-Bund.ogg",
+      "exampleDe": "Zwiebeln, das Netz, heute für 57 Cent, und das Bund Karotten, 500 Gramm, für 1,09 Euro.",
+      "exampleEn": "Onions, the net, today for 57 cents, and the bunch of carrots, 500 grams, for 1.09 euros.",
+      "exampleFa": "پیاز، تور، امروز 57 سنت، و دسته هویج، 500 گرم، 1.09 یورو."
+    },
+    {
+      "id": "v3",
+      "de": "Diskussion",
+      "en": "discussion",
+      "pos": "noun",
+      "article": "die",
+      "fa": "مشاجره، بحث",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-Diskussion.ogg",
+      "exampleDe": "Fragen und Diskussion.",
+      "exampleEn": "Questions and discussion.",
+      "exampleFa": "سوالات و بحث."
+    },
+    {
+      "id": "v4",
+      "de": "Gesetz",
+      "en": "Law",
+      "pos": "noun",
+      "article": "das",
+      "fa": "قانون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Gesetz.ogg"
+    },
+    {
+      "id": "v5",
+      "de": "Handout",
+      "en": "Handout",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-Handout.ogg"
+    },
+    {
+      "id": "v6",
+      "de": "Kandidat",
+      "en": "candidate",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کاندیدا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Kandidat.ogg"
+    },
+    {
+      "id": "v7",
+      "de": "Kantine",
+      "en": "canteen",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سلف سرویس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-Kantine.ogg",
+      "exampleDe": "Kommen Sie mit in die Kantine?",
+      "exampleEn": "Are you coming to the canteen with me?",
+      "exampleFa": "با من به غذاخوری می آیی؟"
+    },
+    {
+      "id": "v8",
+      "de": "letzte Mal",
+      "en": "last time",
+      "pos": "noun",
+      "article": "das",
+      "fa": "آخرین بار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-letzte.ogg"
+    },
+    {
+      "id": "v9",
+      "de": "Parlament",
+      "en": "parliament",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/De-Parlament.ogg",
+      "exampleDe": "Also, der Bundestag ist das deutsche Parlament und die Bundeskanzlerin bzw.",
+      "exampleEn": "So, the Bundestag is the German parliament and the Federal Chancellor.",
+      "exampleFa": "بنابراین، بوندستاگ پارلمان آلمان و صدراعظم فدرال است."
+    },
+    {
+      "id": "v10",
+      "de": "Prozent",
+      "en": "percent",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/De-Prozent.ogg",
+      "exampleDe": "100 Prozent!",
+      "exampleEn": "100 percent!",
+      "exampleFa": "100 درصد!"
+    },
+    {
+      "id": "v11",
+      "de": "Regierung",
+      "en": "Government",
+      "pos": "noun",
+      "article": "die",
+      "fa": "حکومت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-Regierung.ogg",
+      "exampleDe": "Das Bundeshaus ist der Sitz von Parlament und Regierung.",
+      "exampleEn": "The Federal Palace is the seat of parliament and government.",
+      "exampleFa": "کاخ فدرال مقر پارلمان و دولت است."
+    },
+    {
+      "id": "v12",
+      "de": "Sitz",
+      "en": "seat",
+      "pos": "noun",
+      "article": "der",
+      "fa": "حالت نشستن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/De-Sitz.ogg",
+      "exampleDe": "Das Bundeshaus ist der Sitz von Parlament und Regierung.",
+      "exampleEn": "The Federal Palace is the seat of parliament and government.",
+      "exampleFa": "کاخ فدرال مقر پارلمان و دولت است."
+    },
+    {
+      "id": "v13",
+      "de": "Staat",
+      "en": "State",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دولت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Staat.ogg",
+      "exampleDe": "Die wollen, dass der Staat mehr Verantwortung trägt.",
+      "exampleEn": "They want the state to take more responsibility.",
+      "exampleFa": "آنها از دولت می خواهند که مسئولیت بیشتری بپذیرد."
+    },
+    {
+      "id": "v14",
+      "de": "Staatsoberhaupt",
+      "en": "Head of State",
+      "pos": "noun",
+      "article": "das",
+      "fa": "رئیس دولت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/De-Staatsoberhaupt.ogg",
+      "exampleDe": "Nein, das Staatsoberhaupt ist der Bundespräsident.",
+      "exampleEn": "No, the head of state is the Federal President.",
+      "exampleFa": "نه، رئیس دولت رئیس جمهور فدرال است."
+    },
+    {
+      "id": "v15",
+      "de": "Stimme",
+      "en": "Agree",
+      "pos": "noun",
+      "article": "die",
+      "fa": "صوت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Stimme.ogg",
+      "exampleDe": "Hat man nun eine Stimme oder zwei?",
+      "exampleEn": "Do you have one vote or two?",
+      "exampleFa": "یک رای دارید یا دو؟"
+    },
+    {
+      "id": "v16",
+      "de": "Umwelt",
+      "en": "Environment",
+      "pos": "noun",
+      "article": "die",
+      "fa": "محیط زیست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-Umwelt.ogg",
+      "exampleDe": "Denn das sind die einzigen, für die die Umwelt wirklich wichtig ist.",
+      "exampleEn": "Because they are the only ones for whom the environment really matters.",
+      "exampleFa": "زیرا آنها تنها کسانی هستند که محیط زیست واقعا برایشان مهم است."
+    },
+    {
+      "id": "v17",
+      "de": "Volk",
+      "en": "People",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Volk.ogg"
+    },
+    {
+      "id": "v18",
+      "de": "Wahl",
+      "en": "Choice",
+      "pos": "noun",
+      "article": "die",
+      "fa": "انتخاب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-Wahl.ogg",
+      "exampleDe": "Wahl, ohne mich!",
+      "exampleEn": "Choice, without me!",
+      "exampleFa": "انتخاب، بدون من!"
+    },
+    {
+      "id": "v19",
+      "de": "festhalten",
+      "en": "to hold tight",
+      "pos": "verb",
+      "fa": "محکم نگه داشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/De-festhalten.ogg"
+    },
+    {
+      "id": "v20",
+      "de": "stimmen",
+      "en": "voices",
+      "pos": "verb",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-stimmen.ogg",
+      "exampleDe": "Hat man nun eine Stimme oder zwei?",
+      "exampleEn": "Do you have one vote or two?",
+      "exampleFa": "یک رای دارید یا دو؟"
+    },
+    {
+      "id": "v21",
+      "de": "vertreten",
+      "en": "represent",
+      "pos": "verb",
+      "fa": "جانشین کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/De-vertreten.ogg"
+    },
+    {
+      "id": "v22",
+      "de": "auf der Liste",
+      "en": "on the list",
+      "pos": "phrase",
+      "fa": "در لیست",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-Aufarbeitung.ogg"
+    },
+    {
+      "id": "v23",
+      "de": "gesamt",
+      "en": "in total",
+      "pos": "other",
+      "fa": "تمام ، کل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-gesamt.ogg"
+    },
+    {
+      "id": "v24",
+      "de": "Position",
+      "en": "Position",
+      "pos": "noun",
+      "article": "die",
+      "fa": "رتبه درجع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-Position.ogg"
+    },
+    {
+      "id": "v25",
+      "de": "Punkt",
+      "en": "Punkt",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نقطه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Punkt.ogg",
+      "exampleDe": "In Punkt 2.3.",
+      "exampleEn": "In point 2.3.",
+      "exampleFa": "در بند 2.3."
+    },
+    {
+      "id": "v26",
+      "de": "wählen",
+      "en": "wählen",
+      "pos": "verb",
+      "fa": "انتخاب کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-w%C3%A4hlen.ogg",
+      "exampleDe": "Ich würde auf jeden Fall die CDU wählen.",
+      "exampleEn": "I would definitely vote for the CDU.",
+      "exampleFa": "من قطعا به CDU رای خواهم داد."
+    },
+    {
+      "id": "v27",
+      "de": "Person",
+      "en": "Person",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Person.ogg",
+      "exampleDe": "Hier steht „ab 79 Euro pro Person“.",
+      "exampleEn": "It says “from 79 euros per person”.",
+      "exampleFa": "می گوید \"از 79 یورو برای هر نفر\"."
+    },
+    {
+      "id": "v28",
+      "de": "immer",
+      "en": "immer",
+      "pos": "other",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-immer.ogg",
+      "exampleDe": "Bisher habe ich immer die SPD gewählt, was ich jetzt vielleicht nicht mehr machen würde.",
+      "exampleEn": "Until now I have always voted for the SPD, which I might not do again now.",
+      "exampleFa": "تا به حال من همیشه به SPD رای داده ام، که ممکن است اکنون دیگر این کار را نکنم."
+    },
+    {
+      "id": "v29",
+      "de": "zusammen",
+      "en": "zusammen",
+      "pos": "verb",
+      "fa": "با هم &lt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-zusammen.ogg",
+      "exampleDe": "Zusammen, bitte.",
+      "exampleEn": "Together, please.",
+      "exampleFa": "با هم، لطفا."
+    },
+    {
+      "id": "v30",
+      "de": "schauen",
+      "en": "schauen",
+      "pos": "verb",
+      "fa": "نگاه کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-schauen.ogg",
+      "exampleDe": "Oder noch besser du schaust auf der Webseite „Tatsachen über Deutschland“ nach, da kannst du dich wirklich gut informieren.",
+      "exampleEn": "Or even better, you can take a look at the “Facts about Germany” website, where you can get really good information.",
+      "exampleFa": "یا حتی بهتر از آن، می‌توانید نگاهی به وب‌سایت «حقایق درباره آلمان» بیندازید، جایی که می‌توانید اطلاعات بسیار خوبی به دست آورید."
+    },
+    {
+      "id": "v31",
+      "de": "rechts",
+      "en": "rechts",
+      "pos": "other",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-rechts.ogg",
+      "exampleDe": "Biegen Sie dort rechts ab.",
+      "exampleEn": "Turn right there.",
+      "exampleFa": "به سمت راست بپیچید."
+    },
+    {
+      "id": "v32",
+      "de": "Mal",
+      "en": "Mal",
+      "pos": "noun",
+      "article": "das",
+      "fa": "هربار، هر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Mal.ogg",
+      "exampleDe": "Mal sehen, vielleicht wähle ich Die Linke.",
+      "exampleEn": "Let's see, maybe I'll vote for The Left.",
+      "exampleFa": "ببینیم، شاید به چپ رای بدهم."
+    },
+    {
+      "id": "v33",
+      "de": "beantworten",
+      "en": "beantworten",
+      "pos": "verb",
+      "fa": "جواب دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-beantworten.ogg",
+      "exampleDe": "Sie können sich von ihr auch alle weiteren Fragen beantworten lassen.",
+      "exampleEn": "You can also have her answer any other questions you may have.",
+      "exampleFa": "همچنین می توانید از او بخواهید که به هر سؤال دیگری که ممکن است داشته باشید پاسخ دهد."
+    },
+    {
+      "id": "v34",
+      "de": "zunächst",
+      "en": "zunächst",
+      "pos": "other",
+      "fa": "در وهله اول",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-zun%C3%A4chst.ogg",
+      "exampleDe": "Zunächst zu Punkt 2.1: Wie sieht die Ausbildung aus?",
+      "exampleEn": "First of all, point 2.1: What does the training look like?",
+      "exampleFa": "اول از همه، نکته 2.1: آموزش چگونه است؟"
+    },
+    {
+      "id": "v35",
+      "de": "wieder",
+      "en": "wieder",
+      "pos": "other",
+      "fa": "دوباره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-wieder.ogg",
+      "exampleDe": "Na, du liest ja schon wieder in der Mittagspause!",
+      "exampleEn": "Well, you're reading on your lunch break again!",
+      "exampleFa": "خوب، دوباره در حال خواندن در تعطیلات ناهار خود هستید!"
+    },
+    {
+      "id": "v36",
+      "de": "weiter",
+      "en": "weiter",
+      "pos": "other",
+      "fa": "دورتر، بیشتر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-weiter.ogg",
+      "exampleDe": "Jetzt schnell weiter!",
+      "exampleEn": "Now move on quickly!",
+      "exampleFa": "حالا سریع حرکت کن!"
+    },
+    {
+      "id": "v37",
+      "de": "stehen",
+      "en": "stehen",
+      "pos": "verb",
+      "fa": "ایستادن er steht",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-stehen.ogg",
+      "exampleDe": "Also, wenn ich wählen könnte, würde ich die SPD wählen, die stehen, glaube ich, mehr auf der Seite der sozial Schwachen.",
+      "exampleEn": "So, if I could vote, I would vote for the SPD, which I think is more on the side of the socially disadvantaged.",
+      "exampleFa": "بنابراین، اگر می توانستم رای بدهم، به SPD رای می دادم، که فکر می کنم بیشتر طرفدار آسیب دیدگان اجتماعی است."
+    },
+    {
+      "id": "v38",
+      "de": "sondern",
+      "en": "sondern",
+      "pos": "verb",
+      "fa": "بلکه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-sondern.ogg",
+      "exampleDe": "Aber ich schrie nicht vor Angst, sondern weil ich so begeistert war!",
+      "exampleEn": "But I didn't scream out of fear, but because I was so excited!",
+      "exampleFa": "اما از ترس جیغ نکشیدم، بلکه چون خیلی هیجان زده بودم!"
+    },
+    {
+      "id": "v39",
+      "de": "Oben",
+      "en": "Oben",
+      "pos": "verb",
+      "fa": "# unten بالا # پایین",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-oben.ogg",
+      "exampleDe": "Also, ich denke, man sollte auch mal wechseln, damit „die da oben“ sich nicht zu sicher fühlen.",
+      "exampleEn": "So, I think you should change sometimes so that “those up there” don’t feel too safe.",
+      "exampleFa": "بنابراین، من فکر می‌کنم گاهی اوقات باید تغییر کنید تا «آن‌های بالا» احساس امنیت نکنند."
+    },
+    {
+      "id": "v40",
+      "de": "Menge",
+      "en": "Crowd",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جمعیت، اندازه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-Menge.ogg"
+    },
+    {
+      "id": "v41",
+      "de": "ernst",
+      "en": "ernst",
+      "pos": "other",
+      "fa": "بطور جدی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-ernst.ogg",
+      "exampleDe": "Sie schauen so ernst.",
+      "exampleEn": "You look so serious.",
+      "exampleFa": "خیلی جدی به نظر میای"
+    },
+    {
+      "id": "v42",
+      "de": "direkt",
+      "en": "direkt",
+      "pos": "other",
+      "fa": "مستقیم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-direkt.ogg",
+      "exampleDe": "Heißt das, man kann mit der Erststimme zum Beispiel direkt den Kandidaten der Grünen wählen und mit der Zweitstimme die Landesliste einer ganz anderen Partei?",
+      "exampleEn": "Does this mean that you can, for example, choose the Green Party candidate directly with the first vote and the state list of a completely different party with the second vote?",
+      "exampleFa": "آیا این به این معنی است که شما می توانید مثلاً با رأی اول مستقیماً نامزد حزب سبز و با رأی دوم لیست ایالتی یک حزب کاملاً متفاوت را انتخاب کنید؟"
+    },
+    {
+      "id": "v43",
+      "de": "bilden",
+      "en": "bilden",
+      "pos": "verb",
+      "fa": "تشکیل دادن، ساختن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-bilden.ogg",
+      "exampleDe": "Paul Klee hat für dieses Bild den Titel …",
+      "exampleEn": "Paul Klee titled this picture...",
+      "exampleFa": "پل کلی این عکس را ..."
+    },
+    {
+      "id": "v44",
+      "de": "wechseln",
+      "en": "to change (money, etc.)",
+      "pos": "verb",
+      "fa": "خرد کردن، عوض کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-wechseln.ogg",
+      "exampleDe": "Also, ich denke, man sollte auch mal wechseln, damit „die da oben“ sich nicht zu sicher fühlen.",
+      "exampleEn": "So, I think you should change sometimes so that “those up there” don’t feel too safe.",
+      "exampleFa": "بنابراین، من فکر می‌کنم گاهی اوقات باید تغییر کنید تا «آن‌های بالا» احساس امنیت نکنند."
+    },
+    {
+      "id": "v45",
+      "de": "schriftlich",
+      "en": "schriftlich",
+      "pos": "other",
+      "fa": "مکتوب",
+      "exampleDe": "Mhm, wir brauchen das schriftlich.",
+      "exampleEn": "Mhm, we need this in writing.",
+      "exampleFa": "مم، ما به این به صورت مکتوب نیاز داریم."
+    },
+    {
+      "id": "v46",
+      "de": "Satzende",
+      "en": "Satzende",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Satzende.ogg"
+    },
+    {
+      "id": "v47",
+      "de": "Kursteilnehmer",
+      "en": "Course participants",
+      "pos": "noun",
+      "article": "der",
+      "fa": "شرکت کنندگان دوره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-Kursteilnehmer.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Fall",
+      "en": "Fall",
+      "pos": "noun",
+      "article": "der",
+      "fa": "افت، تنزیل auf keinen Fall",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/De-Fall.ogg",
+      "exampleDe": "Ich würde auf jeden Fall die CDU wählen.",
+      "exampleEn": "I would definitely vote for the CDU.",
+      "exampleFa": "من قطعا به CDU رای خواهم داد."
+    },
+    {
+      "id": "v49",
+      "de": "erstellen",
+      "en": "create",
+      "pos": "verb",
+      "fa": "ایجاد کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/De-erstellen.ogg"
+    },
+    {
+      "id": "v50",
+      "de": "Ergebnis",
+      "en": "result",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نتیجه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Ergebnis.ogg"
+    },
+    {
+      "id": "v51",
+      "de": "bisher",
+      "en": "until now",
+      "pos": "other",
+      "fa": "تاکنون، هنوز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-bisher.ogg",
+      "exampleDe": "Bisher habe ich immer die SPD gewählt, was ich jetzt vielleicht nicht mehr machen würde.",
+      "exampleEn": "Until now I have always voted for the SPD, which I might not do again now.",
+      "exampleFa": "تا به حال من همیشه به SPD رای داده ام، که ممکن است اکنون دیگر این کار را نکنم."
+    },
+    {
+      "id": "v52",
+      "de": "ausdrücken",
+      "en": "ausdrücken",
+      "pos": "verb",
+      "fa": "بیان کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-ausdr%C3%BCcken.ogg",
+      "exampleDe": "Sie wissen aber, dass Sie als Physiotherapeutin viele lateinische Ausdrücke kennen müssen, die ganzen Muskeln, Nerven etc.",
+      "exampleEn": "But you know that as a physiotherapist you have to know a lot of Latin expressions, the whole muscles, nerves, etc.",
+      "exampleFa": "اما می دانید که به عنوان یک فیزیوتراپیست باید بسیاری از عبارات لاتین، کل عضلات، اعصاب و غیره را بدانید."
+    },
+    {
+      "id": "v53",
+      "de": "Ausblick",
+      "en": "outlook",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دید",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-Ausblick.ogg",
+      "exampleDe": "Ja, Essen mit Ausblick, das klingt gut.",
+      "exampleEn": "Yes, food with a view, that sounds good.",
+      "exampleFa": "بله، غذا با منظره، به نظر خوب است."
+    },
+    {
+      "id": "v54",
+      "de": "überfliegen",
+      "en": "überfliegen",
+      "pos": "verb",
+      "fa": "سریع خواندن و رد شدن er überfliegt-überflog-hat überflogen",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-%C3%BCberfliegen.ogg"
+    },
+    {
+      "id": "v55",
+      "de": "Zusammensetzung",
+      "en": "composition",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ترکیب",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-Zusammensetzung.ogg"
+    },
+    {
+      "id": "v56",
+      "de": "zufrieden",
+      "en": "satisfied",
+      "pos": "verb",
+      "fa": "راضی # unzufrieden",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/De-zufrieden.ogg",
+      "exampleDe": "Die Stadt ist toll, die Menschen sind sehr nett und mit meiner Arbeit bin ich sehr zufrieden.",
+      "exampleEn": "The city is great, the people are very nice and I am very satisfied with my work.",
+      "exampleFa": "شهر عالی است، مردم بسیار خوب هستند و من از کارم بسیار راضی هستم."
+    },
+    {
+      "id": "v57",
+      "de": "Zeit",
+      "en": "Zeit",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Zeit.ogg",
+      "exampleDe": "Ich habe mich in letzter Zeit viel mit den Parteien in Deutschland und mit dem",
+      "exampleEn": "Lately I've been talking a lot about the parties in Germany and the...",
+      "exampleFa": "اخیراً در مورد مهمانی ها در آلمان و ..."
+    },
+    {
+      "id": "v58",
+      "de": "Wissen",
+      "en": "Wissen",
+      "pos": "verb",
+      "fa": "دانستن er weiß",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Wissen.ogg",
+      "exampleDe": "Gut zu wissen.",
+      "exampleEn": "Good to know.",
+      "exampleFa": "خوب است بدانید."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "je … desto / umso",
+      "titleEn": "the … the (je … desto/umso)",
+      "explanationEn": "je + Komparativ … , desto/umso + Komparativ … : Je mehr man diskutiert, desto klarer wird die Meinung. Word order: verb at end of je-clause; verb second in desto-clause.",
+      "patterns": [
+        "Je … , desto …",
+        "Je … , umso …"
+      ],
+      "examples": [
+        {
+          "de": "Je mehr Informationen man hat, desto besser kann man wählen.",
+          "en": "The more information you have, the better you can vote.",
+          "fa": "هرچه اطلاعات بیشتر باشد، بهتر می‌توان رأی داد."
+        },
+        {
+          "de": "Je jünger die Wähler sind, umso digitaler informieren sie sich.",
+          "en": "The younger the voters are, the more digitally they get informed.",
+          "fa": "هرچه رأی‌دهندگان جوان‌تر باشند، بیشتر دیجیتال اطلاع می‌گیرند."
+        }
+      ],
+      "titleFa": "je … desto / umso"
+    },
+    {
+      "id": "g2",
+      "titleDe": "Relativsätze mit was / wo(r)-; manch- / einig-",
+      "titleEn": "Relative clauses with was / wo(r)-; manch- / einig-",
+      "explanationEn": "was refers to a whole clause, das, or indefinite neuter: alles, was … ; etwas, was … . wo(r)- + prep. for things: das Thema, worüber wir sprechen. manch- / einig- decline like ein/kein or adjectives: mancher Bürger, einige Parteien.",
+      "patterns": [
+        "alles, was …",
+        "das Thema, worüber …",
+        "manche / einige"
+      ],
+      "examples": [
+        {
+          "de": "Alles, was im Grundgesetz steht, ist wichtig.",
+          "en": "Everything that is in the Basic Law is important.",
+          "fa": "هرچه در قانون اساسی آمده مهم است."
+        },
+        {
+          "de": "Das ist ein Thema, worüber manch einer heftig diskutiert.",
+          "en": "That is a topic about which some people argue heatedly.",
+          "fa": "این موضوعی است که بعضی‌ها درباره‌اش بحث داغ می‌کنند."
+        }
+      ],
+      "titleFa": "جملات نسبی با was/wo(r)-؛ manch-/einig-"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "je … desto",
+      "promptEn": "the … the",
+      "content": "Je genauer man liest, ___ klarer wird der Text.",
+      "answer": "desto",
+      "grammarId": "g1",
+      "options": [
+        "desto",
+        "als",
+        "wie"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "umso",
+      "promptEn": "umso",
+      "content": "Je länger die Debatte dauert, ___ spannender wird sie.",
+      "answer": "umso",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "was",
+      "promptEn": "was",
+      "content": "Alles, ___ du sagst, wird protokolliert.",
+      "answer": "was",
+      "grammarId": "g2",
+      "options": [
+        "was",
+        "das",
+        "wo"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "worüber",
+      "promptEn": "worüber",
+      "content": "Das ist ein Punkt, ___ wir abstimmen müssen.",
+      "answer": "worüber",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "je desto",
+      "promptEn": "je desto",
+      "content": "Je | mehr | Stimmen | eine | Partei | hat | , | desto | stärker | ist | sie | .",
+      "answer": "Je mehr Stimmen eine Partei hat, desto stärker ist sie.",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "manche",
+      "promptEn": "some",
+      "content": "___ Bürger gehen nicht zur Wahl.",
+      "answer": "Manche",
+      "grammarId": "g2",
+      "options": [
+        "Manche",
+        "Manches",
+        "Manchen"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Je älter man wird, ___ interessanter wird Politik oft.",
+      "answer": "desto",
+      "options": [
+        "desto",
+        "als",
+        "je"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Je weniger man weiß, ___ unsicherer fühlt man sich.",
+      "answer": "umso",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "Etwas, ___ mich überrascht hat, war die Wahlbeteiligung.",
+      "answer": "was",
+      "options": [
+        "was",
+        "das",
+        "wo"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: Das Gesetz, ___ wir sprechen, ist neu.",
+      "answer": "worüber",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "___ Parteien sind für Umweltschutz.",
+      "answer": "Einige",
+      "options": [
+        "Einige",
+        "Einiges",
+        "Einigen"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: Je klarer das Programm ist, ___ leichter fällt die Entscheidung.",
+      "answer": "desto",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„das letzte Mal“ means…",
+      "answer": "last time",
+      "options": [
+        "candidate",
+        "last time",
+        "Punkt"
+      ],
+      "vocabId": "v8"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“Punkt”:",
+      "answer": "der Punkt",
+      "options": [
+        "das letzte Mal",
+        "der Punkt",
+        "der Kandidat"
+      ],
+      "vocabId": "v25"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„der Kandidat“ means…",
+      "answer": "candidate",
+      "options": [
+        "candidate",
+        "Punkt",
+        "last time"
+      ],
+      "vocabId": "v6"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“Satzende”:",
+      "answer": "das Satzende",
+      "options": [
+        "der Punkt",
+        "das Satzende",
+        "das letzte Mal"
+      ],
+      "vocabId": "v46"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t53",

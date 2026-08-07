@@ -21,6 +21,7 @@ scripts/.fa-cache.json
 scripts/.listening-i18n-cache.json
 scripts/.audio-cache.json
 scripts/.audio-commons-index.json
+scripts/.example-i18n-cache.json
 
 # Editor directories and files
 .vscode/*

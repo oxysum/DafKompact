@@ -21,7 +21,10 @@ npm run dev
 - `public/content/index.json` — all 30 lessons
 - `public/content/lektionen/*.json` — per-lesson data (incl. `listening[]`)
 - `public/content/listening/` — per-track transcripts matched to CD1–3
-- A1–A2 vocab enriched; B1 L20–30 still stubs for vocab/grammar
+- A1–B1 all 30 lessons complete (vocab, grammar, drills, quiz); listening attached where available
+- Vocab lemmas are unique across lessons (see `scripts/dedupe-vocab-across-lessons.py`)
+- Example sentences on flashcards come from listening transcripts when possible
+  (`scripts/normalize-listening-transcripts.py`, `scripts/enrich-vocab-examples-from-listening.py`)
 
 ### Listening audio (local only)
 

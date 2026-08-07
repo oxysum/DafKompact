@@ -50,64 +50,25 @@
       "pos": "noun",
       "article": "der",
       "fa": "عصر",
-      "audioUrl": "/audio/vocab/abend.mp3"
+      "audioUrl": "/audio/vocab/abend.mp3",
+      "exampleDe": "Am Nachmittag um Viertel nach fünf habe ich einen Friseurtermin und am Abend um Viertel vor acht gehe ich ins Kino.",
+      "exampleEn": "I have a hair appointment at quarter past five in the afternoon and I go to the cinema at quarter to eight in the evening.",
+      "exampleFa": "من ساعت پنج و ربع بعدازظهر وقت مو دارم و ساعت ربع الی هشت شب به سینما می روم."
     },
     {
       "id": "v2",
-      "de": "anderen",
-      "en": "others",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دیگران",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-anderen.ogg"
-    },
-    {
-      "id": "v3",
-      "de": "Anfang",
-      "en": "beginning",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آغاز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Anfang.ogg"
-    },
-    {
-      "id": "v4",
-      "de": "Arbeit",
-      "en": "work / job",
-      "pos": "noun",
-      "article": "die",
-      "fa": "کار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-Arbeit.ogg"
-    },
-    {
-      "id": "v5",
-      "de": "Artikel",
-      "en": "article",
-      "pos": "noun",
-      "article": "der",
-      "fa": "حرف تعریف؛ مقاله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Artikel.ogg"
-    },
-    {
-      "id": "v6",
-      "de": "Aufgabe",
-      "en": "task",
-      "pos": "noun",
-      "article": "die",
-      "fa": "تمرین؛ تکلیف",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/De-Aufgabe.ogg"
-    },
-    {
-      "id": "v7",
       "de": "Ausflug",
       "en": "excursion",
       "pos": "noun",
       "article": "der",
       "fa": "سفر جانبی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Ausflug.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Ausflug.ogg",
+      "exampleDe": "Das ist eine super Idee, wir machen einen Ausflug auf den Kahlenberg.",
+      "exampleEn": "That's a great idea, we're going on a trip to the Kahlenberg.",
+      "exampleFa": "این یک ایده عالی است، ما به یک سفر به Kahlenberg می رویم."
     },
     {
-      "id": "v8",
+      "id": "v3",
       "de": "Ausstellung",
       "en": "exhibition",
       "pos": "noun",
@@ -116,7 +77,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-Ausstellung.ogg"
     },
     {
-      "id": "v9",
+      "id": "v4",
       "de": "Band",
       "en": "band",
       "pos": "noun",
@@ -125,7 +86,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-Band.oga"
     },
     {
-      "id": "v10",
+      "id": "v5",
       "de": "Beginn",
       "en": "beginning",
       "pos": "noun",
@@ -134,52 +95,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-Beginn.ogg"
     },
     {
-      "id": "v11",
-      "de": "Besprechung",
-      "en": "meeting",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جلسه؛ مذاکره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Besprechung.ogg"
-    },
-    {
-      "id": "v12",
-      "de": "Blick",
-      "en": "look; view",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نگاه؛ چشم‌انداز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Blick.ogg"
-    },
-    {
-      "id": "v13",
-      "de": "Brot",
-      "en": "bread",
-      "pos": "noun",
-      "article": "das",
-      "fa": "نان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Brot.ogg"
-    },
-    {
-      "id": "v14",
-      "de": "Cafe",
-      "en": "café",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کافه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-Cafeteria.ogg"
-    },
-    {
-      "id": "v15",
+      "id": "v6",
       "de": "CD",
       "en": "CD",
       "pos": "noun",
       "article": "die",
       "fa": "سی‌دی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-CD-Brenner.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-CD-Brenner.ogg",
+      "exampleDe": "Ich schenke ihr die neue CD von Cecilia Bartoli.",
+      "exampleEn": "I give her the new CD by Cecilia Bartoli.",
+      "exampleFa": "سی دی جدید سسیلیا بارتولی را به او می دهم."
     },
     {
-      "id": "v16",
+      "id": "v7",
       "de": "Chanson",
       "en": "chanson (French song)",
       "pos": "noun",
@@ -188,25 +116,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-Chanson.ogg"
     },
     {
-      "id": "v17",
-      "de": "Chef",
-      "en": "boss",
-      "pos": "noun",
-      "article": "der",
-      "fa": "رئیس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Chef.ogg"
-    },
-    {
-      "id": "v18",
-      "de": "Chefin",
-      "en": "boss (female)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "رئیس (زن)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Chefin.ogg"
-    },
-    {
-      "id": "v19",
+      "id": "v8",
       "de": "Chor",
       "en": "choir",
       "pos": "noun",
@@ -215,16 +125,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Chor.ogg"
     },
     {
-      "id": "v20",
-      "de": "Daten",
-      "en": "data",
-      "pos": "noun",
-      "article": "die",
-      "fa": "داده ها",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/De-Daten.ogg"
-    },
-    {
-      "id": "v21",
+      "id": "v9",
       "de": "Datum",
       "en": "date",
       "pos": "noun",
@@ -233,7 +134,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/De-Datum.ogg"
     },
     {
-      "id": "v22",
+      "id": "v10",
       "de": "Dezember",
       "en": "december",
       "pos": "noun",
@@ -242,88 +143,43 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Dezember.ogg"
     },
     {
-      "id": "v23",
+      "id": "v11",
       "de": "Dienstag",
       "en": "tuesday",
       "pos": "noun",
       "article": "der",
       "fa": "سه شنبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Dienstag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/De-Dienstag.ogg",
+      "exampleDe": "Nein, morgen, am Dienstag ist nicht möglich.",
+      "exampleEn": "No, tomorrow, Tuesday is not possible.",
+      "exampleFa": "نه فردا سه شنبه امکان پذیر نیست."
     },
     {
-      "id": "v24",
+      "id": "v12",
       "de": "Donnerstag",
       "en": "thursday",
       "pos": "noun",
       "article": "der",
       "fa": "پنج شنبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-Donnerstag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-Donnerstag.ogg",
+      "exampleDe": "Bis Donnerstag!",
+      "exampleEn": "Until Thursday!",
+      "exampleFa": "تا پنجشنبه!"
     },
     {
-      "id": "v25",
-      "de": "Doppelseite",
-      "en": "Double page",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دو صفحه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/De-Doppelseite.ogg"
-    },
-    {
-      "id": "v26",
-      "de": "Ende",
-      "en": "ending",
-      "pos": "noun",
-      "article": "das",
-      "fa": "پایان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Ende.ogg"
-    },
-    {
-      "id": "v27",
-      "de": "Essen",
-      "en": "food; to eat",
-      "pos": "noun",
-      "article": "das",
-      "fa": "غذا؛ خوردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Essen.ogg"
-    },
-    {
-      "id": "v28",
-      "de": "Familie",
-      "en": "family",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خانواده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Familie.ogg"
-    },
-    {
-      "id": "v29",
+      "id": "v13",
       "de": "Feiertag",
       "en": "public holiday",
       "pos": "noun",
       "article": "der",
       "fa": "روز تعطیل عمومی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Feiertag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Feiertag.ogg",
+      "exampleDe": "Ach ja, Donnerstag ist Feiertag, da ist frei.",
+      "exampleEn": "Oh yes, Thursday is a holiday, it's free.",
+      "exampleFa": "اوه بله، پنجشنبه تعطیل است، رایگان است."
     },
     {
-      "id": "v30",
-      "de": "Flug",
-      "en": "flight",
-      "pos": "noun",
-      "article": "der",
-      "fa": "پرواز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Flug.ogg"
-    },
-    {
-      "id": "v31",
-      "de": "Foto",
-      "en": "photo",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عکس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Foto.ogg"
-    },
-    {
-      "id": "v32",
+      "id": "v14",
       "de": "Fotoabend",
       "en": "Photo evening",
       "pos": "noun",
@@ -331,16 +187,19 @@
       "fa": "عکس شب"
     },
     {
-      "id": "v33",
+      "id": "v15",
       "de": "Freitag",
       "en": "friday",
       "pos": "noun",
       "article": "der",
       "fa": "جمعه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-Freitag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De-Freitag.ogg",
+      "exampleDe": "Oh, ja, Sport, na ja, am Wochenende kann ich nicht, am Freitag und Samstag bin ich in Stuttgart.",
+      "exampleEn": "Oh, yes, sports, well, I can't do it at the weekend, I'm in Stuttgart on Friday and Saturday.",
+      "exampleFa": "اوه، بله، ورزش، خوب، من نمی توانم آن را در آخر هفته انجام دهم، من جمعه و شنبه در اشتوتگارت هستم."
     },
     {
-      "id": "v34",
+      "id": "v16",
       "de": "Frühling",
       "en": "spring",
       "pos": "noun",
@@ -349,106 +208,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-Fr%C3%BChling.ogg"
     },
     {
-      "id": "v35",
-      "de": "Frühstück",
-      "en": "breakfast",
-      "pos": "noun",
-      "article": "die",
-      "fa": "صبحانه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/De-Fr%C3%BChst%C3%BCck.ogg"
-    },
-    {
-      "id": "v36",
-      "de": "Geburtstag",
-      "en": "birthday",
-      "pos": "noun",
-      "article": "der",
-      "fa": "روز تولد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-Geburtstag.ogg"
-    },
-    {
-      "id": "v37",
-      "de": "Gesang",
-      "en": "singing",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آواز خواندن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Gesang.ogg"
-    },
-    {
-      "id": "v38",
-      "de": "Gespräch",
-      "en": "conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Gespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v39",
-      "de": "GmbH",
-      "en": "Ltd (GmbH)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شرکت با مسئولیت محدود (آلمانی)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-GmbH.ogg"
-    },
-    {
-      "id": "v40",
+      "id": "v17",
       "de": "Grad",
       "en": "degree",
       "pos": "noun",
       "article": "der",
       "fa": "درجه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-Grad.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-Grad.ogg",
+      "exampleDe": "Ich hab ja mit 90 Grad gewaschen.",
+      "exampleEn": "I washed at 90 degrees.",
+      "exampleFa": "در دمای 90 درجه شستم."
     },
     {
-      "id": "v41",
-      "de": "Grammatik",
-      "en": "grammar",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دستور زبان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Grammatik.ogg"
-    },
-    {
-      "id": "v42",
-      "de": "Großeinkauf",
-      "en": "big shopping trip / bulk shopping",
-      "pos": "noun",
-      "article": "der",
-      "fa": "خرید عمده؛ خرید بزرگ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Gro%C3%9Feinkauf.ogg"
-    },
-    {
-      "id": "v43",
-      "de": "Gruß",
-      "en": "greeting",
-      "pos": "noun",
-      "article": "der",
-      "fa": "درود",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Gru%C3%9F.ogg"
-    },
-    {
-      "id": "v44",
-      "de": "Haushalt",
-      "en": "household",
-      "pos": "noun",
-      "article": "das",
-      "fa": "خانوار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Haushalt.ogg"
-    },
-    {
-      "id": "v45",
+      "id": "v18",
       "de": "Herbst",
       "en": "autumn / fall",
       "pos": "noun",
       "article": "der",
       "fa": "پاییز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Herbst.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Herbst.ogg",
+      "exampleDe": "Na ja, im September, da ist schon Herbst, das finde ich nicht gut.",
+      "exampleEn": "Well, in September, it's already autumn, I don't think that's a good thing.",
+      "exampleFa": "خوب، در ماه سپتامبر، هنوز پاییز است، به نظر من این چیز خوبی نیست."
     },
     {
-      "id": "v46",
+      "id": "v19",
       "de": "Hit",
       "en": "hit",
       "pos": "noun",
@@ -457,25 +241,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Hit.ogg"
     },
     {
-      "id": "v47",
+      "id": "v20",
       "de": "Hotel",
       "en": "hotel",
       "pos": "noun",
       "article": "das",
       "fa": "هتل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/De-Hotel.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/De-Hotel.ogg",
+      "exampleDe": "Mhm, „Hotel Mama“!",
+      "exampleEn": "Mmm, “Hotel Mama”!",
+      "exampleFa": "مام، \"مامان هتل\"!"
     },
     {
-      "id": "v48",
-      "de": "Information",
-      "en": "information",
-      "pos": "noun",
-      "article": "die",
-      "fa": "اطلاعات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-Information.ogg"
-    },
-    {
-      "id": "v49",
+      "id": "v21",
       "de": "Jahreszahl",
       "en": "year",
       "pos": "noun",
@@ -484,275 +262,102 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-Jahreszahl.ogg"
     },
     {
-      "id": "v50",
-      "de": "Januar",
-      "en": "january",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ژانویه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-Januar.ogg"
-    },
-    {
-      "id": "v51",
+      "id": "v22",
       "de": "Juli",
       "en": "july",
       "pos": "noun",
       "article": "der",
       "fa": "جولای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Juli.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Juli.ogg",
+      "exampleDe": "Geht es auch später, im Juli?",
+      "exampleEn": "Is it possible later, in July?",
+      "exampleFa": "آیا بعداً در ماه جولای امکان پذیر است؟"
     },
     {
-      "id": "v52",
-      "de": "Juni",
-      "en": "june",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ژوئن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-Juni.ogg"
-    },
-    {
-      "id": "v53",
-      "de": "Kaffee",
-      "en": "coffee",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قهوه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Kaffee.ogg"
-    },
-    {
-      "id": "v54",
+      "id": "v23",
       "de": "Kalender",
       "en": "calendar",
       "pos": "noun",
       "article": "der",
       "fa": "تقویم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-Kalender.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-Kalender.ogg",
+      "exampleDe": "Hm, ich schau mal im Kalender nach.",
+      "exampleEn": "Hmm, I'll check the calendar.",
+      "exampleFa": "هوم، تقویم را بررسی می کنم."
     },
     {
-      "id": "v55",
-      "de": "Karte",
-      "en": "card",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نقشه؛ کارت؛ منو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-Karte.ogg"
-    },
-    {
-      "id": "v56",
-      "de": "Kino",
-      "en": "cinema",
-      "pos": "noun",
-      "article": "das",
-      "fa": "سینما",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Kino.ogg"
-    },
-    {
-      "id": "v57",
-      "de": "Kochen",
-      "en": "to cook",
-      "pos": "noun",
-      "article": "das",
-      "fa": "غذا پختن"
-    },
-    {
-      "id": "v58",
+      "id": "v24",
       "de": "kollege",
       "en": "colleague",
       "pos": "noun",
       "article": "der",
       "fa": "همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-Kollege.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-Kollege.ogg",
+      "exampleDe": "Ach, nein, da hat mein Kollege schon Urlaub.",
+      "exampleEn": "Oh, no, my colleague is already on vacation.",
+      "exampleFa": "اوه، نه، همکار من در حال حاضر در تعطیلات است."
     },
     {
-      "id": "v59",
-      "de": "Kollegin",
-      "en": "colleague",
-      "pos": "noun",
-      "article": "die",
-      "fa": "همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Kollegin.ogg"
-    },
-    {
-      "id": "v60",
+      "id": "v25",
       "de": "Konzert",
       "en": "concert",
       "pos": "noun",
       "article": "das",
       "fa": "کنسرت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-Konzert.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-Konzert.ogg",
+      "exampleDe": "Ich freue mich schon so auf das Konzert.",
+      "exampleEn": "I'm really looking forward to the concert.",
+      "exampleFa": "من واقعاً منتظر کنسرت هستم."
     },
     {
-      "id": "v61",
-      "de": "Kurs",
-      "en": "course",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دوره؛ کلاس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Kurs.ogg"
-    },
-    {
-      "id": "v62",
-      "de": "Kursbuch",
-      "en": "course book",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کتاب دوره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Kursbuch.ogg"
-    },
-    {
-      "id": "v63",
-      "de": "Kursleiter",
-      "en": "instructor",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مربی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-Kursleiter.ogg"
-    },
-    {
-      "id": "v64",
-      "de": "Land",
-      "en": "country",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کشور؛ سرزمین",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-Land.ogg"
-    },
-    {
-      "id": "v65",
-      "de": "Laut",
-      "en": "loud",
-      "pos": "noun",
-      "article": "der",
-      "fa": "بلند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-Laut.ogg"
-    },
-    {
-      "id": "v66",
-      "de": "Lust",
-      "en": "desire",
-      "pos": "noun",
-      "article": "die",
-      "fa": "حوصله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/De-Lust.ogg"
-    },
-    {
-      "id": "v67",
-      "de": "Markt",
-      "en": "market",
-      "pos": "noun",
-      "article": "der",
-      "fa": "فروشگاه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Markt.ogg"
-    },
-    {
-      "id": "v68",
+      "id": "v26",
       "de": "Mensch",
       "en": "person",
       "pos": "noun",
       "article": "der",
       "fa": "شخص",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Mensch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Mensch.ogg",
+      "exampleDe": "Mensch, Jürgen.",
+      "exampleEn": "Man, Jürgen.",
+      "exampleFa": "مرد، یورگن."
     },
     {
-      "id": "v69",
-      "de": "Minute",
-      "en": "minute",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دقیقه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Minute.ogg"
-    },
-    {
-      "id": "v70",
+      "id": "v27",
       "de": "Mittag",
       "en": "noon / midday",
       "pos": "noun",
       "article": "der",
       "fa": "ظهر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Mittag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Mittag.ogg",
+      "exampleDe": "Tagsüber alle vier Stunden: morgens, mittags, nachmittags und noch einmal abends, zwei Tabletten.",
+      "exampleEn": "Every four hours during the day: morning, noon, afternoon and again in the evening, two tablets.",
+      "exampleFa": "هر چهار ساعت در طول روز: صبح، ظهر، بعدازظهر و دوباره در شب، دو قرص."
     },
     {
-      "id": "v71",
+      "id": "v28",
       "de": "Mittwoch",
       "en": "wednesday",
       "pos": "noun",
       "article": "der",
-      "fa": "چهارشنبه"
+      "fa": "چهارشنبه",
+      "exampleDe": "Nein, Mittwoch geht nicht.",
+      "exampleEn": "No, Wednesday is not possible.",
+      "exampleFa": "نه چهارشنبه امکان پذیر نیست."
     },
     {
-      "id": "v72",
-      "de": "Monat",
-      "en": "month",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ماه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-Monat.ogg"
-    },
-    {
-      "id": "v73",
-      "de": "Montag",
-      "en": "monday",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دوشنبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Montag.ogg"
-    },
-    {
-      "id": "v74",
-      "de": "Morgen",
-      "en": "morning; tomorrow",
-      "pos": "noun",
-      "article": "der",
-      "fa": "صبح؛ فردا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Morgen.ogg"
-    },
-    {
-      "id": "v75",
-      "de": "Mädchen",
-      "en": "girl",
-      "pos": "noun",
-      "article": "das",
-      "fa": "دختر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-M%C3%A4dchen.ogg"
-    },
-    {
-      "id": "v76",
+      "id": "v29",
       "de": "Nachmittag",
       "en": "afternoon",
       "pos": "noun",
       "article": "der",
       "fa": "بعد از ظهر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-Nachmittag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-Nachmittag.ogg",
+      "exampleDe": "Am Nachmittag um Viertel nach fünf habe ich einen Friseurtermin und am Abend um Viertel vor acht gehe ich ins Kino.",
+      "exampleEn": "I have a hair appointment at quarter past five in the afternoon and I go to the cinema at quarter to eight in the evening.",
+      "exampleFa": "من ساعت پنج و ربع بعدازظهر وقت مو دارم و ساعت ربع الی هشت شب به سینما می روم."
     },
     {
-      "id": "v77",
-      "de": "Nacht",
-      "en": "night",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Nacht.ogg"
-    },
-    {
-      "id": "v78",
-      "de": "Natur",
-      "en": "nature",
-      "pos": "noun",
-      "article": "die",
-      "fa": "طبیعت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-Natur.ogg"
-    },
-    {
-      "id": "v79",
-      "de": "Nomen",
-      "en": "noun",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اسم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Nomen.ogg"
-    },
-    {
-      "id": "v80",
+      "id": "v30",
       "de": "November",
       "en": "november",
       "pos": "noun",
@@ -761,34 +366,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-November.ogg"
     },
     {
-      "id": "v81",
-      "de": "Oktober",
-      "en": "october",
-      "pos": "noun",
-      "article": "der",
-      "fa": "اکتبر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Oktober.ogg"
-    },
-    {
-      "id": "v82",
+      "id": "v31",
       "de": "Park",
       "en": "park",
       "pos": "noun",
       "article": "der",
       "fa": "پارک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-Park.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-Park.ogg",
+      "exampleDe": "Schauen Sie: Es gibt da auch einen Park and Ride-Parkplatz am Stadtrand.",
+      "exampleEn": "Look: There is also a Park and Ride car park on the outskirts of town.",
+      "exampleFa": "نگاه کنید: یک پارکینگ پارک اند راید نیز در حومه شهر وجود دارد."
     },
     {
-      "id": "v83",
-      "de": "Party",
-      "en": "party",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جشن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Party.ogg"
-    },
-    {
-      "id": "v84",
+      "id": "v32",
       "de": "Plakat",
       "en": "poster",
       "pos": "noun",
@@ -797,25 +387,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Plakat.ogg"
     },
     {
-      "id": "v85",
-      "de": "Position",
-      "en": "position / job title",
-      "pos": "noun",
-      "article": "die",
-      "fa": "موقعیت؛ پست",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-Position.ogg"
-    },
-    {
-      "id": "v86",
-      "de": "Problem",
-      "en": "problem",
-      "pos": "noun",
-      "article": "das",
-      "fa": "مشکل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/De-Problem.ogg"
-    },
-    {
-      "id": "v87",
+      "id": "v33",
       "de": "Ratespiel",
       "en": "guessing game",
       "pos": "noun",
@@ -824,140 +396,67 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Ratespiel.ogg"
     },
     {
-      "id": "v88",
-      "de": "Redemittel",
-      "en": "useful phrases",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عبارات آماده گفتار"
-    },
-    {
-      "id": "v89",
-      "de": "Regel",
-      "en": "rule",
-      "pos": "noun",
-      "article": "die",
-      "fa": "قاعده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Regel.ogg"
-    },
-    {
-      "id": "v90",
+      "id": "v34",
       "de": "Regen",
       "en": "rain",
       "pos": "noun",
       "article": "der",
       "fa": "باران",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Regen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Regen.ogg",
+      "exampleDe": "Sonne, Regen oder …",
+      "exampleEn": "Sun, rain or...",
+      "exampleFa": "آفتاب، باران یا..."
     },
     {
-      "id": "v91",
-      "de": "Restaurant",
-      "en": "restaurant",
-      "pos": "noun",
-      "article": "das",
-      "fa": "رستوران",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Restaurant.ogg"
-    },
-    {
-      "id": "v92",
+      "id": "v35",
       "de": "Samstag",
       "en": "saturday",
       "pos": "noun",
       "article": "der",
       "fa": "شنبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/De-Samstag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/De-Samstag.ogg",
+      "exampleDe": "Oh, ja, Sport, na ja, am Wochenende kann ich nicht, am Freitag und Samstag bin ich in Stuttgart.",
+      "exampleEn": "Oh, yes, sports, well, I can't do it at the weekend, I'm in Stuttgart on Friday and Saturday.",
+      "exampleFa": "اوه، بله، ورزش، خوب، من نمی توانم آن را در آخر هفته انجام دهم، من جمعه و شنبه در اشتوتگارت هستم."
     },
     {
-      "id": "v93",
-      "de": "Satz",
-      "en": "sentence",
-      "pos": "noun",
-      "article": "der",
-      "fa": "جمله"
-    },
-    {
-      "id": "v94",
-      "de": "Satzende",
-      "en": "End of sentence",
-      "pos": "noun",
-      "article": "das",
-      "fa": "پایان جمله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Satzende.ogg"
-    },
-    {
-      "id": "v95",
-      "de": "Schreiben",
-      "en": "to write",
-      "pos": "noun",
-      "article": "das",
-      "fa": "نوشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Schreiben.ogg"
-    },
-    {
-      "id": "v96",
-      "de": "Schule",
-      "en": "school",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مدرسه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Schule.ogg"
-    },
-    {
-      "id": "v97",
+      "id": "v36",
       "de": "September",
       "en": "september",
       "pos": "noun",
       "article": "der",
       "fa": "سپتامبر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-September.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-September.ogg",
+      "exampleDe": "Und September?",
+      "exampleEn": "And September?",
+      "exampleFa": "و سپتامبر؟"
     },
     {
-      "id": "v98",
-      "de": "Sommer",
-      "en": "summer",
-      "pos": "noun",
-      "article": "der",
-      "fa": "تابستان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-Sommer.ogg"
-    },
-    {
-      "id": "v99",
+      "id": "v37",
       "de": "Sonne",
       "en": "sun",
       "pos": "noun",
       "article": "die",
       "fa": "خورشید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Sonne.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Sonne.ogg",
+      "exampleDe": "Sonne, Regen oder …",
+      "exampleEn": "Sun, rain or...",
+      "exampleFa": "آفتاب، باران یا..."
     },
     {
-      "id": "v100",
+      "id": "v38",
       "de": "Sonntag",
       "en": "sunday",
       "pos": "noun",
       "article": "der",
       "fa": "یکشنبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Sonntag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Sonntag.ogg",
+      "exampleDe": "Am Sonntag aber nicht.",
+      "exampleEn": "But not on Sunday.",
+      "exampleFa": "اما نه یکشنبه."
     },
     {
-      "id": "v101",
-      "de": "Sport",
-      "en": "sport",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ورزش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Sport.ogg"
-    },
-    {
-      "id": "v102",
-      "de": "Stadt",
-      "en": "city",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شهر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-Stadt.ogg"
-    },
-    {
-      "id": "v103",
+      "id": "v39",
       "de": "Stil",
       "en": "style",
       "pos": "noun",
@@ -966,16 +465,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/De-Stil.ogg"
     },
     {
-      "id": "v104",
+      "id": "v40",
       "de": "Stunde",
       "en": "hour",
       "pos": "noun",
       "article": "die",
       "fa": "ساعت (مدت)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Stunde.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Stunde.ogg",
+      "exampleDe": "Ich sitze hier und warte schon drei Stunden.",
+      "exampleEn": "I've been sitting here waiting for three hours.",
+      "exampleFa": "من سه ساعت اینجا نشسته ام و منتظرم."
     },
     {
-      "id": "v105",
+      "id": "v41",
       "de": "Subjekt",
       "en": "subject",
       "pos": "noun",
@@ -984,16 +486,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-Subjekt.ogg"
     },
     {
-      "id": "v106",
-      "de": "Tabelle",
-      "en": "table",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جدول",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Tabelle.ogg"
-    },
-    {
-      "id": "v107",
+      "id": "v42",
       "de": "Tageszeit",
       "en": "Time of day",
       "pos": "noun",
@@ -1002,79 +495,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Tageszeit.ogg"
     },
     {
-      "id": "v108",
-      "de": "Teil",
-      "en": "part",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قسمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Teil.ogg"
-    },
-    {
-      "id": "v109",
-      "de": "Telefongespräch",
-      "en": "Telephone conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگوی تلفنی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Telefongespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v110",
-      "de": "Termin",
-      "en": "appointment",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قرار ملاقات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Termin.ogg"
-    },
-    {
-      "id": "v111",
-      "de": "Terminkalender",
-      "en": "appointment calendar",
-      "pos": "noun",
-      "article": "der",
-      "fa": "تقویم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Terminkalender.ogg"
-    },
-    {
-      "id": "v112",
-      "de": "Text",
-      "en": "text",
-      "pos": "noun",
-      "article": "der",
-      "fa": "متن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-Text.ogg"
-    },
-    {
-      "id": "v113",
+      "id": "v43",
       "de": "Theater",
       "en": "theater",
       "pos": "noun",
       "article": "das",
       "fa": "تئاتر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Theater.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Theater.ogg",
+      "exampleDe": "Ich gehe zum Beispiel gerne ins Theater.",
+      "exampleEn": "For example, I like going to the theater.",
+      "exampleFa": "مثلا من تئاتر رفتن را دوست دارم."
     },
     {
-      "id": "v114",
-      "de": "Tier",
-      "en": "animal",
-      "pos": "noun",
-      "article": "das",
-      "fa": "حیوان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/De-Tier.ogg"
-    },
-    {
-      "id": "v115",
-      "de": "treffen",
-      "en": "to meet",
-      "pos": "noun",
-      "article": "das",
-      "fa": "ملاقات؛ قرار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Treffen.ogg"
-    },
-    {
-      "id": "v116",
+      "id": "v44",
       "de": "Uhrzeit",
       "en": "time of day (clock time)",
       "pos": "noun",
@@ -1083,25 +516,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-Uhrzeit.ogg"
     },
     {
-      "id": "v117",
-      "de": "Unternehmen",
-      "en": "pursue",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کار تفریحی انجام دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-Unternehmen.ogg"
-    },
-    {
-      "id": "v118",
-      "de": "Urlaub",
-      "en": "vacation / holiday",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مرخصی؛ تعطیلات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Urlaub.ogg"
-    },
-    {
-      "id": "v119",
+      "id": "v45",
       "de": "Urlaubsgruß",
       "en": "Holiday greeting",
       "pos": "noun",
@@ -1109,7 +524,7 @@
       "fa": "تبریک عید"
     },
     {
-      "id": "v120",
+      "id": "v46",
       "de": "Urlaubsmail",
       "en": "Holiday email",
       "pos": "noun",
@@ -1117,25 +532,7 @@
       "fa": "ایمیل تعطیلات"
     },
     {
-      "id": "v121",
-      "de": "Vater",
-      "en": "father",
-      "pos": "noun",
-      "article": "der",
-      "fa": "پدر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Vater.ogg"
-    },
-    {
-      "id": "v122",
-      "de": "Verb",
-      "en": "verb",
-      "pos": "noun",
-      "article": "das",
-      "fa": "فعل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/De-Verb.ogg"
-    },
-    {
-      "id": "v123",
+      "id": "v47",
       "de": "Verneinung",
       "en": "negation",
       "pos": "noun",
@@ -1144,61 +541,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Verneinung.ogg"
     },
     {
-      "id": "v124",
+      "id": "v48",
       "de": "Viertel",
       "en": "neighbourhood",
       "pos": "noun",
       "article": "das",
       "fa": "یک چهارم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Viertel.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Viertel.ogg",
+      "exampleDe": "Am Nachmittag um Viertel nach fünf habe ich einen Friseurtermin und am Abend um Viertel vor acht gehe ich ins Kino.",
+      "exampleEn": "I have a hair appointment at quarter past five in the afternoon and I go to the cinema at quarter to eight in the evening.",
+      "exampleFa": "من ساعت پنج و ربع بعدازظهر وقت مو دارم و ساعت ربع الی هشت شب به سینما می روم."
     },
     {
-      "id": "v125",
+      "id": "v49",
       "de": "Vormittag",
       "en": "morning (before noon)",
       "pos": "noun",
       "article": "der",
       "fa": "اواخر صبح",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Vormittag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Vormittag.ogg",
+      "exampleDe": "Am Vormittag musst du noch den Haushalt machen.",
+      "exampleEn": "In the morning you still have to do the housework.",
+      "exampleFa": "صبح هنوز باید کارهای خانه را انجام دهید."
     },
     {
-      "id": "v126",
-      "de": "Wetter",
-      "en": "weather",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هوا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Wetter.ogg"
-    },
-    {
-      "id": "v127",
-      "de": "Winter",
-      "en": "winter",
-      "pos": "noun",
-      "article": "der",
-      "fa": "زمستان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-Winter.ogg"
-    },
-    {
-      "id": "v128",
-      "de": "Woche",
-      "en": "week",
-      "pos": "noun",
-      "article": "die",
-      "fa": "هفته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-Woche.ogg"
-    },
-    {
-      "id": "v129",
-      "de": "Wochenende",
-      "en": "weekend",
-      "pos": "noun",
-      "article": "das",
-      "fa": "آخر هفته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/De-Wochenende.ogg"
-    },
-    {
-      "id": "v130",
+      "id": "v50",
       "de": "Wochentage",
       "en": "weekdays",
       "pos": "noun",
@@ -1207,25 +574,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/De-Wochentage.ogg"
     },
     {
-      "id": "v131",
-      "de": "Zeit",
-      "en": "time",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زمان؛ وقت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Zeit.ogg"
-    },
-    {
-      "id": "v132",
-      "de": "Zettel",
-      "en": "note",
-      "pos": "noun",
-      "article": "der",
-      "fa": "توجه داشته باشید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Zettel.ogg"
-    },
-    {
-      "id": "v133",
+      "id": "v51",
       "de": "Öffnungszeit",
       "en": "Opening time",
       "pos": "noun",
@@ -1234,150 +583,91 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-%C3%96ffnungszeit.ogg"
     },
     {
-      "id": "v134",
+      "id": "v52",
       "de": "aufstehen",
       "en": "to get up",
       "pos": "verb",
       "fa": "بلند شدن، ایستادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-aufstehen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-aufstehen.ogg",
+      "exampleDe": "Ich muss um 6.00 Uhr aufstehen und muss die Kinder um 6.15 Uhr wecken.",
+      "exampleEn": "I have to get up at 6:00 a.m. and wake up the kids at 6:15 a.m.",
+      "exampleFa": "من باید ساعت 6:00 صبح بیدار شوم و بچه ها را ساعت 6:15 بیدار کنم."
     },
     {
-      "id": "v135",
-      "de": "ausdrücken",
-      "en": "to express",
-      "pos": "verb",
-      "fa": "بیان کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-ausdr%C3%BCcken.ogg"
-    },
-    {
-      "id": "v136",
-      "de": "beantworten",
-      "en": "answer",
-      "pos": "verb",
-      "fa": "جواب دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-beantworten.ogg"
-    },
-    {
-      "id": "v137",
+      "id": "v53",
       "de": "beginnen",
       "en": "to begin",
       "pos": "verb",
       "fa": "شروع کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/De-beginnen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/De-beginnen.ogg",
+      "exampleDe": "Also: Der Tag beginnt sehr früh.",
+      "exampleEn": "So: The day starts very early.",
+      "exampleFa": "بنابراین: روز خیلی زود شروع می شود."
     },
     {
-      "id": "v138",
-      "de": "benutzen",
-      "en": "to use",
-      "pos": "verb",
-      "fa": "استفاده کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-benutzen.ogg"
-    },
-    {
-      "id": "v139",
-      "de": "enden",
-      "en": "to end",
-      "pos": "verb",
-      "fa": "پایان یافتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/De-enden.ogg"
-    },
-    {
-      "id": "v140",
-      "de": "ergänzen",
-      "en": "to complete / fill in",
-      "pos": "verb",
-      "fa": "تکمیل کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-erg%C3%A4nzen.ogg"
-    },
-    {
-      "id": "v141",
+      "id": "v54",
       "de": "freihaben",
       "en": "to have time off",
       "pos": "verb",
       "fa": "مرخصی داشته باشید"
     },
     {
-      "id": "v142",
+      "id": "v55",
       "de": "funktionieren",
       "en": "to function",
       "pos": "verb",
-      "fa": "درست کار کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-funktionieren.ogg"
+      "fa": "hat funktioniert درست کار کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-funktionieren.ogg",
+      "exampleDe": "Wissen Sie, mein Navi funktioniert nicht und ich kenne Wien gar nicht.",
+      "exampleEn": "You know, my navigation system doesn't work and I don't know Vienna at all.",
+      "exampleFa": "میدونی سیستم ناوبری من کار نمیکنه و اصلا وین رو نمیشناسم."
     },
     {
-      "id": "v143",
+      "id": "v56",
       "de": "gründen",
       "en": "to found",
       "pos": "verb",
-      "fa": "تاسیس کردن - )",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-gr%C3%BCnden.ogg"
+      "fa": "تاسیس کردن er gründet- gründete- hat gegründet)",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-gr%C3%BCnden.ogg",
+      "exampleDe": "Was waren denn Ihre Gründe, aus den Niederlanden wegzugehen?",
+      "exampleEn": "What were your reasons for leaving the Netherlands?",
+      "exampleFa": "دلایل شما برای ترک هلند چه بود؟"
     },
     {
-      "id": "v144",
-      "de": "grüßen",
-      "en": "to greet",
-      "pos": "verb",
-      "fa": "سلام کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/De-gr%C3%BC%C3%9Fen.ogg"
-    },
-    {
-      "id": "v145",
-      "de": "hören",
-      "en": "to hear",
-      "pos": "verb",
-      "fa": "شنیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-h%C3%B6ren.ogg"
-    },
-    {
-      "id": "v146",
+      "id": "v57",
       "de": "planen",
       "en": "to plan",
       "pos": "verb",
       "fa": "برنامه ریزی کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/De-planen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/De-planen.ogg",
+      "exampleDe": "Da ist auch ein Plan.",
+      "exampleEn": "There is also a plan.",
+      "exampleFa": "یک طرح نیز وجود دارد."
     },
     {
-      "id": "v147",
+      "id": "v58",
       "de": "produzieren",
       "en": "to produce",
       "pos": "verb",
-      "fa": "تولید کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/De-produzieren.ogg"
+      "fa": "تولید کردن er produziert",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/De-produzieren.ogg",
+      "exampleDe": "Hier in Dresden gibt es ja solche Hochtechnologie-Firmen, die Chips produzieren.",
+      "exampleEn": "Here in Dresden there are such high-tech companies that produce chips.",
+      "exampleFa": "در درسدن چنین شرکت هایی با فناوری پیشرفته وجود دارند که تراشه ها را تولید می کنند."
     },
     {
-      "id": "v148",
-      "de": "raten",
-      "en": "guess",
-      "pos": "verb",
-      "fa": "حدس زدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-raten.ogg"
-    },
-    {
-      "id": "v149",
-      "de": "regeln",
-      "en": "regulate",
-      "pos": "verb",
-      "fa": "مرتب کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-regeln.ogg"
-    },
-    {
-      "id": "v150",
-      "de": "schauen",
-      "en": "to look",
-      "pos": "verb",
-      "fa": "نگاه کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-schauen.ogg"
-    },
-    {
-      "id": "v151",
+      "id": "v59",
       "de": "singen",
       "en": "sing",
       "pos": "verb",
-      "fa": "آواز خواندن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-singen.ogg"
+      "fa": "آواز خواندن er singt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-singen.ogg",
+      "exampleDe": "Jedesmol, wann de wach weed, bezahlt hä sing Rechnung openeus!”",
+      "exampleEn": "Every time you wake up weed, you pay your bill openly!”",
+      "exampleFa": "هر بار که علف هرز از خواب بیدار می شوید، قبض خود را آشکارا پرداخت می کنید!»"
     },
     {
-      "id": "v152",
+      "id": "v60",
       "de": "verabreden",
       "en": "to arrange to meet",
       "pos": "verb",
@@ -1385,87 +675,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/De-verabreden.ogg"
     },
     {
-      "id": "v153",
-      "de": "verstehen",
-      "en": "understand",
-      "pos": "verb",
-      "fa": "فهمیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-verstehen.ogg"
-    },
-    {
-      "id": "v154",
-      "de": "zahlen",
-      "en": "to pay",
-      "pos": "verb",
-      "fa": "پرداخت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-zahlen.ogg"
-    },
-    {
-      "id": "v155",
-      "de": "besonders",
-      "en": "particularly",
-      "pos": "other",
-      "fa": "مخصوصا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-besonders.ogg"
-    },
-    {
-      "id": "v156",
-      "de": "bestimmt",
-      "en": "certainly",
-      "pos": "other",
-      "fa": "قطعا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-bestimmt.ogg"
-    },
-    {
-      "id": "v157",
-      "de": "da",
-      "en": "there",
-      "pos": "other",
-      "fa": "آنجا، آنوقت، چون",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-da.ogg"
-    },
-    {
-      "id": "v158",
-      "de": "ernst",
-      "en": "serious",
-      "pos": "other",
-      "fa": "بطور جدی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-ernst.ogg"
-    },
-    {
-      "id": "v159",
-      "de": "frei",
-      "en": "free",
-      "pos": "other",
-      "fa": "آزاد، خالی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/De-frei.ogg"
-    },
-    {
-      "id": "v160",
+      "id": "v61",
       "de": "gelb",
       "en": "yellow",
       "pos": "other",
       "fa": "زرد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-gelb.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-gelb.ogg",
+      "exampleDe": "Also, als ich schon an der Kreuzung war, ist die Ampel gelb geworden.",
+      "exampleEn": "So, when I was already at the intersection, the traffic light turned yellow.",
+      "exampleFa": "بنابراین، زمانی که من قبلاً در چهارراه بودم، چراغ راهنمایی زرد شد."
     },
     {
-      "id": "v161",
-      "de": "gibt es",
-      "en": "there is",
-      "pos": "phrase",
-      "fa": "وجود دارد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-gibt.ogg"
-    },
-    {
-      "id": "v162",
-      "de": "grün",
-      "en": "green",
-      "pos": "other",
-      "fa": "سبز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-gr%C3%BCn.ogg"
-    },
-    {
-      "id": "v163",
+      "id": "v62",
       "de": "halb neun",
       "en": "half past eight (8:30)",
       "pos": "phrase",
@@ -1473,87 +694,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-halb.ogg"
     },
     {
-      "id": "v164",
-      "de": "herzlich",
-      "en": "heartfelt",
-      "pos": "other",
-      "fa": "از صمیم قلب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-herzlich.ogg"
-    },
-    {
-      "id": "v165",
-      "de": "immer",
-      "en": "always",
-      "pos": "other",
-      "fa": "همیشه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-immer.ogg"
-    },
-    {
-      "id": "v166",
+      "id": "v63",
       "de": "kein",
       "en": "no / not a",
       "pos": "other",
       "fa": "نه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-kein.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-kein.ogg",
+      "exampleDe": "Kein Problem.",
+      "exampleEn": "No problem.",
+      "exampleFa": "مشکلی نیست"
     },
     {
-      "id": "v167",
-      "de": "kennen lernen",
-      "en": "get to know",
-      "pos": "phrase",
-      "fa": "آشنا شدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-kennen.ogg"
-    },
-    {
-      "id": "v168",
-      "de": "klein",
-      "en": "small",
-      "pos": "other",
-      "fa": "کوچک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-klein.ogg"
-    },
-    {
-      "id": "v169",
-      "de": "möglich",
-      "en": "possible",
-      "pos": "other",
-      "fa": "ممکن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-m%C3%B6glich.ogg"
-    },
-    {
-      "id": "v170",
-      "de": "neu",
-      "en": "new",
-      "pos": "other",
-      "fa": "جدید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-neu.ogg"
-    },
-    {
-      "id": "v171",
+      "id": "v64",
       "de": "nicht",
       "en": "not",
       "pos": "adverb",
       "fa": "نه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-nicht.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-nicht.ogg",
+      "exampleDe": "Ich höre Sie nicht.",
+      "exampleEn": "I don't hear you.",
+      "exampleFa": "من صدایت را نمی شنوم"
     },
     {
-      "id": "v172",
-      "de": "nur",
-      "en": "only",
-      "pos": "other",
-      "fa": "صرفا، فقط",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-nur.ogg"
-    },
-    {
-      "id": "v173",
-      "de": "perfekt",
-      "en": "present perfect tense",
-      "pos": "other",
-      "fa": "بی عیب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-Perfekt.ogg"
-    },
-    {
-      "id": "v174",
+      "id": "v65",
       "de": "populär",
       "en": "popular",
       "pos": "other",
@@ -1561,39 +724,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/De-popul%C3%A4r.ogg"
     },
     {
-      "id": "v175",
-      "de": "rund",
-      "en": "around",
-      "pos": "other",
-      "fa": "حدوداً =ca.",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-rund.ogg"
-    },
-    {
-      "id": "v176",
-      "de": "sicher",
-      "en": "secure",
-      "pos": "other",
-      "fa": "حتما",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-sicher.ogg"
-    },
-    {
-      "id": "v177",
-      "de": "teuer",
-      "en": "expensive",
-      "pos": "other",
-      "fa": "گران قیمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-teuer.ogg"
-    },
-    {
-      "id": "v178",
+      "id": "v66",
       "de": "total",
       "en": "total",
       "pos": "other",
       "fa": "کاملا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-total.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-total.ogg",
+      "exampleDe": "Das ist total praktisch.",
+      "exampleEn": "This is totally practical.",
+      "exampleFa": "این کاملا عملی است."
     },
     {
-      "id": "v179",
+      "id": "v67",
       "de": "um acht Uhr",
       "en": "at eight o’clock",
       "pos": "phrase",
@@ -1601,7 +743,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-um.ogg"
     },
     {
-      "id": "v180",
+      "id": "v68",
       "de": "Viertel nach",
       "en": "quarter past",
       "pos": "phrase",
@@ -1609,7 +751,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Viertel.ogg"
     },
     {
-      "id": "v181",
+      "id": "v69",
       "de": "Viertel vor",
       "en": "quarter to",
       "pos": "phrase",
@@ -1617,20 +759,12 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Viertel.ogg"
     },
     {
-      "id": "v182",
+      "id": "v70",
       "de": "Wann?",
       "en": "when?",
       "pos": "phrase",
       "fa": "چه زمانی؟",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Wann.ogg"
-    },
-    {
-      "id": "v183",
-      "de": "über",
-      "en": "about / over",
-      "pos": "other",
-      "fa": "بالای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-%C3%BCber.ogg"
     }
   ],
   "grammar": [

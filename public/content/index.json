@@ -179,7 +179,7 @@
       "number": 20,
       "titleDe": "Verkehrsunfall in der Innenstadt",
       "titleEn": "Traffic accident downtown",
-      "status": "stub",
+      "status": "complete",
       "order": 20
     },
     {
@@ -188,7 +188,7 @@
       "number": 21,
       "titleDe": "Kreativ in Hamburg",
       "titleEn": "Creative in Hamburg",
-      "status": "stub",
+      "status": "complete",
       "order": 21
     },
     {
@@ -197,7 +197,7 @@
       "number": 22,
       "titleDe": "Ab die Post",
       "titleEn": "Off to the post office",
-      "status": "stub",
+      "status": "complete",
       "order": 22
     },
     {
@@ -206,7 +206,7 @@
       "number": 23,
       "titleDe": "Studium in Deutschland",
       "titleEn": "Studying in Germany",
-      "status": "stub",
+      "status": "complete",
       "order": 23
     },
     {
@@ -215,7 +215,7 @@
       "number": 24,
       "titleDe": "Mit der Natur arbeiten",
       "titleEn": "Working with nature",
-      "status": "stub",
+      "status": "complete",
       "order": 24
     },
     {
@@ -224,7 +224,7 @@
       "number": 25,
       "titleDe": "Die Kunst, (keine) Fehler zu machen",
       "titleEn": "The art of (not) making mistakes",
-      "status": "stub",
+      "status": "complete",
       "order": 25
     },
     {
@@ -233,7 +233,7 @@
       "number": 26,
       "titleDe": "Auf nach Dresden!",
       "titleEn": "Off to Dresden!",
-      "status": "stub",
+      "status": "complete",
       "order": 26
     },
     {
@@ -242,7 +242,7 @@
       "number": 27,
       "titleDe": "Geschichten und Gesichter Berlins",
       "titleEn": "Berlin's stories and faces",
-      "status": "stub",
+      "status": "complete",
       "order": 27
     },
     {
@@ -251,7 +251,7 @@
       "number": 28,
       "titleDe": "Von hier nach dort – von dort nach hier",
       "titleEn": "From here to there – from there to here",
-      "status": "stub",
+      "status": "complete",
       "order": 28
     },
     {
@@ -260,7 +260,7 @@
       "number": 29,
       "titleDe": "Interessieren Sie sich für Politik?",
       "titleEn": "Are you interested in politics?",
-      "status": "stub",
+      "status": "complete",
       "order": 29
     },
     {
@@ -269,7 +269,7 @@
       "number": 30,
       "titleDe": "Hauptperson Deutsch",
       "titleEn": "German takes center stage",
-      "status": "stub",
+      "status": "complete",
       "order": 30
     }
   ]

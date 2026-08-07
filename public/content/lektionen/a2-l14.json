@@ -25,105 +25,18 @@
   "vocab": [
     {
       "id": "v1",
-      "de": "Abschnitt",
-      "en": "section",
-      "pos": "noun",
-      "article": "der",
-      "fa": "بخش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-Abschnitt.ogg"
-    },
-    {
-      "id": "v2",
-      "de": "Abteilung",
-      "en": "department",
-      "pos": "noun",
-      "article": "die",
-      "fa": "بخش، واحد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/De-Abteilung.ogg"
-    },
-    {
-      "id": "v3",
-      "de": "anderen",
-      "en": "others",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دیگران",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/De-anderen.ogg"
-    },
-    {
-      "id": "v4",
-      "de": "Anfang",
-      "en": "beginning",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آغاز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Anfang.ogg"
-    },
-    {
-      "id": "v5",
-      "de": "Angebot",
-      "en": "offer",
-      "pos": "noun",
-      "article": "das",
-      "fa": "پیشنهاد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Angebot.ogg"
-    },
-    {
-      "id": "v6",
-      "de": "Anrede",
-      "en": "salutation",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سلام",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-Anrede.ogg"
-    },
-    {
-      "id": "v7",
-      "de": "Artikel",
-      "en": "article",
-      "pos": "noun",
-      "article": "der",
-      "fa": "حرف تعریف؛ مقاله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Artikel.ogg"
-    },
-    {
-      "id": "v8",
-      "de": "Ausland",
-      "en": "abroad",
-      "pos": "noun",
-      "article": "das",
-      "fa": "خارج از کشور",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Ausland.ogg"
-    },
-    {
-      "id": "v9",
       "de": "Ausschnitt",
       "en": "detail",
       "pos": "noun",
       "article": "der",
       "fa": "جزئیات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-Ausschnitt.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-Ausschnitt.ogg",
+      "exampleDe": "Ich möchte lieber diesen Baumwollpulli mit V-Ausschnitt hier.",
+      "exampleEn": "I'd rather have this cotton V-neck sweater here.",
+      "exampleFa": "من ترجیح می دهم این ژاکت پنبه ای یقه V را اینجا داشته باشم."
     },
     {
-      "id": "v10",
-      "de": "Baumwolle",
-      "en": "cotton",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پنبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/De-Baumwolle.ogg"
-    },
-    {
-      "id": "v11",
-      "de": "Bedeutung",
-      "en": "meaning",
-      "pos": "noun",
-      "article": "die",
-      "fa": "معنی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Bedeutung.ogg"
-    },
-    {
-      "id": "v12",
+      "id": "v2",
       "de": "Bekleidung",
       "en": "clothing",
       "pos": "noun",
@@ -132,25 +45,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-Bekleidung.ogg"
     },
     {
-      "id": "v13",
-      "de": "Besucher",
-      "en": "visitor",
-      "pos": "noun",
-      "article": "der",
-      "fa": "بازدید کننده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/De-Besucher.ogg"
-    },
-    {
-      "id": "v14",
-      "de": "Betrieb",
-      "en": "operation",
-      "pos": "noun",
-      "article": "der",
-      "fa": "کارخانه؛ محل کار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Betrieb.ogg"
-    },
-    {
-      "id": "v15",
+      "id": "v3",
       "de": "Bierfass",
       "en": "Beer barrel",
       "pos": "noun",
@@ -159,7 +54,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-Bierfass.ogg"
     },
     {
-      "id": "v16",
+      "id": "v4",
       "de": "Bierzelt",
       "en": "beer tent",
       "pos": "noun",
@@ -168,43 +63,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-Bierzelt.ogg"
     },
     {
-      "id": "v17",
-      "de": "Bild",
-      "en": "picture / painting",
-      "pos": "noun",
-      "article": "das",
-      "fa": "شکل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-Bild.ogg"
-    },
-    {
-      "id": "v18",
-      "de": "Bitte",
-      "en": "please; request",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خواهش؛ لطفاً",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Bitte.ogg"
-    },
-    {
-      "id": "v19",
-      "de": "Blick",
-      "en": "look; view",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نگاه؛ چشم‌انداز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Blick.ogg"
-    },
-    {
-      "id": "v20",
+      "id": "v5",
       "de": "Bluse",
       "en": "blouse",
       "pos": "noun",
       "article": "die",
       "fa": "بلوز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-Bluse.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-Bluse.ogg",
+      "exampleDe": "Gefällt dir die Bluse wirklich?",
+      "exampleEn": "Do you really like the blouse?",
+      "exampleFa": "آیا شما واقعا بلوز را دوست دارید؟"
     },
     {
-      "id": "v21",
+      "id": "v6",
       "de": "Brathendl",
       "en": "Fried chicken",
       "pos": "noun",
@@ -213,16 +84,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Brathendl.ogg"
     },
     {
-      "id": "v22",
-      "de": "Bürger",
-      "en": "citizens",
-      "pos": "noun",
-      "article": "der",
-      "fa": "شهروند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-B%C3%BCrger.ogg"
-    },
-    {
-      "id": "v23",
+      "id": "v7",
       "de": "Bürgermeister",
       "en": "mayor",
       "pos": "noun",
@@ -231,7 +93,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/De-B%C3%BCrgermeister.ogg"
     },
     {
-      "id": "v24",
+      "id": "v8",
       "de": "Bürgermeisterin",
       "en": "mayor",
       "pos": "noun",
@@ -240,88 +102,67 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-B%C3%BCrgermeisterin.ogg"
     },
     {
-      "id": "v25",
+      "id": "v9",
       "de": "Campingplatz",
       "en": "campsite",
       "pos": "noun",
       "article": "der",
       "fa": "محل چادر زدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-Campingplatz.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-Campingplatz.ogg",
+      "exampleDe": "Na, aber für den Campingplatz ist es jetzt im Oktober wohl ein bisschen zu kalt!",
+      "exampleEn": "Well, it's probably a bit too cold for the campsite in October!",
+      "exampleFa": "خوب، احتمالاً برای کمپینگ در ماه اکتبر کمی سرد است!"
     },
     {
-      "id": "v26",
+      "id": "v10",
       "de": "Dame",
       "en": "lady",
       "pos": "noun",
       "article": "die",
       "fa": "خانم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/De-Dame.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/De-Dame.ogg",
+      "exampleDe": "Hier finden Sie Portemonnaies für Damen und Herren für nur 10 Euro und schicke Damenhandtaschen für nur 20 Euro.",
+      "exampleEn": "Here you will find wallets for men and women for just 10 euros and chic women's handbags for just 20 euros.",
+      "exampleFa": "در اینجا کیف پول های زنانه و مردانه تنها با قیمت 10 یورو و کیف های زنانه شیک تنها با قیمت 20 یورو پیدا خواهید کرد."
     },
     {
-      "id": "v27",
+      "id": "v11",
       "de": "Damenabteilung",
       "en": "Women's department",
       "pos": "noun",
       "article": "die",
       "fa": "بخش زنان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/De-Damenabteilung.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/De-Damenabteilung.ogg",
+      "exampleDe": "Und in der Damenabteilung: kurze Hosen, Sommerblusen und Sommerkleider um 25 % reduziert.",
+      "exampleEn": "And in the women's department: shorts, summer blouses and summer dresses reduced by 25%.",
+      "exampleFa": "و در بخش زنان: شورت، بلوز تابستانی و لباس تابستانی 25٪ کاهش یافته است."
     },
     {
-      "id": "v28",
+      "id": "v12",
       "de": "Daunenmantel",
       "en": "Down coat",
       "pos": "noun",
       "article": "der",
       "fa": "پالتو پر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/De-Daunenmantel.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/De-Daunenmantel.ogg",
+      "exampleDe": "Aah, vielleicht dann der Daunenmantel, echt schick und ideal für den Winter in Bayern.",
+      "exampleEn": "Aah, maybe the down coat, really chic and ideal for the winter in Bavaria.",
+      "exampleFa": "آه، شاید کت پایین، واقعا شیک و ایده آل برای زمستان در باواریا."
     },
     {
-      "id": "v29",
-      "de": "Dienst",
-      "en": "service",
-      "pos": "noun",
-      "article": "der",
-      "fa": "خدمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-Dienst.ogg"
-    },
-    {
-      "id": "v30",
+      "id": "v13",
       "de": "Dirndl",
       "en": "dirndl",
       "pos": "noun",
       "article": "das",
       "fa": "لباس سنتی زنانه بایرنی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Dirndl.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Dirndl.ogg",
+      "exampleDe": "Da vorne gibt es Dirndl!",
+      "exampleEn": "There are dirndls up front!",
+      "exampleFa": "dirndls در جلو وجود دارد!"
     },
     {
-      "id": "v31",
-      "de": "Durchsage",
-      "en": "announcement",
-      "pos": "noun",
-      "article": "die",
-      "fa": "اعلان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Durchsage.ogg"
-    },
-    {
-      "id": "v32",
-      "de": "Ende",
-      "en": "ending",
-      "pos": "noun",
-      "article": "das",
-      "fa": "پایان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Ende.ogg"
-    },
-    {
-      "id": "v33",
-      "de": "Endung",
-      "en": "ending (grammar)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پایان (دستوری)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-Endung.ogg"
-    },
-    {
-      "id": "v34",
+      "id": "v14",
       "de": "Erinnerung",
       "en": "memory",
       "pos": "noun",
@@ -330,16 +171,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-Erinnerung.ogg"
     },
     {
-      "id": "v35",
-      "de": "Essen",
-      "en": "food; to eat",
-      "pos": "noun",
-      "article": "das",
-      "fa": "غذا؛ خوردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Essen.ogg"
-    },
-    {
-      "id": "v36",
+      "id": "v15",
       "de": "Etikett",
       "en": "label",
       "pos": "noun",
@@ -348,7 +180,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/De-Etikett.ogg"
     },
     {
-      "id": "v37",
+      "id": "v16",
       "de": "Fahrgeschäft",
       "en": "fairground ride",
       "pos": "noun",
@@ -357,7 +189,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Fahrgesch%C3%A4ft.ogg"
     },
     {
-      "id": "v38",
+      "id": "v17",
       "de": "Feierlichkeit",
       "en": "solemnity",
       "pos": "noun",
@@ -366,34 +198,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-Feierlichkeit.ogg"
     },
     {
-      "id": "v39",
-      "de": "Fest",
-      "en": "festival / celebration",
-      "pos": "noun",
-      "article": "das",
-      "fa": "جشن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Fest.ogg"
-    },
-    {
-      "id": "v40",
-      "de": "Foto",
-      "en": "photo",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عکس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Foto.ogg"
-    },
-    {
-      "id": "v41",
-      "de": "Frühling",
-      "en": "spring",
-      "pos": "noun",
-      "article": "der",
-      "fa": "بهار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-Fr%C3%BChling.ogg"
-    },
-    {
-      "id": "v42",
+      "id": "v18",
       "de": "Gastgeber",
       "en": "host",
       "pos": "noun",
@@ -402,16 +207,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/De-Gastgeber.ogg"
     },
     {
-      "id": "v43",
+      "id": "v19",
       "de": "Gastronomie",
       "en": "gastronomy",
       "pos": "noun",
       "article": "die",
       "fa": "غذا شناسی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Gastronomie.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Gastronomie.ogg",
+      "exampleDe": "Und so kam die Idee, in der Gastronomie zu arbeiten.",
+      "exampleEn": "And so the idea of ​​working in the catering industry came about.",
+      "exampleFa": "و بدین ترتیب ایده کار در صنعت پذیرایی شکل گرفت."
     },
     {
-      "id": "v44",
+      "id": "v20",
       "de": "Gastwirt",
       "en": "innkeeper",
       "pos": "noun",
@@ -420,25 +228,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Gastwirt.ogg"
     },
     {
-      "id": "v45",
-      "de": "Gericht",
-      "en": "court",
-      "pos": "noun",
-      "article": "das",
-      "fa": "غذا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Gericht.ogg"
-    },
-    {
-      "id": "v46",
-      "de": "Geschichte",
-      "en": "story",
-      "pos": "noun",
-      "article": "die",
-      "fa": "داستان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Geschichte.ogg"
-    },
-    {
-      "id": "v47",
+      "id": "v21",
       "de": "Geschmack",
       "en": "The taste",
       "pos": "noun",
@@ -447,79 +237,43 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Geschmack.ogg"
     },
     {
-      "id": "v48",
+      "id": "v22",
       "de": "Geschäft",
       "en": "business",
       "pos": "noun",
       "article": "das",
       "fa": "تجارت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-Gesch%C3%A4ft.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-Gesch%C3%A4ft.ogg",
+      "exampleDe": "Als ich im letzten Geschäft bezahlen wollte, war mein Portemonnaie weg.",
+      "exampleEn": "When I went to pay at the last store, my wallet was gone.",
+      "exampleFa": "وقتی برای پرداخت به آخرین فروشگاه رفتم، کیف پولم از بین رفته بود."
     },
     {
-      "id": "v49",
-      "de": "Gespräch",
-      "en": "conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Gespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v50",
+      "id": "v23",
       "de": "Gewitter",
       "en": "thunderstorm",
       "pos": "noun",
       "article": "das",
       "fa": "طوفان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Gewitter.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Gewitter.ogg",
+      "exampleDe": "In Regensburg und Umgebung sind gegen Abend leichte Gewitter möglich, bei 14 Grad.",
+      "exampleEn": "In Regensburg and the surrounding area, light thunderstorms are possible in the evening, with a temperature of 14 degrees.",
+      "exampleFa": "در رگنسبورگ و اطراف آن احتمال رگبار خفیف در عصر با دمای 14 درجه وجود دارد."
     },
     {
-      "id": "v51",
-      "de": "GmbH",
-      "en": "Ltd (GmbH)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شرکت با مسئولیت محدود (آلمانی)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-GmbH.ogg"
-    },
-    {
-      "id": "v52",
-      "de": "Grad",
-      "en": "degree",
-      "pos": "noun",
-      "article": "der",
-      "fa": "درجه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-Grad.ogg"
-    },
-    {
-      "id": "v53",
-      "de": "Grammatik",
-      "en": "grammar",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دستور زبان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Grammatik.ogg"
-    },
-    {
-      "id": "v54",
-      "de": "Gruppe",
-      "en": "group",
-      "pos": "noun",
-      "article": "die",
-      "fa": "گروه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-Gruppe.ogg"
-    },
-    {
-      "id": "v55",
+      "id": "v24",
       "de": "Größe",
       "en": "size",
       "pos": "noun",
       "article": "die",
       "fa": "اندازه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Gr%C3%B6%C3%9Fe.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Gr%C3%B6%C3%9Fe.ogg",
+      "exampleDe": "Welche Größe haben Sie?",
+      "exampleEn": "What size are you?",
+      "exampleFa": "شما چه سایزی هستید؟"
     },
     {
-      "id": "v56",
+      "id": "v25",
       "de": "Gästebett",
       "en": "Guest bed",
       "pos": "noun",
@@ -528,16 +282,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-G%C3%A4stebett.ogg"
     },
     {
-      "id": "v57",
-      "de": "Gürtel",
-      "en": "belt",
-      "pos": "noun",
-      "article": "der",
-      "fa": "کمربند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-G%C3%BCrtel.ogg"
-    },
-    {
-      "id": "v58",
+      "id": "v26",
       "de": "Hagel",
       "en": "hail",
       "pos": "noun",
@@ -546,16 +291,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Hagel.ogg"
     },
     {
-      "id": "v59",
+      "id": "v27",
       "de": "Handschuhe",
       "en": "gloves",
       "pos": "noun",
       "article": "die",
       "fa": "دستکش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Handschuhe.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Handschuhe.ogg",
+      "exampleDe": "Und für unsere Kleinen: Mütze, Schal und Handschuhe im Set für nur 9 Euro in der Kinderabteilung.",
+      "exampleEn": "And for our little ones: a hat, scarf and gloves set for just 9 euros in the children's department.",
+      "exampleFa": "و برای کوچولوهای ما: ست کلاه، روسری و دستکش فقط 9 یورو در بخش کودکان."
     },
     {
-      "id": "v60",
+      "id": "v28",
       "de": "Handtasche",
       "en": "handbag",
       "pos": "noun",
@@ -564,16 +312,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-Handtasche.ogg"
     },
     {
-      "id": "v61",
-      "de": "Haushalt",
-      "en": "household",
-      "pos": "noun",
-      "article": "das",
-      "fa": "خانوار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Haushalt.ogg"
-    },
-    {
-      "id": "v62",
+      "id": "v29",
       "de": "Haushaltsware",
       "en": "Household goods",
       "pos": "noun",
@@ -582,25 +321,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/De-Haushaltsware.ogg"
     },
     {
-      "id": "v63",
-      "de": "Heimat",
-      "en": "home country / hometown",
-      "pos": "noun",
-      "article": "die",
-      "fa": "وطن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Heimat.ogg"
-    },
-    {
-      "id": "v64",
-      "de": "Herbst",
-      "en": "autumn / fall",
-      "pos": "noun",
-      "article": "der",
-      "fa": "پاییز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Herbst.ogg"
-    },
-    {
-      "id": "v65",
+      "id": "v30",
       "de": "Herrenabteilung",
       "en": "herrenabteilung",
       "pos": "noun",
@@ -608,88 +329,67 @@
       "fa": "بخش آقایان"
     },
     {
-      "id": "v66",
+      "id": "v31",
       "de": "Hochzeit",
       "en": "wedding",
       "pos": "noun",
       "article": "die",
       "fa": "عروسی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Hochzeit.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Hochzeit.ogg",
+      "exampleDe": "Das sind Opa Helmut und Oma Gertrud bei ihrer Hochzeit.",
+      "exampleEn": "This is Grandpa Helmut and Grandma Gertrud at their wedding.",
+      "exampleFa": "این پدربزرگ هلموت و مادربزرگ گرترود در مراسم عروسی آنها هستند."
     },
     {
-      "id": "v67",
+      "id": "v32",
       "de": "Hose",
       "en": "trousers / pants",
       "pos": "noun",
       "article": "die",
       "fa": "شلوار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Hose.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Hose.ogg",
+      "exampleDe": "Und in der Damenabteilung: kurze Hosen, Sommerblusen und Sommerkleider um 25 % reduziert.",
+      "exampleEn": "And in the women's department: shorts, summer blouses and summer dresses reduced by 25%.",
+      "exampleFa": "و در بخش زنان: شورت، بلوز تابستانی و لباس تابستانی 25٪ کاهش یافته است."
     },
     {
-      "id": "v68",
-      "de": "Hotel",
-      "en": "hotel",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هتل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/De-Hotel.ogg"
-    },
-    {
-      "id": "v69",
-      "de": "Idee",
-      "en": "idea",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نظر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Idee.ogg"
-    },
-    {
-      "id": "v70",
-      "de": "Innenstadt",
-      "en": "downtown",
-      "pos": "noun",
-      "article": "die",
-      "fa": "داخل شهر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-Innenstadt.ogg"
-    },
-    {
-      "id": "v71",
-      "de": "Internet",
-      "en": "Internet",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اینترنت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De-Internet.ogg"
-    },
-    {
-      "id": "v72",
+      "id": "v33",
       "de": "Jacke",
       "en": "jacket",
       "pos": "noun",
       "article": "die",
-      "fa": "کت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Jacke.ogg"
+      "fa": "کاپشن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Jacke.ogg",
+      "exampleDe": "Hm, aber die Jacke ist nicht warm genug.",
+      "exampleEn": "Hmm, but the jacket isn't warm enough.",
+      "exampleFa": "هوم، اما ژاکت به اندازه کافی گرم نیست."
     },
     {
-      "id": "v73",
+      "id": "v34",
       "de": "Jeans",
       "en": "jeans",
       "pos": "noun",
       "article": "die",
       "fa": "شلوار جین",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Jeans.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Jeans.ogg",
+      "exampleDe": "Passt das denn zu meinen neuen Jeans?",
+      "exampleEn": "Does this go with my new jeans?",
+      "exampleFa": "آیا این با شلوار جین جدید من همخوانی دارد؟"
     },
     {
-      "id": "v74",
+      "id": "v35",
       "de": "Jugendherberge",
       "en": "youth hostel",
       "pos": "noun",
       "article": "die",
       "fa": "خوابگاه برای جوانان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Jugendherberge.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-Jugendherberge.ogg",
+      "exampleDe": "Und was ist mit einer Jugendherberge?",
+      "exampleEn": "And what about a youth hostel?",
+      "exampleFa": "و در مورد خوابگاه جوانان چطور؟"
     },
     {
-      "id": "v75",
+      "id": "v36",
       "de": "Kabine",
       "en": "cabin",
       "pos": "noun",
@@ -698,25 +398,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Kabine.ogg"
     },
     {
-      "id": "v76",
+      "id": "v37",
       "de": "Kapuze",
       "en": "hood",
       "pos": "noun",
       "article": "die",
       "fa": "هود",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Kapuze.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Kapuze.ogg",
+      "exampleDe": "Schau mal, wie findest du denn das Jäckchen mit der Kapuze?",
+      "exampleEn": "Look, what do you think of the jacket with the hood?",
+      "exampleFa": "نگاه کنید، نظر شما در مورد ژاکت با کاپوت چیست؟"
     },
     {
-      "id": "v77",
-      "de": "Karte",
-      "en": "card",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نقشه؛ کارت؛ منو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-Karte.ogg"
-    },
-    {
-      "id": "v78",
+      "id": "v38",
       "de": "Karussell",
       "en": "carousel",
       "pos": "noun",
@@ -725,61 +419,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-Karussell.ogg"
     },
     {
-      "id": "v79",
-      "de": "Kasse",
-      "en": "checkout",
-      "pos": "noun",
-      "article": "die",
-      "fa": "صندوق",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Kasse.ogg"
-    },
-    {
-      "id": "v80",
+      "id": "v39",
       "de": "Kassenbon",
       "en": "receipt",
       "pos": "noun",
       "article": "der",
       "fa": "رسید صندوق",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-Kassenbon.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-Kassenbon.ogg",
+      "exampleDe": "Ja, das geht 14 Tage lang, aber nur mit Kassenbon.",
+      "exampleEn": "Yes, you can do this for 14 days, but only with a receipt.",
+      "exampleFa": "بله، شما می توانید این کار را به مدت 14 روز انجام دهید، اما فقط با یک رسید."
     },
     {
-      "id": "v81",
-      "de": "Kaufhaus",
-      "en": "department store",
-      "pos": "noun",
-      "article": "das",
-      "fa": "فروشگاه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-Kaufhaus.ogg"
-    },
-    {
-      "id": "v82",
-      "de": "Klasse",
-      "en": "class",
-      "pos": "noun",
-      "article": "die",
-      "fa": "کلاس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-Klasse.ogg"
-    },
-    {
-      "id": "v83",
-      "de": "Kleid",
-      "en": "dress",
-      "pos": "noun",
-      "article": "das",
-      "fa": "لباس پوشیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Kleid.ogg"
-    },
-    {
-      "id": "v84",
-      "de": "Kleider",
-      "en": "dresses",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پوشاک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Kleider.ogg"
-    },
-    {
-      "id": "v85",
+      "id": "v40",
       "de": "Kleidergröße",
       "en": "Dress size",
       "pos": "noun",
@@ -788,25 +440,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-Kleidergr%C3%B6%C3%9Fe.ogg"
     },
     {
-      "id": "v86",
-      "de": "Kleidung",
-      "en": "clothing",
-      "pos": "noun",
-      "article": "die",
-      "fa": "لباس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Kleidung.ogg"
-    },
-    {
-      "id": "v87",
+      "id": "v41",
       "de": "Knopf",
       "en": "button",
       "pos": "noun",
       "article": "der",
       "fa": "دکمه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Knopf.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Knopf.ogg",
+      "exampleDe": "Paul drück’ mal den Knopf hier.",
+      "exampleEn": "Paul, press the button here.",
+      "exampleFa": "پل، دکمه را در اینجا فشار دهید."
     },
     {
-      "id": "v88",
+      "id": "v42",
       "de": "Kragen",
       "en": "collar",
       "pos": "noun",
@@ -815,52 +461,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/De-Kragen.ogg"
     },
     {
-      "id": "v89",
-      "de": "Kreditkarte",
-      "en": "credit card",
-      "pos": "noun",
-      "article": "die",
-      "fa": "کارت اعتباری",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-Kreditkarte.ogg"
-    },
-    {
-      "id": "v90",
-      "de": "Kunde",
-      "en": "customer",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مشتری مذکر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-Kunde.ogg"
-    },
-    {
-      "id": "v91",
-      "de": "Kurs",
-      "en": "course",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دوره؛ کلاس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Kurs.ogg"
-    },
-    {
-      "id": "v92",
-      "de": "Kursbuch",
-      "en": "course book",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کتاب دوره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Kursbuch.ogg"
-    },
-    {
-      "id": "v93",
-      "de": "König",
-      "en": "king",
-      "pos": "noun",
-      "article": "der",
-      "fa": "پادشاه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-K%C3%B6nig.ogg"
-    },
-    {
-      "id": "v94",
+      "id": "v43",
       "de": "Lederhose",
       "en": "leather trousers",
       "pos": "noun",
@@ -869,7 +470,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-Lederhose.ogg"
     },
     {
-      "id": "v95",
+      "id": "v44",
       "de": "Lederjacke",
       "en": "Leather jacket",
       "pos": "noun",
@@ -878,7 +479,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Lederjacke.ogg"
     },
     {
-      "id": "v96",
+      "id": "v45",
       "de": "Leinen",
       "en": "linen",
       "pos": "noun",
@@ -887,16 +488,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-Leinen.ogg"
     },
     {
-      "id": "v97",
-      "de": "Leute",
-      "en": "people",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مردم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Leute.ogg"
-    },
-    {
-      "id": "v98",
+      "id": "v46",
       "de": "Loch",
       "en": "hole",
       "pos": "noun",
@@ -905,16 +497,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Loch.ogg"
     },
     {
-      "id": "v99",
-      "de": "Mal",
-      "en": "modal particle (just / once)",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هربار، هر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Mal.ogg"
-    },
-    {
-      "id": "v100",
+      "id": "v47",
       "de": "Malbuch",
       "en": "coloring book",
       "pos": "noun",
@@ -923,16 +506,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-Malbuch.ogg"
     },
     {
-      "id": "v101",
+      "id": "v48",
       "de": "Mantel",
       "en": "coat",
       "pos": "noun",
       "article": "der",
       "fa": "پالتو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/De-Mantel.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/De-Mantel.ogg",
+      "exampleDe": "Na, passt der Mantel?",
+      "exampleEn": "Well, does the coat fit?",
+      "exampleFa": "خوب، کت مناسب است؟"
     },
     {
-      "id": "v102",
+      "id": "v49",
       "de": "Maß",
       "en": "litre of beer",
       "pos": "noun",
@@ -941,25 +527,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Ma%C3%9F.ogg"
     },
     {
-      "id": "v103",
+      "id": "v50",
       "de": "Modell",
       "en": "model",
       "pos": "noun",
       "article": "das",
       "fa": "مدل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-Modell.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-Modell.ogg",
+      "exampleDe": "Welches Modell meinst du?",
+      "exampleEn": "Which model do you mean?",
+      "exampleFa": "منظورت کدوم مدله؟"
     },
     {
-      "id": "v104",
-      "de": "Moment",
-      "en": "moment",
-      "pos": "noun",
-      "article": "der",
-      "fa": "لحظه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-Moment.ogg"
-    },
-    {
-      "id": "v105",
+      "id": "v51",
       "de": "Multimedia",
       "en": "multimedia",
       "pos": "noun",
@@ -968,25 +548,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/De-Multimedia.ogg"
     },
     {
-      "id": "v106",
-      "de": "Mütze",
-      "en": "cap",
-      "pos": "noun",
-      "article": "die",
-      "fa": "کلاه زمستانی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-M%C3%BCtze.ogg"
-    },
-    {
-      "id": "v107",
-      "de": "Natur",
-      "en": "nature",
-      "pos": "noun",
-      "article": "die",
-      "fa": "طبیعت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-Natur.ogg"
-    },
-    {
-      "id": "v108",
+      "id": "v52",
       "de": "Nebel",
       "en": "fog",
       "pos": "noun",
@@ -995,16 +557,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-Nebel.ogg"
     },
     {
-      "id": "v109",
-      "de": "Nomen",
-      "en": "noun",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اسم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Nomen.ogg"
-    },
-    {
-      "id": "v110",
+      "id": "v53",
       "de": "Oberbürgermeister",
       "en": "mayor",
       "pos": "noun",
@@ -1013,34 +566,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-Oberb%C3%BCrgermeister.ogg"
     },
     {
-      "id": "v111",
+      "id": "v54",
       "de": "Oktober",
       "en": "october",
       "pos": "noun",
       "article": "der",
       "fa": "اکتبر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Oktober.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Oktober.ogg",
+      "exampleDe": "Oktober buchen.",
+      "exampleEn": "Book October.",
+      "exampleFa": "کتاب اکتبر."
     },
     {
-      "id": "v112",
+      "id": "v55",
       "de": "Oktoberfest",
       "en": "Oktoberfest",
       "pos": "noun",
       "article": "das",
       "fa": "جشن اکتبر (مونیخ)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-Oktoberfest.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-Oktoberfest.ogg",
+      "exampleDe": "Genau das Richtige für das Oktoberfest.",
+      "exampleEn": "Just the thing for Oktoberfest.",
+      "exampleFa": "فقط چیزی که برای Oktoberfest است."
     },
     {
-      "id": "v113",
-      "de": "Partner",
-      "en": "partner",
-      "pos": "noun",
-      "article": "der",
-      "fa": "شریک؛ همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Partner.ogg"
-    },
-    {
-      "id": "v114",
+      "id": "v56",
       "de": "Pferderennen",
       "en": "Horse racing",
       "pos": "noun",
@@ -1049,7 +599,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Pferderennen.ogg"
     },
     {
-      "id": "v115",
+      "id": "v57",
       "de": "Pferdewagen",
       "en": "Horse cart",
       "pos": "noun",
@@ -1058,16 +608,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Pferdewagen.ogg"
     },
     {
-      "id": "v116",
-      "de": "Preis",
-      "en": "price",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قیمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/De-Preis.ogg"
-    },
-    {
-      "id": "v117",
+      "id": "v58",
       "de": "Prinz",
       "en": "prince",
       "pos": "noun",
@@ -1076,7 +617,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Prinz.ogg"
     },
     {
-      "id": "v118",
+      "id": "v59",
       "de": "Prinzessin",
       "en": "princess",
       "pos": "noun",
@@ -1085,60 +626,55 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-Prinzessin.ogg"
     },
     {
-      "id": "v119",
+      "id": "v60",
       "de": "Profil",
       "en": "profile",
       "pos": "noun",
       "article": "das",
       "fa": "پروفایل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Profil.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Profil.ogg",
+      "exampleDe": "Na ja, als ich Ihre Anzeige gesehen habe, habe ich gedacht: Die Anzeige passt genau zu meinem Profil.",
+      "exampleEn": "do an internship?",
+      "exampleFa": "کارآموزی کنم؟"
     },
     {
-      "id": "v120",
+      "id": "v61",
       "de": "Pullover",
       "en": "sweater",
       "pos": "noun",
       "article": "der",
       "fa": "ژاکت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Pullover.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Pullover.ogg",
+      "exampleDe": "Und ich suche noch einen Pullover für den Herbst.",
+      "exampleEn": "And I'm still looking for a sweater for fall.",
+      "exampleFa": "و من همچنان به دنبال ژاکت برای پاییز هستم."
     },
     {
-      "id": "v121",
-      "de": "Redemittel",
-      "en": "useful phrases",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عبارات آماده گفتار"
-    },
-    {
-      "id": "v122",
-      "de": "Regen",
-      "en": "rain",
-      "pos": "noun",
-      "article": "der",
-      "fa": "باران",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Regen.ogg"
-    },
-    {
-      "id": "v123",
+      "id": "v62",
       "de": "Regenhose",
       "en": "Rain pants",
       "pos": "noun",
       "article": "die",
       "fa": "شلوار بارانی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-Regenhose.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-Regenhose.ogg",
+      "exampleDe": "Heute großer Aktionstag in der Sportabteilung: Tennis- und Fußballschuhe im Sonderangebot, außerdem neu im Verkauf: windfeste Regenjacken und Regenhosen.",
+      "exampleEn": "Today is a big day of action in the sports department: tennis and soccer shoes on special offer, and also new on sale: windproof rain jackets and rain pants.",
+      "exampleFa": "امروز یک روز بزرگ در بخش ورزش است: کفش‌های تنیس و فوتبال با پیشنهاد ویژه، و همچنین فروش جدید: کت‌های بارانی ضد باد و شلوارهای بارانی."
     },
     {
-      "id": "v124",
+      "id": "v63",
       "de": "Regenjacke",
       "en": "Rain jacket",
       "pos": "noun",
       "article": "die",
       "fa": "ژاکت بارانی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-Regenjacke.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-Regenjacke.ogg",
+      "exampleDe": "Heute großer Aktionstag in der Sportabteilung: Tennis- und Fußballschuhe im Sonderangebot, außerdem neu im Verkauf: windfeste Regenjacken und Regenhosen.",
+      "exampleEn": "Today is a big day of action in the sports department: tennis and soccer shoes on special offer, and also new on sale: windproof rain jackets and rain pants.",
+      "exampleFa": "امروز یک روز بزرگ در بخش ورزش است: کفش‌های تنیس و فوتبال با پیشنهاد ویژه، و همچنین فروش جدید: کت‌های بارانی ضد باد و شلوارهای بارانی."
     },
     {
-      "id": "v125",
+      "id": "v64",
       "de": "Regisseur",
       "en": "director",
       "pos": "noun",
@@ -1147,7 +683,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/De-Regisseur.ogg"
     },
     {
-      "id": "v126",
+      "id": "v65",
       "de": "Regisseurin",
       "en": "director",
       "pos": "noun",
@@ -1156,52 +692,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Regisseurin.ogg"
     },
     {
-      "id": "v127",
-      "de": "Reihenfolge",
-      "en": "series",
-      "pos": "noun",
-      "article": "die",
-      "fa": "ترتیب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Reihenfolge.ogg"
-    },
-    {
-      "id": "v128",
-      "de": "Reise",
-      "en": "trip",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سفر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Reise.ogg"
-    },
-    {
-      "id": "v129",
-      "de": "Reisen",
-      "en": "travel",
-      "pos": "noun",
-      "article": "das",
-      "fa": "سفر کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Reisen.ogg"
-    },
-    {
-      "id": "v130",
+      "id": "v66",
       "de": "Reisende",
       "en": "travelers",
       "pos": "noun",
       "article": "der",
       "fa": "مسافر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Reisende.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Reisende.ogg",
+      "exampleDe": "Wir dürfen zunächst alle unsere Business Class Passagiere und Reisende mit kleinen Kindern …",
+      "exampleEn": "We are initially allowing all of our business class passengers and travelers with small children...",
+      "exampleFa": "ما در ابتدا به همه مسافران کلاس تجاری و مسافران با کودکان کوچک اجازه می دهیم..."
     },
     {
-      "id": "v131",
+      "id": "v67",
       "de": "Reiseziel",
       "en": "destination",
       "pos": "noun",
       "article": "die",
       "fa": "مقصد سفر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Reiseziel.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Reiseziel.ogg",
+      "exampleDe": "Das ideale Reiseziel für Urlauber, die die Natur lieben, Erholung suchen und auch sportlich aktiv sein wollen, der Bodensee!",
+      "exampleEn": "The ideal travel destination for holidaymakers who love nature, are looking for relaxation and also want to be active in sports, Lake Constance!",
+      "exampleFa": "دریاچه کنستانس، مقصدی ایده آل برای مسافرانی است که عاشق طبیعت هستند، به دنبال آرامش هستند و همچنین می خواهند در ورزش فعال باشند!"
     },
     {
-      "id": "v132",
+      "id": "v68",
       "de": "Reißverschluss",
       "en": "zipper",
       "pos": "noun",
@@ -1210,16 +725,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Rei%C3%9Fverschluss.ogg"
     },
     {
-      "id": "v133",
-      "de": "Rennen",
-      "en": "run",
-      "pos": "noun",
-      "article": "das",
-      "fa": "مسابقه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-Rennen.ogg"
-    },
-    {
-      "id": "v134",
+      "id": "v69",
       "de": "Riesenrad",
       "en": "Ferris wheel",
       "pos": "noun",
@@ -1228,34 +734,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-Riesenrad.ogg"
     },
     {
-      "id": "v135",
+      "id": "v70",
       "de": "Rock",
       "en": "skirt",
       "pos": "noun",
       "article": "der",
       "fa": "دامن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-Rock.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-Rock.ogg",
+      "exampleDe": "Der Rock ist doch viel zu kurz.",
+      "exampleEn": "The skirt is way too short.",
+      "exampleFa": "دامن خیلی کوتاهه"
     },
     {
-      "id": "v136",
+      "id": "v71",
       "de": "Rollkragen",
       "en": "turtleneck",
       "pos": "noun",
       "article": "der",
       "fa": "یقه یقه اس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-Rollkragen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-Rollkragen.ogg",
+      "exampleDe": "Ja, der schaut echt sportlich aus, aber ich mag keine Rollkragen.",
+      "exampleEn": "Yes, it looks really sporty, but I don't like turtlenecks.",
+      "exampleFa": "بله، واقعا اسپرت به نظر می رسد، اما من یقه یقه اسکی را دوست ندارم."
     },
     {
-      "id": "v137",
-      "de": "Schal",
-      "en": "scarf",
-      "pos": "noun",
-      "article": "der",
-      "fa": "روسری",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-Schal.ogg"
-    },
-    {
-      "id": "v138",
+      "id": "v72",
       "de": "Schaukel",
       "en": "swing",
       "pos": "noun",
@@ -1264,7 +767,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Schaukel.ogg"
     },
     {
-      "id": "v139",
+      "id": "v73",
       "de": "Schausteller",
       "en": "showman",
       "pos": "noun",
@@ -1273,7 +776,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Schausteller.ogg"
     },
     {
-      "id": "v140",
+      "id": "v74",
       "de": "Schirm",
       "en": "umbrella",
       "pos": "noun",
@@ -1282,52 +785,43 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-Schirm.ogg"
     },
     {
-      "id": "v141",
-      "de": "Schluss",
-      "en": "ending",
-      "pos": "noun",
-      "article": "der",
-      "fa": "خاتمه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Schluss.ogg"
-    },
-    {
-      "id": "v142",
+      "id": "v75",
       "de": "Schnee",
       "en": "snow",
       "pos": "noun",
       "article": "der",
       "fa": "برف",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Schnee.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-Schnee.ogg",
+      "exampleDe": "Im Süden, am Alpenrand gibt es bereits den ersten Schnee und die Temperaturen liegen in der Nacht bei minus 3 Grad und am Tag bei plus 5 Grad.",
+      "exampleEn": "In the south, on the edge of the Alps, there is already the first snow and temperatures are minus 3 degrees at night and plus 5 degrees during the day.",
+      "exampleFa": "در جنوب، در حاشیه کوه‌های آلپ، اولین برف باریده است و دمای هوا در شب 3 درجه و در روز مثبت 5 درجه است."
     },
     {
-      "id": "v143",
+      "id": "v76",
       "de": "Schnäppchen",
       "en": "bargain",
       "pos": "noun",
       "article": "das",
       "fa": "معامله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-Schn%C3%A4ppchen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-Schn%C3%A4ppchen.ogg",
+      "exampleDe": "Wow, das ist ja ein richtiges Schnäppchen.",
+      "exampleEn": "Wow, that's a real bargain.",
+      "exampleFa": "وای، این یک معامله واقعی است."
     },
     {
-      "id": "v144",
+      "id": "v77",
       "de": "Schnäppchenmarkt",
       "en": "Bargain market",
       "pos": "noun",
       "article": "der",
       "fa": "بازار معامله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/De-Schn%C3%A4ppchenmarkt.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/De-Schn%C3%A4ppchenmarkt.ogg",
+      "exampleDe": "Besuchen Sie unseren Schnäppchenmarkt.",
+      "exampleEn": "Visit our bargain market.",
+      "exampleFa": "از بازار مقرون به صرفه ما دیدن کنید."
     },
     {
-      "id": "v145",
-      "de": "Schreiben",
-      "en": "to write",
-      "pos": "noun",
-      "article": "das",
-      "fa": "نوشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Schreiben.ogg"
-    },
-    {
-      "id": "v146",
+      "id": "v78",
       "de": "Schreibware",
       "en": "stationery",
       "pos": "noun",
@@ -1336,34 +830,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-Schreibware.ogg"
     },
     {
-      "id": "v147",
-      "de": "September",
-      "en": "september",
-      "pos": "noun",
-      "article": "der",
-      "fa": "سپتامبر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-September.ogg"
-    },
-    {
-      "id": "v148",
+      "id": "v79",
       "de": "Sonderangebot",
       "en": "special offer",
       "pos": "noun",
       "article": "das",
       "fa": "پیشنهاد ویژه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/De-Sonderangebot.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/De-Sonderangebot.ogg",
+      "exampleDe": "Heute großer Aktionstag in der Sportabteilung: Tennis- und Fußballschuhe im Sonderangebot, außerdem neu im Verkauf: windfeste Regenjacken und Regenhosen.",
+      "exampleEn": "Today is a big day of action in the sports department: tennis and soccer shoes on special offer, and also new on sale: windproof rain jackets and rain pants.",
+      "exampleFa": "امروز یک روز بزرگ در بخش ورزش است: کفش‌های تنیس و فوتبال با پیشنهاد ویژه، و همچنین فروش جدید: کت‌های بارانی ضد باد و شلوارهای بارانی."
     },
     {
-      "id": "v149",
-      "de": "Sonne",
-      "en": "sun",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خورشید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Sonne.ogg"
-    },
-    {
-      "id": "v150",
+      "id": "v80",
       "de": "Spielware",
       "en": "toys",
       "pos": "noun",
@@ -1372,124 +851,43 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/De-Spielware.ogg"
     },
     {
-      "id": "v151",
-      "de": "Sport",
-      "en": "sport",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ورزش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Sport.ogg"
-    },
-    {
-      "id": "v152",
+      "id": "v81",
       "de": "Sportabteilung",
       "en": "Sports department",
       "pos": "noun",
       "article": "die",
       "fa": "بخش ورزش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-Sportabteilung.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-Sportabteilung.ogg",
+      "exampleDe": "Heute großer Aktionstag in der Sportabteilung: Tennis- und Fußballschuhe im Sonderangebot, außerdem neu im Verkauf: windfeste Regenjacken und Regenhosen.",
+      "exampleEn": "Today is a big day of action in the sports department: tennis and soccer shoes on special offer, and also new on sale: windproof rain jackets and rain pants.",
+      "exampleFa": "امروز یک روز بزرگ در بخش ورزش است: کفش‌های تنیس و فوتبال با پیشنهاد ویژه، و همچنین فروش جدید: کت‌های بارانی ضد باد و شلوارهای بارانی."
     },
     {
-      "id": "v153",
-      "de": "Stadt",
-      "en": "city",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شهر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-Stadt.ogg"
-    },
-    {
-      "id": "v154",
+      "id": "v82",
       "de": "Strickjacke",
       "en": "cardigan",
       "pos": "noun",
       "article": "die",
       "fa": "ژاکت کش باف پشمی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Strickjacke.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Strickjacke.ogg",
+      "exampleDe": "Schau mal: Wie gefällt dir denn die Strickjacke?",
+      "exampleEn": "Look: how do you like the cardigan?",
+      "exampleFa": "نگاه کنید: ژاکت کش باف پشمی را چگونه دوست دارید؟"
     },
     {
-      "id": "v155",
+      "id": "v83",
       "de": "Suche",
       "en": "search",
       "pos": "noun",
       "article": "die",
       "fa": "جستجو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Suche.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Suche.ogg",
+      "exampleDe": "Und ich suche noch einen Pullover für den Herbst.",
+      "exampleEn": "And I'm still looking for a sweater for fall.",
+      "exampleFa": "و من همچنان به دنبال ژاکت برای پاییز هستم."
     },
     {
-      "id": "v156",
-      "de": "Süden",
-      "en": "south",
-      "pos": "noun",
-      "article": "der",
-      "fa": "جنوب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-S%C3%BCden.ogg"
-    },
-    {
-      "id": "v157",
-      "de": "Tabelle",
-      "en": "table",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جدول",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Tabelle.ogg"
-    },
-    {
-      "id": "v158",
-      "de": "Teil",
-      "en": "part",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قسمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Teil.ogg"
-    },
-    {
-      "id": "v159",
-      "de": "Telefongespräch",
-      "en": "Telephone conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگوی تلفنی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Telefongespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v160",
-      "de": "Temperatur",
-      "en": "temperature",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دما؛ تب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-Temperatur.ogg"
-    },
-    {
-      "id": "v161",
-      "de": "Text",
-      "en": "text",
-      "pos": "noun",
-      "article": "der",
-      "fa": "متن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-Text.ogg"
-    },
-    {
-      "id": "v162",
-      "de": "Thema",
-      "en": "theme",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عنوان. مطلب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Thema.ogg"
-    },
-    {
-      "id": "v163",
-      "de": "Tisch",
-      "en": "table",
-      "pos": "noun",
-      "article": "der",
-      "fa": "میز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-Tisch.ogg"
-    },
-    {
-      "id": "v164",
+      "id": "v84",
       "de": "Touristenmagnet",
       "en": "Tourist magnet",
       "pos": "noun",
@@ -1498,52 +896,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/De-Touristenmagnet.ogg"
     },
     {
-      "id": "v165",
-      "de": "Tradition",
-      "en": "tradition",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سنت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Tradition.ogg"
-    },
-    {
-      "id": "v166",
-      "de": "Treffen",
-      "en": "to meet",
-      "pos": "noun",
-      "article": "das",
-      "fa": "ملاقات؛ قرار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Treffen.ogg"
-    },
-    {
-      "id": "v167",
-      "de": "Typ",
-      "en": "type",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مدل، تایپ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/De-Typ.ogg"
-    },
-    {
-      "id": "v168",
-      "de": "Umgebung",
-      "en": "vicinity",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مجاورت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Umgebung.ogg"
-    },
-    {
-      "id": "v169",
+      "id": "v85",
       "de": "Umkleidekabine",
       "en": "changing room",
       "pos": "noun",
       "article": "die",
       "fa": "رختکن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-Umkleidekabine.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-Umkleidekabine.ogg",
+      "exampleDe": "Da vorne ist die Umkleidekabine.",
+      "exampleEn": "There's the changing room over there.",
+      "exampleFa": "اونجا اتاق رختکن هست"
     },
     {
-      "id": "v170",
+      "id": "v86",
       "de": "Umsatz",
       "en": "Sales volume",
       "pos": "noun",
@@ -1552,7 +917,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/De-Umsatz.ogg"
     },
     {
-      "id": "v171",
+      "id": "v87",
       "de": "Umtausch",
       "en": "exchange",
       "pos": "noun",
@@ -1561,7 +926,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Umtausch.ogg"
     },
     {
-      "id": "v172",
+      "id": "v88",
       "de": "Unterhaltung",
       "en": "entertainment",
       "pos": "noun",
@@ -1570,43 +935,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/De-Unterhaltung.ogg"
     },
     {
-      "id": "v173",
-      "de": "Verkäufer",
-      "en": "salesperson",
-      "pos": "noun",
-      "article": "der",
-      "fa": "فروشنده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/De-Verk%C3%A4ufer.ogg"
-    },
-    {
-      "id": "v174",
-      "de": "Verkäuferin",
-      "en": "saleswoman",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زن فروشنده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-Verk%C3%A4uferin.ogg"
-    },
-    {
-      "id": "v175",
-      "de": "Vokalwechsel",
-      "en": "Vowel change",
-      "pos": "noun",
-      "article": "der",
-      "fa": "تغییر واکه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-Vokalwechsel.ogg"
-    },
-    {
-      "id": "v176",
-      "de": "Volk",
-      "en": "people",
-      "pos": "noun",
-      "article": "das",
-      "fa": "مردم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/De-Volk.ogg"
-    },
-    {
-      "id": "v177",
+      "id": "v89",
       "de": "Volksfest",
       "en": "folk festival",
       "pos": "noun",
@@ -1615,43 +944,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Volksfest.ogg"
     },
     {
-      "id": "v178",
-      "de": "Weg",
-      "en": "way / path",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مسیر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Weg.ogg"
-    },
-    {
-      "id": "v179",
-      "de": "Wetter",
-      "en": "weather",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هوا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Wetter.ogg"
-    },
-    {
-      "id": "v180",
-      "de": "Wetterbericht",
-      "en": "weather forecast",
-      "pos": "noun",
-      "article": "der",
-      "fa": "گزارش هوا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-Wetterbericht.ogg"
-    },
-    {
-      "id": "v181",
-      "de": "Wetterkarte",
-      "en": "Weather map",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نقشه هواشناسی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/De-Wetterkarte.ogg"
-    },
-    {
-      "id": "v182",
+      "id": "v90",
       "de": "Wiese",
       "en": "meadow",
       "pos": "noun",
@@ -1660,25 +953,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/De-Wiese.ogg"
     },
     {
-      "id": "v183",
-      "de": "Wind",
-      "en": "wind",
-      "pos": "noun",
-      "article": "der",
-      "fa": "باد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/De-Wind.ogg"
-    },
-    {
-      "id": "v184",
-      "de": "Winter",
-      "en": "winter",
-      "pos": "noun",
-      "article": "der",
-      "fa": "زمستان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-Winter.ogg"
-    },
-    {
-      "id": "v185",
+      "id": "v91",
       "de": "Wirt",
       "en": "host",
       "pos": "noun",
@@ -1687,16 +962,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-Wirt.ogg"
     },
     {
-      "id": "v186",
-      "de": "Woche",
-      "en": "week",
-      "pos": "noun",
-      "article": "die",
-      "fa": "هفته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-Woche.ogg"
-    },
-    {
-      "id": "v187",
+      "id": "v92",
       "de": "Wolke",
       "en": "cloud",
       "pos": "noun",
@@ -1705,25 +971,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Wolke.ogg"
     },
     {
-      "id": "v188",
-      "de": "Wolle",
-      "en": "wool",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پشم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Wolle.ogg"
-    },
-    {
-      "id": "v189",
-      "de": "Zeit",
-      "en": "time",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زمان؛ وقت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Zeit.ogg"
-    },
-    {
-      "id": "v190",
+      "id": "v93",
       "de": "Zeitungsartikel",
       "en": "Newspaper article",
       "pos": "noun",
@@ -1732,7 +980,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Zeitungsartikel.ogg"
     },
     {
-      "id": "v191",
+      "id": "v94",
       "de": "Ärmel",
       "en": "sleeve",
       "pos": "noun",
@@ -1741,71 +989,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-%C3%84rmel.ogg"
     },
     {
-      "id": "v192",
-      "de": "anprobieren",
-      "en": "to try on (clothes)",
-      "pos": "verb",
-      "fa": "پروو کردن لباس an",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-anprobieren.ogg"
-    },
-    {
-      "id": "v193",
-      "de": "ausprobieren",
-      "en": "to try out",
-      "pos": "verb",
-      "fa": "آزمایش کردن، امتحان کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-ausprobieren.ogg"
-    },
-    {
-      "id": "v194",
-      "de": "beantworten",
-      "en": "answer",
-      "pos": "verb",
-      "fa": "جواب دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-beantworten.ogg"
-    },
-    {
-      "id": "v195",
-      "de": "benutzen",
-      "en": "to use",
-      "pos": "verb",
-      "fa": "استفاده کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-benutzen.ogg"
-    },
-    {
-      "id": "v196",
-      "de": "berichten",
-      "en": "report",
-      "pos": "verb",
-      "fa": "گزارش، خبر دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De-berichten.ogg"
-    },
-    {
-      "id": "v197",
-      "de": "bezahlen",
-      "en": "to pay for",
-      "pos": "verb",
-      "fa": "پرداخت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-bezahlen.ogg"
-    },
-    {
-      "id": "v198",
-      "de": "bieten",
-      "en": "offer",
-      "pos": "verb",
-      "fa": "ارائه کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-bieten.ogg"
-    },
-    {
-      "id": "v199",
-      "de": "bleiben",
-      "en": "to stay",
-      "pos": "verb",
-      "fa": "باقی ماندن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-bleiben.ogg"
-    },
-    {
-      "id": "v200",
+      "id": "v95",
       "de": "blitzen",
       "en": "flash",
       "pos": "verb",
@@ -1813,15 +997,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-blitzen.ogg"
     },
     {
-      "id": "v201",
-      "de": "brauchen",
-      "en": "to need",
-      "pos": "verb",
-      "fa": "نیاز دارند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/De-brauchen.ogg"
-    },
-    {
-      "id": "v202",
+      "id": "v96",
       "de": "donnern",
       "en": "thunder",
       "pos": "verb",
@@ -1829,39 +1005,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De-donnern.ogg"
     },
     {
-      "id": "v203",
-      "de": "einzeln",
-      "en": "individually",
-      "pos": "verb",
-      "fa": "تکی، مجزا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-einzeln.ogg"
-    },
-    {
-      "id": "v204",
-      "de": "ergänzen",
-      "en": "to complete / fill in",
-      "pos": "verb",
-      "fa": "تکمیل کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-erg%C3%A4nzen.ogg"
-    },
-    {
-      "id": "v205",
-      "de": "erkennen",
-      "en": "recognize",
-      "pos": "verb",
-      "fa": "شناختن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-erkennen.ogg"
-    },
-    {
-      "id": "v206",
-      "de": "fallen",
-      "en": "fall",
-      "pos": "verb",
-      "fa": "باریدن باران و برف",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-fallen.ogg"
-    },
-    {
-      "id": "v207",
+      "id": "v97",
       "de": "gebrauchen",
       "en": "use",
       "pos": "verb",
@@ -1869,15 +1013,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/De-gebrauchen.ogg"
     },
     {
-      "id": "v208",
+      "id": "v98",
       "de": "gewittern",
       "en": "thunderstorms",
       "pos": "verb",
       "fa": "طوفان وزیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-gewittern.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-gewittern.ogg",
+      "exampleDe": "In Regensburg und Umgebung sind gegen Abend leichte Gewitter möglich, bei 14 Grad.",
+      "exampleEn": "In Regensburg and the surrounding area, light thunderstorms are possible in the evening, with a temperature of 14 degrees.",
+      "exampleFa": "در رگنسبورگ و اطراف آن احتمال رگبار خفیف در عصر با دمای 14 درجه وجود دارد."
     },
     {
-      "id": "v209",
+      "id": "v99",
       "de": "hageln",
       "en": "hail",
       "pos": "verb",
@@ -1885,103 +1032,40 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-hageln.ogg"
     },
     {
-      "id": "v210",
-      "de": "helfen",
-      "en": "to help",
-      "pos": "verb",
-      "fa": "کمک کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-helfen.ogg"
-    },
-    {
-      "id": "v211",
-      "de": "hören",
-      "en": "to hear",
-      "pos": "verb",
-      "fa": "شنیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-h%C3%B6ren.ogg"
-    },
-    {
-      "id": "v212",
+      "id": "v100",
       "de": "inzwischen",
       "en": "in the meantime",
       "pos": "verb",
       "fa": "در این بین",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-inzwischen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-inzwischen.ogg",
+      "exampleDe": "Die Bodensee-Region ist ein ideales Urlaubsziel und inzwischen gerade bei jüngeren Leuten sehr beliebt.",
+      "exampleEn": "The Lake Constance region is an ideal holiday destination and is now particularly popular with younger people.",
+      "exampleFa": "منطقه دریاچه کنستانس یک مقصد ایده آل برای تعطیلات است و در حال حاضر به ویژه در بین جوانان محبوب است."
     },
     {
-      "id": "v213",
-      "de": "kosten",
-      "en": "to cost",
-      "pos": "verb",
-      "fa": "قیمت داشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-kosten.ogg"
-    },
-    {
-      "id": "v214",
-      "de": "meinen",
-      "en": "mean",
-      "pos": "verb",
-      "fa": "فکر کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-meinen.ogg"
-    },
-    {
-      "id": "v215",
-      "de": "oben",
-      "en": "above",
-      "pos": "verb",
-      "fa": "بالا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-oben.ogg"
-    },
-    {
-      "id": "v216",
-      "de": "passen",
-      "en": "to fit",
-      "pos": "verb",
-      "fa": "مناسب بودن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-passen.ogg"
-    },
-    {
-      "id": "v217",
+      "id": "v101",
       "de": "reduzieren",
       "en": "reduce",
       "pos": "verb",
       "fa": "کاهش دهد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-reduzieren.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-reduzieren.ogg",
+      "exampleDe": "Bademode zu Schnäppchenpreisen: Badeanzüge, Bikinis und Badehosen um 50 % reduziert.",
+      "exampleEn": "Swimwear at bargain prices: swimsuits, bikinis and swimming trunks reduced by 50%.",
+      "exampleFa": "لباس شنا با قیمت مقرون به صرفه: مایو، بیکینی و تنه شنا 50 درصد کاهش یافته است."
     },
     {
-      "id": "v218",
-      "de": "regeln",
-      "en": "regulate",
-      "pos": "verb",
-      "fa": "مرتب کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-regeln.ogg"
-    },
-    {
-      "id": "v219",
-      "de": "regnen",
-      "en": "to rain",
-      "pos": "verb",
-      "fa": "باران باریدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-regnen.ogg"
-    },
-    {
-      "id": "v220",
-      "de": "schauen",
-      "en": "to look",
-      "pos": "verb",
-      "fa": "نگاه کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-schauen.ogg"
-    },
-    {
-      "id": "v221",
+      "id": "v102",
       "de": "scheinen",
       "en": "to shine",
       "pos": "verb",
       "fa": "تابیدن آفتاب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/De-scheinen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/De-scheinen.ogg",
+      "exampleDe": "Aber die Sonne scheint doch heute ganz schön.",
+      "exampleEn": "But the sun is shining beautifully today.",
+      "exampleFa": "اما خورشید امروز به زیبایی می درخشد."
     },
     {
-      "id": "v222",
+      "id": "v103",
       "de": "schneien",
       "en": "snow",
       "pos": "verb",
@@ -1989,22 +1073,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/De-schneien.ogg"
     },
     {
-      "id": "v223",
+      "id": "v104",
       "de": "Shoppen",
       "en": "shopping",
       "pos": "verb",
-      "fa": "فروشگاه"
+      "fa": "فروشگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-shoppen.ogg",
+      "exampleDe": "Was meinst du, sollen wir morgen shoppen gehen?",
+      "exampleEn": "What do you think, should we go shopping tomorrow?",
+      "exampleFa": "نظرتون چیه فردا بریم خرید؟"
     },
     {
-      "id": "v224",
-      "de": "stattfinden",
-      "en": "to take place",
-      "pos": "verb",
-      "fa": "برگذار شدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-stattfinden.ogg"
-    },
-    {
-      "id": "v225",
+      "id": "v105",
       "de": "stürmen",
       "en": "storm",
       "pos": "verb",
@@ -2012,126 +1092,73 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-st%C3%BCrmen.ogg"
     },
     {
-      "id": "v226",
-      "de": "suchen",
-      "en": "to look for",
-      "pos": "verb",
-      "fa": "جستجو کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-suchen.ogg"
-    },
-    {
-      "id": "v227",
+      "id": "v106",
       "de": "surfen",
       "en": "to surf",
       "pos": "verb",
-      "fa": "موج سواری کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-surfen.ogg"
+      "fa": "موج سواری کردن er surft",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-surfen.ogg",
+      "exampleDe": "„Couch surfen“ heißt das, das ist so eine Plattform im Internet, und da habe ich einen Wiener gefunden.",
+      "exampleEn": "“Couch surfing” is what it’s called, it’s a platform on the internet and I found a Viennese guy there.",
+      "exampleFa": "«کاناپه‌سرفینگ» همان چیزی است که به آن می‌گویند، این یک پلتفرم در اینترنت است و من یک مرد وینی را در آنجا پیدا کردم."
     },
     {
-      "id": "v228",
-      "de": "tauschen",
-      "en": "to exchange",
-      "pos": "verb",
-      "fa": "عوض کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-tauschen.ogg"
-    },
-    {
-      "id": "v229",
-      "de": "Vergleichen",
-      "en": "to compare",
-      "pos": "verb",
-      "fa": "مقایسه کردن"
-    },
-    {
-      "id": "v230",
+      "id": "v107",
       "de": "verschieden",
       "en": "different",
       "pos": "verb",
       "fa": "متنوع، گوناگون",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-verschieden.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-verschieden.ogg",
+      "exampleDe": "Tja, die Geschmäcker sind eben verschieden!",
+      "exampleEn": "Well, tastes are different!",
+      "exampleFa": "خب سلیقه ها فرق میکنه!"
     },
     {
-      "id": "v231",
-      "de": "verstehen",
-      "en": "understand",
-      "pos": "verb",
-      "fa": "فهمیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-verstehen.ogg"
-    },
-    {
-      "id": "v232",
-      "de": "wandern",
-      "en": "to hike",
-      "pos": "verb",
-      "fa": "پیاده‌روی در طبیعت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-wandern.ogg"
-    },
-    {
-      "id": "v233",
+      "id": "v108",
       "de": "wehen",
       "en": "blow",
       "pos": "verb",
       "fa": "وزیدن باد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-wehen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-wehen.ogg",
+      "exampleDe": "Was genau tut Ihnen denn weh?",
+      "exampleEn": "What exactly is hurting you?",
+      "exampleFa": "دقیقا چه چیزی به شما آسیب می زند؟"
     },
     {
-      "id": "v234",
-      "de": "Übernachten",
-      "en": "Stay overnight",
-      "pos": "verb",
-      "fa": "شب ماندن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-%C3%9Cbernachten.ogg"
-    },
-    {
-      "id": "v235",
+      "id": "v109",
       "de": "übersetzen",
       "en": "translate",
       "pos": "verb",
       "fa": "ترجمه کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-%C3%BCbersetzen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-%C3%BCbersetzen.ogg",
+      "exampleDe": "Fred, übersetz doch mal den Witz.",
+      "exampleEn": "Fred, please translate the joke.",
+      "exampleFa": "فرد، لطفا جوک را ترجمه کنید."
     },
     {
-      "id": "v236",
-      "de": "alt",
-      "en": "old",
-      "pos": "other",
-      "fa": "قدیمی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-alt.ogg"
-    },
-    {
-      "id": "v237",
+      "id": "v110",
       "de": "altmodisch",
       "en": "old fashioned",
       "pos": "other",
       "fa": "قدیمی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/De-altmodisch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/De-altmodisch.ogg",
+      "exampleDe": "Ich finde sie total altmodisch: geblümt und mit kurzen Ärmeln!",
+      "exampleEn": "I find them totally old-fashioned: floral and with short sleeves!",
+      "exampleFa": "من آنها را کاملاً قدیمی می دانم: گلدار و با آستین کوتاه!"
     },
     {
-      "id": "v238",
-      "de": "am Ende",
-      "en": "at the end",
-      "pos": "phrase",
-      "fa": "در پایان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-am.ogg"
-    },
-    {
-      "id": "v239",
-      "de": "Aus dem Ausland",
-      "en": "From abroad",
-      "pos": "other",
-      "fa": "از خارج از کشور",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-Aus.ogg"
-    },
-    {
-      "id": "v240",
+      "id": "v111",
       "de": "Bayern",
       "en": "bavaria",
       "pos": "other",
       "fa": "بایرن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-Bayern.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-Bayern.ogg",
+      "exampleDe": "Und hier nun die Wettervorhersage für Bayern.",
+      "exampleEn": "And here is the weather forecast for Bavaria.",
+      "exampleFa": "و در اینجا پیش بینی آب و هوا برای بایرن است."
     },
     {
-      "id": "v241",
+      "id": "v112",
       "de": "bedeckt",
       "en": "covered",
       "pos": "other",
@@ -2139,31 +1166,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/De-bedeckt.ogg"
     },
     {
-      "id": "v242",
-      "de": "beige",
-      "en": "beige",
-      "pos": "other",
-      "fa": "بژ، نخودی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-beige.ogg"
-    },
-    {
-      "id": "v243",
-      "de": "bekannt",
-      "en": "known",
-      "pos": "other",
-      "fa": "شناخته شده است",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/De-bekannt.ogg"
-    },
-    {
-      "id": "v244",
+      "id": "v113",
       "de": "bequem",
       "en": "comfortable",
       "pos": "other",
-      "fa": "راحت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-bequem.ogg"
+      "fa": "راحت unbequem",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/De-bequem.ogg",
+      "exampleDe": "Aber eine Zugfahrt von Hamburg nach Vaduz ist nicht sehr bequem, denn es gibt keinen Direktzug.",
+      "exampleEn": "But a train journey from Hamburg to Vaduz is not very comfortable because there is no direct train.",
+      "exampleFa": "اما سفر با قطار از هامبورگ به وادوز چندان راحت نیست زیرا قطار مستقیمی وجود ندارد."
     },
     {
-      "id": "v245",
+      "id": "v114",
       "de": "bewölkt",
       "en": "cloudy",
       "pos": "other",
@@ -2171,15 +1185,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-bew%C3%B6lkt.ogg"
     },
     {
-      "id": "v246",
+      "id": "v115",
       "de": "bis",
       "en": "until",
       "pos": "other",
       "fa": "تا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-bis.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-bis.ogg",
+      "exampleDe": "Bis Donnerstag!",
+      "exampleEn": "Until Thursday!",
+      "exampleFa": "تا پنجشنبه!"
     },
     {
-      "id": "v247",
+      "id": "v116",
       "de": "Celsius",
       "en": "celsius",
       "pos": "other",
@@ -2187,31 +1204,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/De-Celsius.ogg"
     },
     {
-      "id": "v248",
+      "id": "v117",
       "de": "cool",
       "en": "cool",
       "pos": "other",
       "fa": "باحال؛ عالی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-cool.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-cool.ogg",
+      "exampleDe": "Cool oder Jan?",
+      "exampleEn": "Cool or Jan?",
+      "exampleFa": "باحال یا جان؟"
     },
     {
-      "id": "v249",
-      "de": "da",
-      "en": "there",
-      "pos": "other",
-      "fa": "آنجا، آنوقت، چون",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-da.ogg"
-    },
-    {
-      "id": "v250",
-      "de": "dann",
-      "en": "then",
-      "pos": "other",
-      "fa": "بعد، بعدا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-dann.ogg"
-    },
-    {
-      "id": "v251",
+      "id": "v118",
       "de": "darum",
       "en": "that is why",
       "pos": "adverb",
@@ -2219,23 +1223,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-darum.ogg"
     },
     {
-      "id": "v252",
-      "de": "denn",
-      "en": "because / for",
-      "pos": "other",
-      "fa": "چونکه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-denn.ogg"
-    },
-    {
-      "id": "v253",
+      "id": "v119",
       "de": "deshalb",
       "en": "therefore",
       "pos": "adverb",
       "fa": "به همین دلیل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-deshalb.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-deshalb.ogg",
+      "exampleDe": "Deshalb rufe ich dich auch an.",
+      "exampleEn": "That's why I'm calling you too.",
+      "exampleFa": "برای همین من هم به شما زنگ می زنم."
     },
     {
-      "id": "v254",
+      "id": "v120",
       "de": "deswegen",
       "en": "for that reason",
       "pos": "adverb",
@@ -2243,111 +1242,26 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/De-deswegen.ogg"
     },
     {
-      "id": "v255",
-      "de": "doch",
-      "en": "modal particle (do / after all)",
-      "pos": "other",
-      "fa": "اما، البته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-doch.ogg"
-    },
-    {
-      "id": "v256",
-      "de": "dort",
-      "en": "there",
-      "pos": "other",
-      "fa": "آنجا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-dort.ogg"
-    },
-    {
-      "id": "v257",
-      "de": "dunkelblau",
-      "en": "dark blue",
-      "pos": "other",
-      "fa": "آبی تیره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-dunkelblau.ogg"
-    },
-    {
-      "id": "v258",
+      "id": "v121",
       "de": "einfarbig",
       "en": "monochrome",
       "pos": "other",
-      "fa": "تک رنگ",
+      "fa": "تک رنگ bunt",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-einfarbig.ogg"
     },
     {
-      "id": "v259",
-      "de": "erfolgreich",
-      "en": "successful",
-      "pos": "other",
-      "fa": "موفق",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-erfolgreich.ogg"
-    },
-    {
-      "id": "v260",
-      "de": "ernst",
-      "en": "serious",
-      "pos": "other",
-      "fa": "بطور جدی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-ernst.ogg"
-    },
-    {
-      "id": "v261",
-      "de": "froh",
-      "en": "glad",
-      "pos": "other",
-      "fa": "شاد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-froh.ogg"
-    },
-    {
-      "id": "v262",
-      "de": "ganz",
-      "en": "quite",
-      "pos": "other",
-      "fa": "کاملاً؛ تمام",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-ganz.ogg"
-    },
-    {
-      "id": "v263",
-      "de": "gar",
-      "en": "even",
-      "pos": "other",
-      "fa": "اصلا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-gar.ogg"
-    },
-    {
-      "id": "v264",
+      "id": "v122",
       "de": "geblümt",
       "en": "floral",
       "pos": "other",
       "fa": "گل‌دار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-gebl%C3%BCmt.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-gebl%C3%BCmt.ogg",
+      "exampleDe": "Ich finde sie total altmodisch: geblümt und mit kurzen Ärmeln!",
+      "exampleEn": "I find them totally old-fashioned: floral and with short sleeves!",
+      "exampleFa": "من آنها را کاملاً قدیمی می دانم: گلدار و با آستین کوتاه!"
     },
     {
-      "id": "v265",
-      "de": "gemütlich",
-      "en": "cosy",
-      "pos": "adjective",
-      "fa": "دنج؛ راحت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/De-gem%C3%BCtlich.ogg"
-    },
-    {
-      "id": "v266",
-      "de": "genau",
-      "en": "exactly",
-      "pos": "other",
-      "fa": "دقیقا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-genau.ogg"
-    },
-    {
-      "id": "v267",
-      "de": "genug",
-      "en": "enough",
-      "pos": "other",
-      "fa": "کافی، بس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-genug.ogg"
-    },
-    {
-      "id": "v268",
+      "id": "v123",
       "de": "gestreift",
       "en": "striped",
       "pos": "other",
@@ -2355,15 +1269,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/De-gestreift.ogg"
     },
     {
-      "id": "v269",
-      "de": "gibt es",
-      "en": "there is",
-      "pos": "phrase",
-      "fa": "وجود دارد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-gibt.ogg"
-    },
-    {
-      "id": "v270",
+      "id": "v124",
       "de": "gratis",
       "en": "free",
       "pos": "other",
@@ -2371,79 +1277,62 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-gratis.ogg"
     },
     {
-      "id": "v271",
+      "id": "v125",
       "de": "grün",
       "en": "green",
       "pos": "other",
       "fa": "سبز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-gr%C3%BCn.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-gr%C3%BCn.ogg",
+      "exampleDe": "Mhm, haben Sie dieses Modell auch in Grün?",
+      "exampleEn": "Mhm, do you also have this model in green?",
+      "exampleFa": "مم شما این مدل سبز هم دارید؟"
     },
     {
-      "id": "v272",
+      "id": "v126",
       "de": "heiter",
       "en": "cheerful",
       "pos": "other",
       "fa": "صاف",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/De-heiter.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/De-heiter.ogg",
+      "exampleDe": "In München ist es meist heiter und die Höchsttemperaturen liegen am Tag bei 15 Grad und in der Nacht bei 8 Grad.",
+      "exampleEn": "It is usually clear in Munich and the maximum temperatures are 15 degrees during the day and 8 degrees at night.",
+      "exampleFa": "در مونیخ معمولاً صاف است و حداکثر دما در روز 15 درجه و در شب 8 درجه است."
     },
     {
-      "id": "v273",
-      "de": "heiß",
-      "en": "hot",
-      "pos": "other",
-      "fa": "داغ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-hei%C3%9F.ogg"
-    },
-    {
-      "id": "v274",
-      "de": "hoch",
-      "en": "high",
-      "pos": "other",
-      "fa": "بالا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-hoch.ogg"
-    },
-    {
-      "id": "v275",
+      "id": "v127",
       "de": "hübsch",
       "en": "pretty",
       "pos": "other",
-      "fa": "زیبا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-h%C3%BCbsch.ogg"
+      "fa": "زیبا hässlich",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-h%C3%BCbsch.ogg",
+      "exampleDe": "Oh, das Blüschen ist aber hübsch.",
+      "exampleEn": "Oh, that blouse is pretty.",
+      "exampleFa": "اوه اون بلوز قشنگه"
     },
     {
-      "id": "v276",
-      "de": "immer",
-      "en": "always",
-      "pos": "other",
-      "fa": "همیشه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-immer.ogg"
-    },
-    {
-      "id": "v277",
+      "id": "v128",
       "de": "kalt",
       "en": "cold",
       "pos": "adjective",
       "fa": "سرد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-kalt.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-kalt.ogg",
+      "exampleDe": "Richtig kalt!",
+      "exampleEn": "Really cold!",
+      "exampleFa": "واقعا سرده!"
     },
     {
-      "id": "v278",
+      "id": "v129",
       "de": "kaputt",
       "en": "broken",
       "pos": "other",
       "fa": "خراب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-kaputt.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-kaputt.ogg",
+      "exampleDe": "Mist, jetzt ist auch noch mein Koffer kaputt!",
+      "exampleEn": "Damn, now my suitcase is broken too!",
+      "exampleFa": "لعنتی حالا چمدان من هم شکست!"
     },
     {
-      "id": "v279",
-      "de": "klein",
-      "en": "small",
-      "pos": "other",
-      "fa": "کوچک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-klein.ogg"
-    },
-    {
-      "id": "v280",
+      "id": "v130",
       "de": "kühl",
       "en": "cool",
       "pos": "other",
@@ -2451,15 +1340,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/De-k%C3%BChl.ogg"
     },
     {
-      "id": "v281",
-      "de": "lila",
-      "en": "purple",
-      "pos": "other",
-      "fa": "بنفش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-lila.ogg"
-    },
-    {
-      "id": "v282",
+      "id": "v131",
       "de": "mild",
       "en": "mild",
       "pos": "other",
@@ -2467,39 +1348,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-mild.ogg"
     },
     {
-      "id": "v283",
-      "de": "mithilfe",
-      "en": "using",
-      "pos": "other",
-      "fa": "کمک، همیاری",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-mithilfe.ogg"
-    },
-    {
-      "id": "v284",
+      "id": "v132",
       "de": "München",
       "en": "Munich",
       "pos": "other",
       "fa": "مونیخ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-M%C3%BCnchen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-M%C3%BCnchen.ogg",
+      "exampleDe": "Na, ja, du bist jetzt zum Studium in München und leider nicht in Italien.",
+      "exampleEn": "Well, yes, you are now studying in Munich and unfortunately not in Italy.",
+      "exampleFa": "خب، بله، شما الان در مونیخ تحصیل می کنید و متاسفانه در ایتالیا نه."
     },
     {
-      "id": "v285",
+      "id": "v133",
       "de": "neblig",
       "en": "foggy",
       "pos": "other",
       "fa": "مه گرفته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-neblig.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-neblig.ogg",
+      "exampleDe": "Am Morgen ist es vor allem im Nordwesten und im Osten gebietsweise neblig und im Norden regnet es.",
+      "exampleEn": "In the morning it will be foggy, especially in the northwest and east, and it will rain in the north.",
+      "exampleFa": "صبح به ویژه در شمال غرب و شرق مه آلود و در شمال بارندگی خواهد بود."
     },
     {
-      "id": "v286",
-      "de": "neu",
-      "en": "new",
-      "pos": "other",
-      "fa": "جدید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-neu.ogg"
-    },
-    {
-      "id": "v287",
+      "id": "v134",
       "de": "nicht zu",
       "en": "not to (brauchen…zu)",
       "pos": "phrase",
@@ -2507,110 +1378,81 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-nicht.ogg"
     },
     {
-      "id": "v288",
-      "de": "nur",
-      "en": "only",
-      "pos": "other",
-      "fa": "صرفا، فقط",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-nur.ogg"
-    },
-    {
-      "id": "v289",
-      "de": "nötig",
-      "en": "necessary",
-      "pos": "other",
-      "fa": "لازم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-n%C3%B6tig.ogg"
-    },
-    {
-      "id": "v290",
-      "de": "praktisch",
-      "en": "practical",
-      "pos": "other",
-      "fa": "کاربردی؛ عملی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-praktisch.ogg"
-    },
-    {
-      "id": "v291",
-      "de": "quer",
-      "en": "across",
-      "pos": "other",
-      "fa": "اریب"
-    },
-    {
-      "id": "v292",
-      "de": "rechts",
-      "en": "right",
-      "pos": "other",
-      "fa": "راست",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-rechts.ogg"
-    },
-    {
-      "id": "v293",
+      "id": "v135",
       "de": "regnerisch",
       "en": "rainy",
       "pos": "other",
       "fa": "بارانی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-regnerisch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-regnerisch.ogg",
+      "exampleDe": "Das Wetter in Zürich ist regnerisch bei etwa 18 Grad.",
+      "exampleEn": "The weather in Zurich is rainy at around 18 degrees.",
+      "exampleFa": "هوای زوریخ در حدود 18 درجه بارانی است."
     },
     {
-      "id": "v294",
+      "id": "v136",
       "de": "schick",
       "en": "chic",
       "pos": "other",
       "fa": "شیک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-schick.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-schick.ogg",
+      "exampleDe": "Die sieht wirklich schick aus.",
+      "exampleEn": "It looks really chic.",
+      "exampleFa": "واقعا شیک به نظر میاد"
     },
     {
-      "id": "v295",
+      "id": "v137",
       "de": "schließlich",
       "en": "finally",
       "pos": "other",
       "fa": "عاقبت، سرانجام",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-schlie%C3%9Flich.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-schlie%C3%9Flich.ogg",
+      "exampleDe": "Meine Zukunftspläne und schließlich 5.",
+      "exampleEn": "My future plans and finally 5.",
+      "exampleFa": "برنامه های آینده من و در نهایت 5."
     },
     {
-      "id": "v296",
+      "id": "v138",
       "de": "schwach",
       "en": "weak",
       "pos": "other",
-      "fa": "ضعیف",
+      "fa": "ضعیف stark",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-schwach.ogg"
     },
     {
-      "id": "v297",
+      "id": "v139",
       "de": "seit",
       "en": "since / for",
       "pos": "other",
       "fa": "از آنجایی که",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-seit.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-seit.ogg",
+      "exampleDe": "Seit einer Woche.",
+      "exampleEn": "For a week.",
+      "exampleFa": "به مدت یک هفته"
     },
     {
-      "id": "v298",
+      "id": "v140",
       "de": "sonnig",
       "en": "sunny",
       "pos": "other",
       "fa": "آفتابی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-sonnig.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-sonnig.ogg",
+      "exampleDe": "In Neapel ist es sonnig und 25°.",
+      "exampleEn": "In Naples it is sunny and 25°.",
+      "exampleFa": "در ناپل هوا آفتابی و 25 درجه است."
     },
     {
-      "id": "v299",
+      "id": "v141",
       "de": "sportlich",
       "en": "sporty",
       "pos": "other",
       "fa": "ورزشی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-sportlich.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-sportlich.ogg",
+      "exampleDe": "Ja, der schaut echt sportlich aus, aber ich mag keine Rollkragen.",
+      "exampleEn": "Yes, it looks really sporty, but I don't like turtlenecks.",
+      "exampleFa": "بله، واقعا اسپرت به نظر می رسد، اما من یقه یقه اسکی را دوست ندارم."
     },
     {
-      "id": "v300",
-      "de": "stark",
-      "en": "strong",
-      "pos": "other",
-      "fa": "قوی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-stark.ogg"
-    },
-    {
-      "id": "v301",
+      "id": "v142",
       "de": "stürmisch",
       "en": "stormy",
       "pos": "other",
@@ -2618,15 +1460,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-st%C3%BCrmisch.ogg"
     },
     {
-      "id": "v302",
-      "de": "teuer",
-      "en": "expensive",
-      "pos": "other",
-      "fa": "گران قیمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-teuer.ogg"
-    },
-    {
-      "id": "v303",
+      "id": "v143",
       "de": "umsonst",
       "en": "for free",
       "pos": "other",
@@ -2634,7 +1468,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-umsonst.ogg"
     },
     {
-      "id": "v304",
+      "id": "v144",
       "de": "unfreundlich",
       "en": "unfriendly/unpleasant",
       "pos": "adjective",
@@ -2642,7 +1476,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-unfreundlich.ogg"
     },
     {
-      "id": "v305",
+      "id": "v145",
       "de": "vereinzelt",
       "en": "isolated",
       "pos": "other",
@@ -2650,23 +1484,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-vereinzelt.ogg"
     },
     {
-      "id": "v306",
-      "de": "vorne",
-      "en": "in front",
-      "pos": "other",
-      "fa": "پیش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/De-vorne.ogg"
-    },
-    {
-      "id": "v307",
+      "id": "v146",
       "de": "warm",
       "en": "warm",
       "pos": "adjective",
       "fa": "گرم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/De-warm.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/De-warm.ogg",
+      "exampleDe": "Hm, aber die Jacke ist nicht warm genug.",
+      "exampleEn": "Hmm, but the jacket isn't warm enough.",
+      "exampleFa": "هوم، اما ژاکت به اندازه کافی گرم نیست."
     },
     {
-      "id": "v308",
+      "id": "v147",
       "de": "wasserfest",
       "en": "waterproof",
       "pos": "other",
@@ -2674,39 +1503,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-wasserfest.ogg"
     },
     {
-      "id": "v309",
-      "de": "weiter",
-      "en": "further",
-      "pos": "other",
-      "fa": "دورتر، بیشتر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-weiter.ogg"
-    },
-    {
-      "id": "v310",
-      "de": "weiß",
-      "en": "white",
-      "pos": "other",
-      "fa": "سفید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-wei%C3%9F.ogg"
-    },
-    {
-      "id": "v311",
-      "de": "wenig",
-      "en": "few",
-      "pos": "other",
-      "fa": "کم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-wenig.ogg"
-    },
-    {
-      "id": "v312",
-      "de": "wieder",
-      "en": "again",
-      "pos": "other",
-      "fa": "دوباره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-wieder.ogg"
-    },
-    {
-      "id": "v313",
+      "id": "v148",
       "de": "windig",
       "en": "windy",
       "pos": "other",
@@ -2714,7 +1511,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-windig.ogg"
     },
     {
-      "id": "v314",
+      "id": "v149",
       "de": "wirtschaftlich",
       "en": "economically",
       "pos": "other",
@@ -2722,28 +1519,12 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-wirtschaftlich.ogg"
     },
     {
-      "id": "v315",
-      "de": "wunderschön",
-      "en": "beautiful",
-      "pos": "other",
-      "fa": "بسیار زیبا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/De-wundersch%C3%B6n.ogg"
-    },
-    {
-      "id": "v316",
+      "id": "v150",
       "de": "zahlreich",
       "en": "numerous",
       "pos": "other",
       "fa": "بی شمار",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/De-zahlreich.ogg"
-    },
-    {
-      "id": "v317",
-      "de": "über",
-      "en": "about / over",
-      "pos": "other",
-      "fa": "بالای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-%C3%BCber.ogg"
     }
   ],
   "grammar": [

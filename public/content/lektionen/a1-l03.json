@@ -40,15 +40,6 @@
   "vocab": [
     {
       "id": "v1",
-      "de": "Alltag",
-      "en": "everyday life",
-      "pos": "noun",
-      "article": "der",
-      "fa": "روزمره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Alltag.ogg"
-    },
-    {
-      "id": "v2",
       "de": "Altenpfleger",
       "en": "geriatric nurse",
       "pos": "noun",
@@ -57,16 +48,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Altenpfleger.ogg"
     },
     {
-      "id": "v3",
-      "de": "Angebot",
-      "en": "offer",
-      "pos": "noun",
-      "article": "das",
-      "fa": "پیشنهاد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/De-Angebot.ogg"
-    },
-    {
-      "id": "v4",
+      "id": "v2",
       "de": "Architekt",
       "en": "architect",
       "pos": "noun",
@@ -75,7 +57,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-Architekt.ogg"
     },
     {
-      "id": "v5",
+      "id": "v3",
       "de": "Architektin",
       "en": "architect",
       "pos": "noun",
@@ -84,25 +66,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-Architektin.ogg"
     },
     {
-      "id": "v6",
-      "de": "Artikel",
-      "en": "article",
-      "pos": "noun",
-      "article": "der",
-      "fa": "حرف تعریف؛ مقاله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Artikel.ogg"
-    },
-    {
-      "id": "v7",
-      "de": "Arzt",
-      "en": "doctor",
-      "pos": "noun",
-      "article": "der",
-      "fa": "پزشک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Arzt.ogg"
-    },
-    {
-      "id": "v8",
+      "id": "v4",
       "de": "Au-pair",
       "en": "au pair",
       "pos": "noun",
@@ -111,7 +75,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-Au-pair.ogg"
     },
     {
-      "id": "v9",
+      "id": "v5",
       "de": "Banane",
       "en": "banana",
       "pos": "noun",
@@ -120,16 +84,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-Banane.ogg"
     },
     {
-      "id": "v10",
+      "id": "v6",
       "de": "Becher",
       "en": "mug",
       "pos": "noun",
       "article": "die",
       "fa": "لیوان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-Becher.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-Becher.ogg",
+      "exampleDe": "Gut, kauf bitte zwei Päckchen Butter und vier Becher",
+      "exampleEn": "Okay, please buy two packets of butter and four cups",
+      "exampleFa": "خوب، لطفا دو بسته کره و چهار فنجان بخرید"
     },
     {
-      "id": "v11",
+      "id": "v7",
       "de": "Bedeutungen",
       "en": "meanings",
       "pos": "noun",
@@ -138,16 +105,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-Bedeutungen.ogg"
     },
     {
-      "id": "v12",
-      "de": "Beruf",
-      "en": "profession / job",
-      "pos": "noun",
-      "article": "der",
-      "fa": "شغل؛ حرفه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-Beruf.ogg"
-    },
-    {
-      "id": "v13",
+      "id": "v8",
       "de": "Besitzer",
       "en": "owner",
       "pos": "noun",
@@ -156,25 +114,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Besitzer.ogg"
     },
     {
-      "id": "v14",
-      "de": "Bitte",
-      "en": "please; request",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خواهش؛ لطفاً",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Bitte.ogg"
-    },
-    {
-      "id": "v15",
-      "de": "Blick",
-      "en": "look; view",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نگاه؛ چشم‌انداز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Blick.ogg"
-    },
-    {
-      "id": "v16",
+      "id": "v9",
       "de": "Bratwurst",
       "en": "bratwurst",
       "pos": "noun",
@@ -183,51 +123,40 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Bratwurst.ogg"
     },
     {
-      "id": "v17",
+      "id": "v10",
       "de": "Brot",
       "en": "bread",
       "pos": "noun",
       "article": "das",
       "fa": "نان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Brot.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/De-Brot.ogg",
+      "exampleDe": "Hm, und Brot.",
+      "exampleEn": "Hmm, and bread.",
+      "exampleFa": "هوم، و نان."
     },
     {
-      "id": "v18",
-      "de": "Bruder",
-      "en": "brother",
-      "pos": "noun",
-      "article": "der",
-      "fa": "برادر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Bruder.ogg"
-    },
-    {
-      "id": "v19",
+      "id": "v11",
       "de": "brötchen",
       "en": "bread roll",
       "pos": "noun",
       "article": "das",
-      "fa": "رول نان"
+      "fa": "رول نان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/De-Br%C3%B6tchen.ogg"
     },
     {
-      "id": "v20",
-      "de": "Bund",
-      "en": "federal",
-      "pos": "noun",
-      "article": "das",
-      "fa": "فدرال",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/De-Bund.ogg"
-    },
-    {
-      "id": "v21",
+      "id": "v12",
       "de": "Butter",
       "en": "butter",
       "pos": "noun",
       "article": "die",
       "fa": "کره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Butter.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Butter.ogg",
+      "exampleDe": "Ja, und Butter.",
+      "exampleEn": "Yes, and butter.",
+      "exampleFa": "بله، و کره."
     },
     {
-      "id": "v22",
+      "id": "v13",
       "de": "Bürokaufmann",
       "en": "Office clerk",
       "pos": "noun",
@@ -235,61 +164,43 @@
       "fa": "منشی دفتر"
     },
     {
-      "id": "v23",
-      "de": "Chips",
-      "en": "chips",
-      "pos": "noun",
-      "article": "die",
-      "fa": "چیپس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-Chips.ogg"
-    },
-    {
-      "id": "v24",
+      "id": "v14",
       "de": "Cousin",
       "en": "cousin",
       "pos": "noun",
       "article": "der",
       "fa": "پسر عمو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Cousin.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Cousin.ogg",
+      "exampleDe": "Nein, das ist mein Cousin Niklas als Baby und meine zwei Cousinen.",
+      "exampleEn": "No, that's my cousin Niklas as a baby and my two cousins.",
+      "exampleFa": "نه، آن پسر عموی من نیکلاس در کودکی و دو پسر عموی من هستند."
     },
     {
-      "id": "v25",
+      "id": "v15",
       "de": "Cousine",
       "en": "cousin",
       "pos": "noun",
       "article": "die",
       "fa": "دخترعمه/خاله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Cousine.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Cousine.ogg",
+      "exampleDe": "Nein, das ist mein Cousin Niklas als Baby und meine zwei Cousinen.",
+      "exampleEn": "No, that's my cousin Niklas as a baby and my two cousins.",
+      "exampleFa": "نه، آن پسر عموی من نیکلاس در کودکی و دو پسر عموی من هستند."
     },
     {
-      "id": "v26",
-      "de": "Dank",
-      "en": "Thanks to",
-      "pos": "noun",
-      "article": "der",
-      "fa": "Sg. تشکر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-Dank.ogg"
-    },
-    {
-      "id": "v27",
-      "de": "Daten",
-      "en": "data",
-      "pos": "noun",
-      "article": "die",
-      "fa": "داده ها",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/De-Daten.ogg"
-    },
-    {
-      "id": "v28",
+      "id": "v16",
       "de": "Dose",
       "en": "can",
       "pos": "noun",
       "article": "die",
       "fa": "قوطی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/De-Dose.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/De-Dose.ogg",
+      "exampleDe": "Moment, zwei Pfund Brot und eine Dose Erbsen, ist das richtig?",
+      "exampleEn": "Wait, two pounds of bread and a can of peas, is that right?",
+      "exampleFa": "صبر کن، دو پوند نان و یک قوطی نخود، درست است؟"
     },
     {
-      "id": "v29",
+      "id": "v17",
       "de": "Durchsage",
       "en": "announcement",
       "pos": "noun",
@@ -298,16 +209,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Durchsage.ogg"
     },
     {
-      "id": "v30",
-      "de": "Ei",
-      "en": "egg",
-      "pos": "noun",
-      "article": "das",
-      "fa": "تخم‌مرغ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/De-Ei.ogg"
-    },
-    {
-      "id": "v31",
+      "id": "v18",
       "de": "Einkaufszettel",
       "en": "shopping list",
       "pos": "noun",
@@ -316,7 +218,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-Einkaufszettel.ogg"
     },
     {
-      "id": "v32",
+      "id": "v19",
       "de": "Eis",
       "en": "ice",
       "pos": "noun",
@@ -325,43 +227,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Eis.ogg"
     },
     {
-      "id": "v33",
-      "de": "Eltern",
-      "en": "parents",
-      "pos": "noun",
-      "article": "die",
-      "fa": "والدین",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-Eltern.ogg"
-    },
-    {
-      "id": "v34",
+      "id": "v20",
       "de": "Emmentaler",
       "en": "emmental",
       "pos": "noun",
       "article": "der",
       "fa": "ایمنتال",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-Emmentaler.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-Emmentaler.ogg",
+      "exampleDe": "Ich hätte gern Emmentaler.",
+      "exampleEn": "I would like Emmental cheese.",
+      "exampleFa": "من پنیر امانتال می خواهم."
     },
     {
-      "id": "v35",
-      "de": "Endung",
-      "en": "ending (grammar)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پایان (دستوری)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-Endung.ogg"
-    },
-    {
-      "id": "v36",
+      "id": "v21",
       "de": "Erbse",
       "en": "pea",
       "pos": "noun",
       "article": "die",
       "fa": "نخود فرنگی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Erbse.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Erbse.ogg",
+      "exampleDe": "Moment, zwei Pfund Brot und eine Dose Erbsen, ist das richtig?",
+      "exampleEn": "Wait, two pounds of bread and a can of peas, is that right?",
+      "exampleFa": "صبر کن، دو پوند نان و یک قوطی نخود، درست است؟"
     },
     {
-      "id": "v37",
+      "id": "v22",
       "de": "Erdbeere",
       "en": "strawberry",
       "pos": "noun",
@@ -370,97 +260,67 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-Erdbeere.ogg"
     },
     {
-      "id": "v38",
-      "de": "Essen",
-      "en": "food; to eat",
-      "pos": "noun",
-      "article": "das",
-      "fa": "غذا؛ خوردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-Essen.ogg"
-    },
-    {
-      "id": "v39",
+      "id": "v23",
       "de": "Euro",
       "en": "euro",
       "pos": "noun",
       "article": "der",
       "fa": "یورو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/De-Euro.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/De-Euro.ogg",
+      "exampleDe": "100 g 1,60 Euro.",
+      "exampleEn": "100 g 1.60 euros.",
+      "exampleFa": "100 گرم 1.60 یورو."
     },
     {
-      "id": "v40",
-      "de": "Fahrt",
-      "en": "drive",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سفر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/De-Fahrt.ogg"
-    },
-    {
-      "id": "v41",
-      "de": "Familie",
-      "en": "family",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خانواده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Familie.ogg"
-    },
-    {
-      "id": "v42",
+      "id": "v24",
       "de": "Fan",
       "en": "fan",
       "pos": "noun",
       "article": "der",
       "fa": "هوادار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Fan.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Fan.ogg",
+      "exampleDe": "Schaut mal, hier ist ein lustiges Angebot: „Criminal Dinner, für alle Hobbydetektive und Fans von „Dinner for One“.",
+      "exampleEn": "Look, here's a fun offer: “Criminal Dinner, for all amateur detectives and fans of “Dinner for One”.",
+      "exampleFa": "ببینید، این یک پیشنهاد سرگرم کننده است: \"شام جنایی، برای همه کارآگاهان آماتور و طرفداران \"شام برای یک\"."
     },
     {
-      "id": "v43",
+      "id": "v25",
       "de": "Flasche",
       "en": "bottle",
       "pos": "noun",
       "article": "die",
       "fa": "بطری",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-Flasche.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-Flasche.ogg",
+      "exampleDe": "Die Flasche Orangensaft für 1,26 Euro.",
+      "exampleEn": "The bottle of orange juice for 1.26 euros.",
+      "exampleFa": "بطری آب پرتقال 1.26 یورو."
     },
     {
-      "id": "v44",
+      "id": "v26",
       "de": "Fleisch",
       "en": "meat",
       "pos": "noun",
       "article": "das",
       "fa": "گوشت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Fleisch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Fleisch.ogg",
+      "exampleDe": "Mein Fleisch?",
+      "exampleEn": "My flesh?",
+      "exampleFa": "گوشت من؟"
     },
     {
-      "id": "v45",
-      "de": "Form",
-      "en": "form",
-      "pos": "noun",
-      "article": "die",
-      "fa": "قالب فرم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Form.ogg"
-    },
-    {
-      "id": "v46",
+      "id": "v27",
       "de": "Frühstück",
       "en": "breakfast",
       "pos": "noun",
       "article": "die",
       "fa": "صبحانه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/De-Fr%C3%BChst%C3%BCck.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/De-Fr%C3%BChst%C3%BCck.ogg",
+      "exampleDe": "Ein süßes Frühstück vielleicht?",
+      "exampleEn": "A sweet breakfast perhaps?",
+      "exampleFa": "شاید یک صبحانه شیرین؟"
     },
     {
-      "id": "v47",
-      "de": "Geburtstag",
-      "en": "birthday",
-      "pos": "noun",
-      "article": "der",
-      "fa": "روز تولد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-Geburtstag.ogg"
-    },
-    {
-      "id": "v48",
+      "id": "v28",
       "de": "Gemüse",
       "en": "vegetables",
       "pos": "noun",
@@ -469,97 +329,43 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/De-Gem%C3%BCse.ogg"
     },
     {
-      "id": "v49",
-      "de": "Geschichte",
-      "en": "story",
-      "pos": "noun",
-      "article": "die",
-      "fa": "داستان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Geschichte.ogg"
-    },
-    {
-      "id": "v50",
-      "de": "Gespräch",
-      "en": "conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Gespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v51",
-      "de": "Glas",
-      "en": "glass",
-      "pos": "noun",
-      "article": "das",
-      "fa": "شیشه ای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Glas.ogg"
-    },
-    {
-      "id": "v52",
-      "de": "GmbH",
-      "en": "Ltd (GmbH)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شرکت با مسئولیت محدود (آلمانی)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-GmbH.ogg"
-    },
-    {
-      "id": "v53",
-      "de": "Grafik",
-      "en": "graphic",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نمودار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-Grafik.ogg"
-    },
-    {
-      "id": "v54",
+      "id": "v29",
       "de": "Gramm",
       "en": "grams",
       "pos": "noun",
       "article": "das",
       "fa": "گرم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-Gramm.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-Gramm.ogg",
+      "exampleDe": "Die 100-Gramm-Tafel heute für nur 83 Cent.",
+      "exampleEn": "The 100 gram bar today for only 83 cents.",
+      "exampleFa": "میله 100 گرمی امروز فقط 83 سنت."
     },
     {
-      "id": "v55",
-      "de": "Grammatik",
-      "en": "grammar",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دستور زبان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Grammatik.ogg"
-    },
-    {
-      "id": "v56",
+      "id": "v30",
       "de": "Großeinkauf",
       "en": "big shopping trip / bulk shopping",
       "pos": "noun",
       "article": "der",
       "fa": "خرید عمده؛ خرید بزرگ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Gro%C3%9Feinkauf.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Gro%C3%9Feinkauf.ogg",
+      "exampleDe": "Und am Donnerstagvormittag machen wir immer Großeinkauf.",
+      "exampleEn": "And on Thursday mornings we always do bulk shopping.",
+      "exampleFa": "و صبح های پنجشنبه همیشه خرید عمده انجام می دهیم."
     },
     {
-      "id": "v57",
+      "id": "v31",
       "de": "Gurke",
       "en": "cucumber",
       "pos": "noun",
       "article": "die",
       "fa": "خیار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Gurke.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Gurke.ogg",
+      "exampleDe": "Ja, zehn Eier, zwei Gurken und Milch, drei Liter.",
+      "exampleEn": "Yes, ten eggs, two cucumbers and milk, three liters.",
+      "exampleFa": "بله، ده تخم مرغ، دو عدد خیار و شیر، سه لیتر."
     },
     {
-      "id": "v58",
-      "de": "Haus",
-      "en": "house",
-      "pos": "noun",
-      "article": "das",
-      "fa": "خانه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Haus.ogg"
-    },
-    {
-      "id": "v59",
+      "id": "v32",
       "de": "Hausarbeit",
       "en": "housework",
       "pos": "noun",
@@ -568,25 +374,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-Hausarbeit.ogg"
     },
     {
-      "id": "v60",
+      "id": "v33",
       "de": "Haushalt",
       "en": "household",
       "pos": "noun",
       "article": "das",
       "fa": "خانوار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Haushalt.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Haushalt.ogg",
+      "exampleDe": "Zu Hause mache ich auch den Haushalt.",
+      "exampleEn": "I also do the housework at home.",
+      "exampleFa": "کارهای خانه را هم در خانه انجام می دهم."
     },
     {
-      "id": "v61",
-      "de": "Infinitiv",
-      "en": "infinitive",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مصدر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Infinitiv.ogg"
-    },
-    {
-      "id": "v62",
+      "id": "v34",
       "de": "Informatiker",
       "en": "Computer scientist",
       "pos": "noun",
@@ -595,7 +395,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-Informatiker.ogg"
     },
     {
-      "id": "v63",
+      "id": "v35",
       "de": "Informatikerin",
       "en": "Computer scientist",
       "pos": "noun",
@@ -604,16 +404,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/De-Informatikerin.ogg"
     },
     {
-      "id": "v64",
-      "de": "Interesse",
-      "en": "interest",
-      "pos": "noun",
-      "article": "das",
-      "fa": "علاقه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Interesse.ogg"
-    },
-    {
-      "id": "v65",
+      "id": "v36",
       "de": "Jogging",
       "en": "jogging",
       "pos": "noun",
@@ -622,7 +413,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Jogging.ogg"
     },
     {
-      "id": "v66",
+      "id": "v37",
       "de": "Joghurt",
       "en": "yogurt",
       "pos": "noun",
@@ -631,34 +422,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/De-Joghurt.ogg"
     },
     {
-      "id": "v67",
-      "de": "Junge",
-      "en": "boy",
-      "pos": "noun",
-      "article": "der",
-      "fa": "پسر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-Junge.ogg"
-    },
-    {
-      "id": "v68",
+      "id": "v38",
       "de": "Kaffee",
       "en": "coffee",
       "pos": "noun",
       "article": "der",
       "fa": "قهوه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Kaffee.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Kaffee.ogg",
+      "exampleDe": "Ein Pfund Kaffee, also 500 g.",
+      "exampleEn": "One pound of coffee, i.e. 500 g.",
+      "exampleFa": "یک پوند قهوه، یعنی 500 گرم."
     },
     {
-      "id": "v69",
+      "id": "v39",
       "de": "Karotte",
       "en": "carrot",
       "pos": "noun",
       "article": "die",
       "fa": "هویج",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Karotte.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Karotte.ogg",
+      "exampleDe": "Zwiebeln, das Netz, heute für 57 Cent, und das Bund Karotten, 500 Gramm, für 1,09 Euro.",
+      "exampleEn": "Onions, the net, today for 57 cents, and the bunch of carrots, 500 grams, for 1.09 euros.",
+      "exampleFa": "پیاز، تور، امروز 57 سنت، و دسته هویج، 500 گرم، 1.09 یورو."
     },
     {
-      "id": "v70",
+      "id": "v40",
       "de": "Kartoffel",
       "en": "potato",
       "pos": "noun",
@@ -667,16 +455,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Kartoffel.ogg"
     },
     {
-      "id": "v71",
+      "id": "v41",
       "de": "Kasten",
       "en": "crate",
       "pos": "noun",
       "article": "der",
       "fa": "جعبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-Kasten.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-Kasten.ogg",
+      "exampleDe": "Sahne, ach ja und Mineralwasser, einen Kasten, also zwölf Flaschen.",
+      "exampleEn": "Cream, oh yes and mineral water, a case, so twelve bottles.",
+      "exampleFa": "کرم، اوه بله و آب معدنی، یک مورد، بنابراین دوازده بطری."
     },
     {
-      "id": "v72",
+      "id": "v42",
       "de": "Keks",
       "en": "biscuit",
       "pos": "noun",
@@ -685,33 +476,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-Keks.ogg"
     },
     {
-      "id": "v73",
+      "id": "v43",
       "de": "Kilo",
       "en": "kilo",
       "pos": "noun",
       "article": "das",
       "fa": "کیلوگرم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-Kilo.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-Kilo.ogg",
+      "exampleDe": "Ein Sack Kartoffeln, wie viele Kilo sind das?",
+      "exampleEn": "A sack of potatoes, how many kilos is that?",
+      "exampleFa": "یک گونی سیب زمینی، چند کیلو است؟"
     },
     {
-      "id": "v74",
-      "de": "Kino",
-      "en": "cinema",
-      "pos": "noun",
-      "article": "das",
-      "fa": "سینما",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Kino.ogg"
-    },
-    {
-      "id": "v75",
+      "id": "v44",
       "de": "kochen",
       "en": "to cook",
       "pos": "noun",
       "article": "das",
-      "fa": "غذا پختن"
+      "fa": "غذا پختن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-kochen.ogg",
+      "exampleDe": "Ich kann gut kochen.",
+      "exampleEn": "I can cook well.",
+      "exampleFa": "من می توانم خوب آشپزی کنم."
     },
     {
-      "id": "v76",
+      "id": "v45",
       "de": "Kontakt",
       "en": "contact",
       "pos": "noun",
@@ -720,52 +509,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Kontakt.ogg"
     },
     {
-      "id": "v77",
-      "de": "Kuchen",
-      "en": "cake",
-      "pos": "noun",
-      "article": "der",
-      "fa": "کیک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Kuchen.ogg"
-    },
-    {
-      "id": "v78",
-      "de": "Kunde",
-      "en": "customer",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مشتری مذکر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/De-Kunde.ogg"
-    },
-    {
-      "id": "v79",
-      "de": "Kurs",
-      "en": "course",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دوره؛ کلاس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Kurs.ogg"
-    },
-    {
-      "id": "v80",
-      "de": "Kursbuch",
-      "en": "course book",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کتاب دوره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Kursbuch.ogg"
-    },
-    {
-      "id": "v81",
+      "id": "v46",
       "de": "Käse",
       "en": "cheese",
       "pos": "noun",
       "article": "der",
       "fa": "پنیر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-K%C3%A4se.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-K%C3%A4se.ogg",
+      "exampleDe": "Käse machen.",
+      "exampleEn": "Make cheese.",
+      "exampleFa": "پنیر درست کن"
     },
     {
-      "id": "v82",
+      "id": "v47",
       "de": "Käsetheke",
       "en": "Cheese counter",
       "pos": "noun",
@@ -774,7 +530,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-K%C3%A4setheke.ogg"
     },
     {
-      "id": "v83",
+      "id": "v48",
       "de": "Lachs",
       "en": "salmon",
       "pos": "noun",
@@ -783,97 +539,91 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/De-Lachs.ogg"
     },
     {
-      "id": "v84",
+      "id": "v49",
       "de": "Langschläfer",
       "en": "Late risers",
       "pos": "noun",
       "article": "der",
       "fa": "خوشخواب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-Langschl%C3%A4fer.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-Langschl%C3%A4fer.ogg",
+      "exampleDe": "Das ist nichts für dich, du schläfst ja gerne lange, du alter Langschläfer!",
+      "exampleEn": "That's not for you, you like to sleep for a long time, you old late riser!",
+      "exampleFa": "این برای تو نیست، تو دوست داری طولانی بخوابی، ای دیر بلند شده پیر!"
     },
     {
-      "id": "v85",
-      "de": "Leute",
-      "en": "people",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مردم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Leute.ogg"
-    },
-    {
-      "id": "v86",
+      "id": "v50",
       "de": "Liter",
       "en": "liter",
       "pos": "noun",
       "article": "der",
       "fa": "لیتر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-Liter.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-Liter.ogg",
+      "exampleDe": "Ja, zehn Eier, zwei Gurken und Milch, drei Liter.",
+      "exampleEn": "Yes, ten eggs, two cucumbers and milk, three liters.",
+      "exampleFa": "بله، ده تخم مرغ، دو عدد خیار و شیر، سه لیتر."
     },
     {
-      "id": "v87",
+      "id": "v51",
       "de": "Marmelade",
       "en": "jam",
       "pos": "noun",
       "article": "die",
       "fa": "مربا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-Marmelade.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-Marmelade.ogg",
+      "exampleDe": "Das ist Marmelade auf Schwäbisch.",
+      "exampleEn": "That's jam in Swabian.",
+      "exampleFa": "این جام در زبان سوابی است."
     },
     {
-      "id": "v88",
+      "id": "v52",
       "de": "Mehl",
       "en": "flour",
       "pos": "noun",
       "article": "das",
       "fa": "آرد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-Mehl.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De-Mehl.ogg",
+      "exampleDe": "Das kg Mehl zum Dauertiefpreis von 48 Cent.",
+      "exampleEn": "The kg of flour at the permanent low price of 48 cents.",
+      "exampleFa": "کیلوگرم آرد با قیمت پایین دائمی 48 سنت."
     },
     {
-      "id": "v89",
-      "de": "Menge",
-      "en": "crowd",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جمعیت، اندازه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-Menge.ogg"
-    },
-    {
-      "id": "v90",
+      "id": "v53",
       "de": "Milch",
       "en": "milk",
       "pos": "noun",
       "article": "die",
       "fa": "شیر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-Milch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-Milch.ogg",
+      "exampleDe": "Ja, zehn Eier, zwei Gurken und Milch, drei Liter.",
+      "exampleEn": "Yes, ten eggs, two cucumbers and milk, three liters.",
+      "exampleFa": "بله، ده تخم مرغ، دو عدد خیار و شیر، سه لیتر."
     },
     {
-      "id": "v91",
-      "de": "Morgen",
-      "en": "morning; tomorrow",
-      "pos": "noun",
-      "article": "der",
-      "fa": "صبح؛ فردا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Morgen.ogg"
-    },
-    {
-      "id": "v92",
+      "id": "v54",
       "de": "Mutter",
       "en": "mother",
       "pos": "noun",
       "article": "die",
       "fa": "مادر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-Mutter.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-Mutter.ogg",
+      "exampleDe": "Das sind meine Mutter und Tante Jenny als Kinder.",
+      "exampleEn": "This is my mother and Aunt Jenny as children.",
+      "exampleFa": "این مادر من و خاله جنی در کودکی هستند."
     },
     {
-      "id": "v93",
+      "id": "v55",
       "de": "Mädchen",
       "en": "girl",
       "pos": "noun",
       "article": "das",
       "fa": "دختر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-M%C3%A4dchen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-M%C3%A4dchen.ogg",
+      "exampleDe": "Wer sind die Mädchen in den Ballettkleidern?",
+      "exampleEn": "Who are the girls in the ballet dresses?",
+      "exampleFa": "دخترانی که لباس باله دارند چه کسانی هستند؟"
     },
     {
-      "id": "v94",
+      "id": "v56",
       "de": "Neffe",
       "en": "nephew",
       "pos": "noun",
@@ -882,16 +632,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-Neffe.ogg"
     },
     {
-      "id": "v95",
-      "de": "Netz",
-      "en": "network",
-      "pos": "noun",
-      "article": "das",
-      "fa": "شبکه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/De-Netz.ogg"
-    },
-    {
-      "id": "v96",
+      "id": "v57",
       "de": "Nichte",
       "en": "niece",
       "pos": "noun",
@@ -900,16 +641,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Nichte.ogg"
     },
     {
-      "id": "v97",
-      "de": "Nomen",
-      "en": "noun",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اسم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Nomen.ogg"
-    },
-    {
-      "id": "v98",
+      "id": "v58",
       "de": "Nudel",
       "en": "noodle",
       "pos": "noun",
@@ -918,7 +650,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-Nudel.ogg"
     },
     {
-      "id": "v99",
+      "id": "v59",
       "de": "Obst",
       "en": "fruit",
       "pos": "noun",
@@ -927,16 +659,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Obst.ogg"
     },
     {
-      "id": "v100",
-      "de": "Orange",
-      "en": "orange",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نارنجی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-Orange.ogg"
-    },
-    {
-      "id": "v101",
+      "id": "v60",
       "de": "Packung",
       "en": "pack / package",
       "pos": "noun",
@@ -945,25 +668,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-Packung.ogg"
     },
     {
-      "id": "v102",
-      "de": "Partner",
-      "en": "partner",
-      "pos": "noun",
-      "article": "der",
-      "fa": "شریک؛ همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Partner.ogg"
-    },
-    {
-      "id": "v103",
-      "de": "Person",
-      "en": "person",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شخص",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Person.ogg"
-    },
-    {
-      "id": "v104",
+      "id": "v61",
       "de": "Pfeffer",
       "en": "pepper",
       "pos": "noun",
@@ -972,70 +677,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-Pfeffer.ogg"
     },
     {
-      "id": "v105",
+      "id": "v62",
       "de": "Pfund",
       "en": "pound",
       "pos": "noun",
       "article": "das",
       "fa": "پوند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-Pfund.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/De-Pfund.ogg",
+      "exampleDe": "Kauf bitte ein Pfund.",
+      "exampleEn": "Please buy a pound.",
+      "exampleFa": "لطفا یک پوند بخرید"
     },
     {
-      "id": "v106",
-      "de": "Pizza",
-      "en": "pizza",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پیتزا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Pizza.ogg"
-    },
-    {
-      "id": "v107",
-      "de": "Position",
-      "en": "position / job title",
-      "pos": "noun",
-      "article": "die",
-      "fa": "موقعیت؛ پست",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-Position.ogg"
-    },
-    {
-      "id": "v108",
-      "de": "Preis",
-      "en": "price",
-      "pos": "noun",
-      "article": "der",
-      "fa": "قیمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/De-Preis.ogg"
-    },
-    {
-      "id": "v109",
-      "de": "Problem",
-      "en": "problem",
-      "pos": "noun",
-      "article": "das",
-      "fa": "مشکل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/De-Problem.ogg"
-    },
-    {
-      "id": "v110",
+      "id": "v63",
       "de": "Prospekt",
       "en": "brochure",
       "pos": "noun",
       "article": "der",
       "fa": "دفترچه تبلیغات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Prospekt.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-Prospekt.ogg",
+      "exampleDe": "Moment, hier ist ein Prospekt mit allen Informationen und Preisen.",
+      "exampleEn": "Wait, here is a brochure with all the information and prices.",
+      "exampleFa": "صبر کنید، اینجا یک بروشور با تمام اطلاعات و قیمت ها است."
     },
     {
-      "id": "v111",
-      "de": "Prozent",
-      "en": "percent",
-      "pos": "noun",
-      "article": "das",
-      "fa": "درصد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/De-Prozent.ogg"
-    },
-    {
-      "id": "v112",
+      "id": "v64",
       "de": "Putzfrau",
       "en": "Cleaning lady",
       "pos": "noun",
@@ -1044,33 +710,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Putzfrau.ogg"
     },
     {
-      "id": "v113",
-      "de": "Päckchen",
-      "en": "parcel",
-      "pos": "noun",
-      "article": "das",
-      "fa": "بسته کوچک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-P%C3%A4ckchen.ogg"
-    },
-    {
-      "id": "v114",
-      "de": "Redemittel",
-      "en": "useful phrases",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عبارات آماده گفتار"
-    },
-    {
-      "id": "v115",
-      "de": "Regel",
-      "en": "rule",
-      "pos": "noun",
-      "article": "die",
-      "fa": "قاعده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Regel.ogg"
-    },
-    {
-      "id": "v116",
+      "id": "v65",
       "de": "Reis",
       "en": "rice",
       "pos": "noun",
@@ -1079,34 +719,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-Reis.ogg"
     },
     {
-      "id": "v117",
-      "de": "Reisen",
-      "en": "travel",
-      "pos": "noun",
-      "article": "das",
-      "fa": "سفر کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Reisen.ogg"
-    },
-    {
-      "id": "v118",
+      "id": "v66",
       "de": "Rindfleisch",
       "en": "beef",
       "pos": "noun",
       "article": "das",
       "fa": "گوشت گاو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Rindfleisch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Rindfleisch.ogg",
+      "exampleDe": "Rindfleisch heute sensationell günstig: nur 10,69 Euro das Kilo.",
+      "exampleEn": "Beef is sensationally cheap today: just 10.69 euros a kilo.",
+      "exampleFa": "گوشت گاو امروزه به طرز شگفت انگیزی ارزان است: هر کیلو فقط 10.69 یورو."
     },
     {
-      "id": "v119",
+      "id": "v67",
       "de": "Sack",
       "en": "bag",
       "pos": "noun",
       "article": "der",
       "fa": "کیسه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/De-Sack.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/De-Sack.ogg",
+      "exampleDe": "Also: Ein Sack Kartoffeln.",
+      "exampleEn": "So: a sack of potatoes.",
+      "exampleFa": "بنابراین: یک گونی سیب زمینی."
     },
     {
-      "id": "v120",
+      "id": "v68",
       "de": "Saft",
       "en": "juice",
       "pos": "noun",
@@ -1115,88 +752,43 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Saft.ogg"
     },
     {
-      "id": "v121",
+      "id": "v69",
       "de": "Sahne",
       "en": "cream",
       "pos": "noun",
       "article": "die",
       "fa": "خامه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Sahne.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Sahne.ogg",
+      "exampleDe": "Sahne, ach ja und Mineralwasser, einen Kasten, also zwölf Flaschen.",
+      "exampleEn": "Cream, oh yes and mineral water, a case, so twelve bottles.",
+      "exampleFa": "کرم، اوه بله و آب معدنی، یک مورد، بنابراین دوازده بطری."
     },
     {
-      "id": "v122",
-      "de": "Salat",
-      "en": "salad",
-      "pos": "noun",
-      "article": "der",
-      "fa": "سالاد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-Salat.ogg"
-    },
-    {
-      "id": "v123",
-      "de": "Salz",
-      "en": "salt",
-      "pos": "noun",
-      "article": "das",
-      "fa": "نمک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Salz.ogg"
-    },
-    {
-      "id": "v124",
-      "de": "Satzende",
-      "en": "End of sentence",
-      "pos": "noun",
-      "article": "das",
-      "fa": "پایان جمله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Satzende.ogg"
-    },
-    {
-      "id": "v125",
+      "id": "v70",
       "de": "Schachtel",
       "en": "box",
       "pos": "noun",
       "article": "die",
       "fa": "جعبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Schachtel.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Schachtel.ogg",
+      "exampleDe": "Hm, Eier, eine Schachtel, also zehn Stück, zwei Gurken und Milch.",
+      "exampleEn": "Hmm, eggs, a box of ten, two cucumbers and milk.",
+      "exampleFa": "هوم، تخم مرغ، یک جعبه ده تایی، دو عدد خیار و شیر."
     },
     {
-      "id": "v126",
-      "de": "Schluss",
-      "en": "ending",
-      "pos": "noun",
-      "article": "der",
-      "fa": "خاتمه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Schluss.ogg"
-    },
-    {
-      "id": "v127",
+      "id": "v71",
       "de": "Schokolade",
       "en": "chocolate",
       "pos": "noun",
       "article": "die",
       "fa": "شکلات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Schokolade.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Schokolade.ogg",
+      "exampleDe": "Oder doch lieber Schokolade?",
+      "exampleEn": "Or would you rather have chocolate?",
+      "exampleFa": "یا ترجیح می دهید شکلات بخورید؟"
     },
     {
-      "id": "v128",
-      "de": "Schreiben",
-      "en": "to write",
-      "pos": "noun",
-      "article": "das",
-      "fa": "نوشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Schreiben.ogg"
-    },
-    {
-      "id": "v129",
-      "de": "Schule",
-      "en": "school",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مدرسه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Schule.ogg"
-    },
-    {
-      "id": "v130",
+      "id": "v72",
       "de": "Schwager",
       "en": "brother-in-law",
       "pos": "noun",
@@ -1205,16 +797,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/De-Schwager.ogg"
     },
     {
-      "id": "v131",
-      "de": "Schwester",
-      "en": "sister",
-      "pos": "noun",
-      "article": "die",
-      "fa": "خواهر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Schwester.ogg"
-    },
-    {
-      "id": "v132",
+      "id": "v73",
       "de": "Schwägerin",
       "en": "sister-in-law",
       "pos": "noun",
@@ -1223,25 +806,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-Schw%C3%A4gerin.ogg"
     },
     {
-      "id": "v133",
+      "id": "v74",
       "de": "Senf",
       "en": "mustard",
       "pos": "noun",
       "article": "der",
       "fa": "خردل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Senf.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Senf.ogg",
+      "exampleDe": "Ja, genau, da kann man nicht wissen, dass das ein Semmel mit Käse und Senf ist.",
+      "exampleEn": "Yes, exactly, you wouldn't know that it's a roll with cheese and mustard.",
+      "exampleFa": "بله، دقیقا، نمی دانید که این یک رول با پنیر و خردل است."
     },
     {
-      "id": "v134",
-      "de": "Spiel",
-      "en": "game",
-      "pos": "noun",
-      "article": "das",
-      "fa": "بازی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Spiel.ogg"
-    },
-    {
-      "id": "v135",
+      "id": "v75",
       "de": "Spieler",
       "en": "player",
       "pos": "noun",
@@ -1250,34 +827,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-Spieler.ogg"
     },
     {
-      "id": "v136",
-      "de": "Sport",
-      "en": "sport",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ورزش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Sport.ogg"
-    },
-    {
-      "id": "v137",
+      "id": "v76",
       "de": "Sprachkurs",
       "en": "Language course",
       "pos": "noun",
       "article": "der",
       "fa": "کلاس زبان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-Sprachkurs.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/De-Sprachkurs.ogg",
+      "exampleDe": "Deshalb will ich in den Ferien in England einen Sprachkurs machen.",
+      "exampleEn": "That's why I want to do a language course in England during my holidays.",
+      "exampleFa": "به همین دلیل می خواهم در تعطیلاتم در انگلستان دوره زبان بگذرانم."
     },
     {
-      "id": "v138",
+      "id": "v77",
       "de": "Stück",
       "en": "piece",
       "pos": "noun",
       "article": "das",
       "fa": "قطعه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-St%C3%BCck.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-St%C3%BCck.ogg",
+      "exampleDe": "Am Stück, bitte.",
+      "exampleEn": "In one go, please.",
+      "exampleFa": "در یک حرکت، لطفا."
     },
     {
-      "id": "v139",
+      "id": "v78",
       "de": "Supermarkt",
       "en": "supermarket",
       "pos": "noun",
@@ -1286,34 +860,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Supermarkt.ogg"
     },
     {
-      "id": "v140",
-      "de": "Tabelle",
-      "en": "table",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جدول",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Tabelle.ogg"
-    },
-    {
-      "id": "v141",
+      "id": "v79",
       "de": "Tafel",
       "en": "blackboard",
       "pos": "noun",
       "article": "die",
       "fa": "تخته سیاه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Tafel.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Tafel.ogg",
+      "exampleDe": "Die 100-Gramm-Tafel heute für nur 83 Cent.",
+      "exampleEn": "The 100 gram bar today for only 83 cents.",
+      "exampleFa": "میله 100 گرمی امروز فقط 83 سنت."
     },
     {
-      "id": "v142",
-      "de": "Text",
-      "en": "text",
-      "pos": "noun",
-      "article": "der",
-      "fa": "متن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-Text.ogg"
-    },
-    {
-      "id": "v143",
+      "id": "v80",
       "de": "Tiefkühlkost",
       "en": "frozen food",
       "pos": "noun",
@@ -1321,25 +880,7 @@
       "fa": "غذای منجمد"
     },
     {
-      "id": "v144",
-      "de": "Tisch",
-      "en": "table",
-      "pos": "noun",
-      "article": "der",
-      "fa": "میز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-Tisch.ogg"
-    },
-    {
-      "id": "v145",
-      "de": "Tochter",
-      "en": "daughter",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دختر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/De-Tochter.ogg"
-    },
-    {
-      "id": "v146",
+      "id": "v81",
       "de": "Tomate",
       "en": "tomato",
       "pos": "noun",
@@ -1348,7 +889,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Tomate.ogg"
     },
     {
-      "id": "v147",
+      "id": "v82",
       "de": "Treff",
       "en": "meet",
       "pos": "noun",
@@ -1357,16 +898,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-Treff.ogg"
     },
     {
-      "id": "v148",
-      "de": "Treffen",
-      "en": "to meet",
-      "pos": "noun",
-      "article": "das",
-      "fa": "ملاقات؛ قرار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Treffen.ogg"
-    },
-    {
-      "id": "v149",
+      "id": "v83",
       "de": "Tube",
       "en": "tube",
       "pos": "noun",
@@ -1375,7 +907,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/De-Tube.ogg"
     },
     {
-      "id": "v150",
+      "id": "v84",
       "de": "Tüte",
       "en": "bag",
       "pos": "noun",
@@ -1384,52 +916,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-T%C3%BCte.ogg"
     },
     {
-      "id": "v151",
-      "de": "Umgebung",
-      "en": "vicinity",
-      "pos": "noun",
-      "article": "die",
-      "fa": "مجاورت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/De-Umgebung.ogg"
-    },
-    {
-      "id": "v152",
-      "de": "Unternehmen",
-      "en": "pursue",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کار تفریحی انجام دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-Unternehmen.ogg"
-    },
-    {
-      "id": "v153",
-      "de": "Vater",
-      "en": "father",
-      "pos": "noun",
-      "article": "der",
-      "fa": "پدر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Vater.ogg"
-    },
-    {
-      "id": "v154",
-      "de": "Verbindung",
-      "en": "connection",
-      "pos": "noun",
-      "article": "die",
-      "fa": "رابطه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Verbindung.ogg"
-    },
-    {
-      "id": "v155",
-      "de": "Verkäufer",
-      "en": "salesperson",
-      "pos": "noun",
-      "article": "der",
-      "fa": "فروشنده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/De-Verk%C3%A4ufer.ogg"
-    },
-    {
-      "id": "v156",
+      "id": "v85",
       "de": "Verkäuferin",
       "en": "saleswoman",
       "pos": "noun",
@@ -1438,16 +925,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-Verk%C3%A4uferin.ogg"
     },
     {
-      "id": "v157",
-      "de": "Verpackung",
-      "en": "packaging",
-      "pos": "noun",
-      "article": "die",
-      "fa": "بسته بندی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/De-Verpackung.ogg"
-    },
-    {
-      "id": "v158",
+      "id": "v86",
       "de": "Verwandte",
       "en": "related",
       "pos": "noun",
@@ -1456,7 +934,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/De-Verwandte.ogg"
     },
     {
-      "id": "v159",
+      "id": "v87",
       "de": "Vokalwechsel",
       "en": "Vowel change",
       "pos": "noun",
@@ -1465,25 +943,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-Vokalwechsel.ogg"
     },
     {
-      "id": "v160",
-      "de": "Wasser",
-      "en": "water",
-      "pos": "noun",
-      "article": "das",
-      "fa": "آب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-Wasser.ogg"
-    },
-    {
-      "id": "v161",
+      "id": "v88",
       "de": "Wein",
       "en": "wine",
       "pos": "noun",
       "article": "der",
       "fa": "شراب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Wein.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Wein.ogg",
+      "exampleDe": "Ich schlage vor, wir schenken ihm eine Flasche Wein.",
+      "exampleEn": "I suggest we give him a bottle of wine.",
+      "exampleFa": "پیشنهاد می کنم یک بطری شراب به او بدهیم."
     },
     {
-      "id": "v162",
+      "id": "v89",
       "de": "Werbefachfrau",
       "en": "Advertising specialist",
       "pos": "noun",
@@ -1491,7 +963,7 @@
       "fa": "متخصص تبلیغ"
     },
     {
-      "id": "v163",
+      "id": "v90",
       "de": "Werbefachmann",
       "en": "Advertising specialist",
       "pos": "noun",
@@ -1500,43 +972,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-Werbefachmann.ogg"
     },
     {
-      "id": "v164",
-      "de": "Woche",
-      "en": "week",
-      "pos": "noun",
-      "article": "die",
-      "fa": "هفته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/De-Woche.ogg"
-    },
-    {
-      "id": "v165",
-      "de": "Wochenende",
-      "en": "weekend",
-      "pos": "noun",
-      "article": "das",
-      "fa": "آخر هفته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/De-Wochenende.ogg"
-    },
-    {
-      "id": "v166",
-      "de": "Wurst",
-      "en": "sausage",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سوسیس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Wurst.ogg"
-    },
-    {
-      "id": "v167",
+      "id": "v91",
       "de": "Zucker",
       "en": "sugar",
       "pos": "noun",
       "article": "der",
       "fa": "شکر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Zucker.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Zucker.ogg",
+      "exampleDe": "Kakao, Zucker oder Nüsse.",
+      "exampleEn": "Cocoa, sugar or nuts.",
+      "exampleFa": "کاکائو، شکر یا آجیل."
     },
     {
-      "id": "v168",
+      "id": "v92",
       "de": "Zwiebel",
       "en": "onion",
       "pos": "noun",
@@ -1545,272 +993,73 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Zwiebel.ogg"
     },
     {
-      "id": "v169",
-      "de": "Ärztin",
-      "en": "doctor (f)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پزشک (زن)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-%C3%84rztin.ogg"
-    },
-    {
-      "id": "v170",
-      "de": "anzeigen",
-      "en": "show",
-      "pos": "verb",
-      "fa": "نشان می دهد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-anzeigen.ogg"
-    },
-    {
-      "id": "v171",
-      "de": "aufräumen",
-      "en": "to tidy up",
-      "pos": "verb",
-      "fa": "تمیز کردن ! !",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-aufr%C3%A4umen.ogg"
-    },
-    {
-      "id": "v172",
-      "de": "aufstehen",
-      "en": "to get up",
-      "pos": "verb",
-      "fa": "بلند شدن، ایستادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-aufstehen.ogg"
-    },
-    {
-      "id": "v173",
+      "id": "v93",
       "de": "backen",
       "en": "bake",
       "pos": "verb",
-      "fa": "پختن کیک و شیرینی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-backen.ogg"
+      "fa": "پختن کیک و شیرینی er bäckt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-backen.ogg",
+      "exampleDe": "Mal wieder Kuchen backen?",
+      "exampleEn": "Bake cake again?",
+      "exampleFa": "دوباره کیک بپزم؟"
     },
     {
-      "id": "v174",
-      "de": "beantworten",
-      "en": "answer",
-      "pos": "verb",
-      "fa": "جواب دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-beantworten.ogg"
-    },
-    {
-      "id": "v175",
-      "de": "betreuen",
-      "en": "look after",
-      "pos": "verb",
-      "fa": "مراقب بودن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-betreuen.ogg"
-    },
-    {
-      "id": "v176",
-      "de": "bilden",
-      "en": "form",
-      "pos": "verb",
-      "fa": "تشکیل دادن، ساختن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-bilden.ogg"
-    },
-    {
-      "id": "v177",
+      "id": "v94",
       "de": "brauchen",
       "en": "to need",
       "pos": "verb",
       "fa": "نیاز دارند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/De-brauchen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/De-brauchen.ogg",
+      "exampleDe": "Die brauche ich auch.",
+      "exampleEn": "I need those too.",
+      "exampleFa": "من هم به آنها نیاز دارم"
     },
     {
-      "id": "v178",
+      "id": "v95",
       "de": "einkaufen",
       "en": "to shop",
       "pos": "verb",
       "fa": "خرید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/De-einkaufen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/De-einkaufen.ogg",
+      "exampleDe": "Kannst du alleine einkaufen?",
+      "exampleEn": "Can you shop alone?",
+      "exampleFa": "آیا می توانید به تنهایی خرید کنید؟"
     },
     {
-      "id": "v179",
-      "de": "ergänzen",
-      "en": "to complete / fill in",
-      "pos": "verb",
-      "fa": "تکمیل کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-erg%C3%A4nzen.ogg"
-    },
-    {
-      "id": "v180",
-      "de": "erzählen",
-      "en": "to tell",
-      "pos": "verb",
-      "fa": "تعریف کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/De-erz%C3%A4hlen.ogg"
-    },
-    {
-      "id": "v181",
-      "de": "helfen",
-      "en": "to help",
-      "pos": "verb",
-      "fa": "کمک کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/De-helfen.ogg"
-    },
-    {
-      "id": "v182",
-      "de": "hören",
-      "en": "to hear",
-      "pos": "verb",
-      "fa": "شنیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-h%C3%B6ren.ogg"
-    },
-    {
-      "id": "v183",
-      "de": "kosten",
-      "en": "to cost",
-      "pos": "verb",
-      "fa": "قیمت داشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/De-kosten.ogg"
-    },
-    {
-      "id": "v184",
+      "id": "v96",
       "de": "können",
       "en": "can",
       "pos": "verb",
       "fa": "می تواند",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-k%C3%B6nnen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-k%C3%B6nnen.ogg",
+      "exampleDe": "Können Sie mal schauen?",
+      "exampleEn": "Can you take a look?",
+      "exampleFa": "می توانید نگاهی بیندازید؟"
     },
     {
-      "id": "v185",
-      "de": "laufen",
-      "en": "to run",
-      "pos": "verb",
-      "fa": "دویدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-laufen.ogg"
-    },
-    {
-      "id": "v186",
+      "id": "v97",
       "de": "möchten",
       "en": "would like",
       "pos": "verb",
       "fa": "خواستن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-m%C3%B6chten.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/De-m%C3%B6chten.ogg",
+      "exampleDe": "Wie viel möchten Sie?",
+      "exampleEn": "How much do you want?",
+      "exampleFa": "چقدر می خواهی؟"
     },
     {
-      "id": "v187",
+      "id": "v98",
       "de": "müssen",
       "en": "to have to",
       "pos": "verb",
       "fa": "باید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-m%C3%BCssen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-m%C3%BCssen.ogg",
+      "exampleDe": "Sie müssen schon um 7.30 Uhr zur Schule gehen.",
+      "exampleEn": "You have to go to school at 7:30 a.m.",
+      "exampleFa": "ساعت 7:30 صبح باید به مدرسه بروید."
     },
     {
-      "id": "v188",
-      "de": "nehmen",
-      "en": "to take",
-      "pos": "verb",
-      "fa": "گرفتن، برداشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-nehmen.ogg"
-    },
-    {
-      "id": "v189",
-      "de": "oben",
-      "en": "above",
-      "pos": "verb",
-      "fa": "بالا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-oben.ogg"
-    },
-    {
-      "id": "v190",
-      "de": "regeln",
-      "en": "regulate",
-      "pos": "verb",
-      "fa": "مرتب کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-regeln.ogg"
-    },
-    {
-      "id": "v191",
-      "de": "schauen",
-      "en": "to look",
-      "pos": "verb",
-      "fa": "نگاه کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-schauen.ogg"
-    },
-    {
-      "id": "v192",
-      "de": "tauschen",
-      "en": "to exchange",
-      "pos": "verb",
-      "fa": "عوض کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-tauschen.ogg"
-    },
-    {
-      "id": "v193",
-      "de": "Vergleichen",
-      "en": "to compare",
-      "pos": "verb",
-      "fa": "مقایسه کردن"
-    },
-    {
-      "id": "v194",
-      "de": "verstehen",
-      "en": "understand",
-      "pos": "verb",
-      "fa": "فهمیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-verstehen.ogg"
-    },
-    {
-      "id": "v195",
-      "de": "waschen",
-      "en": "to wash",
-      "pos": "noun",
-      "article": "das",
-      "fa": "شستن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Waschen.ogg"
-    },
-    {
-      "id": "v196",
-      "de": "wiederholen",
-      "en": "repeat",
-      "pos": "verb",
-      "fa": "تکرار کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-wiederholen.ogg"
-    },
-    {
-      "id": "v197",
-      "de": "Wissen",
-      "en": "to know (a fact)",
-      "pos": "verb",
-      "fa": "دانستن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Wissen.ogg"
-    },
-    {
-      "id": "v198",
-      "de": "wohnen",
-      "en": "to live (reside)",
-      "pos": "verb",
-      "fa": "زندگی کردن؛ سکونت داشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De-wohnen.ogg"
-    },
-    {
-      "id": "v199",
-      "de": "zahlen",
-      "en": "to pay",
-      "pos": "verb",
-      "fa": "پرداخت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-zahlen.ogg"
-    },
-    {
-      "id": "v200",
-      "de": "zusammen",
-      "en": "together",
-      "pos": "verb",
-      "fa": "با هم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-zusammen.ogg"
-    },
-    {
-      "id": "v201",
-      "de": "alt",
-      "en": "old",
-      "pos": "other",
-      "fa": "قدیمی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-alt.ogg"
-    },
-    {
-      "id": "v202",
+      "id": "v99",
       "de": "Apfel",
       "en": "apple",
       "pos": "other",
@@ -1818,7 +1067,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-Apfel.ogg"
     },
     {
-      "id": "v203",
+      "id": "v100",
       "de": "beruflich",
       "en": "professionally",
       "pos": "other",
@@ -1826,47 +1075,18 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-beruflich.ogg"
     },
     {
-      "id": "v204",
-      "de": "da",
-      "en": "there",
-      "pos": "other",
-      "fa": "آنجا، آنوقت، چون",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-da.ogg"
-    },
-    {
-      "id": "v205",
+      "id": "v101",
       "de": "dein",
       "en": "your (informal)",
       "pos": "other",
       "fa": "شما",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/De-dein.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/De-dein.ogg",
+      "exampleDe": "Ist das dein Vater?",
+      "exampleEn": "Is that your father?",
+      "exampleFa": "اون پدرت هست؟"
     },
     {
-      "id": "v206",
-      "de": "ernst",
-      "en": "serious",
-      "pos": "other",
-      "fa": "بطور جدی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-ernst.ogg"
-    },
-    {
-      "id": "v207",
-      "de": "frei",
-      "en": "free",
-      "pos": "other",
-      "fa": "آزاد، خالی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/De-frei.ogg"
-    },
-    {
-      "id": "v208",
-      "de": "gegenüber",
-      "en": "opposite",
-      "pos": "other",
-      "fa": "روبرو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/De-gegen%C3%BCber.ogg"
-    },
-    {
-      "id": "v209",
+      "id": "v102",
       "de": "Geschwister",
       "en": "siblings",
       "pos": "noun",
@@ -1874,31 +1094,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-Geschwister.ogg"
     },
     {
-      "id": "v210",
-      "de": "günstig",
-      "en": "cheap",
-      "pos": "other",
-      "fa": "مناسب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-g%C3%BCnstig.ogg"
-    },
-    {
-      "id": "v211",
-      "de": "herzlich",
-      "en": "heartfelt",
-      "pos": "other",
-      "fa": "از صمیم قلب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-herzlich.ogg"
-    },
-    {
-      "id": "v212",
-      "de": "immer",
-      "en": "always",
-      "pos": "other",
-      "fa": "همیشه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-immer.ogg"
-    },
-    {
-      "id": "v213",
+      "id": "v103",
       "de": "kein … mehr",
       "en": "no more / not any more",
       "pos": "phrase",
@@ -1906,7 +1102,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-kein.ogg"
     },
     {
-      "id": "v214",
+      "id": "v104",
       "de": "Lebensmittel",
       "en": "groceries / foodstuffs",
       "pos": "noun",
@@ -1915,102 +1111,51 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/De-Lebensmittel.ogg"
     },
     {
-      "id": "v215",
+      "id": "v105",
       "de": "mein",
       "en": "my",
       "pos": "other",
-      "fa": "من"
+      "fa": "من",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-mein.ogg",
+      "exampleDe": "Ja, genau, das ist mein Vater als Student!",
+      "exampleEn": "Yes, that's right, that's my father as a student!",
+      "exampleFa": "بله، درست است، آن پدر من در دوران دانشجویی است!"
     },
     {
-      "id": "v216",
-      "de": "möglich",
-      "en": "possible",
-      "pos": "other",
-      "fa": "ممکن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-m%C3%B6glich.ogg"
-    },
-    {
-      "id": "v217",
+      "id": "v106",
       "de": "nebenan",
       "en": "next door",
       "pos": "other",
       "fa": "در همسایگی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-nebenan.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-nebenan.ogg",
+      "exampleDe": "Schaut mal, ich hab’ hier was aus der Confiserie nebenan mitgebracht.",
+      "exampleEn": "Look, I brought something from the confectionery next door.",
+      "exampleFa": "ببین من از قنادی همسایه چیزی آوردم."
     },
     {
-      "id": "v218",
+      "id": "v107",
       "de": "noch",
       "en": "still / yet",
       "pos": "adverb",
       "fa": "هنوز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-noch.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-noch.ogg",
+      "exampleDe": "Und was noch?",
+      "exampleEn": "And what else?",
+      "exampleFa": "و چه چیز دیگری؟"
     },
     {
-      "id": "v219",
-      "de": "nur",
-      "en": "only",
-      "pos": "other",
-      "fa": "صرفا، فقط",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-nur.ogg"
-    },
-    {
-      "id": "v220",
-      "de": "rechts",
-      "en": "right",
-      "pos": "other",
-      "fa": "راست",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-rechts.ogg"
-    },
-    {
-      "id": "v221",
-      "de": "rund",
-      "en": "around",
-      "pos": "other",
-      "fa": "حدوداً =ca.",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-rund.ogg"
-    },
-    {
-      "id": "v222",
-      "de": "sonst",
-      "en": "otherwise",
-      "pos": "other",
-      "fa": "وگرنه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-sonst.ogg"
-    },
-    {
-      "id": "v223",
-      "de": "teuer",
-      "en": "expensive",
-      "pos": "other",
-      "fa": "گران قیمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-teuer.ogg"
-    },
-    {
-      "id": "v224",
+      "id": "v108",
       "de": "und",
       "en": "and",
       "pos": "other",
       "fa": "و",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/De-und.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/De-und.ogg",
+      "exampleDe": "Und was noch?",
+      "exampleEn": "And what else?",
+      "exampleFa": "و چه چیز دیگری؟"
     },
     {
-      "id": "v225",
-      "de": "weiß",
-      "en": "white",
-      "pos": "other",
-      "fa": "سفید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-wei%C3%9F.ogg"
-    },
-    {
-      "id": "v226",
-      "de": "wenig",
-      "en": "few",
-      "pos": "other",
-      "fa": "کم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/De-wenig.ogg"
-    },
-    {
-      "id": "v227",
+      "id": "v109",
       "de": "wie viel",
       "en": "how much",
       "pos": "phrase",
@@ -2018,28 +1163,12 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Wie.ogg"
     },
     {
-      "id": "v228",
+      "id": "v110",
       "de": "wie viele",
       "en": "how many",
       "pos": "phrase",
       "fa": "چند تا",
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Wie.ogg"
-    },
-    {
-      "id": "v229",
-      "de": "wieder",
-      "en": "again",
-      "pos": "other",
-      "fa": "دوباره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-wieder.ogg"
-    },
-    {
-      "id": "v230",
-      "de": "über",
-      "en": "about / over",
-      "pos": "other",
-      "fa": "بالای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-%C3%BCber.ogg"
     }
   ],
   "grammar": [

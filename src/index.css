@@ -519,6 +519,37 @@ textarea {
   color: #f0a59a;
 }
 
+.review-result {
+  margin: 1rem 0 0.5rem;
+  padding: 1rem 1.1rem;
+  border-radius: 12px;
+  border: 1px solid transparent;
+}
+
+.review-result.ok {
+  background: rgba(56, 142, 98, 0.22);
+  border-color: rgba(143, 212, 174, 0.45);
+  color: #b6ebc9;
+}
+
+.review-result.no {
+  background: rgba(180, 70, 55, 0.28);
+  border-color: rgba(240, 165, 154, 0.5);
+  color: #ffd0c8;
+}
+
+.review-result-label {
+  font-family: var(--font-display);
+  font-size: 1.55rem;
+  letter-spacing: 0.02em;
+}
+
+.review-result-answer {
+  margin: 0.45rem 0 0;
+  font-size: 1.05rem;
+  opacity: 0.95;
+}
+
 .score-ring {
   font-family: var(--font-display);
   font-size: 2.5rem;

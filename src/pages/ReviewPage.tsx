@@ -22,23 +22,27 @@ function reviewAnswer(item: ReviewItem, lang: 'en' | 'fa'): string {
 }
 
 export function ReviewPage() {
-  const { due, answerReview, stats } = useProgress()
+  const { due, answerReview, stats, ready } = useProgress()
   const { helperLanguage } = useSettings()
-  const [queue, setQueue] = useState(due)
+  /** Snapshot of cards for this session — do not reset when `due` updates mid-answer */
+  const [queue, setQueue] = useState<ReviewItem[] | null>(null)
   const [index, setIndex] = useState(0)
   const [revealed, setRevealed] = useState(false)
   const [input, setInput] = useState('')
-  const [msg, setMsg] = useState<string | null>(null)
+  const [result, setResult] = useState<'correct' | 'wrong' | null>(null)
 
   useEffect(() => {
+    if (!ready || queue !== null) return
     setQueue(due)
-    setIndex(0)
-    setRevealed(false)
-    setInput('')
-    setMsg(null)
-  }, [due])
+  }, [ready, due, queue])
 
-  const item = queue[index]
+  if (!ready || queue === null) {
+    return (
+      <Layout>
+        <p className="muted">Loading…</p>
+      </Layout>
+    )
+  }
 
   if (queue.length === 0) {
     return (
@@ -61,6 +65,8 @@ export function ReviewPage() {
     )
   }
 
+  const item = queue[index]
+
   if (!item) {
     return (
       <Layout>
@@ -73,6 +79,19 @@ export function ReviewPage() {
               : 'No more cards due today.'}
           </p>
           <div className="btn-row">
+            <button
+              type="button"
+              className="btn secondary"
+              onClick={() => {
+                setQueue(due)
+                setIndex(0)
+                setInput('')
+                setRevealed(false)
+                setResult(null)
+              }}
+            >
+              Review more due cards
+            </button>
             <Link className="btn" to="/">
               Home
             </Link>
@@ -86,7 +105,14 @@ export function ReviewPage() {
     setIndex((i) => i + 1)
     setInput('')
     setRevealed(false)
-    setMsg(null)
+    setResult(null)
+  }
+
+  function checkAnswer() {
+    if (result) return
+    const ok = answersEqual(expected, input)
+    setResult(ok ? 'correct' : 'wrong')
+    answerReview(item.id, ok)
   }
 
   const expected = reviewAnswer(item, helperLanguage)
@@ -112,7 +138,7 @@ export function ReviewPage() {
           {prompt}
         </h1>
 
-        {!revealed ? (
+        {!revealed && !result ? (
           <>
             <input
               className={`field ${rtlAnswer ? 'gloss-rtl' : ''}`}
@@ -121,12 +147,7 @@ export function ReviewPage() {
               placeholder="Your answer"
               autoFocus
               onKeyDown={(e) => {
-                if (e.key === 'Enter' && input.trim()) {
-                  const ok = answersEqual(expected, input)
-                  setMsg(ok ? 'Correct!' : `Answer: ${expected}`)
-                  answerReview(item.id, ok)
-                  setTimeout(advance, 550)
-                }
+                if (e.key === 'Enter' && input.trim()) checkAnswer()
               }}
             />
             <div className="btn-row">
@@ -140,20 +161,22 @@ export function ReviewPage() {
               <button
                 type="button"
                 className="btn"
-                onClick={() => {
-                  const ok = answersEqual(expected, input)
-                  setMsg(ok ? 'Correct!' : `Answer: ${expected}`)
-                  answerReview(item.id, ok)
-                  setTimeout(advance, 550)
-                }}
+                disabled={!input.trim()}
+                onClick={checkAnswer}
               >
                 Check
               </button>
             </div>
           </>
-        ) : (
+        ) : null}
+
+        {revealed && !result ? (
           <>
-            <p className={rtlAnswer || isRtl(helperLanguage) ? 'gloss-rtl' : undefined}>
+            <p
+              className={
+                rtlAnswer || isRtl(helperLanguage) ? 'gloss-rtl' : undefined
+              }
+            >
               <strong>{expected}</strong>
             </p>
             <div className="btn-row">
@@ -179,11 +202,38 @@ export function ReviewPage() {
               </button>
             </div>
           </>
-        )}
-        {msg && (
-          <div className={`feedback ${msg.startsWith('Correct') ? 'ok' : 'no'}`}>
-            {msg}
-          </div>
+        ) : null}
+
+        {result && (
+          <>
+            <div
+              className={`review-result ${result === 'correct' ? 'ok' : 'no'}`}
+              role="status"
+            >
+              <div className="review-result-label">
+                {result === 'correct' ? 'Correct' : 'Wrong'}
+              </div>
+              {result === 'wrong' && (
+                <p
+                  className={`review-result-answer ${rtlAnswer || isRtl(helperLanguage) ? 'gloss-rtl' : ''}`}
+                >
+                  Answer: <strong>{expected}</strong>
+                </p>
+              )}
+              {result === 'correct' && input.trim() && (
+                <p
+                  className={`review-result-answer ${rtlAnswer || isRtl(helperLanguage) ? 'gloss-rtl' : ''}`}
+                >
+                  {input.trim()}
+                </p>
+              )}
+            </div>
+            <div className="btn-row">
+              <button type="button" className="btn" onClick={advance} autoFocus>
+                Next
+              </button>
+            </div>
+          </>
         )}
       </div>
     </Layout>

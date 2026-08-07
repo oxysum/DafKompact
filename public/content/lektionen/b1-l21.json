@@ -4,33 +4,1521 @@
   "number": 21,
   "titleDe": "Kreativ in Hamburg",
   "titleEn": "Creative in Hamburg",
-  "status": "stub",
+  "status": "complete",
   "goals": [
     {
-      "de": "Lernziele zu „Kreativ in Hamburg“ im Kursbuch nachlesen und verstehen",
-      "en": "Read and understand the learning goals for “Creative in Hamburg” in the course book",
-      "fa": "اهداف یادگیری «خلاق در هامبورگ» را در کتاب دوره بخوانید و بفهمید"
+      "de": "Reiseführertexte und Berichte über Hamburg verstehen",
+      "en": "Understand guidebook texts and reports about Hamburg",
+      "fa": "فهم متون راهنمای سفر و گزارش‌ها درباره هامبورگ"
     },
     {
-      "de": "Wichtigen Wortschatz der Lektion sammeln und üben",
-      "en": "Collect and practice key vocabulary from this lesson",
-      "fa": "جمع‌آوری و تمرین واژگان مهم درس"
+      "de": "Interview mit Studentinnen in Hamburg spielen",
+      "en": "Role-play an interview with students in Hamburg",
+      "fa": "اجرای مصاحبه با دانشجویان در هامبورگ"
     },
     {
-      "de": "Grammatikthemen der Lektion im Überblick wiederholen",
-      "en": "Review the grammar topics of this lesson",
-      "fa": "مرور اجمالی موضوعات گرامری درس"
+      "de": "Anzeigen und Gespräche zu Veranstaltungen verstehen",
+      "en": "Understand ads and conversations about events",
+      "fa": "فهم آگهی‌ها و گفتگوها درباره رویدادها"
     },
     {
-      "de": "Sprachhandlungen in einfachen Übungen anwenden",
-      "en": "Apply the language functions in simple practice",
-      "fa": "به‌کار بردن کنش‌های زبانی در تمرین‌های ساده"
+      "de": "Vorschläge für gemeinsame Unternehmungen machen, zustimmen oder ablehnen",
+      "en": "Suggest joint activities; agree or decline",
+      "fa": "پیشنهاد فعالیت مشترک؛ موافقت یا رد"
+    },
+    {
+      "de": "Theaterstück „Kalt erwischt in Hamburg“ verstehen und zusammenfassen",
+      "en": "Understand and summarize the play “Kalt erwischt in Hamburg”",
+      "fa": "فهم و خلاصه کردن نمایش «ناگهان در هامبورگ گیر افتادن»"
     }
   ],
-  "vocab": [],
-  "grammar": [],
-  "drills": [],
-  "quiz": [],
+  "vocab": [
+    {
+      "id": "v1",
+      "de": "Anblick",
+      "en": "sight",
+      "pos": "noun",
+      "article": "der",
+      "fa": "منظره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-Anblick.ogg"
+    },
+    {
+      "id": "v2",
+      "de": "Argument",
+      "en": "argument",
+      "pos": "noun",
+      "article": "das",
+      "fa": "دلیل ، برهان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Argument.ogg"
+    },
+    {
+      "id": "v3",
+      "de": "Ausbildungsgang",
+      "en": "training course",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دوره آموزشی"
+    },
+    {
+      "id": "v4",
+      "de": "Barock",
+      "en": "Baroque",
+      "pos": "noun",
+      "article": "das",
+      "fa": "سبک باروک",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/De-Barock.ogg"
+    },
+    {
+      "id": "v5",
+      "de": "Besuch",
+      "en": "Visit",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دیدار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Besuch.ogg",
+      "exampleDe": "Mhm, schaut mal hier: Wie wäre es mit einem Theater besuch?",
+      "exampleEn": "Mmm, take a look here: How about going to the theater?",
+      "exampleFa": "ممم، به اینجا نگاهی بیندازید: در مورد رفتن به تئاتر چطور؟"
+    },
+    {
+      "id": "v6",
+      "de": "Besucher",
+      "en": "visitor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "بازدید کننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/De-Besucher.ogg",
+      "exampleDe": "Und es kommen über eine Million Besucher jährlich!",
+      "exampleEn": "And there are over a million visitors every year!",
+      "exampleFa": "و هر سال بیش از یک میلیون بازدید کننده وجود دارد!"
+    },
+    {
+      "id": "v7",
+      "de": "Bläser",
+      "en": "brass",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نوازنده ساز بادی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/De-Bl%C3%A4ser.ogg"
+    },
+    {
+      "id": "v8",
+      "de": "Branche",
+      "en": "Industry",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بخش، رشته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Branche.ogg"
+    },
+    {
+      "id": "v9",
+      "de": "Börse",
+      "en": "Stock market",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بازار سهام",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-B%C3%B6rse.ogg"
+    },
+    {
+      "id": "v10",
+      "de": "Campus",
+      "en": "campus",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کوی دانشکاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-Campus.ogg"
+    },
+    {
+      "id": "v11",
+      "de": "Container",
+      "en": "container",
+      "pos": "noun",
+      "article": "der",
+      "fa": "محفظه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Container.ogg",
+      "exampleDe": "Ole arbeitet doch hier im Container-Terminal, da in einem der Kräne.",
+      "exampleEn": "Ole works in the container terminal here, in one of the cranes there.",
+      "exampleFa": "Ole در ترمینال کانتینری اینجا کار می کند، در یکی از جرثقیل های آنجا."
+    },
+    {
+      "id": "v12",
+      "de": "Darsteller",
+      "en": "Actor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "بازیگر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-Darsteller.ogg"
+    },
+    {
+      "id": "v13",
+      "de": "Darstellerin",
+      "en": "actress",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بازیگر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-Darstellerin.ogg"
+    },
+    {
+      "id": "v14",
+      "de": "Design",
+      "en": "design",
+      "pos": "noun",
+      "article": "das",
+      "fa": "طراحی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/De-Design.ogg",
+      "exampleDe": "Herzlich willkommen bei Techno Design.",
+      "exampleEn": "Welcome to Techno Design.",
+      "exampleFa": "به تکنو دیزاین خوش آمدید."
+    },
+    {
+      "id": "v15",
+      "de": "Designer",
+      "en": "Designers",
+      "pos": "noun",
+      "article": "der",
+      "fa": "طراح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/De-Designer.ogg"
+    },
+    {
+      "id": "v16",
+      "de": "Designerin",
+      "en": "designer",
+      "pos": "noun",
+      "article": "die",
+      "fa": "طراح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/De-Designerin.ogg"
+    },
+    {
+      "id": "v17",
+      "de": "Dinner",
+      "en": "Dinner",
+      "pos": "noun",
+      "article": "das",
+      "fa": "شام",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Dinner.ogg",
+      "exampleDe": "Und nicht in „Criminal Dinner“!",
+      "exampleEn": "And not in “Criminal Dinner”!",
+      "exampleFa": "و نه در \"شام جنایی\"!"
+    },
+    {
+      "id": "v18",
+      "de": "Engagement",
+      "en": "engagement",
+      "pos": "noun",
+      "article": "das",
+      "fa": "فعالیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/De-Engagement.ogg"
+    },
+    {
+      "id": "v19",
+      "de": "Exfreund",
+      "en": "Ex boyfriend",
+      "pos": "noun",
+      "article": "der",
+      "fa": "دوست سابق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/De-Exfreund.ogg",
+      "exampleDe": "Mein Exfreund Ole Wilken.",
+      "exampleEn": "My ex-boyfriend Ole Wilken.",
+      "exampleFa": "دوست پسر سابق من اوله ویلکن."
+    },
+    {
+      "id": "v20",
+      "de": "Fahrstuhl",
+      "en": "elevator",
+      "pos": "noun",
+      "article": "der",
+      "fa": "اسانسور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Fahrstuhl.ogg"
+    },
+    {
+      "id": "v21",
+      "de": "Fassade",
+      "en": "facade",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نما",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/De-Fassade.ogg"
+    },
+    {
+      "id": "v22",
+      "de": "Faszination",
+      "en": "fascination",
+      "pos": "noun",
+      "article": "die",
+      "fa": "افسون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/De-Faszination.ogg"
+    },
+    {
+      "id": "v23",
+      "de": "Flotte",
+      "en": "fleet",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ناوگان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/De-Flotte.ogg"
+    },
+    {
+      "id": "v24",
+      "de": "Fläche",
+      "en": "Area",
+      "pos": "noun",
+      "article": "die",
+      "fa": "محوطه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/De-Fl%C3%A4che.ogg"
+    },
+    {
+      "id": "v25",
+      "de": "Fontäne",
+      "en": "fountain",
+      "pos": "noun",
+      "article": "die",
+      "fa": "فواره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/De-Font%C3%A4ne.ogg"
+    },
+    {
+      "id": "v26",
+      "de": "Form",
+      "en": "form",
+      "pos": "noun",
+      "article": "die",
+      "fa": "قالب فرم",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Form.ogg",
+      "exampleDe": "Die Form der Begrüßung hängt also sehr von der Situation und von den Leuten ab.",
+      "exampleEn": "The form of greeting depends very much on the situation and the people.",
+      "exampleFa": "شکل احوالپرسی بسیار به موقعیت و افراد بستگی دارد."
+    },
+    {
+      "id": "v27",
+      "de": "Fotomotiv",
+      "en": "Photo subject",
+      "pos": "noun",
+      "article": "das",
+      "fa": "جذاب برای عکاسی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Fotomotiv.ogg"
+    },
+    {
+      "id": "v28",
+      "de": "Frühaufsteher",
+      "en": "early bird",
+      "pos": "noun",
+      "article": "der",
+      "fa": "سحر خیز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-Fr%C3%BChaufsteher.ogg"
+    },
+    {
+      "id": "v29",
+      "de": "Geländer",
+      "en": "railing",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نرده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/De-Gel%C3%A4nder.ogg",
+      "exampleDe": "Los, klettere auf das Geländer, aber dalli!",
+      "exampleEn": "Come on, climb the railing, but dalli!",
+      "exampleFa": "بیا از نرده بالا برو ولی دالی!"
+    },
+    {
+      "id": "v30",
+      "de": "Genuss",
+      "en": "enjoyment",
+      "pos": "noun",
+      "article": "der",
+      "fa": "لذت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-Genuss.ogg"
+    },
+    {
+      "id": "v31",
+      "de": "Gesicht",
+      "en": "Face",
+      "pos": "noun",
+      "article": "das",
+      "fa": "صورت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-Gesicht.ogg"
+    },
+    {
+      "id": "v32",
+      "de": "Hafen",
+      "en": "Harbor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "بندرگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/De-Hafen.ogg",
+      "exampleDe": "Und der Hafen ist doch die Attraktion hier.",
+      "exampleEn": "And the harbor is the attraction here.",
+      "exampleFa": "و بندر جاذبه اینجاست."
+    },
+    {
+      "id": "v33",
+      "de": "Hektar",
+      "en": "hectares",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-Hektar.ogg"
+    },
+    {
+      "id": "v34",
+      "de": "Interview",
+      "en": "interview",
+      "pos": "noun",
+      "article": "das",
+      "fa": "مصاحبه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/De-Interview.ogg",
+      "exampleDe": "Wir können das Interview heute nicht machen.",
+      "exampleEn": "We can't do the interview today.",
+      "exampleFa": "امروز نمی توانیم مصاحبه کنیم."
+    },
+    {
+      "id": "v35",
+      "de": "Interviewer",
+      "en": "interviewer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "مصاحبه کننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Interviewer.ogg"
+    },
+    {
+      "id": "v36",
+      "de": "Journalismus",
+      "en": "journalism",
+      "pos": "noun",
+      "article": "der",
+      "fa": "روزنامه نگاری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-Journalismus.ogg"
+    },
+    {
+      "id": "v37",
+      "de": "Kommilitone",
+      "en": "fellow student",
+      "pos": "noun",
+      "article": "der",
+      "fa": "همکلاس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-Kommilitone.ogg",
+      "exampleDe": "Ach, schaut mal hier: Jetzt fällt mir was anderes ein: Ich habe einen Kommilitonen, der spielt Theater in einer Studentengruppe.",
+      "exampleEn": "Oh, look here: Now something else occurs to me: I have a fellow student who plays theater in a student group.",
+      "exampleFa": "اوه، اینجا را ببینید: حالا یک چیز دیگری به ذهنم می‌رسد: من یک هم‌کلاسی دارم که در یک گروه دانشجویی تئاتر بازی می‌کند."
+    },
+    {
+      "id": "v38",
+      "de": "Kommilitonin",
+      "en": "fellow student",
+      "pos": "noun",
+      "article": "die",
+      "fa": "همکلاس",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Kommilitonin.ogg"
+    },
+    {
+      "id": "v39",
+      "de": "Kranführer",
+      "en": "Crane operator",
+      "pos": "noun",
+      "article": "der",
+      "fa": "راننده جرثقلیل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Kranf%C3%BChrer.ogg"
+    },
+    {
+      "id": "v40",
+      "de": "Kranführerin",
+      "en": "Crane operator",
+      "pos": "noun",
+      "article": "die",
+      "fa": "راننده جرثقلیل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-Kranf%C3%BChrerin.ogg"
+    },
+    {
+      "id": "v41",
+      "de": "Kühlcontainer",
+      "en": "refrigerated containers",
+      "pos": "noun",
+      "article": "der",
+      "fa": "کانتینر یخچالی",
+      "exampleDe": "Du warst in einem Kühlcontainer – und das ganz schön lange.",
+      "exampleEn": "You were in a refrigerated container – and for quite a long time.",
+      "exampleFa": "شما در یک ظرف یخچالی بودید - و برای مدت طولانی."
+    },
+    {
+      "id": "v42",
+      "de": "Landungsbrücke",
+      "en": "Jetty",
+      "pos": "noun",
+      "article": "die",
+      "fa": "اسکله بندر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-Landungsbr%C3%BCcke.ogg"
+    },
+    {
+      "id": "v43",
+      "de": "Löwe",
+      "en": "Lion",
+      "pos": "noun",
+      "article": "der",
+      "fa": "شیر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/De-L%C3%B6we.ogg",
+      "exampleDe": "Da spielt „König der Löwen“.",
+      "exampleEn": "“The Lion King” is playing there.",
+      "exampleFa": "\"شیر شاه\" در آنجا پخش می شود."
+    },
+    {
+      "id": "v44",
+      "de": "Management",
+      "en": "management",
+      "pos": "noun",
+      "article": "das",
+      "fa": "مدیریت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/De-Management.ogg"
+    },
+    {
+      "id": "v45",
+      "de": "Marktschreier",
+      "en": "Barker",
+      "pos": "noun",
+      "article": "der",
+      "fa": "جیغ زن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-Marktschreier.ogg"
+    },
+    {
+      "id": "v46",
+      "de": "Medienmanagement",
+      "en": "Media management",
+      "pos": "noun",
+      "article": "das",
+      "fa": "مدیریت رسانه"
+    },
+    {
+      "id": "v47",
+      "de": "Motiv",
+      "en": "Motif",
+      "pos": "noun",
+      "article": "das",
+      "fa": "انگیزه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Motiv.ogg"
+    },
+    {
+      "id": "v48",
+      "de": "Musical",
+      "en": "musical",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Musical.ogg",
+      "exampleDe": "Ich mag keine Musicals.",
+      "exampleEn": "I don't like musicals.",
+      "exampleFa": "من موزیکال را دوست ندارم"
+    },
+    {
+      "id": "v49",
+      "de": "Niederlassung",
+      "en": "branch",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شعبه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/De-Niederlassung.ogg"
+    },
+    {
+      "id": "v50",
+      "de": "Orientierung",
+      "en": "orientation",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جهت یابی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Orientierung.ogg"
+    },
+    {
+      "id": "v51",
+      "de": "Orientierungspunkt",
+      "en": "Landmark",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نقطه جهت یابی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/De-Orientierungspunkt.ogg"
+    },
+    {
+      "id": "v52",
+      "de": "Panorama",
+      "en": "panorama",
+      "pos": "noun",
+      "article": "das",
+      "fa": "دورنما",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-Panorama.ogg"
+    },
+    {
+      "id": "v53",
+      "de": "Pastor",
+      "en": "pastor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "پیشوای روحانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/De-Pastor.ogg",
+      "exampleDe": "Pastor Dirkheide, entschuldigen Sie bitte!",
+      "exampleEn": "Pastor Dirkheide, please excuse me!",
+      "exampleFa": "کشیش دیرخیده، لطفاً مرا ببخشید!"
+    },
+    {
+      "id": "v54",
+      "de": "Pastorin",
+      "en": "Pastor",
+      "pos": "noun",
+      "article": "die",
+      "fa": "پیشوای روحانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Pastorin.ogg"
+    },
+    {
+      "id": "v55",
+      "de": "Plattform",
+      "en": "platform",
+      "pos": "noun",
+      "article": "die",
+      "fa": "سیستم عامل",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-Plattform.ogg",
+      "exampleDe": "„Couch surfen“ heißt das, das ist so eine Plattform im Internet, und da habe ich einen Wiener gefunden.",
+      "exampleEn": "“Couch surfing” is what it’s called, it’s a platform on the internet and I found a Viennese guy there.",
+      "exampleFa": "«کاناپه‌سرفینگ» همان چیزی است که به آن می‌گویند، این یک پلتفرم در اینترنت است و من یک مرد وینی را در آنجا پیدا کردم."
+    },
+    {
+      "id": "v56",
+      "de": "Qualität",
+      "en": "Quality",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کیفیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/De-Qualit%C3%A4t.ogg"
+    },
+    {
+      "id": "v57",
+      "de": "Quartal",
+      "en": "quarter",
+      "pos": "noun",
+      "article": "das",
+      "fa": "سه ماهه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/De-Quartal.ogg"
+    },
+    {
+      "id": "v58",
+      "de": "Recht",
+      "en": "Right",
+      "pos": "noun",
+      "article": "das",
+      "fa": "حق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Recht.ogg",
+      "exampleDe": "Ja, ja, du hast schon recht, aber man bekommt ja auch ein 4-Gänge-Menü.",
+      "exampleEn": "Yes, yes, you're right, but you also get a 4-course meal.",
+      "exampleFa": "بله، بله، درست می گویید، اما یک وعده غذایی 4 وعده ای هم می گیرید."
+    },
+    {
+      "id": "v59",
+      "de": "Regie",
+      "en": "Direction",
+      "pos": "noun",
+      "article": "die",
+      "fa": "کارگردانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/De-Regie.ogg"
+    },
+    {
+      "id": "v60",
+      "de": "Reportage",
+      "en": "Reportage",
+      "pos": "noun",
+      "article": "die",
+      "fa": "گزارش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-Reportage.ogg",
+      "exampleDe": "Ich habe schon von Ihnen und der Reportage gehört.",
+      "exampleEn": "I've already heard about you and the report.",
+      "exampleFa": "من قبلاً در مورد شما و گزارش شنیده ام."
+    },
+    {
+      "id": "v61",
+      "de": "Rundfahrt",
+      "en": "Tour",
+      "pos": "noun",
+      "article": "die",
+      "fa": "گشت شهری",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Rundfahrt.ogg"
+    },
+    {
+      "id": "v62",
+      "de": "Rundfunk",
+      "en": "Broadcasting",
+      "pos": "noun",
+      "article": "der",
+      "fa": "شبکه رادیو تلویزیون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/De-Rundfunk.ogg"
+    },
+    {
+      "id": "v63",
+      "de": "Rundfunkanstalt",
+      "en": "broadcasting company",
+      "pos": "noun",
+      "article": "die",
+      "fa": "موسسه رادیو تلویزیون",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Rundfunkanstalt.ogg"
+    },
+    {
+      "id": "v64",
+      "de": "Schauspiel",
+      "en": "acting",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نمایش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/De-Schauspiel.ogg"
+    },
+    {
+      "id": "v65",
+      "de": "Schauspieler",
+      "en": "Actor",
+      "pos": "noun",
+      "article": "der",
+      "fa": "بازیگر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Schauspieler.ogg"
+    },
+    {
+      "id": "v66",
+      "de": "Schauspielerin",
+      "en": "actress",
+      "pos": "noun",
+      "article": "die",
+      "fa": "بازیگر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/De-Schauspielerin.ogg"
+    },
+    {
+      "id": "v67",
+      "de": "Schauspielhaus",
+      "en": "Playhouse",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نمایشگاه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/De-Schauspielhaus.ogg",
+      "exampleDe": "Ich will schon lange ins Deutsche Schauspielhaus.",
+      "exampleEn": "I've wanted to go to the Deutsches Schauspielhaus for a long time.",
+      "exampleFa": "مدتها بود که می خواستم به Deutsches Schauspielhaus بروم."
+    },
+    {
+      "id": "v68",
+      "de": "Schiff",
+      "en": "Ship",
+      "pos": "noun",
+      "article": "das",
+      "fa": "، سفینه ، کشتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Schiff.ogg",
+      "exampleDe": "Ich finde es immer so schön, mit einem Schiff zu fahren.",
+      "exampleEn": "I always think it's so nice to travel on a ship.",
+      "exampleFa": "من همیشه فکر می کنم سفر با کشتی خیلی خوب است."
+    },
+    {
+      "id": "v69",
+      "de": "Schönheit",
+      "en": "beauty",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جذابیت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/De-Sch%C3%B6nheit.ogg"
+    },
+    {
+      "id": "v70",
+      "de": "Selbstverteidigung",
+      "en": "Self-defense",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دفاع از خود",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-Selbstverteidigung.ogg",
+      "exampleDe": "Ich hab’ vor einiger Zeit einen Kurs in Selbstverteidigung gemacht.",
+      "exampleEn": "I took a self-defense course a while ago.",
+      "exampleFa": "چند وقت پیش دوره دفاع شخصی گذراندم."
+    },
+    {
+      "id": "v71",
+      "de": "Silhouette",
+      "en": "silhouette",
+      "pos": "noun",
+      "article": "die",
+      "fa": "ضد نور، شبح",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/De-Silhouette.ogg"
+    },
+    {
+      "id": "v72",
+      "de": "Studiengang",
+      "en": "Course of study",
+      "pos": "noun",
+      "article": "der",
+      "fa": "رشته تحصیلی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-Studiengang.ogg",
+      "exampleDe": "Zu einem Studium an einer Fachhochschule gehören daher, je nach Studiengang, Praktika, Projektphasen oder ganze Praxissemester.",
+      "exampleEn": "Depending on the course of study, studying at a technical college includes internships, project phases or entire practical semesters.",
+      "exampleFa": "بسته به دوره تحصیلی، تحصیل در کالج فنی شامل دوره های کارآموزی، مراحل پروژه یا کل ترم های عملی می شود."
+    },
+    {
+      "id": "v73",
+      "de": "Szene",
+      "en": "scene",
+      "pos": "noun",
+      "article": "die",
+      "fa": "صحنه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/De-Szene.ogg"
+    },
+    {
+      "id": "v74",
+      "de": "Sänger",
+      "en": "Singer",
+      "pos": "noun",
+      "article": "der",
+      "fa": "خواننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-S%C3%A4nger.ogg"
+    },
+    {
+      "id": "v75",
+      "de": "Sängerin",
+      "en": "Singer",
+      "pos": "noun",
+      "article": "die",
+      "fa": "خواننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-S%C3%A4ngerin.ogg"
+    },
+    {
+      "id": "v76",
+      "de": "Texter",
+      "en": "Copywriter",
+      "pos": "noun",
+      "article": "der",
+      "fa": "نویسنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-Texter.ogg"
+    },
+    {
+      "id": "v77",
+      "de": "Texterin",
+      "en": "Copywriter",
+      "pos": "noun",
+      "article": "die",
+      "fa": "نویسنده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/De-Texterin.ogg"
+    },
+    {
+      "id": "v78",
+      "de": "Trompete",
+      "en": "trumpet",
+      "pos": "noun",
+      "article": "die",
+      "fa": "شیپور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Trompete.ogg",
+      "exampleDe": "Er hat nicht Trompete …",
+      "exampleEn": "He doesn't have a trumpet...",
+      "exampleFa": "شیپور نداره..."
+    },
+    {
+      "id": "v79",
+      "de": "Trompeter",
+      "en": "trumpeter",
+      "pos": "noun",
+      "article": "der",
+      "fa": "شیپورچی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Trompeter.ogg",
+      "exampleDe": "Sie macht eine Reportage über den Michel und seinen Trompeter.",
+      "exampleEn": "She makes a report about Michel and his trumpeter.",
+      "exampleFa": "او گزارشی درباره میشل و ترومپتوزش می‌سازد."
+    },
+    {
+      "id": "v80",
+      "de": "Turm",
+      "en": "Tower",
+      "pos": "noun",
+      "article": "der",
+      "fa": "برج",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-Turm.ogg",
+      "exampleDe": "Von dem 100 Meter hohen Turm haben Sie einen wunderbaren Blick über die Altstadt und die Berner Alpen.",
+      "exampleEn": "From the 100 meter high tower you have a wonderful view over the old town and the Bernese Alps.",
+      "exampleFa": "از برج 100 متری منظره فوق العاده ای از شهر قدیمی و کوه های آلپ برن خواهید داشت."
+    },
+    {
+      "id": "v81",
+      "de": "Unternehmen",
+      "en": "Pursue",
+      "pos": "noun",
+      "article": "das",
+      "fa": "کار تفریحی انجام دادن er unternimmt",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/De-Unternehmen.ogg",
+      "exampleDe": "Aber Samstag oder Sonntag unternehmen wir was zusammen, O.",
+      "exampleEn": "But Saturday or Sunday we'll do something together, O.",
+      "exampleFa": "اما شنبه یا یکشنبه با هم کاری انجام می دهیم، O."
+    },
+    {
+      "id": "v82",
+      "de": "Verteidigung",
+      "en": "defense",
+      "pos": "noun",
+      "article": "die",
+      "fa": "دفاع",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/De-Verteidigung.ogg"
+    },
+    {
+      "id": "v83",
+      "de": "Wahrzeichen",
+      "en": "Landmark",
+      "pos": "noun",
+      "article": "das",
+      "fa": "نماد",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-Wahrzeichen.ogg",
+      "exampleDe": "Auf einem Hügel liegt das Wahrzeichen Liechtensteins, das Schloss Vaduz, die Residenz der Fürstenfamilie, und dahinter liegen die Alpen.",
+      "exampleEn": "Liechtenstein's landmark, Vaduz Castle, the residence of the princely family, lies on a hill, and behind it lie the Alps.",
+      "exampleFa": "مکان دیدنی لیختن اشتاین، قلعه وادوز، محل سکونت خانواده شاهزاده، بر روی تپه ای قرار دارد و در پشت آن کوه های آلپ قرار دارد."
+    },
+    {
+      "id": "v84",
+      "de": "Wasser",
+      "en": "water",
+      "pos": "noun",
+      "article": "das",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-Wasser.ogg",
+      "exampleDe": "Er muss also im Wasser sein.",
+      "exampleEn": "So he must be in the water.",
+      "exampleFa": "بنابراین او باید در آب باشد."
+    },
+    {
+      "id": "v85",
+      "de": "Webseite",
+      "en": "website",
+      "pos": "noun",
+      "article": "die",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-Webseite.ogg",
+      "exampleDe": "Gehen Sie auf unsere Webseite, da gibt es ein Formular, das können Sie ausfüllen.",
+      "exampleEn": "Go to our website, there is a form you can fill out.",
+      "exampleFa": "به وب سایت ما بروید، یک فرم وجود دارد که می توانید پر کنید."
+    },
+    {
+      "id": "v86",
+      "de": "Zusammenfassung",
+      "en": "Summary",
+      "pos": "noun",
+      "article": "die",
+      "fa": "جمع بندی، خلاصه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/De-Zusammenfassung.ogg"
+    },
+    {
+      "id": "v87",
+      "de": "aufteilen",
+      "en": "divide",
+      "pos": "verb",
+      "fa": "قسمت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-aufteilen.ogg"
+    },
+    {
+      "id": "v88",
+      "de": "ausbilden",
+      "en": "form",
+      "pos": "verb",
+      "fa": "آموزش دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/De-ausbilden.ogg"
+    },
+    {
+      "id": "v89",
+      "de": "bedrohen",
+      "en": "threaten",
+      "pos": "verb",
+      "fa": "تهدید کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-bedrohen.ogg"
+    },
+    {
+      "id": "v90",
+      "de": "begleiten",
+      "en": "accompany",
+      "pos": "verb",
+      "fa": "بدرقه کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/De-begleiten.ogg"
+    },
+    {
+      "id": "v91",
+      "de": "beschützen",
+      "en": "protect",
+      "pos": "verb",
+      "fa": "حفاظت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/De-besch%C3%BCtzen.ogg"
+    },
+    {
+      "id": "v92",
+      "de": "bewundern",
+      "en": "admire",
+      "pos": "verb",
+      "fa": "شگفت زده شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/De-bewundern.ogg"
+    },
+    {
+      "id": "v93",
+      "de": "bummeln",
+      "en": "stroll",
+      "pos": "verb",
+      "fa": "پرسه زدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/De-bummeln.ogg"
+    },
+    {
+      "id": "v94",
+      "de": "einfallen",
+      "en": "come up",
+      "pos": "verb",
+      "fa": "لاغر شدن، در خود ریختن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/De-einfallen.ogg"
+    },
+    {
+      "id": "v95",
+      "de": "erfordern",
+      "en": "require",
+      "pos": "verb",
+      "fa": "ضرورت داشتن، نیاز داشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/De-erfordern.ogg"
+    },
+    {
+      "id": "v96",
+      "de": "erwischen",
+      "en": "catch",
+      "pos": "verb",
+      "fa": "به دام انداختن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-erwischen.ogg",
+      "exampleDe": "Ich wollte ihn immer mal sehen, und hier ist sogar eine Anzeige: „Kalt erwischt in Hamburg“.",
+      "exampleEn": "I always wanted to see him, and there's even an advert here: \"Caught cold in Hamburg\".",
+      "exampleFa": "من همیشه دوست داشتم او را ببینم، و حتی یک آگهی در اینجا وجود دارد: \"در هامبورگ سرما خوردم\"."
+    },
+    {
+      "id": "v97",
+      "de": "fesseln",
+      "en": "tie up",
+      "pos": "verb",
+      "fa": "دست و پای کسی را بستن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/De-fesseln.ogg",
+      "exampleDe": "Jetzt müssen wir ihn schnell fesseln und der Polizei übergeben.",
+      "exampleEn": "Now we have to tie him up quickly and hand him over to the police.",
+      "exampleFa": "حالا باید سریع ببندیمش و تحویل پلیس بدیم."
+    },
+    {
+      "id": "v98",
+      "de": "fliehen",
+      "en": "flee",
+      "pos": "verb",
+      "fa": "فرار کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-fliehen.ogg"
+    },
+    {
+      "id": "v99",
+      "de": "kriegen",
+      "en": "get",
+      "pos": "verb",
+      "fa": "به دست آوردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/De-kriegen.ogg",
+      "exampleDe": "Ich krieg dich!",
+      "exampleEn": "I'll get you!",
+      "exampleFa": "من تو را می گیرم!"
+    },
+    {
+      "id": "v100",
+      "de": "niederschlagen",
+      "en": "knock down",
+      "pos": "verb",
+      "fa": "از پا در اوردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-niederschlagen.ogg"
+    },
+    {
+      "id": "v101",
+      "de": "prägen",
+      "en": "shape",
+      "pos": "verb",
+      "fa": "شکل دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/De-pr%C3%A4gen.ogg"
+    },
+    {
+      "id": "v102",
+      "de": "retten",
+      "en": "save",
+      "pos": "verb",
+      "fa": "نجات دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/De-retten.ogg"
+    },
+    {
+      "id": "v103",
+      "de": "stoßen",
+      "en": "bump",
+      "pos": "verb",
+      "fa": "به جایی خوردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-sto%C3%9Fen.ogg",
+      "exampleDe": "Stoß mich doch nicht an!",
+      "exampleEn": "Don't push me!",
+      "exampleFa": "به من فشار نیاور!"
+    },
+    {
+      "id": "v104",
+      "de": "treten",
+      "en": "step",
+      "pos": "verb",
+      "fa": "پا گذاشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/De-treten.ogg"
+    },
+    {
+      "id": "v105",
+      "de": "verpassen",
+      "en": "miss",
+      "pos": "verb",
+      "fa": "از دست دادن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-verpassen.ogg"
+    },
+    {
+      "id": "v106",
+      "de": "verschwinden",
+      "en": "disappear",
+      "pos": "verb",
+      "fa": "گم شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/De-verschwinden.ogg"
+    },
+    {
+      "id": "v107",
+      "de": "versorgen",
+      "en": "take care of",
+      "pos": "verb",
+      "fa": "پرستاری و مراقبت کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-versorgen.ogg"
+    },
+    {
+      "id": "v108",
+      "de": "weiterbringen",
+      "en": "move forward",
+      "pos": "verb",
+      "fa": "جلو بردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/De-weiterbringen.ogg"
+    },
+    {
+      "id": "v109",
+      "de": "zurückkommen",
+      "en": "come back",
+      "pos": "verb",
+      "fa": "برگشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-zur%C3%BCckkommen.ogg"
+    },
+    {
+      "id": "v110",
+      "de": "zusammenfassen",
+      "en": "summarize",
+      "pos": "verb",
+      "fa": "خلاصه کردن، جمع بندی کردن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/De-zusammenfassen.ogg"
+    },
+    {
+      "id": "v111",
+      "de": "beeindruckend",
+      "en": "impressive",
+      "pos": "other",
+      "fa": "موثر، قابل توجه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/De-beeindruckend.ogg",
+      "exampleDe": "Die Landschaft und die Sehenswürdigkeiten sehen wirklich beeindruckend aus.",
+      "exampleEn": "The landscape and sights look really impressive.",
+      "exampleFa": "مناظر و مناظر واقعاً چشمگیر به نظر می رسند."
+    },
+    {
+      "id": "v112",
+      "de": "besorgt sein",
+      "en": "be concerned",
+      "pos": "phrase",
+      "fa": "نگران شدن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-besorgt.ogg"
+    },
+    {
+      "id": "v113",
+      "de": "blond",
+      "en": "blond",
+      "pos": "other",
+      "fa": "بلوند",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/De-blond.ogg"
+    },
+    {
+      "id": "v114",
+      "de": "delikat",
+      "en": "delicate",
+      "pos": "other",
+      "fa": "لذیذ",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-delikat.ogg"
+    },
+    {
+      "id": "v115",
+      "de": "ehemalig",
+      "en": "former",
+      "pos": "other",
+      "fa": "سابق، قبلی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/De-ehemalig.ogg"
+    },
+    {
+      "id": "v116",
+      "de": "einzigartig",
+      "en": "unique",
+      "pos": "other",
+      "fa": "بی نظیر",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-einzigartig.ogg"
+    },
+    {
+      "id": "v117",
+      "de": "exzellent",
+      "en": "excellent",
+      "pos": "other",
+      "fa": "بسیار عالی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/De-exzellent.ogg"
+    },
+    {
+      "id": "v118",
+      "de": "hart",
+      "en": "hard",
+      "pos": "other",
+      "fa": "سخت",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-hart.ogg",
+      "exampleDe": "Am Anfang war es ziemlich hart, aber es hat immer Spaß gemacht.",
+      "exampleEn": "It was pretty hard at the beginning, but it was always fun.",
+      "exampleFa": "در ابتدا خیلی سخت بود، اما همیشه سرگرم کننده بود."
+    },
+    {
+      "id": "v119",
+      "de": "heutig",
+      "en": "today",
+      "pos": "other",
+      "fa": "معاصر، امروزی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-heutig.ogg"
+    },
+    {
+      "id": "v120",
+      "de": "kreativ",
+      "en": "creative",
+      "pos": "other",
+      "fa": "خلاق",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-kreativ.ogg"
+    },
+    {
+      "id": "v121",
+      "de": "lebhaft",
+      "en": "lively",
+      "pos": "other",
+      "fa": "سرزنده، پر جنب و جوش",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-lebhaft.ogg"
+    },
+    {
+      "id": "v122",
+      "de": "malerisch",
+      "en": "picturesque",
+      "pos": "other",
+      "fa": "زیبا، خوش منظره",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-malerisch.ogg"
+    },
+    {
+      "id": "v123",
+      "de": "mörderisch",
+      "en": "murderous",
+      "pos": "other",
+      "fa": "مرگبار",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/De-m%C3%B6rderisch.ogg"
+    },
+    {
+      "id": "v124",
+      "de": "ohnmächtig",
+      "en": "fainted",
+      "pos": "other",
+      "fa": "بیهوش، ناتوان",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-ohnm%C3%A4chtig.ogg",
+      "exampleDe": "Du warst ohnmächtig.",
+      "exampleEn": "You were unconscious.",
+      "exampleFa": "تو بیهوش بودی"
+    },
+    {
+      "id": "v125",
+      "de": "recht haben",
+      "en": "to be right",
+      "pos": "phrase",
+      "fa": "حق داشتن",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Recht.ogg"
+    },
+    {
+      "id": "v126",
+      "de": "renommiert",
+      "en": "renowned",
+      "pos": "other",
+      "fa": "مشهور",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-renommiert.ogg"
+    },
+    {
+      "id": "v127",
+      "de": "seit Langem",
+      "en": "for a long time",
+      "pos": "phrase",
+      "fa": "از زمان طولانی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-seit.ogg"
+    },
+    {
+      "id": "v128",
+      "de": "spannend",
+      "en": "exciting",
+      "pos": "other",
+      "fa": "هیجان انگیز",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-spannend.ogg",
+      "exampleDe": "Das wird sicher spannend!",
+      "exampleEn": "This will definitely be exciting!",
+      "exampleFa": "این قطعا هیجان انگیز خواهد بود!"
+    },
+    {
+      "id": "v129",
+      "de": "Speicher",
+      "en": "memory",
+      "pos": "other",
+      "fa": "حافظه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/De-Speicher.ogg"
+    },
+    {
+      "id": "v130",
+      "de": "staatlich",
+      "en": "state",
+      "pos": "other",
+      "fa": "دولتی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/De-staatlich.ogg",
+      "exampleDe": "Die meisten Hochschulen in Deutschland sind staatlich, es gibt aber auch private.",
+      "exampleEn": "Most universities in Germany are state-run, but there are also private ones.",
+      "exampleFa": "اکثر دانشگاه های آلمان دولتی هستند، اما دانشگاه های خصوصی نیز وجود دارند."
+    },
+    {
+      "id": "v131",
+      "de": "still",
+      "en": "silent",
+      "pos": "other",
+      "fa": "بیصدا",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/De-still.ogg"
+    },
+    {
+      "id": "v132",
+      "de": "Unterhaltsam",
+      "en": "Entertaining",
+      "pos": "other",
+      "fa": "سرگرم کننده",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-unterhaltsam.ogg"
+    },
+    {
+      "id": "v133",
+      "de": "unvergesslich",
+      "en": "unforgettable",
+      "pos": "other",
+      "fa": "فراموش نشدنی",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-unvergesslich.ogg"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g1",
+      "titleDe": "Adjektive im Genitiv ohne Artikel",
+      "titleEn": "Adjectives in genitive without article",
+      "explanationEn": "Before a noun without article, genitive adjectives take -en (singular): trotz starken Regens, wegen schlechten Wetters, während langen Aufenthalts. Plural also -en: trotz hoher Preise.",
+      "patterns": [
+        "trotz starken Regens",
+        "wegen schlechten Wetters",
+        "während langen Aufenthalts"
+      ],
+      "examples": [
+        {
+          "de": "Trotz kalten Wetters gehen wir in die Stadt.",
+          "en": "Despite cold weather we go into town.",
+          "fa": "با وجود هوای سرد به شهر می‌رویم."
+        },
+        {
+          "de": "Wegen starken Verkehrs komme ich zu spät.",
+          "en": "Because of heavy traffic I’ll be late.",
+          "fa": "به‌خاطر ترافیک سنگین دیر می‌رسم."
+        }
+      ],
+      "titleFa": "صفات در حالت اضافی بدون حرف تعریف"
+    },
+    {
+      "id": "g2",
+      "titleDe": "Infinitivsätze; entweder … oder",
+      "titleEn": "Infinitive clauses; either … or",
+      "explanationEn": "Infinitive clauses with zu / um … zu / ohne … zu / statt … zu express purpose, manner, or alternative. entweder … oder presents exclusive alternatives: Entweder gehen wir ins Theater oder wir bleiben zu Hause.",
+      "patterns": [
+        "Es macht Spaß, … zu + Inf.",
+        "um … zu",
+        "entweder … oder"
+      ],
+      "examples": [
+        {
+          "de": "Es ist schön, Hamburg zu entdecken.",
+          "en": "It is nice to discover Hamburg.",
+          "fa": "کشف هامبورگ لذت‌بخش است."
+        },
+        {
+          "de": "Entweder kaufen wir Karten oder wir schauen online zu.",
+          "en": "Either we buy tickets or we watch online.",
+          "fa": "یا بلیت می‌خریم یا آنلاین تماشا می‌کنیم."
+        }
+      ],
+      "titleFa": "جملات مصدری؛ entweder … oder"
+    }
+  ],
+  "drills": [
+    {
+      "id": "d1",
+      "type": "multiple-choice",
+      "promptDe": "Genitiv Adj.",
+      "promptEn": "Genitive adj.",
+      "content": "Trotz ___ Regens bleiben wir draußen.",
+      "answer": "starken",
+      "grammarId": "g1",
+      "options": [
+        "starken",
+        "starker",
+        "starkem"
+      ]
+    },
+    {
+      "id": "d2",
+      "type": "cloze",
+      "promptDe": "wegen",
+      "promptEn": "wegen",
+      "content": "Wegen ___ Wetters fällt das Open-Air aus. (schlecht)",
+      "answer": "schlechten",
+      "grammarId": "g1"
+    },
+    {
+      "id": "d3",
+      "type": "multiple-choice",
+      "promptDe": "Infinitiv",
+      "promptEn": "Infinitive",
+      "content": "Ich habe vor, die Elbphilharmonie ___ .",
+      "answer": "zu besuchen",
+      "grammarId": "g2",
+      "options": [
+        "zu besuchen",
+        "besuchen",
+        "zu besucht"
+      ]
+    },
+    {
+      "id": "d4",
+      "type": "cloze",
+      "promptDe": "um … zu",
+      "promptEn": "um … zu",
+      "content": "Wir fahren in die Stadt, ___ das Theaterstück ___ sehen.",
+      "answer": "um … zu",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d5",
+      "type": "reorder",
+      "promptDe": "entweder … oder",
+      "promptEn": "either … or",
+      "content": "Entweder | gehen | wir | ins | Museum | oder | wir | bleiben | zu | Hause | .",
+      "answer": "Entweder gehen wir ins Museum oder wir bleiben zu Hause.",
+      "grammarId": "g2"
+    },
+    {
+      "id": "d6",
+      "type": "multiple-choice",
+      "promptDe": "während + Gen.",
+      "promptEn": "während + gen.",
+      "content": "Während ___ Aufenthalts in Hamburg lerne ich viel.",
+      "answer": "langen",
+      "grammarId": "g1",
+      "options": [
+        "langen",
+        "langer",
+        "langem"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "grammar-mc",
+      "prompt": "Trotz ___ Verkehrs finden wir einen Parkplatz.",
+      "answer": "starken",
+      "options": [
+        "starken",
+        "starker",
+        "starkem"
+      ],
+      "grammarId": "g1"
+    },
+    {
+      "id": "q2",
+      "type": "cloze",
+      "prompt": "Complete: Wegen ___ Wetters bleiben wir drinnen. (kalt → Gen. ohne Artikel)",
+      "answer": "kalten",
+      "grammarId": "g1"
+    },
+    {
+      "id": "q3",
+      "type": "grammar-mc",
+      "prompt": "Es lohnt sich, früh ___ .",
+      "answer": "anzukommen",
+      "options": [
+        "anzukommen",
+        "ankommen",
+        "angekommen"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q4",
+      "type": "cloze",
+      "prompt": "Complete: ___ gehen wir ins Theater ___ wir hören ein Konzert.",
+      "answer": "Entweder … oder",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q5",
+      "type": "grammar-mc",
+      "prompt": "Statt ___ zu bleiben, gehen wir spazieren.",
+      "answer": "zu Hause",
+      "options": [
+        "zu Hause",
+        "im Hause",
+        "dem Hause"
+      ],
+      "grammarId": "g2"
+    },
+    {
+      "id": "q6",
+      "type": "cloze",
+      "prompt": "Complete: Ich freue mich darauf, dich ___ . (sehen)",
+      "answer": "zu sehen",
+      "grammarId": "g2"
+    },
+    {
+      "id": "q7",
+      "type": "vocab-de-en",
+      "prompt": "„der Ausbildungsgang“ means…",
+      "answer": "training course",
+      "options": [
+        "Designers",
+        "actress",
+        "training course"
+      ],
+      "vocabId": "v3"
+    },
+    {
+      "id": "q8",
+      "type": "vocab-en-de",
+      "prompt": "“Designers”:",
+      "answer": "der Designer",
+      "options": [
+        "die Darstellerin",
+        "der Ausbildungsgang",
+        "der Designer"
+      ],
+      "vocabId": "v15"
+    },
+    {
+      "id": "q9",
+      "type": "vocab-de-en",
+      "prompt": "„die Darstellerin“ means…",
+      "answer": "actress",
+      "options": [
+        "training course",
+        "actress",
+        "Designers"
+      ],
+      "vocabId": "v13"
+    },
+    {
+      "id": "q10",
+      "type": "vocab-en-de",
+      "prompt": "“Crane operator”:",
+      "answer": "die Kranführerin",
+      "options": [
+        "die Kranführerin",
+        "der Designer",
+        "der Ausbildungsgang"
+      ],
+      "vocabId": "v40"
+    }
+  ],
   "listening": [
     {
       "id": "cd3-t10",

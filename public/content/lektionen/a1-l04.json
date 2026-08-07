@@ -49,24 +49,6 @@
     },
     {
       "id": "v2",
-      "de": "Anfang",
-      "en": "beginning",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آغاز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/De-Anfang.ogg"
-    },
-    {
-      "id": "v3",
-      "de": "Anlass",
-      "en": "occasion",
-      "pos": "noun",
-      "article": "der",
-      "fa": "سبب انگیزه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/De-Anlass.ogg"
-    },
-    {
-      "id": "v4",
       "de": "Anmeldung",
       "en": "registration",
       "pos": "noun",
@@ -75,25 +57,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/De-Anmeldung.ogg"
     },
     {
-      "id": "v5",
-      "de": "Antwort",
-      "en": "answer",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پاسخ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Antwort.ogg"
-    },
-    {
-      "id": "v6",
-      "de": "Anzeige",
-      "en": "advertisement",
-      "pos": "noun",
-      "article": "die",
-      "fa": "آگهی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/De-Anzeige.ogg"
-    },
-    {
-      "id": "v7",
+      "id": "v3",
       "de": "Applaus",
       "en": "applause",
       "pos": "noun",
@@ -102,124 +66,55 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-Applaus.ogg"
     },
     {
-      "id": "v8",
-      "de": "Artikel",
-      "en": "article",
-      "pos": "noun",
-      "article": "der",
-      "fa": "حرف تعریف؛ مقاله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/De-Artikel.ogg"
-    },
-    {
-      "id": "v9",
-      "de": "Bedeutung",
-      "en": "meaning",
-      "pos": "noun",
-      "article": "die",
-      "fa": "معنی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Bedeutung.ogg"
-    },
-    {
-      "id": "v10",
+      "id": "v4",
       "de": "Beitrag",
       "en": "contribution",
       "pos": "noun",
       "article": "der",
       "fa": "سهم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Beitrag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-Beitrag.ogg",
+      "exampleDe": "Ich komme nun zum Schluss von meinem kleinen Beitrag, zu Punkt 4: Meine Zukunftspläne: Ich werde ab dem kommenden Semester ökologische Landwirtschaft studieren.",
+      "exampleEn": "I'm now coming to the end of my little contribution, to point 4: My future plans: I will be studying organic agriculture starting next semester.",
+      "exampleFa": "اکنون به پایان سهم کوچکم می رسم، به نکته 4: برنامه های آینده من: از ترم آینده در رشته کشاورزی ارگانیک تحصیل خواهم کرد."
     },
     {
-      "id": "v11",
-      "de": "Blick",
-      "en": "look; view",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نگاه؛ چشم‌انداز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/De-Blick.ogg"
-    },
-    {
-      "id": "v12",
-      "de": "Buch",
-      "en": "book",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کتاب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/De-Buch.ogg"
-    },
-    {
-      "id": "v13",
-      "de": "Endung",
-      "en": "ending (grammar)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "پایان (دستوری)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/De-Endung.ogg"
-    },
-    {
-      "id": "v14",
+      "id": "v5",
       "de": "Ermäßigung",
       "en": "discount",
       "pos": "noun",
       "article": "die",
       "fa": "تخفیف",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/De-Erm%C3%A4%C3%9Figung.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/De-Erm%C3%A4%C3%9Figung.ogg",
+      "exampleDe": "Bekomme ich eine Ermäßigung?",
+      "exampleEn": "Do I get a discount?",
+      "exampleFa": "آیا تخفیف میگیرم؟"
     },
     {
-      "id": "v15",
+      "id": "v6",
       "de": "Erwachsene",
       "en": "adult",
       "pos": "noun",
       "article": "der",
       "fa": "بالغ",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Erwachsene.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/De-Erwachsene.ogg",
+      "exampleDe": "Da gehen vor allem Erwachsene hin.",
+      "exampleEn": "Adults in particular go there.",
+      "exampleFa": "به خصوص بزرگسالان به آنجا می روند."
     },
     {
-      "id": "v16",
-      "de": "Fahrt",
-      "en": "drive",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سفر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/De-Fahrt.ogg"
-    },
-    {
-      "id": "v17",
-      "de": "Fan",
-      "en": "fan",
-      "pos": "noun",
-      "article": "der",
-      "fa": "هوادار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-Fan.ogg"
-    },
-    {
-      "id": "v18",
-      "de": "Fernsehen",
-      "en": "to watch TV",
-      "pos": "noun",
-      "article": "das",
-      "fa": "تی وی تماشا کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/De-Fernsehen.ogg"
-    },
-    {
-      "id": "v19",
+      "id": "v7",
       "de": "Flyer",
       "en": "flyers",
       "pos": "noun",
       "article": "der",
       "fa": "تراکت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-Flyer.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-Flyer.ogg",
+      "exampleDe": "Ich habe hier den Flyer von Ihrem Sportverein.",
+      "exampleEn": "I have the flyer from your sports club here.",
+      "exampleFa": "من بروشور باشگاه ورزشی شما را اینجا دارم."
     },
     {
-      "id": "v20",
-      "de": "Foto",
-      "en": "photo",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عکس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Foto.ogg"
-    },
-    {
-      "id": "v21",
+      "id": "v8",
       "de": "Fotografie",
       "en": "photography",
       "pos": "noun",
@@ -228,25 +123,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Fotografie.ogg"
     },
     {
-      "id": "v22",
+      "id": "v9",
       "de": "Freizeit",
       "en": "free time / leisure",
       "pos": "noun",
       "article": "die",
       "fa": "اوقات فراغت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-Freizeit.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/De-Freizeit.ogg",
+      "exampleDe": "Ja, bei „Sport & Freizeit: Eine Gruppe sucht Fußballspieler.",
+      "exampleEn": "Yes, in “Sports & Leisure: A group is looking for soccer players.",
+      "exampleFa": "بله، در «ورزش و اوقات فراغت: گروهی به دنبال بازیکنان فوتبال هستند."
     },
     {
-      "id": "v23",
+      "id": "v10",
       "de": "Fußball",
       "en": "football / soccer",
       "pos": "noun",
       "article": "der",
       "fa": "فوتبال",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Fu%C3%9Fball.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/De-Fu%C3%9Fball.ogg",
+      "exampleDe": "Vielleicht kann ich endlich wieder Fußball spielen.",
+      "exampleEn": "Maybe I can finally play football again.",
+      "exampleFa": "شاید بالاخره بتوانم دوباره فوتبال بازی کنم."
     },
     {
-      "id": "v24",
+      "id": "v11",
       "de": "Gefühl",
       "en": "feeling",
       "pos": "noun",
@@ -255,16 +156,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/De-Gef%C3%BChl.ogg"
     },
     {
-      "id": "v25",
-      "de": "Gespräch",
-      "en": "conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/De-Gespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v26",
+      "id": "v12",
       "de": "Gitarre",
       "en": "guitar",
       "pos": "noun",
@@ -273,43 +165,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-Gitarre.ogg"
     },
     {
-      "id": "v27",
-      "de": "GmbH",
-      "en": "Ltd (GmbH)",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شرکت با مسئولیت محدود (آلمانی)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/De-GmbH.ogg"
-    },
-    {
-      "id": "v28",
-      "de": "Grammatik",
-      "en": "grammar",
-      "pos": "noun",
-      "article": "die",
-      "fa": "دستور زبان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Grammatik.ogg"
-    },
-    {
-      "id": "v29",
-      "de": "Grund",
-      "en": "reason",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دلیل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/De-Grund.ogg"
-    },
-    {
-      "id": "v30",
-      "de": "Gruppe",
-      "en": "group",
-      "pos": "noun",
-      "article": "die",
-      "fa": "گروه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-Gruppe.ogg"
-    },
-    {
-      "id": "v31",
+      "id": "v13",
       "de": "Gymnastik",
       "en": "gymnastics",
       "pos": "noun",
@@ -318,43 +174,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De-Gymnastik.ogg"
     },
     {
-      "id": "v32",
+      "id": "v14",
       "de": "Halbmarathon",
       "en": "half marathon",
       "pos": "noun",
       "article": "der",
       "fa": "نیمه ماراتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Halbmarathon.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Halbmarathon.ogg",
+      "exampleDe": "Du bist beim Halbmarathon gestartet!",
+      "exampleEn": "You started the half marathon!",
+      "exampleFa": "شما نیمه ماراتن را شروع کردید!"
     },
     {
-      "id": "v33",
-      "de": "Halle",
-      "en": "hall",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سالن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Halle.ogg"
-    },
-    {
-      "id": "v34",
-      "de": "Heimat",
-      "en": "home country / hometown",
-      "pos": "noun",
-      "article": "die",
-      "fa": "وطن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Heimat.ogg"
-    },
-    {
-      "id": "v35",
-      "de": "Herr",
-      "en": "mr",
-      "pos": "noun",
-      "article": "der",
-      "fa": "آقا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/De-Herr.ogg"
-    },
-    {
-      "id": "v36",
+      "id": "v15",
       "de": "Hobby",
       "en": "hobby",
       "pos": "noun",
@@ -363,25 +195,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/De-Hobby.ogg"
     },
     {
-      "id": "v37",
-      "de": "Interesse",
-      "en": "interest",
-      "pos": "noun",
-      "article": "das",
-      "fa": "علاقه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Interesse.ogg"
-    },
-    {
-      "id": "v38",
-      "de": "Internet",
-      "en": "Internet",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اینترنت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/De-Internet.ogg"
-    },
-    {
-      "id": "v39",
+      "id": "v16",
       "de": "Jahresbeitrag",
       "en": "Annual contribution",
       "pos": "noun",
@@ -390,123 +204,43 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Jahresbeitrag.ogg"
     },
     {
-      "id": "v40",
-      "de": "Jogging",
-      "en": "jogging",
-      "pos": "noun",
-      "article": "das",
-      "fa": "دویدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Jogging.ogg"
-    },
-    {
-      "id": "v41",
+      "id": "v17",
       "de": "Jugendliche",
       "en": "teenagers",
       "pos": "noun",
       "article": "der",
       "fa": "نوجوانان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Jugendliche.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/De-Jugendliche.ogg",
+      "exampleDe": "Ja, und sich auf die Wange küssen, das ist eher in den Familien zu sehen, es ist aber auch bei den Jugendlichen immer mehr in Mode.",
+      "exampleEn": "Yes, and kissing on the cheek is more common in families, but it is also becoming more and more fashionable among young people.",
+      "exampleFa": "بله، و بوسیدن گونه در خانواده ها بیشتر دیده می شود، اما در بین جوانان نیز روز به روز مد می شود."
     },
     {
-      "id": "v42",
-      "de": "Juni",
-      "en": "june",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ژوئن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-Juni.ogg"
-    },
-    {
-      "id": "v43",
-      "de": "Karte",
-      "en": "card",
-      "pos": "noun",
-      "article": "die",
-      "fa": "نقشه؛ کارت؛ منو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/De-Karte.ogg"
-    },
-    {
-      "id": "v44",
+      "id": "v18",
       "de": "Kilometer",
       "en": "kilometers",
       "pos": "noun",
       "article": "der",
       "fa": "کیلومتر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Kilometer.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-Kilometer.ogg",
+      "exampleDe": "Wir befinden uns derzeit etwa 300 Kilometer nördlich von Zürich und drehen jetzt einige Warteschleifen, bis sich die Wetterlage verbessert hat.",
+      "exampleEn": "We are currently about 300 kilometers north of Zurich and are now doing some holding loops until the weather conditions improve.",
+      "exampleFa": "ما در حال حاضر حدود 300 کیلومتری شمال زوریخ هستیم و اکنون در حال انجام برخی از حلقه های نگه داشتن تا بهبود شرایط آب و هوایی هستیم."
     },
     {
-      "id": "v45",
-      "de": "Kino",
-      "en": "cinema",
-      "pos": "noun",
-      "article": "das",
-      "fa": "سینما",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/De-Kino.ogg"
-    },
-    {
-      "id": "v46",
-      "de": "Kontakt",
-      "en": "contact",
-      "pos": "noun",
-      "article": "der",
-      "fa": "تماس؛ ارتباط",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Kontakt.ogg"
-    },
-    {
-      "id": "v47",
-      "de": "Kurs",
-      "en": "course",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دوره؛ کلاس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/De-Kurs.ogg"
-    },
-    {
-      "id": "v48",
-      "de": "Kursbuch",
-      "en": "course book",
-      "pos": "noun",
-      "article": "das",
-      "fa": "کتاب دوره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-Kursbuch.ogg"
-    },
-    {
-      "id": "v49",
-      "de": "Kursleiter",
-      "en": "instructor",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مربی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-Kursleiter.ogg"
-    },
-    {
-      "id": "v50",
-      "de": "Kursraum",
-      "en": "Course room",
-      "pos": "noun",
-      "article": "der",
-      "fa": "اتاق دوره"
-    },
-    {
-      "id": "v51",
+      "id": "v19",
       "de": "Makler",
       "en": "broker",
       "pos": "noun",
       "article": "der",
       "fa": "بنگاه دار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-Makler.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-Makler.ogg",
+      "exampleDe": "Ein Makler hat vielleicht ein Zimmer für mich.",
+      "exampleEn": "A realtor might have a room for me.",
+      "exampleFa": "ممکن است یک مسکن برای من اتاق داشته باشد."
     },
     {
-      "id": "v52",
-      "de": "Mal",
-      "en": "modal particle (just / once)",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هربار، هر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/De-Mal.ogg"
-    },
-    {
-      "id": "v53",
+      "id": "v20",
       "de": "Mannschaft",
       "en": "team",
       "pos": "noun",
@@ -515,7 +249,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-Mannschaft.ogg"
     },
     {
-      "id": "v54",
+      "id": "v21",
       "de": "Marathon",
       "en": "marathon",
       "pos": "noun",
@@ -524,61 +258,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/De-Marathon.ogg"
     },
     {
-      "id": "v55",
+      "id": "v22",
       "de": "Minute",
       "en": "minute",
       "pos": "noun",
       "article": "die",
       "fa": "دقیقه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Minute.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/De-Minute.ogg",
+      "exampleDe": "„Noch zwei Minuten.",
+      "exampleEn": "“Two more minutes.",
+      "exampleFa": "«دو دقیقه دیگر."
     },
     {
-      "id": "v56",
+      "id": "v23",
       "de": "Mitgliedsbeitrag",
       "en": "Membership fee",
       "pos": "noun",
       "article": "der",
       "fa": "حق عضویت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Mitgliedsbeitrag.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Mitgliedsbeitrag.ogg",
+      "exampleDe": "Kann ich den Mitgliedsbeitrag auch monatlich bezahlen?",
+      "exampleEn": "Can I also pay the membership fee monthly?",
+      "exampleFa": "آیا می توانم حق عضویت را به صورت ماهانه پرداخت کنم؟"
     },
     {
-      "id": "v57",
-      "de": "Moment",
-      "en": "moment",
-      "pos": "noun",
-      "article": "der",
-      "fa": "لحظه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-Moment.ogg"
-    },
-    {
-      "id": "v58",
-      "de": "Monat",
-      "en": "month",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ماه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/De-Monat.ogg"
-    },
-    {
-      "id": "v59",
-      "de": "Montag",
-      "en": "monday",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دوشنبه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/De-Montag.ogg"
-    },
-    {
-      "id": "v60",
-      "de": "Morgen",
-      "en": "morning; tomorrow",
-      "pos": "noun",
-      "article": "der",
-      "fa": "صبح؛ فردا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/De-Morgen.ogg"
-    },
-    {
-      "id": "v61",
+      "id": "v24",
       "de": "Mountainbike",
       "en": "Mountain bike",
       "pos": "noun",
@@ -587,43 +291,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/De-Mountainbike.ogg"
     },
     {
-      "id": "v62",
+      "id": "v25",
       "de": "Muskelkater",
       "en": "Sore muscles",
       "pos": "noun",
       "article": "der",
       "fa": "درد عضلات",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-Muskelkater.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/De-Muskelkater.ogg",
+      "exampleDe": "Es war super, aber ich habe jetzt Muskelkater, denn ich habe noch keine Kondition.",
+      "exampleEn": "It was great, but my muscles are sore now because I don't have any fitness yet.",
+      "exampleFa": "خیلی خوب بود اما الان عضلاتم درد می کند چون هنوز آمادگی جسمانی ندارم."
     },
     {
-      "id": "v63",
+      "id": "v26",
       "de": "Münster",
       "en": "muenster",
       "pos": "noun",
       "article": "das",
       "fa": "کلیسای جامع",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-M%C3%BCnster.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-M%C3%BCnster.ogg",
+      "exampleDe": "Sportverein Münster 1910 e.",
+      "exampleEn": "Sports Club Münster 1910 e.",
+      "exampleFa": "باشگاه ورزشی مونستر 1910 e."
     },
     {
-      "id": "v64",
-      "de": "Nomen",
-      "en": "noun",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اسم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/De-Nomen.ogg"
-    },
-    {
-      "id": "v65",
-      "de": "Oktober",
-      "en": "october",
-      "pos": "noun",
-      "article": "der",
-      "fa": "اکتبر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Oktober.ogg"
-    },
-    {
-      "id": "v66",
+      "id": "v27",
       "de": "Organisator",
       "en": "organizer",
       "pos": "noun",
@@ -632,96 +324,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/De-Organisator.ogg"
     },
     {
-      "id": "v67",
-      "de": "Ort",
-      "en": "location",
-      "pos": "noun",
-      "article": "der",
-      "fa": "جا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-Ort.ogg"
-    },
-    {
-      "id": "v68",
-      "de": "Partner",
-      "en": "partner",
-      "pos": "noun",
-      "article": "der",
-      "fa": "شریک؛ همکار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/De-Partner.ogg"
-    },
-    {
-      "id": "v69",
-      "de": "Person",
-      "en": "person",
-      "pos": "noun",
-      "article": "die",
-      "fa": "شخص",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Person.ogg"
-    },
-    {
-      "id": "v70",
-      "de": "Platz",
-      "en": "square / place",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مکان، میدان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-Platz.ogg"
-    },
-    {
-      "id": "v71",
-      "de": "Position",
-      "en": "position / job title",
-      "pos": "noun",
-      "article": "die",
-      "fa": "موقعیت؛ پست",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/De-Position.ogg"
-    },
-    {
-      "id": "v72",
+      "id": "v28",
       "de": "Profi",
       "en": "professional",
       "pos": "noun",
       "article": "der",
       "fa": "حرفه‌ای",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-Profi.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/De-Profi.ogg",
+      "exampleDe": "Na ja, ich als Profi!",
+      "exampleEn": "Well, me as a professional!",
+      "exampleFa": "خوب، من به عنوان یک حرفه ای!"
     },
     {
-      "id": "v73",
-      "de": "Punkt",
-      "en": "point",
-      "pos": "noun",
-      "article": "der",
-      "fa": "نقطه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/De-Punkt.ogg"
-    },
-    {
-      "id": "v74",
-      "de": "Redemittel",
-      "en": "useful phrases",
-      "pos": "noun",
-      "article": "das",
-      "fa": "عبارات آماده گفتار"
-    },
-    {
-      "id": "v75",
-      "de": "Regel",
-      "en": "rule",
-      "pos": "noun",
-      "article": "die",
-      "fa": "قاعده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/De-Regel.ogg"
-    },
-    {
-      "id": "v76",
-      "de": "Reisen",
-      "en": "travel",
-      "pos": "noun",
-      "article": "das",
-      "fa": "سفر کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/De-Reisen.ogg"
-    },
-    {
-      "id": "v77",
+      "id": "v29",
       "de": "Rekord",
       "en": "record",
       "pos": "noun",
@@ -730,43 +345,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/De-Rekord.ogg"
     },
     {
-      "id": "v78",
+      "id": "v30",
       "de": "Rücken",
       "en": "back",
       "pos": "noun",
       "article": "der",
       "fa": "پشت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/De-R%C3%BCcken.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/De-R%C3%BCcken.ogg",
+      "exampleDe": "Was soll das Messer in meinem Rücken?",
+      "exampleEn": "What's with the knife in my back?",
+      "exampleFa": "چاقوی پشتم چیه؟"
     },
     {
-      "id": "v79",
-      "de": "Sache",
-      "en": "matter",
-      "pos": "noun",
-      "article": "die",
-      "fa": "چیز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-Sache.ogg"
-    },
-    {
-      "id": "v80",
-      "de": "Satzende",
-      "en": "End of sentence",
-      "pos": "noun",
-      "article": "das",
-      "fa": "پایان جمله",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-Satzende.ogg"
-    },
-    {
-      "id": "v81",
-      "de": "Schreiben",
-      "en": "to write",
-      "pos": "noun",
-      "article": "das",
-      "fa": "نوشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/De-Schreiben.ogg"
-    },
-    {
-      "id": "v82",
+      "id": "v31",
       "de": "Schuh",
       "en": "shoe",
       "pos": "noun",
@@ -775,7 +366,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/De-Schuh.ogg"
     },
     {
-      "id": "v83",
+      "id": "v32",
       "de": "Schüler",
       "en": "pupils",
       "pos": "noun",
@@ -784,7 +375,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/De-Sch%C3%BCler.ogg"
     },
     {
-      "id": "v84",
+      "id": "v33",
       "de": "Schülerin",
       "en": "student",
       "pos": "noun",
@@ -793,16 +384,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-Sch%C3%BClerin.ogg"
     },
     {
-      "id": "v85",
+      "id": "v34",
       "de": "Sekunde",
       "en": "second",
       "pos": "noun",
       "article": "die",
       "fa": "دوم",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Sekunde.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Sekunde.ogg",
+      "exampleDe": "Eine Sekunde noch, ja?",
+      "exampleEn": "Just a second, okay?",
+      "exampleFa": "فقط یک ثانیه، باشه؟"
     },
     {
-      "id": "v86",
+      "id": "v35",
       "de": "Sieg",
       "en": "victory",
       "pos": "noun",
@@ -811,7 +405,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/De-Sieg.ogg"
     },
     {
-      "id": "v87",
+      "id": "v36",
       "de": "Sieger",
       "en": "winner",
       "pos": "noun",
@@ -820,7 +414,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-Sieger.ogg"
     },
     {
-      "id": "v88",
+      "id": "v37",
       "de": "Siegerin",
       "en": "winner",
       "pos": "noun",
@@ -829,25 +423,31 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De-Siegerin.ogg"
     },
     {
-      "id": "v89",
+      "id": "v38",
       "de": "Sofa",
       "en": "sofa",
       "pos": "noun",
       "article": "das",
-      "fa": "s کاناپه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-Sofa.ogg"
+      "fa": "s کاناپه die Couch",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-Sofa.ogg",
+      "exampleDe": "Bist du beim Lesen vom Sofa gestürzt?",
+      "exampleEn": "Did you fall off the sofa while reading?",
+      "exampleFa": "آیا هنگام مطالعه از مبل افتادید؟"
     },
     {
-      "id": "v90",
+      "id": "v39",
       "de": "Spaß",
       "en": "fun",
       "pos": "noun",
       "article": "der",
       "fa": "سرگرم کننده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-Spa%C3%9F.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/De-Spa%C3%9F.ogg",
+      "exampleDe": "Wir hatten viel Spaß.",
+      "exampleEn": "We had lots of fun.",
+      "exampleFa": "خیلی بهمون خوش گذشت"
     },
     {
-      "id": "v91",
+      "id": "v40",
       "de": "Spiel",
       "en": "game",
       "pos": "noun",
@@ -856,25 +456,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/De-Spiel.ogg"
     },
     {
-      "id": "v92",
-      "de": "Spieler",
-      "en": "player",
-      "pos": "noun",
-      "article": "der",
-      "fa": "بازیکن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-Spieler.ogg"
-    },
-    {
-      "id": "v93",
-      "de": "Sport",
-      "en": "sport",
-      "pos": "noun",
-      "article": "der",
-      "fa": "ورزش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/De-Sport.ogg"
-    },
-    {
-      "id": "v94",
+      "id": "v41",
       "de": "Sportler",
       "en": "sportsman",
       "pos": "noun",
@@ -883,7 +465,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/De-Sportler.ogg"
     },
     {
-      "id": "v95",
+      "id": "v42",
       "de": "Sportschuh",
       "en": "Sports shoe",
       "pos": "noun",
@@ -892,7 +474,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-Sportschuh.ogg"
     },
     {
-      "id": "v96",
+      "id": "v43",
       "de": "Start",
       "en": "start",
       "pos": "noun",
@@ -901,7 +483,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Start.ogg"
     },
     {
-      "id": "v97",
+      "id": "v44",
       "de": "Startgeld",
       "en": "Entry fee",
       "pos": "noun",
@@ -909,7 +491,7 @@
       "fa": "هزینه ورودی"
     },
     {
-      "id": "v98",
+      "id": "v45",
       "de": "Strecke",
       "en": "route",
       "pos": "noun",
@@ -918,70 +500,19 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Strecke.ogg"
     },
     {
-      "id": "v99",
-      "de": "Student",
-      "en": "student (male)",
-      "pos": "noun",
-      "article": "der",
-      "fa": "دانشجو",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/De-Student.ogg"
-    },
-    {
-      "id": "v100",
-      "de": "Tabelle",
-      "en": "table",
-      "pos": "noun",
-      "article": "die",
-      "fa": "جدول",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-Tabelle.ogg"
-    },
-    {
-      "id": "v101",
-      "de": "Tafel",
-      "en": "blackboard",
-      "pos": "noun",
-      "article": "die",
-      "fa": "تخته سیاه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/De-Tafel.ogg"
-    },
-    {
-      "id": "v102",
-      "de": "Telefongespräch",
-      "en": "Telephone conversation",
-      "pos": "noun",
-      "article": "das",
-      "fa": "گفتگوی تلفنی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/De-Telefongespr%C3%A4ch.ogg"
-    },
-    {
-      "id": "v103",
+      "id": "v46",
       "de": "Tennis",
       "en": "tennis",
       "pos": "noun",
       "article": "das",
       "fa": "تنیس",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Tennis.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-Tennis.ogg",
+      "exampleDe": "Heute großer Aktionstag in der Sportabteilung: Tennis- und Fußballschuhe im Sonderangebot, außerdem neu im Verkauf: windfeste Regenjacken und Regenhosen.",
+      "exampleEn": "Today is a big day of action in the sports department: tennis and soccer shoes on special offer, and also new on sale: windproof rain jackets and rain pants.",
+      "exampleFa": "امروز یک روز بزرگ در بخش ورزش است: کفش‌های تنیس و فوتبال با پیشنهاد ویژه، و همچنین فروش جدید: کت‌های بارانی ضد باد و شلوارهای بارانی."
     },
     {
-      "id": "v104",
-      "de": "Text",
-      "en": "text",
-      "pos": "noun",
-      "article": "der",
-      "fa": "متن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/De-Text.ogg"
-    },
-    {
-      "id": "v105",
-      "de": "Tour",
-      "en": "tour",
-      "pos": "noun",
-      "article": "die",
-      "fa": "سیاحت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De-Tour.ogg"
-    },
-    {
-      "id": "v106",
+      "id": "v47",
       "de": "Training",
       "en": "training / practice",
       "pos": "noun",
@@ -990,25 +521,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-Training.ogg"
     },
     {
-      "id": "v107",
-      "de": "Treffen",
-      "en": "to meet",
-      "pos": "noun",
-      "article": "das",
-      "fa": "ملاقات؛ قرار",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Treffen.ogg"
-    },
-    {
-      "id": "v108",
-      "de": "Treiben",
-      "en": "to do (sport)",
-      "pos": "noun",
-      "article": "das",
-      "fa": "جنبش",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/De-Treiben.ogg"
-    },
-    {
-      "id": "v109",
+      "id": "v48",
       "de": "Triathlet",
       "en": "triathlete",
       "pos": "noun",
@@ -1017,7 +530,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Triathlet.ogg"
     },
     {
-      "id": "v110",
+      "id": "v49",
       "de": "Triathletin",
       "en": "triathlete",
       "pos": "noun",
@@ -1026,7 +539,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-Triathletin.ogg"
     },
     {
-      "id": "v111",
+      "id": "v50",
       "de": "Triathlon",
       "en": "triathlon",
       "pos": "noun",
@@ -1035,16 +548,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-Triathlon.ogg"
     },
     {
-      "id": "v112",
-      "de": "Verb",
-      "en": "verb",
-      "pos": "noun",
-      "article": "das",
-      "fa": "فعل",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/De-Verb.ogg"
-    },
-    {
-      "id": "v113",
+      "id": "v51",
       "de": "Verein",
       "en": "club / association",
       "pos": "noun",
@@ -1053,193 +557,40 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/De-Verein.ogg"
     },
     {
-      "id": "v114",
-      "de": "Vermieter",
-      "en": "landlord",
-      "pos": "noun",
-      "article": "der",
-      "fa": "صاحب خانه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-Vermieter.ogg"
-    },
-    {
-      "id": "v115",
-      "de": "Vokalwechsel",
-      "en": "Vowel change",
-      "pos": "noun",
-      "article": "der",
-      "fa": "تغییر واکه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/De-Vokalwechsel.ogg"
-    },
-    {
-      "id": "v116",
-      "de": "Weg",
-      "en": "way / path",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مسیر",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/De-Weg.ogg"
-    },
-    {
-      "id": "v117",
-      "de": "Wetter",
-      "en": "weather",
-      "pos": "noun",
-      "article": "das",
-      "fa": "هوا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-Wetter.ogg"
-    },
-    {
-      "id": "v118",
-      "de": "Wochenende",
-      "en": "weekend",
-      "pos": "noun",
-      "article": "das",
-      "fa": "آخر هفته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/De-Wochenende.ogg"
-    },
-    {
-      "id": "v119",
-      "de": "Wohnung",
-      "en": "apartment",
-      "pos": "noun",
-      "article": "die",
-      "fa": "آپارتمان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/De-Wohnung.ogg"
-    },
-    {
-      "id": "v120",
-      "de": "Zeit",
-      "en": "time",
-      "pos": "noun",
-      "article": "die",
-      "fa": "زمان؛ وقت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/De-Zeit.ogg"
-    },
-    {
-      "id": "v121",
-      "de": "Zeitung",
-      "en": "newspaper",
-      "pos": "noun",
-      "article": "die",
-      "fa": "روزنامه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/De-Zeitung.ogg"
-    },
-    {
-      "id": "v122",
-      "de": "Zeitungsartikel",
-      "en": "Newspaper article",
-      "pos": "noun",
-      "article": "der",
-      "fa": "مقاله روزنامه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/De-Zeitungsartikel.ogg"
-    },
-    {
-      "id": "v123",
-      "de": "Zimmer",
-      "en": "room",
-      "pos": "noun",
-      "article": "das",
-      "fa": "اتاق"
-    },
-    {
-      "id": "v124",
-      "de": "Überschrift",
-      "en": "headline",
-      "pos": "noun",
-      "article": "die",
-      "fa": "عنوان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/De-%C3%9Cberschrift.ogg"
-    },
-    {
-      "id": "v125",
+      "id": "v52",
       "de": "anmelden",
       "en": "to register / sign up",
       "pos": "verb",
       "fa": "ثبت نام کنید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-anmelden.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/De-anmelden.ogg",
+      "exampleDe": "Also, erster Schritt: Sie müssen sich anmelden.",
+      "exampleEn": "So, first step: you have to register.",
+      "exampleFa": "بنابراین، مرحله اول: شما باید ثبت نام کنید."
     },
     {
-      "id": "v126",
-      "de": "anzeigen",
-      "en": "show",
-      "pos": "verb",
-      "fa": "نشان می دهد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/De-anzeigen.ogg"
-    },
-    {
-      "id": "v127",
-      "de": "ausdrücken",
-      "en": "to express",
-      "pos": "verb",
-      "fa": "بیان کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/De-ausdr%C3%BCcken.ogg"
-    },
-    {
-      "id": "v128",
-      "de": "beantworten",
-      "en": "answer",
-      "pos": "verb",
-      "fa": "جواب دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/De-beantworten.ogg"
-    },
-    {
-      "id": "v129",
-      "de": "bezahlen",
-      "en": "to pay for",
-      "pos": "verb",
-      "fa": "پرداخت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/De-bezahlen.ogg"
-    },
-    {
-      "id": "v130",
-      "de": "bilden",
-      "en": "form",
-      "pos": "verb",
-      "fa": "تشکیل دادن، ساختن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/De-bilden.ogg"
-    },
-    {
-      "id": "v131",
+      "id": "v53",
       "de": "dürfen",
       "en": "may",
       "pos": "verb",
-      "fa": "اجازه داشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-d%C3%BCrfen.ogg"
+      "fa": "اجازه داشتن er darf",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/De-d%C3%BCrfen.ogg",
+      "exampleDe": "Ja, klar dürfen Sie das.",
+      "exampleEn": "Yes, of course you can.",
+      "exampleFa": "بله، البته که می توانید."
     },
     {
-      "id": "v132",
-      "de": "ergänzen",
-      "en": "to complete / fill in",
-      "pos": "verb",
-      "fa": "تکمیل کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/De-erg%C3%A4nzen.ogg"
-    },
-    {
-      "id": "v133",
+      "id": "v54",
       "de": "erlauben",
       "en": "to allow",
       "pos": "verb",
       "fa": "اجازه می دهد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-erlauben.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/De-erlauben.ogg",
+      "exampleDe": "Erlauben Sie, dass ich Ihnen einen Rat gebe: Das sind sehr wichtige Informationen, die sollten auf jeden Fall in Ihrem Bewerbungsbrief und im Lebenslauf stehen.",
+      "exampleEn": "Allow me to give you some advice: This is very important information and should definitely be included in your application letter and CV.",
+      "exampleFa": "به من اجازه دهید راهنمایی هایی به شما بدهم: این اطلاعات بسیار مهمی است و قطعا باید در نامه درخواستی و CV شما گنجانده شود."
     },
     {
-      "id": "v134",
-      "de": "erzählen",
-      "en": "to tell",
-      "pos": "verb",
-      "fa": "تعریف کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/De-erz%C3%A4hlen.ogg"
-    },
-    {
-      "id": "v135",
-      "de": "feiern",
-      "en": "to celebrate",
-      "pos": "verb",
-      "fa": "جشن گرفتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/De-feiern.ogg"
-    },
-    {
-      "id": "v136",
+      "id": "v55",
       "de": "haben (Präteritum: hatte)",
       "en": "to have (past: hatte)",
       "pos": "verb",
@@ -1247,55 +598,40 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/De-haben.ogg"
     },
     {
-      "id": "v137",
-      "de": "hören",
-      "en": "to hear",
-      "pos": "verb",
-      "fa": "شنیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/De-h%C3%B6ren.ogg"
-    },
-    {
-      "id": "v138",
+      "id": "v56",
       "de": "joggen",
       "en": "to jog",
       "pos": "verb",
       "fa": "دویدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-joggen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-joggen.ogg",
+      "exampleDe": "Aber am Sonntagmorgen jogge ich um 8.00 Uhr.",
+      "exampleEn": "But on Sunday morning I jog at 8:00 am.",
+      "exampleFa": "اما یکشنبه صبح ساعت 8 صبح می آیم."
     },
     {
-      "id": "v139",
-      "de": "klappen",
-      "en": "to work out",
-      "pos": "verb",
-      "fa": "انجام شدن، نتیجه دادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/De-klappen.ogg"
-    },
-    {
-      "id": "v140",
+      "id": "v57",
       "de": "laufen",
       "en": "to run",
       "pos": "verb",
-      "fa": "دویدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-laufen.ogg"
+      "fa": "دویدن er läuft",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/De-laufen.ogg",
+      "exampleDe": "Aber ich darf im Moment nicht laufen.",
+      "exampleEn": "But I'm not allowed to run at the moment.",
+      "exampleFa": "اما در حال حاضر اجازه دویدن ندارم."
     },
     {
-      "id": "v141",
-      "de": "lesen",
-      "en": "to read",
-      "pos": "verb",
-      "fa": "خواندن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/De-lesen.ogg"
-    },
-    {
-      "id": "v142",
+      "id": "v58",
       "de": "lieben",
       "en": "to love",
       "pos": "verb",
       "fa": "عشق",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-lieben.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-lieben.ogg",
+      "exampleDe": "Die liebt sie.",
+      "exampleEn": "She loves it.",
+      "exampleFa": "او آن را دوست دارد."
     },
     {
-      "id": "v143",
+      "id": "v59",
       "de": "mitspielen",
       "en": "play along",
       "pos": "verb",
@@ -1303,55 +639,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/De-mitspielen.ogg"
     },
     {
-      "id": "v144",
+      "id": "v60",
       "de": "mögen",
       "en": "to like",
       "pos": "verb",
-      "fa": "علاقه داشتن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-m%C3%B6gen.ogg"
+      "fa": "علاقه داشتن er mag",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De-m%C3%B6gen.ogg",
+      "exampleDe": "Also, mögen Sie lieber Mannschaftssport oder Individualsport?",
+      "exampleEn": "So, do you prefer team sports or individual sports?",
+      "exampleFa": "بنابراین، ورزش های گروهی را ترجیح می دهید یا ورزش های انفرادی؟"
     },
     {
-      "id": "v145",
-      "de": "oben",
-      "en": "above",
-      "pos": "verb",
-      "fa": "بالا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-oben.ogg"
-    },
-    {
-      "id": "v146",
+      "id": "v61",
       "de": "offen",
       "en": "open",
       "pos": "verb",
-      "fa": "باز# بسته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/De-offen.ogg"
+      "fa": "#geschlossen باز# بسته",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/De-offen.ogg",
+      "exampleDe": "Das hat nur an Samstagen offen.",
+      "exampleEn": "This is only open on Saturdays.",
+      "exampleFa": "این فقط شنبه ها باز است."
     },
     {
-      "id": "v147",
-      "de": "passen",
-      "en": "to fit",
-      "pos": "verb",
-      "fa": "مناسب بودن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/De-passen.ogg"
-    },
-    {
-      "id": "v148",
-      "de": "putzen",
-      "en": "to clean",
-      "pos": "verb",
-      "fa": "تمیز کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/De-putzen.ogg"
-    },
-    {
-      "id": "v149",
-      "de": "regeln",
-      "en": "regulate",
-      "pos": "verb",
-      "fa": "مرتب کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/De-regeln.ogg"
-    },
-    {
-      "id": "v150",
+      "id": "v62",
       "de": "reiten",
       "en": "to ride (a horse)",
       "pos": "verb",
@@ -1359,7 +669,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De-reiten.ogg"
     },
     {
-      "id": "v151",
+      "id": "v63",
       "de": "rudern",
       "en": "to row",
       "pos": "verb",
@@ -1367,31 +677,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/De-rudern.ogg"
     },
     {
-      "id": "v152",
+      "id": "v64",
       "de": "schaffen",
       "en": "to manage",
       "pos": "verb",
       "fa": "از عهده بر امدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-schaffen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/De-schaffen.ogg",
+      "exampleDe": "Ach, das schaffen Sie bestimmt, keine Sorge!",
+      "exampleEn": "Oh, you can definitely do it, don't worry!",
+      "exampleFa": "اوه، شما قطعا می توانید آن را انجام دهید، نگران نباشید!"
     },
     {
-      "id": "v153",
-      "de": "schauen",
-      "en": "to look",
-      "pos": "verb",
-      "fa": "نگاه کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/De-schauen.ogg"
-    },
-    {
-      "id": "v154",
+      "id": "v65",
       "de": "schwimmen",
       "en": "to swim",
       "pos": "verb",
       "fa": "برای شنا کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-schwimmen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-schwimmen.ogg",
+      "exampleDe": "Hier können Sie schwimmen, tauchen oder segeln.",
+      "exampleEn": "Here you can swim, dive or sail.",
+      "exampleFa": "در اینجا می توانید شنا کنید، غواصی کنید یا قایقرانی کنید."
     },
     {
-      "id": "v155",
+      "id": "v66",
       "de": "sein (Präteritum: war)",
       "en": "to be (past: war)",
       "pos": "verb",
@@ -1399,63 +707,40 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/De-sein.ogg"
     },
     {
-      "id": "v156",
+      "id": "v67",
       "de": "spielen",
       "en": "to play",
       "pos": "verb",
       "fa": "بازی کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-spielen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/De-spielen.ogg",
+      "exampleDe": "Vielleicht kann ich endlich wieder Fußball spielen.",
+      "exampleEn": "Maybe I can finally play football again.",
+      "exampleFa": "شاید بالاخره بتوانم دوباره فوتبال بازی کنم."
     },
     {
-      "id": "v157",
-      "de": "stehen",
-      "en": "to stand",
-      "pos": "verb",
-      "fa": "ایستادن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/De-stehen.ogg"
-    },
-    {
-      "id": "v158",
-      "de": "stellen",
-      "en": "place",
-      "pos": "verb",
-      "fa": "گذاشتن (ایستاده)",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/De-stellen.ogg"
-    },
-    {
-      "id": "v159",
+      "id": "v68",
       "de": "stürzen",
       "en": "to fall",
       "pos": "verb",
       "fa": "زمین خوردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-st%C3%BCrzen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-st%C3%BCrzen.ogg",
+      "exampleDe": "Ich stürzte die Treppe hinunter und wurde eilig ins Krankenhaus gebracht.",
+      "exampleEn": "I fell down the stairs and was rushed to the hospital.",
+      "exampleFa": "از پله ها افتادم و سریع به بیمارستان منتقل شدم."
     },
     {
-      "id": "v160",
-      "de": "suchen",
-      "en": "to look for",
-      "pos": "verb",
-      "fa": "جستجو کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/De-suchen.ogg"
-    },
-    {
-      "id": "v161",
+      "id": "v69",
       "de": "tanzen",
       "en": "to dance",
       "pos": "verb",
       "fa": "رقصیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/De-tanzen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/De-tanzen.ogg",
+      "exampleDe": "Andreas, Bernd, Uli und ich waren im „Casablanca“ Salsa tanzen.",
+      "exampleEn": "Andreas, Bernd, Uli and I went salsa dancing in “Casablanca”.",
+      "exampleFa": "آندریاس، برند، اولی و من برای رقص سالسا در \"کازابلانکا\" رفتیم."
     },
     {
-      "id": "v162",
-      "de": "tragen",
-      "en": "carry",
-      "pos": "verb",
-      "fa": "پوشیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-tragen.ogg"
-    },
-    {
-      "id": "v163",
+      "id": "v70",
       "de": "turnen",
       "en": "to do gymnastics",
       "pos": "verb",
@@ -1463,118 +748,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/De-turnen.ogg"
     },
     {
-      "id": "v164",
-      "de": "Vergleichen",
-      "en": "to compare",
-      "pos": "verb",
-      "fa": "مقایسه کردن"
-    },
-    {
-      "id": "v165",
-      "de": "verstehen",
-      "en": "understand",
-      "pos": "verb",
-      "fa": "فهمیدن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/De-verstehen.ogg"
-    },
-    {
-      "id": "v166",
-      "de": "verwenden",
-      "en": "to use",
-      "pos": "verb",
-      "fa": "به کار بردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/De-verwenden.ogg"
-    },
-    {
-      "id": "v167",
-      "de": "wandern",
-      "en": "to hike",
-      "pos": "verb",
-      "fa": "پیاده‌روی در طبیعت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/De-wandern.ogg"
-    },
-    {
-      "id": "v168",
-      "de": "Wissen",
-      "en": "to know (a fact)",
-      "pos": "verb",
-      "fa": "دانستن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/De-Wissen.ogg"
-    },
-    {
-      "id": "v169",
+      "id": "v71",
       "de": "wollen",
       "en": "to want",
       "pos": "verb",
       "fa": "خواستن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Wollen.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/De-Wollen.ogg",
+      "exampleDe": "Wie Sie wollen.",
+      "exampleEn": "As they want.",
+      "exampleFa": "همانطور که آنها می خواهند."
     },
     {
-      "id": "v170",
-      "de": "wünschen",
-      "en": "to wish",
-      "pos": "verb",
-      "fa": "آرزو کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/De-w%C3%BCnschen.ogg"
-    },
-    {
-      "id": "v171",
-      "de": "zahlen",
-      "en": "to pay",
-      "pos": "verb",
-      "fa": "پرداخت کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/De-zahlen.ogg"
-    },
-    {
-      "id": "v172",
-      "de": "zeichnen",
-      "en": "to draw",
-      "pos": "verb",
-      "fa": "ترسیم کردن",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/De-zeichnen.ogg"
-    },
-    {
-      "id": "v173",
-      "de": "zufrieden",
-      "en": "satisfied",
-      "pos": "verb",
-      "fa": "راضی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/De-zufrieden.ogg"
-    },
-    {
-      "id": "v174",
+      "id": "v72",
       "de": "aber",
       "en": "but",
       "pos": "other",
       "fa": "اما",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-aber.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-aber.ogg",
+      "exampleDe": "Ja, schon, aber.",
+      "exampleEn": "Yes, yes, but.",
+      "exampleFa": "بله، بله، اما."
     },
     {
-      "id": "v175",
-      "de": "begeistert",
-      "en": "enthusiastic",
-      "pos": "other",
-      "fa": "ذوق زده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/De-begeistert.ogg"
-    },
-    {
-      "id": "v176",
-      "de": "denn",
-      "en": "because / for",
-      "pos": "other",
-      "fa": "چونکه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-denn.ogg"
-    },
-    {
-      "id": "v177",
-      "de": "ernst",
-      "en": "serious",
-      "pos": "other",
-      "fa": "بطور جدی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/De-ernst.ogg"
-    },
-    {
-      "id": "v178",
+      "id": "v73",
       "de": "Fahrrad fahren",
       "en": "to ride a bike",
       "pos": "phrase",
@@ -1582,63 +778,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/De-Fahrrad.ogg"
     },
     {
-      "id": "v179",
+      "id": "v74",
       "de": "fit",
       "en": "fit",
       "pos": "adjective",
       "fa": "مناسب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-fit.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/De-fit.ogg",
+      "exampleDe": "Also, wissen Sie, ich bin eigentlich nicht so sportlich, aber ich will jetzt fit sein.",
+      "exampleEn": "So, you know, I'm not really that athletic, but I want to be fit now.",
+      "exampleFa": "بنابراین، می دانید، من واقعاً ورزشکار نیستم، اما می خواهم اکنون تناسب اندام داشته باشم."
     },
     {
-      "id": "v180",
-      "de": "ganz",
-      "en": "quite",
-      "pos": "other",
-      "fa": "کاملاً؛ تمام",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/De-ganz.ogg"
-    },
-    {
-      "id": "v181",
-      "de": "gar",
-      "en": "even",
-      "pos": "other",
-      "fa": "اصلا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/De-gar.ogg"
-    },
-    {
-      "id": "v182",
+      "id": "v75",
       "de": "gern",
       "en": "gladly / like to",
       "pos": "adverb",
       "fa": "با خوشحالی",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-gern.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/De-gern.ogg",
+      "exampleDe": "Hm, Mannschaftssport mag ich nicht so gern, Individualsport mag ich lieber.",
+      "exampleEn": "Hmm, I don't like team sports that much, I prefer individual sports.",
+      "exampleFa": "هوم، من ورزش های گروهی را زیاد دوست ندارم، ورزش های انفرادی را ترجیح می دهم."
     },
     {
-      "id": "v183",
-      "de": "gibt es",
-      "en": "there is",
-      "pos": "phrase",
-      "fa": "وجود دارد",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/De-gibt.ogg"
-    },
-    {
-      "id": "v184",
-      "de": "gleich",
-      "en": "even",
-      "pos": "other",
-      "fa": "الان",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De-gleich.ogg"
-    },
-    {
-      "id": "v185",
-      "de": "glücklich",
-      "en": "happy",
-      "pos": "other",
-      "fa": "خوشبخت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/De-gl%C3%BCcklich.ogg"
-    },
-    {
-      "id": "v186",
+      "id": "v76",
       "de": "Ich fühle mich schlecht.",
       "en": "I feel bad.",
       "pos": "phrase",
@@ -1646,46 +808,48 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/De-Ich.ogg"
     },
     {
-      "id": "v187",
-      "de": "immer",
-      "en": "always",
-      "pos": "other",
-      "fa": "همیشه",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/De-immer.ogg"
-    },
-    {
-      "id": "v188",
+      "id": "v77",
       "de": "interessant",
       "en": "interesting",
       "pos": "adjective",
       "fa": "جالب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-interessant.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De-interessant.ogg",
+      "exampleDe": "Aha, interessant!",
+      "exampleEn": "Aha, interesting!",
+      "exampleFa": "آها، جالب!"
     },
     {
-      "id": "v189",
+      "id": "v78",
       "de": "langweilig",
       "en": "boring",
       "pos": "adjective",
       "fa": "خسته کننده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-langweilig.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/De-langweilig.ogg",
+      "exampleDe": "Na ja, und der Film war auch total langweilig.",
+      "exampleEn": "Well, and the film was also really boring.",
+      "exampleFa": "خوب، و فیلم نیز واقعا خسته کننده بود."
     },
     {
-      "id": "v190",
+      "id": "v79",
       "de": "Mir geht es gut.",
       "en": "I am fine.",
       "pos": "phrase",
-      "fa": "حالم خوبه"
+      "fa": "حالم خوبه",
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-mir.ogg"
     },
     {
-      "id": "v191",
+      "id": "v80",
       "de": "mobil",
       "en": "mobile",
       "pos": "other",
       "fa": "متحرک",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-mobil.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/De-mobil.ogg",
+      "exampleDe": "Sind Sie auch mobil zu erreichen?",
+      "exampleEn": "Can you also be reached on mobile?",
+      "exampleFa": "آیا می توان از طریق تلفن همراه نیز با شما تماس گرفت؟"
     },
     {
-      "id": "v192",
+      "id": "v81",
       "de": "Musik hören",
       "en": "to listen to music",
       "pos": "phrase",
@@ -1693,15 +857,7 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/De-Musik.ogg"
     },
     {
-      "id": "v193",
-      "de": "müde",
-      "en": "tired",
-      "pos": "adjective",
-      "fa": "خسته",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/De-m%C3%BCde.ogg"
-    },
-    {
-      "id": "v194",
+      "id": "v82",
       "de": "nicht gern",
       "en": "not like to",
       "pos": "phrase",
@@ -1709,63 +865,29 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/De-nicht.ogg"
     },
     {
-      "id": "v195",
-      "de": "nur",
-      "en": "only",
-      "pos": "other",
-      "fa": "صرفا، فقط",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/De-nur.ogg"
-    },
-    {
-      "id": "v196",
+      "id": "v83",
       "de": "oder",
       "en": "or",
       "pos": "other",
       "fa": "یا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-oder.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/De-oder.ogg",
+      "exampleDe": "Ihr wart im Kino, oder?",
+      "exampleEn": "You went to the cinema, right?",
+      "exampleFa": "سینما رفتی، درسته؟"
     },
     {
-      "id": "v197",
-      "de": "perfekt",
-      "en": "present perfect tense",
-      "pos": "other",
-      "fa": "بی عیب",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/De-Perfekt.ogg"
-    },
-    {
-      "id": "v198",
-      "de": "teuer",
-      "en": "expensive",
-      "pos": "other",
-      "fa": "گران قیمت",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/De-teuer.ogg"
-    },
-    {
-      "id": "v199",
+      "id": "v84",
       "de": "verzweifelt",
       "en": "desperate",
       "pos": "other",
       "fa": "درمانده",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-verzweifelt.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/De-verzweifelt.ogg",
+      "exampleDe": "Ich bin echt verzweifelt.",
+      "exampleEn": "I'm really desperate.",
+      "exampleFa": "من واقعاً ناامید هستم."
     },
     {
-      "id": "v200",
-      "de": "vielleicht",
-      "en": "perhaps",
-      "pos": "other",
-      "fa": "شاید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/De-vielleicht.ogg"
-    },
-    {
-      "id": "v201",
-      "de": "weiß",
-      "en": "white",
-      "pos": "other",
-      "fa": "سفید",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/De-wei%C3%9F.ogg"
-    },
-    {
-      "id": "v202",
+      "id": "v85",
       "de": "Wie geht es dir?",
       "en": "How are you? (informal)",
       "pos": "phrase",
@@ -1773,28 +895,15 @@
       "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/De-Wie.ogg"
     },
     {
-      "id": "v203",
-      "de": "wieder",
-      "en": "again",
-      "pos": "other",
-      "fa": "دوباره",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/De-wieder.ogg"
-    },
-    {
-      "id": "v204",
+      "id": "v86",
       "de": "wunderbar",
       "en": "wonderful",
       "pos": "other",
       "fa": "حیرت انگیز",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-wunderbar.ogg"
-    },
-    {
-      "id": "v205",
-      "de": "ziemlich",
-      "en": "quite",
-      "pos": "other",
-      "fa": "تا حد زیادی، واقعا",
-      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/De-ziemlich.ogg"
+      "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/De-wunderbar.ogg",
+      "exampleDe": "Na wunderbar!",
+      "exampleEn": "Oh wonderful!",
+      "exampleFa": "اوه فوق العاده!"
     }
   ],
   "grammar": [
