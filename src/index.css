@@ -366,7 +366,8 @@ textarea {
     var(--bg);
   border: 1px solid var(--line);
   cursor: pointer;
-  user-select: none;
+  user-select: text;
+  -webkit-user-select: text;
   transition: transform 0.2s ease;
 }
 

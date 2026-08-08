@@ -183,7 +183,12 @@ export function VocabPage() {
           <>
             <div
               className="flash-card"
-              onClick={() => setFlipped((f) => !f)}
+              onClick={() => {
+                // Don't flip when the user is selecting/copying text
+                const sel = window.getSelection()?.toString()
+                if (sel) return
+                setFlipped((f) => !f)
+              }}
               onKeyDown={(e) => {
                 if (e.key === 'Enter' || e.key === ' ') setFlipped((f) => !f)
               }}
